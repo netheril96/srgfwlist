@@ -1,7 +1,8 @@
 import requests
 import base64
+import datetime
 
-GFWLIST_URL = "https://pagure.io/gfwlist/raw/master/f/gfwlist.txt"
+GFWLIST_URL = "https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt"
 PORN_DOMAIN_URL = (
     "https://raw.githubusercontent.com/Bon-Appetit/porn-domains/master/block.txt"
 )
@@ -13,10 +14,20 @@ def main():
     pornlist = requests.get(PORN_DOMAIN_URL).text.split("\n")
     with open("custom.txt") as f:
         customlist = f.readlines()
-    combined = gfwlist + customlist
+    combined = customlist.copy()
+    for line in gfwlist:
+        if line.startswith("[") or line.startswith("!"):
+            continue
+        combined.append(line)
     for line in pornlist:
+        line = line.strip()
+        if not line:
+            continue
         combined.append("||" + line)
     with open("fullrules.txt", "w") as f:
+        f.write(
+            f"[AutoProxy 0.2.9]\n!Generated at {datetime.datetime.now(tz=datetime.timezone.utc).isoformat()}\n"
+        )
         for line in combined:
             f.write(line)
             if not line.endswith("\n"):
@@ -26,7 +37,9 @@ def main():
 
 
 def convert_to_shadowrocket_rules(lines):
-    domain_suffices = set()
+    # In Python 3.7+, dicts preserve insertion order but sets do not.
+    # We need the insertion order so we emulate sets by dicts.
+    domain_suffices = {}
     for line in lines:
         line = line.strip()
         if line.startswith("!"):
@@ -39,7 +52,7 @@ def convert_to_shadowrocket_rules(lines):
             c = line[2:]
         else:
             continue
-        domain_suffices.add(c.split("/")[0])
+        domain_suffices[c.split("/")[0]] = True
     pieces = [
         """[General]
 bypass-system = false
@@ -47,6 +60,7 @@ skip-proxy = 192.168.0.0/16, 10.0.0.0/8, 172.16.0.0/12, localhost, *.local, e.cr
 bypass-tun = 10.0.0.0/8,100.64.0.0/10,127.0.0.0/8,169.254.0.0/16,172.16.0.0/12,192.0.0.0/24,192.0.2.0/24,192.88.99.0/24,192.168.0.0/16,198.18.0.0/15,198.51.100.0/24,203.0.113.0/24,224.0.0.0/4,255.255.255.255/32
 dns-server = system, 114.114.114.114
 [Rule]
+DOMAIN-SUFFIX,cn,Direct
 DOMAIN-KEYWORD,blogspot,Proxy
 DOMAIN-KEYWORD,google,Proxy
 DOMAIN-KEYWORD,phobos,Proxy
@@ -74,10 +88,11 @@ IP-CIDR,85.17.73.31/32,Proxy
 IP-CIDR,50.7.31.230/32,Proxy
 """
     ]
-    for d in domain_suffices:
+    for d in domain_suffices.keys():
         pieces.append(f"DOMAIN-SUFFIX,{d},Proxy")
     pieces.append(
-        """FINAL,direct
+        """
+FINAL,direct
 
 [URL Rewrite]
 ^http://(www.)?google.cn https://www.google.com 302
