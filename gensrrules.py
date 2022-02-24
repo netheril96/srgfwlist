@@ -3,15 +3,11 @@ import base64
 import datetime
 
 GFWLIST_URL = "https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt"
-PORN_DOMAIN_URL = (
-    "https://raw.githubusercontent.com/Bon-Appetit/porn-domains/master/block.txt"
-)
 
 
 def main():
     res = requests.get(GFWLIST_URL).text
     gfwlist = base64.b64decode(res).decode("utf-8").split("\n")
-    pornlist = requests.get(PORN_DOMAIN_URL).text.split("\n")
     with open("custom.txt") as f:
         customlist = f.readlines()
     combined = customlist.copy()
@@ -19,11 +15,6 @@ def main():
         if line.startswith("[") or line.startswith("!"):
             continue
         combined.append(line)
-    for line in pornlist:
-        line = line.strip()
-        if not line:
-            continue
-        combined.append("||" + line)
     with open("fullrules.txt", "w") as f:
         f.write(
             f"[AutoProxy 0.2.9]\n!Generated at {datetime.datetime.now(tz=datetime.timezone.utc).isoformat()}\n"
