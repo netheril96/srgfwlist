@@ -40,7 +40,7 @@
 ||fontawesome.com
 ||githubassets.com
 ||cellstream.com
-|||gist.github.com
+||gist.github.com
 ||caddyserver.com
 ||dynu.com
 ||acrylicwifi.com
