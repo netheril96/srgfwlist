@@ -17,8 +17,9 @@ def main():
         call(["git", "add", "fullrules.conf", "fullrules.txt"])
         call(["git", "commit", "-m", "Rebuild full rules"])
         call(["git", "push"])
+        print("Rules generated and pushed successfully", file=sys.stderr)
     else:
-        print("Generated output is unchanged. Skipping this run.", file=sys.stderr)
+        print("Generated output is unchanged. Skipping this push.", file=sys.stderr)
     finally:
         time.sleep(3600)
         call(["git", "pull", "--rebase"])
