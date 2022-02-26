@@ -16,9 +16,7 @@ def main():
             continue
         combined.append(line)
     with open("fullrules.txt", "w") as f:
-        f.write(
-            f"[AutoProxy 0.2.9]\n!Generated at {datetime.datetime.now(tz=datetime.timezone.utc).isoformat()}\n"
-        )
+        f.write(f"[AutoProxy 0.2.9]\n")
         for line in combined:
             f.write(line)
             if not line.endswith("\n"):
