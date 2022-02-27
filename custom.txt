@@ -33,6 +33,7 @@
 ||paxful.com
 ||bootstrapcdn.com
 ||zendesk.com
+||gitlab.com
 ||gfycat.com
 ||circleid.com
 ||torrents.io
