@@ -1,3 +1,4 @@
+from typing import Iterable, Set
 import requests
 import base64
 
@@ -23,10 +24,10 @@ def main():
             if not line.endswith("\n"):
                 f.write("\n")
     with open("fullrules.conf", "w") as f:
-        f.write(convert_to_shadowrocket_rules(combined), ip_ranges)
+        f.write(convert_to_shadowrocket_rules(combined, ip_ranges))
 
 
-def get_blocked_ip_ranges():
+def get_blocked_ip_ranges() -> Set[str]:
     telegram_ranges = requests.get(TELEGRAM_CIDR_URL).text.splitlines()
     result = {
         # Hardcoded values copied from https://github.com/h2y/Shadowrocket-ADBlock-Rules
@@ -60,7 +61,9 @@ def get_blocked_ip_ranges():
     return result
 
 
-def convert_to_shadowrocket_rules(lines, ip_ranges):
+def convert_to_shadowrocket_rules(
+    lines: Iterable[str], ip_ranges: Iterable[str]
+) -> str:
     # In Python 3.7+, dicts preserve insertion order but sets do not.
     # We need the insertion order so we emulate sets by dicts.
     domain_suffices = {}
