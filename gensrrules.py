@@ -1,4 +1,4 @@
-from typing import Iterable, Set
+from typing import Iterable, List, Set
 import requests
 import base64
 
@@ -27,7 +27,7 @@ def main():
         f.write(convert_to_shadowrocket_rules(combined, ip_ranges))
 
 
-def get_blocked_ip_ranges() -> Set[str]:
+def get_blocked_ip_ranges() -> List[str]:
     telegram_ranges = requests.get(TELEGRAM_CIDR_URL).text.splitlines()
     result = {
         # Hardcoded values copied from https://github.com/h2y/Shadowrocket-ADBlock-Rules
@@ -58,7 +58,7 @@ def get_blocked_ip_ranges() -> Set[str]:
         line = line.strip()
         if line:
             result.add(line)
-    return result
+    return sorted(result)
 
 
 def convert_to_shadowrocket_rules(
