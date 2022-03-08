@@ -71,6 +71,7 @@
 ||githubusercontent.com
 ||ycombinator.com
 ||sourceforge.net
+||dev.to
 
 |http://85.17.73.31/
 ||afreecatv.com
@@ -7393,4 +7394,3 @@ ultrasurf
 @@||youdao.com
 @@||zhongsou.com
 @@|http://ime.baidu.jp
-
