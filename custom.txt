@@ -70,3 +70,4 @@
 ||githubusercontent.com
 ||ycombinator.com
 ||sourceforge.net
+||dev.to
