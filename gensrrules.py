@@ -1,13 +1,14 @@
 import requests
 import base64
-import datetime
 
 GFWLIST_URL = "https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt"
+TELEGRAM_CIDR_URL = "https://core.telegram.org/resources/cidr.txt"
 
 
 def main():
     res = requests.get(GFWLIST_URL).text
-    gfwlist = base64.b64decode(res).decode("utf-8").split("\n")
+    gfwlist = base64.b64decode(res).decode("utf-8").splitlines()
+    ip_ranges = get_blocked_ip_ranges()
     with open("custom.txt") as f:
         customlist = f.readlines()
     combined = customlist.copy()
@@ -22,10 +23,44 @@ def main():
             if not line.endswith("\n"):
                 f.write("\n")
     with open("fullrules.conf", "w") as f:
-        f.write(convert_to_shadowrocket_rules(combined))
+        f.write(convert_to_shadowrocket_rules(combined), ip_ranges)
 
 
-def convert_to_shadowrocket_rules(lines):
+def get_blocked_ip_ranges():
+    telegram_ranges = requests.get(TELEGRAM_CIDR_URL).text.splitlines()
+    result = {
+        # Hardcoded values copied from https://github.com/h2y/Shadowrocket-ADBlock-Rules
+        "67.198.55.0/24",
+        "91.108.4.0/22",
+        "91.108.8.0/22",
+        "91.108.12.0/22",
+        "91.108.16.0/22",
+        "91.108.56.0/22",
+        "109.239.140.0/24",
+        "149.154.160.0/20",
+        "149.154.164.0/22",
+        "149.154.168.0/22",
+        "149.154.172.0/22",
+        "74.125.23.127/32",
+        "14.102.250.18/32",
+        "14.102.250.19/32",
+        "174.142.105.153/32",
+        "67.220.91.15/32",
+        "67.220.91.18/32",
+        "67.220.91.23/32",
+        "69.65.19.160/32",
+        "72.52.81.22/32",
+        "85.17.73.31/32",
+        "50.7.31.230/32",
+    }
+    for line in telegram_ranges:
+        line = line.strip()
+        if line:
+            result.add(line)
+    return result
+
+
+def convert_to_shadowrocket_rules(lines, ip_ranges):
     # In Python 3.7+, dicts preserve insertion order but sets do not.
     # We need the insertion order so we emulate sets by dicts.
     domain_suffices = {}
@@ -47,45 +82,23 @@ def convert_to_shadowrocket_rules(lines):
 bypass-system = true
 skip-proxy = 192.168.0.0/16, 10.0.0.0/8, 172.16.0.0/12, localhost, *.local, e.crashlytics.com, captive.apple.com
 bypass-tun = 10.0.0.0/8,100.64.0.0/10,127.0.0.0/8,169.254.0.0/16,172.16.0.0/12,192.0.0.0/24,192.0.2.0/24,192.88.99.0/24,192.168.0.0/16,198.18.0.0/15,198.51.100.0/24,203.0.113.0/24,224.0.0.0/4,255.255.255.255/32
-dns-server = system, 114.114.114.114
+dns-server = system
 [Rule]
 DOMAIN-SUFFIX,cn,Direct
 DOMAIN-SUFFIX,corp.google.com,Direct
-DOMAIN-KEYWORD,blogspot,Proxy
 DOMAIN-KEYWORD,google,Proxy
-DOMAIN-KEYWORD,phobos,Proxy
-IP-CIDR,67.198.55.0/24,Proxy
-IP-CIDR,91.108.4.0/22,Proxy
-IP-CIDR,91.108.8.0/22,Proxy
-IP-CIDR,91.108.12.0/22,Proxy
-IP-CIDR,91.108.16.0/22,Proxy
-IP-CIDR,91.108.56.0/22,Proxy
-IP-CIDR,109.239.140.0/24,Proxy
-IP-CIDR,149.154.160.0/20,Proxy
-IP-CIDR,149.154.164.0/22,Proxy
-IP-CIDR,149.154.168.0/22,Proxy
-IP-CIDR,149.154.172.0/22,Proxy
-IP-CIDR,74.125.23.127/32,Proxy
-IP-CIDR,14.102.250.18/32,Proxy
-IP-CIDR,14.102.250.19/32,Proxy
-IP-CIDR,174.142.105.153/32,Proxy
-IP-CIDR,67.220.91.15/32,Proxy
-IP-CIDR,67.220.91.18/32,Proxy
-IP-CIDR,67.220.91.23/32,Proxy
-IP-CIDR,69.65.19.160/32,Proxy
-IP-CIDR,72.52.81.22/32,Proxy
-IP-CIDR,85.17.73.31/32,Proxy
-IP-CIDR,50.7.31.230/32,Proxy
 """
     ]
     for d in domain_suffices.keys():
         pieces.append(f"DOMAIN-SUFFIX,{d},Proxy")
+    for r in ip_ranges:
+        pieces.append(f"IP-CIDR,{r},Proxy")
     pieces.append(
         """
 FINAL,direct
 
 [URL Rewrite]
-^http://(www.)?google.cn https://www.google.com 302
+^https?://(www.)?g(oogle)?.cn https://www.google.com 302
 """
     )
     return "\n".join(pieces)
