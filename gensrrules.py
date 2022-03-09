@@ -101,7 +101,7 @@ DOMAIN-KEYWORD,google,Proxy
 FINAL,direct
 
 [URL Rewrite]
-^https?://(www.)?g(oogle)?.cn https://www.google.com 302
+^https?://(www.)?g(oogle)?.cn https://www.google.com 301
 """
     )
     return "\n".join(pieces)
