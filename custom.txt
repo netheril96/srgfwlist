@@ -71,3 +71,4 @@
 ||ycombinator.com
 ||sourceforge.net
 ||dev.to
+||githubassets.com
