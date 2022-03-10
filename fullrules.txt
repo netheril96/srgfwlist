@@ -72,6 +72,7 @@
 ||ycombinator.com
 ||sourceforge.net
 ||dev.to
+||githubassets.com
 
 |http://85.17.73.31/
 ||afreecatv.com
