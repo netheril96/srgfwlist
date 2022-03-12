@@ -72,3 +72,6 @@
 ||sourceforge.net
 ||dev.to
 ||githubassets.com
+||kraken.com
+||healthline.com
+||toorgle.com
