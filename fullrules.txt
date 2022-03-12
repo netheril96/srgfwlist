@@ -95,6 +95,7 @@
 ||booktopia.com.au
 ||boysmaster.com
 ||bynet.co.il
+||byrut.org
 ||carfax.com
 .casinobellini.com
 ||casinobellini.com
@@ -157,6 +158,7 @@ share.dmhy.org
 ||wego.here.com
 ||gamer-cds.cdn.hinet.net
 ||gamer2-cds.cdn.hinet.net
+||hmoegirl.com
 ||hmvdigital.ca
 ||hmvdigital.com
 ||homedepot.com
@@ -3966,8 +3968,9 @@ ithelp.ithome.com.tw
 .ivpn.net
 ||ixquick.com
 .ixxx.com
-iyouport.com
+.iyouport.com
 ||iyouport.com
+||iyouport.org
 .izaobao.us
 ||gmozomg.izihost.org
 .izles.net
@@ -5478,6 +5481,7 @@ rukor.org
 ||rusvpn.com
 .ruten.com.tw
 ||ruten.com.tw
+||rutracker.net
 rutube.ru
 .ruyiseek.com
 .rxhj.net
