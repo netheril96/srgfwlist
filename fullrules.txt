@@ -778,6 +778,8 @@ bloomberg.de
 .zyns.com
 .zzux.com
 
+||pages.dev
+
 d1b183sg0nvnuh.cloudfront.net
 |https://d1b183sg0nvnuh.cloudfront.net
 d1c37gjwa26taa.cloudfront.net
