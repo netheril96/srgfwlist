@@ -1,6 +1,4 @@
 [AutoProxy 0.2.9]
-||okex.com
-||okx.com
 ||ycombinator.com
 ||bitcointalk.org
 ||googletagmanager.com
