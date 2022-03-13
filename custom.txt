@@ -1,5 +1,3 @@
-||okex.com
-||okx.com
 ||ycombinator.com
 ||bitcointalk.org
 ||googletagmanager.com
