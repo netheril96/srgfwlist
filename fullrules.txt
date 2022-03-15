@@ -75,6 +75,8 @@
 ||healthline.com
 ||toorgle.com
 ||insider.com
+||investing.com
+||protos.com
 
 |http://85.17.73.31/
 ||afreecatv.com
