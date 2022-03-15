@@ -74,3 +74,5 @@
 ||healthline.com
 ||toorgle.com
 ||insider.com
+||investing.com
+||protos.com
