@@ -3982,6 +3982,7 @@ ithelp.ithome.com.tw
 .izlesem.org
 
 ||j.mp
+||jable.tv
 blog.jackjia.com
 jamaat.org
 ||jamestown.org
@@ -4277,6 +4278,7 @@ abitno.linpie.com/use-ipv6-to-fuck-gfw
 ||lingvodics.com
 .link-o-rama.com
 |http://link-o-rama.com
+||linkedin.com
 .linkideo.com
 ||api.linksalpha.com
 ||apidocs.linksalpha.com
@@ -4559,6 +4561,7 @@ mnewstv.com
 ||mobileways.de
 .mobypicture.com
 |http://moby.to
+||mod.io
 ||modernchinastudies.org
 ||moeerolibrary.com
 wiki.moegirl.org
