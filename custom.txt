@@ -76,3 +76,4 @@
 ||insider.com
 ||investing.com
 ||protos.com
+||substack.com
