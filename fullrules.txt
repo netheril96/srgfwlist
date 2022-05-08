@@ -79,6 +79,13 @@
 ||protos.com
 ||substack.com
 ||stackoverflow.com
+||coindesk.com
+||onlinedisassembler.com
+||itefix.net
+||substack.com
+||jetbrains.com
+||github.community
+||maketecheasier.com
 
 |http://85.17.73.31/
 ||afreecatv.com
