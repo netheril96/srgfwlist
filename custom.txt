@@ -78,3 +78,10 @@
 ||protos.com
 ||substack.com
 ||stackoverflow.com
+||coindesk.com
+||onlinedisassembler.com
+||itefix.net
+||substack.com
+||jetbrains.com
+||github.community
+||maketecheasier.com
