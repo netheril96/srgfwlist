@@ -4933,6 +4933,7 @@ showbiz.omy.sg
 ||on.cc
 ||onedrive.live.com
 ||onion.city
+||onion.ly
 .onlinecha.com
 ||onlineyoutube.com
 ||onlygayvideo.com
@@ -7017,6 +7018,7 @@ woopie.tv
 ||workatruna.com
 .workerdemo.org.hk
 .workerempowerment.org
+||workers.dev
 ||workersthebig.net
 .worldcat.org
 worldjournal.com
