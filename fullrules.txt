@@ -84,6 +84,11 @@
 ||itefix.net
 ||substack.com
 ||jetbrains.com
+||stackpathcdn.com
+||coinbase.com
+||btc.com
+||dilcdn.com
+
 ||github.community
 ||maketecheasier.com
 
