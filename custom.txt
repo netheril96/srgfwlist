@@ -87,6 +87,10 @@
 ||coinbase.com
 ||btc.com
 ||dilcdn.com
-
 ||github.community
 ||maketecheasier.com
+||forbes.com
+||internet2.edu
+||torrentseeker.com
+||nexusmods.com
+||stackpathcdn.com
