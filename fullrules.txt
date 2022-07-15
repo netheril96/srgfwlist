@@ -88,9 +88,13 @@
 ||coinbase.com
 ||btc.com
 ||dilcdn.com
-
 ||github.community
 ||maketecheasier.com
+||forbes.com
+||internet2.edu
+||torrentseeker.com
+||nexusmods.com
+||stackpathcdn.com
 
 |http://85.17.73.31/
 ||afreecatv.com
