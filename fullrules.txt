@@ -67,10 +67,8 @@
 ||sex.com
 ||caddy.community
 ||githubusercontent.com
-||ycombinator.com
 ||sourceforge.net
 ||dev.to
-||githubassets.com
 ||kraken.com
 ||healthline.com
 ||toorgle.com
@@ -82,7 +80,6 @@
 ||coindesk.com
 ||onlinedisassembler.com
 ||itefix.net
-||substack.com
 ||jetbrains.com
 ||stackpathcdn.com
 ||coinbase.com
@@ -94,7 +91,6 @@
 ||internet2.edu
 ||torrentseeker.com
 ||nexusmods.com
-||stackpathcdn.com
 
 |http://85.17.73.31/
 ||afreecatv.com
@@ -310,7 +306,6 @@ share.dmhy.org
 ||terabox.com
 ||thinkgeek.com
 ||thebodyshop-usa.com
-||tiktok.com
 ||tma.co.jp
 ||tracfone.com
 ||tryheart.jp
@@ -338,26 +333,21 @@ share.dmhy.org
 ||zattoo.com
 ||zim.vn
 ||zozotown.com
-
 14.102.250.18
 14.102.250.19
 50.7.31.230:8898
 174.142.105.153
 69.65.19.160
-
 ||xn--4gq171p.com
 ||xn--czq75pvv1aj5c.org
 ||xn--i2ru8q2qg.com
 ||xn--oiq.cc
 ||xn--p8j9a0d9c9a.xn--q9jyb4c
 ||xn--9pr62r24a.com
-
 ||abebooks.com
 |https://*.s3.amazonaws.com
 ||s3-ap-southeast-2.amazonaws.com
-
 ||43110.cf
-||9cache.com
 ||9gag.com
 ||agro.hk
 ||share.america.gov
@@ -509,7 +499,6 @@ share.dmhy.org
 ||yigeni.com
 ||you-get.org
 ||zzcloud.me
-
 ||aex.com
 ||allcoin.com
 ||adcex.com
@@ -517,7 +506,6 @@ share.dmhy.org
 ||bibox.com
 ||big.one
 ||bigone.com
-||binance.com
 ||bit-z.com
 ||bitz.ai
 ||bitbay.net
@@ -581,7 +569,6 @@ share.dmhy.org
 ||okx.com
 ||opensea.io
 ||otcbtc.com
-||paxful.com
 ||poolin.com
 ||rightbtc.com
 ||solv.finance
@@ -590,24 +577,19 @@ share.dmhy.org
 ||xbtce.com
 ||yobit.net
 ||zb.com
-
 ||read01.com
 ||kknews.cc
-
 china-mmm.jp.net
 .lsxszzg.com
 .china-mmm.net
 ||china-mmm.net
 china-mmm.sa.com
-
 .allowed.org
 .now.im
-
 ||amazon.co.jp
 .amazon.com/Dalai-Lama
 amazon.com/Prisoner-State-Secret-Journal-Premier
 s3-ap-northeast-1.amazonaws.com
-
 ||aolchannels.aol.com
 video.aol.ca/video-detail
 video.aol.co.uk/video-detail
@@ -615,7 +597,6 @@ video.aol.com
 ||video.aol.com
 ||search.aol.com
 www.aolnews.com
-
 .avmo.pw
 .avmoo.com
 |http://avmoo.com
@@ -629,7 +610,6 @@ www.aolnews.com
 .javzoo.com
 |http://javzoo.com
 .tellme.pw
-
 .bbc.com
 ||bbc.com
 .bbc.co.uk
@@ -638,7 +618,6 @@ www.aolnews.com
 .bbcchinese.com
 ||bbcchinese.com
 |http://bbc.in
-
 .bloomberg.cn
 ||bloomberg.cn
 .bloomberg.com
@@ -647,7 +626,6 @@ bloomberg.de
 ||bloomberg.de
 ||bloombergview.com
 .businessweek.com
-
 .1dumb.com
 .25u.com
 .2waky.com
@@ -803,9 +781,7 @@ bloomberg.de
 .yourtrap.com
 .zyns.com
 .zzux.com
-
 ||pages.dev
-
 d1b183sg0nvnuh.cloudfront.net
 |https://d1b183sg0nvnuh.cloudfront.net
 d1c37gjwa26taa.cloudfront.net
@@ -813,7 +789,6 @@ d1c37gjwa26taa.cloudfront.net
 d3c33hcgiwev3.cloudfront.net
 |https://d3c33hcgiwev3.cloudfront.net
 ||d3rhr7kgmtrq1v.cloudfront.net
-
 .3d-game.com
 .4irc.com
 .b0ne.com
@@ -830,7 +805,6 @@ d3c33hcgiwev3.cloudfront.net
 .slyip.com
 .slyip.net
 .suroot.com
-
 .blogdns.org
 .dyndns.org
 .dyndns-ip.com
@@ -838,12 +812,9 @@ d3c33hcgiwev3.cloudfront.net
 .from-sd.com
 .from-pr.com
 .is-a-hunter.com
-
 .dynu.com
-||dynu.com
 .dynu.net
 .freeddns.org
-
 ||accountkit.com
 cdninstagram.com
 ||cdninstagram.com
@@ -878,13 +849,10 @@ cdninstagram.com
 ||thefacebook.com
 ||whatsapp.com
 ||whatsapp.net
-
 ||auntology.fandom.com
 ||hongkong.fandom.com
-
 .ftchinese.com
 ||ftchinese.com
-
 ||1e100.net
 ||466453.com
 ||abc.xyz
@@ -1007,7 +975,6 @@ blogspot.com
 .google.ws
 /^https?:\/\/([^\/]+\.)*google\.(ac|ad|ae|af|ai|al|am|as|at|az|ba|be|bf|bg|bi|bj|bs|bt|by|ca|cat|cd|cf|cg|ch|ci|cl|cm|co.ao|co.bw|co.ck|co.cr|co.id|co.il|co.in|co.jp|co.ke|co.kr|co.ls|co.ma|com|com.af|com.ag|com.ai|com.ar|com.au|com.bd|com.bh|com.bn|com.bo|com.br|com.bz|com.co|com.cu|com.cy|com.do|com.ec|com.eg|com.et|com.fj|com.gh|com.gi|com.gt|com.hk|com.jm|com.kh|com.kw|com.lb|com.ly|com.mm|com.mt|com.mx|com.my|com.na|com.nf|com.ng|com.ni|com.np|com.om|com.pa|com.pe|com.pg|com.ph|com.pk|com.pr|com.py|com.qa|com.sa|com.sb|com.sg|com.sl|com.sv|com.tj|com.tr|com.tw|com.ua|com.uy|com.vc|com.vn|co.mz|co.nz|co.th|co.tz|co.ug|co.uk|co.uz|co.ve|co.vi|co.za|co.zm|co.zw|cv|cz|de|dj|dk|dm|dz|ee|es|eu|fi|fm|fr|ga|ge|gg|gl|gm|gp|gr|gy|hk|hn|hr|ht|hu|ie|im|iq|is|it|it.ao|je|jo|kg|ki|kz|la|li|lk|lt|lu|lv|md|me|mg|mk|ml|mn|ms|mu|mv|mw|mx|ne|nl|no|nr|nu|org|pl|pn|ps|pt|ro|rs|ru|rw|sc|se|sh|si|sk|sm|sn|so|sr|st|td|tg|tk|tl|tm|tn|to|tt|us|vg|vn|vu|ws)\/.*/
 ||googleapis.cn
-||googleapis.com
 ||googleapps.com
 ||googleartproject.com
 ||googleblog.com
@@ -1039,7 +1006,6 @@ blogspot.com
 ||googlezip.net
 ||groups.google.cn
 ||grow.google
-||gstatic.com
 ||gvt0.com
 ||gvt1.com
 @@||redirector.gvt1.com
@@ -1108,10 +1074,7 @@ blogspot.com
 ||yt.be
 ||ytimg.com
 ||zynamics.com
-
-
 ||naughtyamerica.com
-
 static01.nyt.com
 ||nyt.com
 nytchina.com
@@ -1125,11 +1088,9 @@ nytcn.me
 userapi.nytlog.com
 cn.nytstyle.com
 ||nytstyle.com
-
 .steamcommunity.com
 ||steamcommunity.com
 ||store.steampowered.com
-
 ||t.me
 ||updates.tdesktop.com
 ||telegram.dog
@@ -1137,12 +1098,10 @@ cn.nytstyle.com
 ||telegram.org
 .telegramdownload.com
 ||telesco.pe
-
 ||jtvnw.net
 ||ttvnw.net
 ||twitch.tv
 ||twitchcdn.net
-
 ||periscope.tv
 .pscp.tv
 ||pscp.tv
@@ -1157,7 +1116,6 @@ cn.nytstyle.com
 ||twitter.com
 ||twitter.jp
 ||vine.co
-
 ||gov.taipei
 .gov.tw
 |https://aiss.anws.gov.tw
@@ -1190,10 +1148,8 @@ cn.nytstyle.com
 ||thb.gov.tw
 ||tipo.gov.tw
 ||wda.gov.tw
-
 ||teco-hk.org
 ||teco-mo.org
-
 @@||aftygh.gov.tw
 @@||aide.gov.tw
 @@||tpde.aide.gov.tw
@@ -1224,7 +1180,6 @@ cn.nytstyle.com
 @@||siraya-nsa.gov.tw
 @@||cromotc.nat.gov.tw
 @@||tax.nat.gov.tw
-@@||necoast-nsa.gov.tw
 @@||ner.gov.tw
 @@||nmmba.gov.tw
 @@||nmp.gov.tw
@@ -1239,7 +1194,6 @@ cn.nytstyle.com
 @@||nvri.gov.tw
 @@||penghu-nsa.gov.tw
 @@||post.gov.tw
-@@||siraya-nsa.gov.tw
 @@||stdtime.gov.tw
 @@||sunmoonlake.gov.tw
 @@||taitung-house.gov.tw
@@ -1252,9 +1206,7 @@ cn.nytstyle.com
 @@||wanfang.gov.tw
 @@||yatsen.gov.tw
 @@||yda.gov.tw
-
 ||kinmen.org.tw
-
 |http://www.americorps.gov
 ||jpl.nasa.gov
 ||pds.nasa.gov
@@ -1264,9 +1216,7 @@ iipdigital.usembassy.gov
 ||usmc.mil
 |http://tarr.uspto.gov/
 ||tsdr.uspto.gov
-
 ||v2ex.com
-
 cn.voa.mobi
 tw.voa.mobi
 ||voacambodia.com
@@ -1284,21 +1234,18 @@ voatibetan.com
 ||voatibetan.com
 .voatibetanenglish.com
 ||voatibetanenglish.com
-
 ||zh.ecdm.wikia.com
 ||evchk.wikia.com
 fq.wikia.com
 zh.pttpedia.wikia.com/wiki/%E7%BF%92%E5%8C%85%E5%AD%90%E4%B9%8B%E4%BA%82
 cn.uncyclopedia.wikia.com
 zh.uncyclopedia.wikia.com
-
 ||wikimedia.org
 |http://zh.wikisource.org
 ||zh.wikiquote.org
 ||zh.wikinews.org
 ||ja.wikipedia.org
 ||wikipedia.org
-
 ||data.flurry.com
 ||page.bid.yahoo.com
 ||tw.bid.yahoo.com
@@ -1330,7 +1277,6 @@ upcoming.yahoo.com
 video.yahoo.com
 ||yahoo.com.hk
 ||duckduckgo-owned-server.yahoo.net
-
 ||000webhost.com
 .030buy.com
 .0rz.tw
@@ -1473,7 +1419,6 @@ taiwannation.50webs.com
 ||9bis.com
 ||9bis.net
 ||9news.com.au
-
 .tibet.a.se
 |http://tibet.a.se
 ||a-normal-day.com
@@ -1539,20 +1484,15 @@ aiweiwei.com
 .aiweiweiblog.com
 ||aiweiweiblog.com
 ||www.ajsands.com
-
 a248.e.akamai.net
 ||a248.e.akamai.net
-
 rfalive1.akacast.akamaistream.net
 voa-11.akacast.akamaistream.net
-
 ||abematv.akamaized.net
 ||linear-abematv.akamaized.net
 ||vod-abematv.akamaized.net
-
 |https://fbcdn*.akamaihd.net/
 rthklive2-lh.akamaihd.net
-
 .akademiye.org/ug
 |http://akademiye.org/ug
 ||akiba-online.com
@@ -1757,13 +1697,11 @@ avaaz.org
 ||avidemux.org
 ||avoision.com
 .avyahoo.com
-||axios.com
 ||axureformac.com
 .azerbaycan.tv
 azerimix.com
 boxun*.azurewebsites.net
 ||boxun*.azurewebsites.net
-
 ||b-ok.cc
 forum.baby-kingdom.com
 ||babylonbee.com
@@ -1892,7 +1830,6 @@ ai.binwang.me/couplet
 .bit.ly
 |http://bit.ly
 ||bitchute.com
-||bitcointalk.org
 .bitshare.com
 ||bitshare.com
 bitsnoop.com
@@ -1938,7 +1875,6 @@ blogtd.net
 |http://blogtd.org
 ||bloodshed.net
 ||assets.bwbx.io
-
 ||bloomfortune.com
 blueangellive.com
 ||blubrry.com
@@ -2063,7 +1999,6 @@ busytrade.com
 bwsj.hk
 ||bx.tl
 ||bypasscensorship.org
-
 ||c-span.org
 .c-spanvideo.org
 ||c-spanvideo.org
@@ -2415,7 +2350,6 @@ commandarms.com
 ||communitychoicecu.com
 ||comparitech.com
 ||compileheart.com
-||conoha.jp
 .contactmagazine.net
 .convio.net
 .coobay.com
@@ -2500,7 +2434,6 @@ cytode.us
 ||ifan.cz.cc
 ||mike.cz.cc
 ||nic.cz.cc
-
 .d-fukyu.com
 |http://d-fukyu.com
 cl.d0z.net
@@ -2566,7 +2499,6 @@ daolan.net
 darktoy.net
 ||darrenliuwei.com
 ||dastrassi.org
-||daum.net
 .david-kilgour.com
 |http://david-kilgour.com
 daxa.cn
@@ -2584,9 +2516,7 @@ dcmilitary.com
 .de-sci.org
 ||deadline.com
 ||decodet.co
-
 .definebabe.com
-
 ||delcamp.net
 delicious.com/GFWbookmark
 .democrats.org
@@ -2640,10 +2570,8 @@ djangosnippets.org
 ||dns2go.com
 ||dnssec.net
 doctorvoice.org
-
 .dogfartnetwork.com/tour
 gloryhole.com
-
 .dojin.com
 .dok-forum.net
 ||dolc.de
@@ -2735,7 +2663,6 @@ xys.dxiong.com
 ||dynawebinc.com
 ||dysfz.cc
 .dzze.com
-
 ||e-classical.com.tw
 ||e-gold.com
 .e-gold.com
@@ -2912,7 +2839,6 @@ eyevio.jp
 ||eyny.com
 .ezpc.tk/category/soft
 .ezpeer.com
-
 ||facebookquotes4u.com
 .faceless.me
 ||faceless.me
@@ -2921,9 +2847,7 @@ eyevio.jp
 ||factpedia.org
 .faith100.org
 |http://faith100.org
-
 .faithfuleye.com
-
 ||faiththedog.info
 .fakku.net
 ||fallenark.com
@@ -2980,12 +2904,10 @@ fangeming.com
 ||fanswong.com
 .fanyue.info
 .farwestchina.com
-
 en.favotter.net
 nytimes.map.fastly.net
 ||nytimes.map.fastly.net
 ||fast.wistia.com
-
 ||fastestvpn.com
 ||fastssh.com
 ||faststone.org
@@ -3056,10 +2978,8 @@ fleshbot.com
 |http://fleursdeslettres.com
 ||flgg.us
 ||flgjustice.org
-
 ||flickr.com
 ||staticflickr.com
-
 flickrhivemind.net
 .flickriver.com
 .fling.com
@@ -3217,7 +3137,6 @@ funp.com
 fzh999.com
 fzh999.net
 fzlm.com
-
 .g6hentai.com
 |http://g6hentai.com
 ||g-queen.com
@@ -3329,14 +3248,8 @@ gigporno.ru
 ||git.io
 |http://softwaredownload.gitbooks.io
 ||raw.githack.com
-
-||github.blog
-||github.com
 .github.io
 ||github.io
-||githubusercontent.com
-||githubassets.com
-
 .gizlen.net
 ||gizlen.net
 .gjczz.com
@@ -3444,7 +3357,6 @@ gunsandammo.com
 ||gwins.org
 .gzm.tv
 ||gzone-anime.info
-
 ||clementine-player.org
 echofon.com
 ||greasespot.net
@@ -3454,7 +3366,6 @@ echofon.com
 @@||download.syniumsoftware.com
 |http://ub0.cc
 wozy.in
-
 gospelherald.com
 ||gospelherald.com
 |http://hk.gradconnection.com/
@@ -3483,7 +3394,6 @@ guruonline.hk
 |http://gvlib.com
 .gyalwarinpoche.com
 .gyatsostudio.com
-
 .h528.com
 .h5dm.com
 .h5galgame.me
@@ -3566,9 +3476,7 @@ hellotxt.com
 .helpzhuling.org
 hentaitube.tv
 .hentaivideoworld.com
-
 ||id.heroku.com
-
 heqinglian.net
 ||heqinglian.net
 ||heritage.org
@@ -3787,7 +3695,6 @@ hxwq.org
 ||hyperrate.com
 ebook.hyread.com.tw
 ||ebook.hyread.com.tw
-
 ||i1.hk
 ||i2p2.de
 ||i2runner.com
@@ -3815,10 +3722,8 @@ blogs.icerocket.com/tag
 ||icl-fi.org
 .icoco.com
 ||icoco.com
-
 ||furbo.org
 ||warbler.iconfactory.net
-
 ||iconpaper.org
 ||icu-project.org
 w.idaiwan.com/forum
@@ -3874,12 +3779,10 @@ imageshack.us
 ||imagezilla.net
 .imb.org
 |http://imb.org
-
 |http://www.imdb.com/name/nm0482730
 .imdb.com/title/tt0819354
 .imdb.com/title/tt1540068
 .imdb.com/title/tt4908644
-
 .img.ly
 ||img.ly
 .imgur.com
@@ -4005,7 +3908,6 @@ ithelp.ithome.com.tw
 ||gmozomg.izihost.org
 .izles.net
 .izlesem.org
-
 ||j.mp
 ||jable.tv
 blog.jackjia.com
@@ -4110,7 +4012,6 @@ juziyue.com
 ||jwmusic.org
 @@||music.jwmusic.org
 .jyxf.net
-
 ||k-doujin.net
 ||ka-wai.com
 ||kadokawa.co.jp
@@ -4220,7 +4121,6 @@ kyohk.net
 ||kyzyhello.com
 .kzeng.info
 ||kzeng.info
-
 la-forum.org
 ladbrokes.com
 ||labiennale.org
@@ -4399,7 +4299,6 @@ lvhai.org
 ||lzjscript.com
 .lzmtnews.org
 ||lzmtnews.org
-
 http://*.m-team.cc
 .macrovpn.com
 macts.com.tw
@@ -4696,7 +4595,6 @@ mysinablog.com
 ||myspacecdn.com
 .mytalkbox.com
 .mytizi.com
-
 ||naacoalition.org
 old.nabble.com
 ||naitik.net
@@ -4798,9 +4696,7 @@ newyorktimes.com
 .next11.co.jp
 ||nextdigital.com.hk
 .nextmag.com.tw
-
 .nextmedia.com
-
 ||nexton-net.jp
 nexttv.com.tw
 .nfjtyd.com
@@ -4828,7 +4724,6 @@ njuice.com
 ||nlfreevpn.com
 ||nmsl.website
 ||nnews.eu
-
 .ddns.net/
 .gooddns.info
 ||gotdns.ch
@@ -4840,7 +4735,6 @@ sytes.net
 .whodns.xyz
 .zapto.org
 |http://dynupdate.no-ip.com/
-
 ||nobel.se
 nobelprize.org/nobel_prizes/peace/laureates/1989
 nobelprize.org/nobel_prizes/peace/laureates/2010
@@ -4901,10 +4795,8 @@ nuzcom.com
 .nydus.ca
 nylon-angel.com
 nylonstockingsonline.com
-||nypost.com
 .nzchinese.com
 ||nzchinese.net.nz
-
 observechina.net
 .obutu.com
 ocaspro.com
@@ -5024,7 +4916,6 @@ bbs.ozchinese.com
 ||ozvoice.org
 .ozxw.com
 .ozyoyo.com
-
 ||pachosting.com
 .pacificpoker.com
 .packetix.net
@@ -5064,14 +4955,12 @@ pastebin.com
 pbs.org/wgbh/pages/frontline/tankman
 pbs.org/wgbh/pages/frontline/tibet
 video.pbs.org
-
 pbwiki.com
 ||pbworks.com
 ||developers.box.net
 ||wiki.oauth.net
 ||wiki.phonegap.com
 ||wiki.jqueryui.com
-
 ||pbxes.com
 ||pbxes.org
 pcdvd.com.tw
@@ -5252,7 +5141,6 @@ pureinsight.org
 .pushchinawall.com
 .putty.org
 ||putty.org
-
 ||calebelston.com
 ||blog.fizzik.com
 ||nf.id.au
@@ -5260,7 +5148,6 @@ pureinsight.org
 ||vatn.org
 ||ventureswell.com
 ||whereiswerner.com
-
 .power.com
 ||power.com
 powerapple.com
@@ -5333,7 +5220,6 @@ python.com
 |http://python.com.tw
 pythonhackers.com/p
 ss.pythonic.life/
-
 .qanote.com
 ||qanote.com
 .qgirl.com.tw
@@ -5372,7 +5258,6 @@ qusi8.net
 .qvodzy.org
 nemesis2.qx.net/pages/MyEnTunnel
 qxbbs.org
-
 ||r0.ru
 .ra.gg
 |http://ra.gg/
@@ -5526,7 +5411,6 @@ rutube.ru
 .ruyiseek.com
 .rxhj.net
 |http://rxhj.net
-
 .s1s1s1.com
 ||s-cute.com
 .s-dragon.org
@@ -5593,7 +5477,6 @@ savevid.com
 ||secretgarden.no
 .secretsline.biz
 ||secretsline.biz
-||secureservercdn.net
 ||securetunnel.com
 securityinabox.org
 |https://securityinabox.org
@@ -5618,7 +5501,6 @@ forum.setty.com.tw
 .sevenload.com
 ||sevenload.com
 .sex.com
-||sex.com
 .sex-11.com
 ||sex3.com
 ||sex8.cc
@@ -5629,11 +5511,9 @@ forum.setty.com.tw
 sexinsex.net
 ||sexinsex.net
 .sextvx.com
-
 67.220.91.15
 67.220.91.18
 67.220.91.23
-
 |http://*.sf.net
 .sfileydy.com
 ||sfshibao.com
@@ -6006,7 +5886,6 @@ blog.syx86.com/2009/09/puff
 blog.syx86.cn/2009/09/puff
 .szbbs.net
 .szetowah.org.hk
-
 ||t-g.com
 .t35.com
 .t66y.com
@@ -6392,7 +6271,6 @@ trulyergonomic.com
 tsquare.tv
 .tsu.org.tw
 tsunagarumon.com
-.tsctv.net
 ||tt1069.com
 .tttan.com
 ||tttan.com
@@ -6442,14 +6320,12 @@ tuitwit.com
 |http://*.tuzaijidi.com
 .tw01.org
 |http://tw01.org
-
 .tumblr.com
 ||tumblr.com
 ||lecloud.net
 |http://cosmic.monar.ch
 ||slutmoonbeam.com
 |http://blog.soylent.com
-
 .tv.com
 |http://tv.com
 tvants.com
@@ -6593,7 +6469,6 @@ twurl.nl
 .txxx.com
 .tycool.com
 ||tycool.com
-
 ||typepad.com
 @@||www.typepad.com
 @@||static.typepad.com
@@ -6602,7 +6477,6 @@ twurl.nl
 ||blogs.tampabay.com
 ||contests.twilio.com
 ||typora.io
-
 .u9un.com
 ||u9un.com
 .ubddns.org
@@ -6717,7 +6591,6 @@ uyghur.co.uk
 ||uyghurtribunal.com
 uygur.org
 |http://uymaarip.com/
-
 ||v2fly.org
 .v2ray.com
 ||v2ray.com
@@ -6866,7 +6739,6 @@ vraiesagesse.net
 .vrmtr.com
 ||vtunnel.com
 ||vuku.cc
-
 lists.w3.org/archives/public
 ||w3schools.com
 ||waffle1999.com
@@ -7041,7 +6913,6 @@ woopie.tv
 worldjournal.com
 .worldvpn.net
 ||worldvpn.net
-
 ||videopress.com
 .wordpress.com
 |http://*.wordpress.com
@@ -7061,7 +6932,6 @@ worldjournal.com
 ||sujiatun.wordpress.com
 ||xijie.wordpress.com
 ||wp.com
-
 .wow.com
 .wow-life.net
 ||wowlegacy.ml
@@ -7097,7 +6967,6 @@ wukangrui.net
 .wwitv.com
 ||wwitv.com
 wzyboy.im/post/160
-
 ||x.co
 .x-berry.com
 ||x-berry.com
@@ -7190,7 +7059,6 @@ xys.org
 xysblogs.org
 xyy69.com
 xyy69.info
-
 ||y2mate.com
 ||yadi.sk
 ||yakbutterblues.com
@@ -7226,7 +7094,6 @@ yegle.net
 .yibaochina.com
 .yidio.com
 ||yidio.com
-||yigeni.com
 yilubbs.com
 xa.yimg.com
 .yingsuoss.com
@@ -7293,7 +7160,6 @@ yx51.net
 ||yyjlymb.xyz
 .yzzk.com
 ||yzzk.com
-
 ||z-lib.org
 zacebook.com
 .zalmos.com
@@ -7382,7 +7248,6 @@ writer.zoho.com
 .zynaima.com
 zyzc9.com
 .zzcartoon.com
-
 64memo
 aHR0cHM6Ly95ZWNsLm5ldA
 freenet
@@ -7396,13 +7261,11 @@ q=triangle
 q%3DTriangle
 ultrareach
 ultrasurf
-
 @@||aliyun.com
 @@||baidu.com
 @@||chinaso.com
 @@||chinaz.com
 @@|http://nrch.culture.tw/
-
 @@||adservice.google.com
 @@||dl.google.com
 @@||kh.google.com
