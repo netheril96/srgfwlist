@@ -1,6 +1,7 @@
 from typing import Iterable, List, Set
 import requests
 import base64
+from collections import OrderedDict
 
 GFWLIST_URL = "https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt"
 TELEGRAM_CIDR_URL = "https://core.telegram.org/resources/cidr.txt"
@@ -12,11 +13,13 @@ def main():
     ip_ranges = get_blocked_ip_ranges()
     with open("custom.txt") as f:
         customlist = f.readlines()
-    combined = customlist.copy()
+    combined = OrderedDict()
+    for line in customlist:
+        combined[line.strip()] = True
     for line in gfwlist:
         if line.startswith("[") or line.startswith("!"):
             continue
-        combined.append(line)
+        combined[line.strip()] = True
     with open("fullrules.txt", "w") as f:
         f.write(f"[AutoProxy 0.2.9]\n")
         for line in combined:
