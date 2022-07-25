@@ -92,6 +92,8 @@ dns-server = system
 [Rule]
 DOMAIN-SUFFIX,corp.google.com,Direct
 DOMAIN-KEYWORD,google,Proxy
+DOMAIN-SUFFIX,rsyhome.duckdns.org,Direct
+DOMAIN-SUFFIX,rsy.duckdns.org,Direct
 """
     ]
     for d in domain_suffices.keys():
