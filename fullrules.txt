@@ -91,6 +91,7 @@
 ||internet2.edu
 ||torrentseeker.com
 ||nexusmods.com
+||qbittorrent.org
 
 |http://85.17.73.31/
 ||afreecatv.com
