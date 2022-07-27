@@ -94,3 +94,4 @@
 ||torrentseeker.com
 ||nexusmods.com
 ||stackpathcdn.com
+||qbittorrent.org
