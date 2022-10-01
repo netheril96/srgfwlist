@@ -65,3 +65,6 @@
 *.stackexchange.com +proxy
 *.maketecheasier.com +proxy
 *.myprotein.cn +proxy
+*.freedesktop.org +proxy
+*.sciencedirect.com +proxy
+*.ebrary.net +proxy
