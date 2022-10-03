@@ -7,7 +7,6 @@
 *.idgesg.net +proxy
 *.typekit.net +proxy
 *.staticworld.net +proxy
-*.bt-tt.com +proxy
 *.fortune.com +proxy
 *.aicoin.com +proxy
 *.ttwstatic.com +proxy
