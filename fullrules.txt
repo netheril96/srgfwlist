@@ -5909,7 +5909,6 @@
 ||500px.com
 ||50104.coolxtv.com
 ||502310.com
-||50275.91xaa.com
 ||50418.9aca1.com
 ||50504688.com
 ||505993.com
@@ -6606,6 +6605,7 @@
 ||91vhh.com
 ||91vpn.com
 ||91vss.com
+||91xaa.com
 ||91xv.xyz
 ||91yac.com
 ||91yag.com
@@ -6615,6 +6615,7 @@
 ||923162.com
 ||9259587.com
 ||928sj.com
+||92xaa.com
 ||93.cao1024lui99.club
 ||93.serveirc.com
 ||9313201.com
@@ -6699,6 +6700,7 @@
 ||978524.com
 ||97919.com
 ||97tang.site
+||97xaa.com
 ||98.to
 ||98098f.com
 ||981111.com
@@ -6730,7 +6732,6 @@
 ||99006a.com
 ||99006e.com
 ||99014.com
-||9907654.com
 ||991497.com
 ||993366.cc
 ||99355cai.com
@@ -7177,6 +7178,8 @@
 ||aliengu.com
 ||alifaan.ovh
 ||alifta.com
+||aligntech-docker-registry.bintray.io
+||alioda.ro
 ||alittlemarket.com
 ||aliveproxy.com
 ||aliyahdewi.com
@@ -7413,7 +7416,6 @@
 ||anyvpn.link
 ||ao3.club
 ||aobo888.com
-||aoextv.site
 ||aouwe.com
 ||aoxvpn.com
 ||apdo-uk.co.uk
@@ -7765,6 +7767,7 @@
 ||b36520.com
 ||b365vip2.com
 ||b3664.com
+||b3755.com
 ||b384142.com
 ||b384567.com
 ||b423.com
@@ -9416,6 +9419,7 @@
 ||contem.bz
 ||content.huchezai.com
 ||content.wuala.com
+||continuingcounterreformation.blogspot.cl
 ||continuingcounterreformation.blogspot.it
 ||coolinet.com
 ||coolmagnets.co.il
@@ -9472,6 +9476,7 @@
 ||craigcoopermsw.com
 ||craiyon.com
 ||crashlytics.com
+||crazymonstercock.com
 ||crazypool.org
 ||crc003.net
 ||crd-net.org
@@ -10081,7 +10086,6 @@
 ||dou.lesile.net
 ||doub.bid
 ||doubi.neocities.org
-||doubiyunbackup.com
 ||doubleclick.com
 ||doubledragontest.weebly.com
 ||doublehop.me
@@ -13317,6 +13321,7 @@
 ||kneeodorant.com
 ||knorr.com
 ||kntnw.site
+||koaservice.nl
 ||kodirectory.com
 ||komica2.net
 ||komicolle.org
@@ -13483,6 +13488,7 @@
 ||latestpornstar.com
 ||latinwildparties.com
 ||latribune.fr
+||laughingsquid.com
 ||launchesu.ro
 ||launchgood.com
 ||launchpad.proxy.ustclug.org
@@ -13732,6 +13738,7 @@
 ||lixing4.com
 ||lizakii.000webhostapp.com
 ||lizhizhuangbi.com
+||lj4r.4u.cr.rs
 ||ll699.net
 ||ll836.net
 ||llbn.tv
@@ -13920,7 +13927,6 @@
 ||m.cc777.com
 ||m.dvd99.xyz
 ||m.dy9907.com
-||m.dyvip72.com
 ||m.dzcp8999.com
 ||m.ew650.com
 ||m.fun551.com
@@ -14138,6 +14144,7 @@
 ||marine.rutgers.edu
 ||mario-lopes.pt
 ||mariodesigns.uk
+||mariusl.com
 ||marketamerica.com
 ||marketplace.org
 ||markets.bitcoin.com
@@ -14470,6 +14477,7 @@
 ||moot.es
 ||moralesbrothers.com
 ||moraxlap.moraxdns.cf
+||morazzia.com
 ||morb.in
 ||moresci.sale
 ||morionguesthouse.bitbucket.org
@@ -14580,6 +14588,7 @@
 ||mv.aeweb.xyz
 ||mvbtc.xyz
 ||mvpn.pro
+||mwds.co.za
 ||mx1265.com
 ||mx80.bet
 ||mx81.bet
@@ -15299,6 +15308,7 @@
 ||orz.pp.ru
 ||orzkoo.com
 ||osakamotion.net
+||osikko.jp
 ||oskarzhang.me
 ||oslofreedomforum.com
 ||ossxtv.com
@@ -15826,6 +15836,7 @@
 ||presscite.com
 ||pressplay.cc
 ||pressreader.com
+||prevencao.org.br
 ||pri.org
 ||primedice.com
 ||primevideo.com
@@ -15904,6 +15915,7 @@
 ||proxy.org
 ||proxy.toolur.com
 ||proxy.yt
+||proxy2974.my-addr.org
 ||proxy4free.com
 ||proxy4free.me
 ||proxy4free.pl
@@ -16943,6 +16955,7 @@
 ||sk2sk.xyz
 ||sk99.com
 ||skg-tech.com
+||skillfeed.com
 ||skn.noip.me
 ||skoletube.dk
 ||sktnn.com
@@ -17180,7 +17193,6 @@
 ||ssnode.co
 ||ssnode.com
 ||ssnode.me
-||ssnode.net
 ||ssp-cloud.net
 ||ssr.acgfor.com
 ||ssr.hissr.club
@@ -17284,6 +17296,7 @@
 ||store.nintendo.com.hk
 ||store.sstuan.net
 ||store.sstuan.org
+||store.steampowed.com
 ||storehouse.hu
 ||storenvy.com
 ||storiesofyesterday.com
@@ -18016,6 +18029,7 @@
 ||tre.9bah1.com
 ||tre.9bar1.com
 ||treadgfw.weebly.com
+||treasurysource.bokf.com
 ||trementina.ml
 ||trendhunter.com
 ||treyyang.com
@@ -18211,6 +18225,7 @@
 ||twilog.org
 ||twimi.net
 ||twinflower.cc
+||twistar.cc
 ||twistys.com
 ||twitaholic.com
 ||twitbridge.com
@@ -18406,6 +18421,7 @@
 ||urvashimahajan.com
 ||us-189-255-4.fri-gate.biz
 ||us-central1-celebrity-voice.cloudfunctions.net
+||us-central1-ecai2020-prod.cloudfunctions.net
 ||us-central1-glaring-fire-4035.cloudfunctions.net
 ||us-central1-invue-live.cloudfunctions.net
 ||us-central1-kirichilli-cart.cloudfunctions.net
@@ -19292,6 +19308,7 @@
 ||wsstl.com
 ||wsvip0.com
 ||wsvip1.com
+||wsvip8.com
 ||wsws.org
 ||wtbnnews.org
 ||wtfast.com
@@ -19549,6 +19566,7 @@
 ||www.51fanqiang.com
 ||www.51gho.com
 ||www.51gho.net
+||www.51jiasu.com
 ||www.51jsq.biz
 ||www.51jsq.net
 ||www.51wanqiu.net
@@ -19571,6 +19589,7 @@
 ||www.59bo.net
 ||www.59hjdc.com
 ||www.59lfw.com
+||www.5dias.com
 ||www.5pool.com
 ||www.5w8.cc
 ||www.5w8.net
@@ -19689,6 +19708,7 @@
 ||www.99kav.com
 ||www.99re.com
 ||www.99xin6.com
+||www.99xx.com
 ||www.9apps.com
 ||www.9rti.org
 ||www.9ssr.com
@@ -20211,7 +20231,6 @@
 ||www.bwtiyu.com
 ||www.bxcfd.com
 ||www.by111111.com
-||www.byb10.com
 ||www.bypt888.com
 ||www.bytick.com
 ||www.byto18.com
@@ -20575,11 +20594,9 @@
 ||www.dynit.it
 ||www.dytt8.com
 ||www.dyvip11.com
-||www.dyvip22.com
-||www.dyvip26.com
-||www.dyvip56.com
+||www.dyvip35.com
+||www.dyvip555.com
 ||www.dyvip61.com
-||www.dyvip67.com
 ||www.dyvip69.com
 ||www.dyvip70.com
 ||www.dzcp3555.com
@@ -20607,6 +20624,7 @@
 ||www.e8777.com
 ||www.e87788.com
 ||www.e8781.com
+||www.e87858.com
 ||www.e8792.com
 ||www.e8797.com
 ||www.e8832.com
@@ -20675,6 +20693,7 @@
 ||www.eroticbeauty.com
 ||www.eroxia.com
 ||www.esb-livegame.com
+||www.esb110.com
 ||www.esball365.com
 ||www.esbline.net
 ||www.escolamobile.com.br
@@ -20796,6 +20815,7 @@
 ||www.fhjt-zh.com
 ||www.fhmarkets.com
 ||www.fhwechat.com
+||www.fickr.com
 ||www.fictfact.com
 ||www.fidh.org
 ||www.fifa.com
@@ -21329,6 +21349,7 @@
 ||www.hycm.com
 ||www.hycmcn.com
 ||www.hymnal.net
+||www.hymzw.net
 ||www.hyperapp.fun
 ||www.hyyo.net
 ||www.hyyo.org
@@ -22045,6 +22066,7 @@
 ||www.myfreevpn.com
 ||www.myfreevpn.org
 ||www.myfxcm.com
+||www.myheritage.nl
 ||www.myinstants.com
 ||www.mylamson.com
 ||www.mylife.hk
@@ -22788,6 +22810,7 @@
 ||www.steria-mummert.de
 ||www.storageforum.tw
 ||www.storetorrent.com
+||www.storetorrent.org
 ||www.storj.io
 ||www.stovax.com
 ||www.straight.com
@@ -23399,6 +23422,7 @@
 ||www.xbet.com
 ||www.xbluray.cc
 ||www.xcoyote.com
+||www.xf182.com
 ||www.xf187.com
 ||www.xf197.com
 ||www.xf802.com
@@ -23406,13 +23430,10 @@
 ||www.xf835.com
 ||www.xf836.com
 ||www.xf856.com
-||www.xf877.com
-||www.xf903.com
-||www.xf922.com
 ||www.xf966.com
 ||www.xf968.com
-||www.xf971.com
 ||www.xf979.com
+||www.xf982.com
 ||www.xfanz.com
 ||www.xfinity.net
 ||www.xfvod.net
