@@ -5906,6 +5906,7 @@
 ||50006.xromtv.site
 ||5000byb.com
 ||50045.desmtv.site
+||50048.gmpmtv.site
 ||50069.lkextv.site
 ||500ish.com
 ||500px.com
@@ -6522,7 +6523,6 @@
 ||888.yycp.com
 ||8881.vip
 ||88818.com
-||888666xh.com
 ||8888boma365.com
 ||888diao.com
 ||888poker.es
@@ -7847,6 +7847,7 @@
 ||barrymatv.com
 ||bartender.mobile.dowjones.io
 ||basic.rethinkdns.com
+||basketball.fantasysports.yahoo.com
 ||bat.me
 ||battle.gtasia777.com
 ||battle1.gtasia777.com
@@ -9938,7 +9939,6 @@
 ||dizilab.com
 ||dj2111.com
 ||dj5758.com
-||djbcr.com
 ||djdj868.com
 ||djpt8888.com
 ||djpt988.com
@@ -11605,7 +11605,6 @@
 ||goosevpn.com
 ||goproxing.com
 ||gordonchang.com
-||gosuslugi.ru
 ||gotc.io
 ||gotgayporn.com
 ||gotporn.com
@@ -12376,6 +12375,7 @@
 ||ibcp07.com
 ||ibibo.com
 ||ibkr.com.hk
+||ibm.co
 ||ibo.com
 ||icams.com
 ||icanstay.com
@@ -13116,6 +13116,7 @@
 ||june4.org
 ||just-cool.net
 ||justforex.com
+||justfortest.blog.nctu.edu.tw
 ||justhideme.com
 ||justicewillprevail.com
 ||justmysocks.net
@@ -13433,6 +13434,7 @@
 ||lamyig.net
 ||landing.hentaiheroes.com
 ||landiyibu.com
+||landjusticehk.org
 ||languagelog.ldc.upenn.edu
 ||lansis.com.ar
 ||lantern.com
@@ -13917,7 +13919,6 @@
 ||m.istripper.com
 ||m.j9155.com
 ||m.j999015.com
-||m.j9n3.com
 ||m.jf8822.com
 ||m.jgg18.io
 ||m.kankanwu.com
@@ -15085,6 +15086,7 @@
 ||nydn.us
 ||nydus.biz
 ||nyesek.com
+||nynashamnsposten.se
 ||nyshalong.com
 ||nyt2.azurewebsites.net
 ||nyt3.azurewebsites.net
@@ -15426,6 +15428,7 @@
 ||pascual.nz
 ||pass.tdna.me
 ||passion-hd.com
+||pasta.qcjs.ml
 ||pastebin.com
 ||pastehtml.com
 ||pastorfide.com
@@ -16753,7 +16756,6 @@
 ||sg-sin.doh.sb
 ||sg.minexmr.com
 ||sg.news.yahoo.com
-||sg.yahoo.com
 ||sg1lib.org
 ||sgapi66.com
 ||sgf-menziken.ch
@@ -17510,6 +17512,7 @@
 ||talesofwisdom.com
 ||talk910.com
 ||tally.so
+||taloussanomat.fi
 ||tangents.us
 ||tanglaoshu.com
 ||tango.me
@@ -18192,7 +18195,6 @@
 ||twice.tv
 ||twicsy.com
 ||twilightparadox.com
-||twilightstar.cn
 ||twilog.org
 ||twimi.net
 ||twinflower.cc
@@ -18269,7 +18271,6 @@
 ||ug.freepac.pw
 ||ugetube.com
 ||ui-aurora-cdn.nyc3.cdn.digitaloceanspaces.com
-||uiecu.org
 ||uighurbiz.net
 ||uk-proxy.co.uk
 ||uk.32bit.top
@@ -18846,6 +18847,7 @@
 ||w1.sc1618.co
 ||w1.tg333.net
 ||w1.vz05.club
+||w12.chinonyaa.tk
 ||w2.myredirect.us
 ||w2.tg333.net
 ||w234234.com
@@ -19992,7 +19994,6 @@
 ||www.benzishe.net
 ||www.beplay.com
 ||www.berliner-zeitung.de
-||www.berxtv.site
 ||www.bestfitness.net
 ||www.bestfreevpn.com
 ||www.bestfreevpn.net
@@ -20020,7 +20021,6 @@
 ||www.betvictor96.com
 ||www.betvictor98.com
 ||www.betvip14.cc
-||www.betw288.com
 ||www.betway118.com
 ||www.betway119.com
 ||www.betway556.com
@@ -20036,7 +20036,6 @@
 ||www.biblepoint.net
 ||www.bida-tech.com
 ||www.bidvertiser.com
-||www.bifa998.com
 ||www.bigboobsalert.com
 ||www.bigfishgames.com
 ||www.bigtitstokyo.com
@@ -20315,6 +20314,7 @@
 ||www.chineseconferenceinterpreters.com
 ||www.chineseguide.us
 ||www.chinesewinnipeg.com
+||www.chinonyaa.tk
 ||www.chip.de
 ||www.chip1stop.com
 ||www.chitujsq.com
@@ -20974,6 +20974,7 @@
 ||www.fxcm-cn.com
 ||www.fxcmapps.com
 ||www.fxcmmarkets.com
+||www.fxcmzh.com
 ||www.fxdd.com
 ||www.fxopen.ru
 ||www.fxpro.cn
@@ -21238,6 +21239,7 @@
 ||www.hkppi.com
 ||www.hkrdb.net
 ||www.hksinolink.com.hk
+||www.hkticketing.com
 ||www.hkupress.org
 ||www.hkxhj99.com
 ||www.hl-vihannes.fi
@@ -21836,7 +21838,6 @@
 ||www.lucrorfx.org
 ||www.luimg.com
 ||www.luluck.com
-||www.lungoparma.com
 ||www.lungta.cz
 ||www.luno.com
 ||www.luolixix.com
@@ -21888,6 +21889,7 @@
 ||www.marvel88.com
 ||www.marvelapp.com
 ||www.mashpedia.com
+||www.mastercard.com
 ||www.masterlee.url.tw
 ||www.matataitung.com.tw
 ||www.mathmidterm.com
@@ -22659,7 +22661,6 @@
 ||www.shadowsky.icu
 ||www.shadowsocks.biz
 ||www.shanghaist.com
-||www.shapeshift.io
 ||www.shayunet.net
 ||www.sheetzuchin.com
 ||www.shelfari.com
@@ -22683,6 +22684,7 @@
 ||www.siegener-zeitung.de
 ||www.sifangtv.club
 ||www.signguard.se
+||www.sikucyclopedia.com
 ||www.silklabo.com
 ||www.sim-outhouse.com
 ||www.simonandschuster.com
@@ -22901,7 +22903,6 @@
 ||www.the-diplomat.com
 ||www.the24.co.uk
 ||www.theartnewspaper.com
-||www.thebaytheseries.com
 ||www.thebigconversationspace.org
 ||www.theblackalley.com
 ||www.thebrusselstimes.com
@@ -23200,6 +23201,7 @@
 ||www.vcupbox.net
 ||www.vcupmars.com
 ||www.veda.co.nz
+||www.velocity.net
 ||www.venetianmacau.com
 ||www.verkkouutiset.fi
 ||www.vg008.com
@@ -24117,6 +24119,7 @@
 ||yc7579.com
 ||yc7876.com
 ||yd09s3330.juarvian.com
+||yddc088.com
 ||yddc188.com
 ||yddc1888.com
 ||yddc288.com
@@ -24289,7 +24292,6 @@
 ||yunbo365.com
 ||yunex.io
 ||yunfan.pw
-||yunlin.ws
 ||yuren22.com
 ||yurenmatou9.com
 ||yuritelecom.com
@@ -24512,7 +24514,6 @@
 ||zz36.net
 ||zz383.net
 ||zz757.net
-||zz835.net
 ||zz9515.pw
 ||zzb.bz
 ||zze.healthsites.xyz
