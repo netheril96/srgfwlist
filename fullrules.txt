@@ -5094,6 +5094,7 @@
 ||0888.azureedge.net
 ||08wl111.com
 ||09.is-very-sweet.org
+||0900sc.com
 ||0908633.com
 ||09097app.com
 ||091777.com
@@ -5200,6 +5201,7 @@
 ||11cpk.com
 ||11dream.com
 ||11sebb.com
+||11youtube.com
 ||12.com
 ||12001.com
 ||1208zp.com
@@ -5213,6 +5215,7 @@
 ||1235.com
 ||1235566.com
 ||123lfz.com
+||123youtube.com
 ||125502.com
 ||125723.com
 ||126hostname.stufftoread.com
@@ -5827,6 +5830,7 @@
 ||3x3avalanche.com
 ||3xplanet.com
 ||3xplanet.net
+||4000byb.com
 ||400ks.com
 ||4022011.com
 ||404.mn
@@ -5925,7 +5929,6 @@
 ||516nn.net
 ||516oo.net
 ||517577e.com
-||517577g.com
 ||517577z.com
 ||517664.com
 ||5177.org
@@ -6078,6 +6081,7 @@
 ||6000.vip
 ||60001sc.com
 ||60001su.com
+||60002sc.com
 ||60002su.com
 ||60003sc.com
 ||60003su.com
@@ -6086,6 +6090,7 @@
 ||60005su.com
 ||60006sc.com
 ||60006su.com
+||60007sc.com
 ||60007su.com
 ||60008sc.com
 ||60008su.com
@@ -6099,12 +6104,16 @@
 ||601vip.vip
 ||6020.vip
 ||6021.vip
+||60400sc.com
+||60500sc.com
 ||60600.net
 ||6061.vip
 ||6062.vip
+||60700sc.com
 ||60757.com
 ||6076905.com
 ||60776.cc
+||60800sc.com
 ||6084.vip
 ||6092088.cn
 ||60caipiao.com
@@ -6229,12 +6238,16 @@
 ||6795958.com
 ||68000sc.com
 ||680132.com
+||68100sc.com
 ||681152.com
 ||681944.com
 ||682137.com
 ||683301.com
 ||68399.com
+||68500sc.com
 ||6852258.com
+||68600sc.com
+||68900sc.com
 ||68p888.com
 ||68ql.co
 ||69.mu
@@ -6243,6 +6256,7 @@
 ||69192.com
 ||69227.uk
 ||696205.com
+||6966699.com
 ||6966vip.com
 ||699aa.net
 ||69story.com
@@ -6398,6 +6412,7 @@
 ||80010sc.com
 ||80011sc.com
 ||80012sc.com
+||80200sc.com
 ||808pb.com
 ||80letou.com
 ||810127.com
@@ -6642,13 +6657,10 @@
 ||9566216.com
 ||95662222ee.com
 ||95662222j.com
-||9566236.com
 ||9566245.com
-||9566336.com
 ||9566454.com
 ||9566765.com
 ||9581537.com
-||95990003.cc
 ||95990005.net
 ||95990008.net
 ||95991100.com
@@ -6659,7 +6671,6 @@
 ||95992224.com
 ||95992229.net
 ||95993333a.com
-||95994443.net
 ||95994448.com
 ||95994499.com
 ||95997773.com
@@ -7325,7 +7336,6 @@
 ||amxj5577.com
 ||amxj5588.com
 ||amxj8899.com
-||amyh8588.com
 ||amzn.to
 ||an.1x.net
 ||anaface.com
@@ -7586,6 +7596,7 @@
 ||assurdita5stelle.blogspot.it
 ||astraprod.ro
 ||astrill-mirror.com
+||astrillaff.com
 ||astrillcn.com
 ||astrology-zodiac-signs.com
 ||astrumpeople.com
@@ -7848,7 +7859,6 @@
 ||bat.me
 ||battle.gtasia777.com
 ||battle1.gtasia777.com
-||batzion.co.za
 ||baus.ec
 ||baxyy.com
 ||bayar-tagihan.com
@@ -8606,10 +8616,7 @@
 ||buyastrill.com
 ||buyee.jp
 ||buypass.com
-||buyu0077.com
 ||buyu013.com
-||buyu052.com
-||buyu053.com
 ||buyu054.com
 ||buyu056.com
 ||buyu058.com
@@ -8706,7 +8713,6 @@
 ||by0800.com
 ||by0900.com
 ||by88000.com
-||byb10.app
 ||bygcloud.com
 ||byj01.com
 ||byj02.com
@@ -9326,7 +9332,6 @@
 ||cn.stemi.tv
 ||cn.tdna.me
 ||cn.venetianmacau.com
-||cn.world-no1.com
 ||cn.yahoo.com
 ||cn0333.com
 ||cn1069.org
@@ -9743,7 +9748,6 @@
 ||dc0075.com
 ||dc0078.com
 ||dc0079.com
-||dc1111.com
 ||dc1113.com
 ||dc1119.com
 ||dc221.com
@@ -11682,6 +11686,7 @@
 ||gt3322.com
 ||gt3333.com
 ||gt5.332k.tk
+||gt5533.com
 ||gt6677.com
 ||gt6699.com
 ||gt80.com
@@ -11731,6 +11736,7 @@
 ||h.139.re
 ||h.32top.xyz
 ||h.bebc.us
+||h.de-a.org
 ||h.gooto.win
 ||h.mon33.us
 ||h.v.gp
@@ -11860,7 +11866,6 @@
 ||h598.com
 ||h5galgame.com
 ||h782.com
-||h796.com
 ||h8338.com
 ||haaretz.co.il
 ||haaretz.com
@@ -12110,7 +12115,6 @@
 ||hjd2048.com
 ||hjdc06.com
 ||hjdc09.com
-||hjdc111.com
 ||hjdc29.com
 ||hjdc3.com
 ||hjdc38.com
@@ -13075,7 +13079,6 @@
 ||joymii.com
 ||joys999.com
 ||jp-kix.doh.sb
-||jp-nrt.doh.sb
 ||jp-sex.com
 ||jp.msn.com
 ||jp.tiar.app
@@ -13090,6 +13093,7 @@
 ||js.intercomcdn.com
 ||js00140.com
 ||js0505.com
+||js173685.com
 ||js221.com
 ||js22222.com
 ||js223.com
@@ -13262,6 +13266,7 @@
 ||khd.qjvpn.com
 ||khurul.ru
 ||kichiku.tv
+||kickasstorrent.proxyindex.co
 ||kickasstorrents.to
 ||kicksix.org
 ||kiedere.com.mx
@@ -13279,6 +13284,7 @@
 ||kinghost.com
 ||kingkong.com.tw
 ||kingofvpn.com
+||kingscolleges.com
 ||kingss.top
 ||kingss.win
 ||kinkykink.com
@@ -13841,6 +13847,7 @@
 ||ltou168.com
 ||ltou178.com
 ||ltou188.com
+||ltou86.com
 ||ltou881.com
 ||ltou889.com
 ||ltou95.com
@@ -14744,7 +14751,6 @@
 ||naughtyblog.org
 ||naughtymag.com
 ||nauu66.com
-||nav.dajinyule.vip
 ||nav.dj0020.com
 ||nav.jbb0016.com
 ||nav.kcai969.com
@@ -15323,6 +15329,7 @@
 ||ovpn.se
 ||owa.baltimorecity.gov
 ||owvkg.site
+||owzkmh.site
 ||oxialfarm.com
 ||oxlife.co
 ||oyax.com
@@ -15389,6 +15396,7 @@
 ||pa483.com
 ||pabdy.site
 ||pac.itzmx.com
+||pac.mcplay.cn
 ||pacforum.org
 ||pacific-scrubland-40867.herokuapp.com
 ||pacificquorum.com
@@ -16815,7 +16823,6 @@
 ||shenjiying.jigsy.com
 ||shenjiying005.jigsy.com
 ||shenlan.gq
-||shenlaoxi.com
 ||shenpoker.com
 ||shenyun.com
 ||shenyun.org
@@ -16936,6 +16943,7 @@
 ||skn.noip.me
 ||skoletube.dk
 ||sktnn.com
+||sky7anime.net
 ||skyav.me
 ||skybl.life
 ||skydivedurban.co.za
@@ -18099,6 +18107,7 @@
 ||tuitwit.com
 ||tuk-tuk.co.uk
 ||tukif.com
+||tumbler.com
 ||tumblr.agardenday.com
 ||tunbridge.org
 ||tune.pk
@@ -18237,6 +18246,7 @@
 ||tyc3336.com
 ||tyc3337.com
 ||tyc3339.com
+||tylerclary.com
 ||typical.pt
 ||u.cc.st
 ||u.f-q.me
@@ -18257,7 +18267,6 @@
 ||ubomtv.site
 ||ubxyz.com
 ||uc4.net
-||uccxtv.site
 ||ucdavis.pubs.curricunet.com
 ||uclaut.net
 ||ucpnz.co.nz
@@ -19345,7 +19354,6 @@
 ||www.06966e.com
 ||www.06bbcc.com
 ||www.08sal.com
-||www.0900sc.com
 ||www.096da.com
 ||www.098.com
 ||www.099529.com
@@ -20387,6 +20395,7 @@
 ||www.commercebuild.com
 ||www.comparethecloud.net
 ||www.conceptdoppler.org
+||www.concreteflux.com
 ||www.coolkid.win
 ||www.coolux.be
 ||www.corbacho.net
@@ -22515,7 +22524,6 @@
 ||www.rbet777.com
 ||www.rchchope.edu.hk
 ||www.reabble.com
-||www.real-brandflow.com
 ||www.realclearprivacy.biz
 ||www.realgfporn.com
 ||www.realorgasms.com
@@ -22679,6 +22687,7 @@
 ||www.shellfire.net
 ||www.shemaletubevideos.com
 ||www.shengui666.com
+||www.shenlaoxi.com
 ||www.shenyuncreations.com
 ||www.shibo8888.com
 ||www.shidaixianfeng.tk
@@ -23200,6 +23209,7 @@
 ||www.v86t.com
 ||www.vacationrentalpeople.com
 ||www.vacounh.com
+||www.valu-cn.com
 ||www.vampirebund.com
 ||www.vanbbs.com
 ||www.vancanada.com
@@ -23548,6 +23558,7 @@
 ||www.yjizzoo.ml
 ||www.yjymm.com
 ||www.yk801.com
+||www.yk805.com
 ||www.yl7.com
 ||www.yl7989.com
 ||www.yl8.com
@@ -23652,7 +23663,6 @@
 ||www.zhengdao.org
 ||www.zhongfengmetal.com
 ||www.zhongzidi.com
-||www.zhuangbiaowei.com
 ||www.zhuatube.com
 ||www.zhujike.com
 ||www.zihru.com.tw
@@ -24037,6 +24047,7 @@
 ||yanukovychleaks.org
 ||yao.cl
 ||yaoi.site
+||yarracommunitymusic.net
 ||yasni.com
 ||yatra.com
 ||yaxin222.com
@@ -24555,6 +24566,7 @@
 ||zzw.healthsection.xyz
 ||zzx.dnsdyn.xyz
 ||zzx.dnsfree.xyz
+||zzx.dnsget.xyz
 ||zzx.dnsmail.xyz
 ||zzx.goforhealth.xyz
 ||zzx.healthsection.xyz
