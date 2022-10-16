@@ -5107,7 +5107,6 @@
 ||09afcp.com
 ||0net.io
 ||0x00000001.de
-||0x00sec.org
 ||1-10.fr
 ||10.eve.dyx.com
 ||1000.tv
@@ -5895,6 +5894,7 @@
 ||500px.com
 ||50104.coolxtv.com
 ||5016397.com
+||5017022.com
 ||502310.com
 ||50418.9aca1.com
 ||50504688.com
@@ -10079,7 +10079,6 @@
 ||download.bluesprig.com
 ||download.camfrogcdn.com
 ||download.cnet.com
-||download.keyword888.com
 ||downloadapkfree.com
 ||downloadatoz.com
 ||downloadfast.org
@@ -11728,7 +11727,6 @@
 ||gyutto.com
 ||gz1616.com
 ||gz7888.com
-||gzhanyou.org
 ||gzzt.org
 ||h-appybirthday.com
 ||h-digital.athersite.com
@@ -13637,6 +13635,7 @@
 ||leyinga.com
 ||lezcuties.com
 ||lfexacg.com
+||lfporn.com
 ||lfpress.com
 ||lfremote.net
 ||lgbtx.com
@@ -14622,7 +14621,6 @@
 ||my888.app
 ||my88xc.com
 ||myaccount.infinox-asia.com
-||myaccount.plotioblh.com
 ||myads.longluntan.com
 ||myaic.de
 ||myav.life
@@ -14671,6 +14669,7 @@
 ||myradio.hk
 ||myremotecentral.com
 ||myrics.com
+||mysearchresults.com
 ||myservice.surface.microsoft.com
 ||mysinchew.com
 ||mysistershotfriend.com
@@ -18423,6 +18422,7 @@
 ||uploadfiles.io
 ||uplusmall.com
 ||upluss.com
+||uplusweb.com
 ||uporn.net
 ||uproxysite.cloudfunctions.net
 ||upsc.co.uk
@@ -18434,6 +18434,7 @@
 ||urimbooks.com
 ||url.cn
 ||url.fd2z.cn
+||url365.club
 ||urlgalleries.net
 ||urvashimahajan.com
 ||us-189-255-4.fri-gate.biz
@@ -19016,6 +19017,7 @@
 ||weav.xyz
 ||weaxv.xyz
 ||web-help-service.net
+||web.any.do
 ||web.app
 ||web.cl8.app
 ||web.edapp.com
@@ -21847,7 +21849,6 @@
 ||www.leyicai888.com
 ||www.leyifan.com.cn
 ||www.lf318.com
-||www.lfporn.com
 ||www.lgsinnovations.com
 ||www.lhasadaily.com
 ||www.lhassa.org
@@ -23443,7 +23444,6 @@
 ||www.wixsite.com
 ||www.wizproxy.com
 ||www.wjsnr.com
-||www.wk188.app
 ||www.wkek.net
 ||www.wmbl.co.uk
 ||www.wmctv.com
@@ -23583,6 +23583,7 @@
 ||www.y6845.com
 ||www.y68789.com
 ||www.yabo-cn.com
+||www.yabo260.com
 ||www.yabovip584.app
 ||www.yahaha.plus
 ||www.yahoo.com.sg
