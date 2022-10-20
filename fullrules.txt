@@ -5581,6 +5581,7 @@
 ||25.php5.bid
 ||25.qc.to
 ||25.wtf.im
+||251727.net
 ||256.now-ip.net
 ||257.now-ip.net
 ||258.microcycas.com
@@ -5622,6 +5623,7 @@
 ||299299.com
 ||299299.com.au
 ||2anonymousproxy.com
+||2ch.sc
 ||2cytk.com
 ||2d2d.hostei.com
 ||2dway.com
@@ -6482,6 +6484,7 @@
 ||845.com
 ||845099.com
 ||84525.vip
+||8463m.com
 ||8466.com
 ||85.is-leet.com
 ||85299.com
@@ -6534,7 +6537,6 @@
 ||887117.com
 ||88778827.com
 ||8878u.com
-||888.551572.com
 ||888.66xbgg.com
 ||888.77xbgg.com
 ||888.msbet8.com
@@ -6798,6 +6800,7 @@
 ||9pah.com
 ||9pbet.com
 ||9ppe.com
+||9sp2.icu
 ||9ssa.com
 ||9to5toys.com
 ||9xbuddy.com
@@ -7088,6 +7091,7 @@
 ||agencias.renfe.com
 ||agent.bckbet.com.cn
 ||agentwho.net
+||agi.com
 ||agkmg.com
 ||agnitio.com.ar
 ||agomtv.site
@@ -7725,6 +7729,7 @@
 ||b-ok.lat
 ||b-ok.org
 ||b-ok.xyz
+||b.cdnst.net
 ||b.cowoo.win
 ||b.cr.rs
 ||b.hd36.win
@@ -8019,6 +8024,7 @@
 ||besssoftware.net
 ||best-proxy.com.de
 ||bestbuy.com
+||bestgore.fun
 ||bestofscenecollection.cc
 ||bestproxylist.com
 ||bestroc.org
@@ -8170,6 +8176,7 @@
 ||bizcongo.cd
 ||bizhat.com
 ||bizimama.com
+||bj-share.net
 ||bj.ssvps.site
 ||bj6666.com
 ||bjh10.com
@@ -9901,6 +9908,7 @@
 ||diegogrossi.com.ar
 ||dig0.com
 ||digconsultants.com
+||digforfire.org
 ||digg.com
 ||diggingtunnels.com
 ||digi-ateljee.be
@@ -9920,6 +9928,7 @@
 ||dinsound.net
 ||dioguitar23.me
 ||dioguitar23.net
+||dios.com.ph
 ||dippindots.com.au
 ||direct.lc.chat
 ||directedplay.com
@@ -10190,6 +10199,7 @@
 ||dukou.us
 ||dukousyun.club
 ||duliziyou.com
+||dumisa.tv
 ||dunn.club
 ||duosuccess.com
 ||duotai.org
@@ -11695,6 +11705,7 @@
 ||grupompr.com
 ||gruppuso.com
 ||gs01.dsn02.co
+||gs108.com
 ||gsis.gr
 ||gsmarena.gr
 ||gso.hk
@@ -13108,6 +13119,7 @@
 ||jpiq.com
 ||jpmna.com
 ||jpopforum.net
+||jpsex.in
 ||jria.jpn.com
 ||js.intercomcdn.com
 ||js00140.com
@@ -13806,7 +13818,6 @@
 ||london2012.org
 ||long3158.com
 ||long8321.com
-||longbowgroup.com
 ||longhu99.com
 ||longjinglihua.com
 ||longlifeint.webnode.tw
@@ -14371,6 +14382,7 @@
 ||minecast.xyz
 ||minecraft.net
 ||minecraftr.us
+||mineirinhanalemanha.de
 ||minepi.com
 ||mingbairen.com.au
 ||minghui-a.org
@@ -14381,6 +14393,7 @@
 ||minidaili.com
 ||miniprox.org
 ||miniworldgame.com
+||minnano-av.com
 ||mintable.app
 ||minzhuzhanxian.com
 ||minzhuzhongguo.org
@@ -14573,6 +14586,7 @@
 ||ms6588.com
 ||msgforex.com
 ||msguancha.com
+||msn.co.nz
 ||msnapk.com
 ||msp2.lpbet123.com
 ||msper.freeiz.com
@@ -15344,6 +15358,7 @@
 ||orzkoo.com
 ||osakamotion.net
 ||osikko.jp
+||osilo.net
 ||oskarzhang.me
 ||oslofreedomforum.com
 ||ossxtv.com
@@ -15442,6 +15457,7 @@
 ||pacspace.com
 ||paddypower.com
 ||padmarigdzinling.org
+||pagani.com
 ||paganwiccan.about.com
 ||page.link
 ||page2rss.com
@@ -15694,7 +15710,6 @@
 ||play.54647.blog
 ||play.decentraland.org
 ||play.drawnguess.com
-||play.gs108.com
 ||play.pl
 ||play.streamingvideoprovider.com
 ||player.haoli787.com
@@ -15818,7 +15833,6 @@
 ||pornscum.com
 ||pornsos.com
 ||pornstarsporno.com
-||porntrex.com
 ||pornve.com
 ||pornvideos.com
 ||pornworms.com
@@ -17590,6 +17604,7 @@
 ||tantannews.com
 ||tanzil.net
 ||taobonfu.com
+||tapestry.tapad.com
 ||tara-medium.com
 ||taraholidayxxx.com
 ||tasci.biz
@@ -18274,7 +18289,6 @@
 ||twitbridge.com
 ||twitcasting.tv
 ||twitch.com
-||twiter.com
 ||twitmania.com
 ||twitool-box.net
 ||twittbot.net
@@ -18668,6 +18682,7 @@
 ||videoscavenger.com
 ||videosection.com
 ||videosz.com
+||videouri.com
 ||videovor.com
 ||videowood.tv
 ||vidmax.com
@@ -18699,6 +18714,7 @@
 ||vip1615.com
 ||vip370.cc
 ||vip6.88xbgg.com
+||vip69.xyz
 ||vip77765.com
 ||vip8.77xbgg.com
 ||vip9.77xbgg.com
@@ -19702,7 +19718,6 @@
 ||www.789te.com
 ||www.789vpn.org
 ||www.78sihu.com
-||www.792.com
 ||www.7animes.com
 ||www.7g.tv
 ||www.7i13n565.com
@@ -19849,7 +19864,6 @@
 ||www.ag9.com
 ||www.agensir.it
 ||www.aggressivebabes.com
-||www.agi.com
 ||www.agoradrugs.com
 ||www.agrocortex.com.br
 ||www.ah-me.com
@@ -20683,7 +20697,6 @@
 ||www.dubaichronicle.com
 ||www.dudleysurveyors.com
 ||www.dudu-sex.biz
-||www.dumisa.tv
 ||www.dvd-50.com
 ||www.dvdasa.com
 ||www.dxlive.com
@@ -21186,6 +21199,7 @@
 ||www.gkfx.com
 ||www.glaruntech.com
 ||www.global-fh.com
+||www.globeandmail.ca
 ||www.gloryministries.org.tw
 ||www.glthotel.com
 ||www.gmail.cm
@@ -21239,7 +21253,6 @@
 ||www.grjsq.biz
 ||www.grneggs.com
 ||www.gruenbeck.de
-||www.gs108.com
 ||www.gsm.ir
 ||www.gsmvideocameras.com.com
 ||www.gspot-discuss.com
@@ -21258,6 +21271,7 @@
 ||www.gulige.com
 ||www.gundemkibris.com
 ||www.gunmtv.site
+||www.guns.net
 ||www.guotaigold.com
 ||www.gv520.com
 ||www.gvdb.org
@@ -22089,14 +22103,12 @@
 ||www.ming-jian.net
 ||www.minghui-school.org
 ||www.minghui.cc
-||www.minnano-av.com
 ||www.minutouno.com
 ||www.mirrorbooks.com
 ||www.mirrormediagroup.com
 ||www.mishalov.com
 ||www.missdeer.com
 ||www.mississippimiracleclay.com
-||www.missitv.site
 ||www.misstransstarinternational.com
 ||www.mitao520.com
 ||www.mitbbs.ca
@@ -22499,6 +22511,7 @@
 ||www.pornplays.com
 ||www.pornrabbit.com
 ||www.porntitan.com
+||www.porntrex.com
 ||www.pornub.com
 ||www.pornwatchers.com
 ||www.postagon.com
@@ -22719,6 +22732,7 @@
 ||www.sakuravpn.com
 ||www.salon365.com
 ||www.salon366.com
+||www.saloncs.com
 ||www.saloncs.com.tw
 ||www.sammyboyforum.com
 ||www.sandsmacao.com
@@ -23076,6 +23090,7 @@
 ||www.thinkstockphotos.fr
 ||www.thinkstockphotos.in
 ||www.thinkstockphotos.it
+||www.thinkstockphotos.jp
 ||www.thirdmovies.com
 ||www.thisvid.com
 ||www.thoorn.de
@@ -23402,6 +23417,7 @@
 ||www.vwin666.com
 ||www.vwin668.com
 ||www.vyprfanqiang.com
+||www.w123123.com
 ||www.w3699.com
 ||www.w6929.com
 ||www.w88108.com
@@ -23436,6 +23452,7 @@
 ||www.wcsudalailama.org
 ||www.wdaxv.com
 ||www.wdr.de
+||www.webcarstory.com
 ||www.webet.com
 ||www.webet68.com
 ||www.webmasterhome.cn
@@ -23518,6 +23535,7 @@
 ||www.x3623008.com-1
 ||www.x78aa.com
 ||www.x78bb.com
+||www.x78gg.com
 ||www.x99bb.com
 ||www.xam41.com
 ||www.xart.com
@@ -23705,7 +23723,6 @@
 ||www.youtube.co.uk
 ||www.youtube.com.my
 ||www.youtube.com.sg
-||www.youtube.fr
 ||www.youtube.iq
 ||www.youtube.nl
 ||www.youtube2mp3.net
@@ -23933,6 +23950,7 @@
 ||xinbi768.com
 ||xinbi818.com
 ||xinbi998.com
+||xinbov6.com
 ||xing.de
 ||xingdaili.com
 ||xingong.com.tw
@@ -24381,6 +24399,7 @@
 ||youtube.com.tw
 ||youtube.de
 ||youtube.es
+||youtube.fr
 ||youtube.hk
 ||youtube.ie
 ||youtube.it
