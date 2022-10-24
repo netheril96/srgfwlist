@@ -7409,6 +7409,7 @@
 ||anppy.com
 ||anqingshi.xyz
 ||ansonbook.myweb.hinet.net
+||ant.comm.ccu.edu.tw
 ||antenne-deutschland.de
 ||anti-coco.top
 ||antiprism.ca
@@ -8053,6 +8054,7 @@
 ||bet365.es
 ||bet3658802.com
 ||bet9477.com
+||beta.character.ai
 ||beta.usejump.com
 ||betak.net
 ||bethelweb.hk
@@ -10045,6 +10047,7 @@
 ||doc.trolltech.com
 ||docbox.fricke-g.de
 ||docs.majesticseagull.com.tw
+||docs.mongodb.org
 ||docs.qmachine.org
 ||docstoc.com
 ||docsw.com.mx
@@ -11287,7 +11290,6 @@
 ||fun566.com
 ||fun571.com
 ||fun582.com
-||fun606.com
 ||fun612.com
 ||fun678.com
 ||fun780.com
@@ -12094,7 +12096,6 @@
 ||hggj900.com
 ||hggj901.com
 ||hgob.org
-||hgtg355.com
 ||hh082658.chevitee.com
 ||hh08s6916.deflanid.com
 ||hh22hh.com
@@ -13353,6 +13354,7 @@
 ||kilometrocero.cl
 ||kima66.net
 ||kimcil.ws
+||kin-net.com
 ||kindgirls.com
 ||king.kinapharma.com
 ||king269.com
@@ -17371,6 +17373,7 @@
 ||statebuilding.tw
 ||statefarm.com
 ||static.addtoany.com
+||static.cdprojektred.com
 ||static.iwincdn.com
 ||static.namethatporn.com
 ||static.palgrave.com
@@ -19019,6 +19022,7 @@
 ||w12.chinonyaa.tk
 ||w2.myredirect.us
 ||w2.tg333.net
+||w2.xggfgczh781.xyz
 ||w234234.com
 ||w3.001www.com
 ||w3.assembly.go.kr
@@ -19500,6 +19504,7 @@
 ||wwa.nvcx.work
 ||wwcr.com
 ||wwddxv.com
+||www-26119.com
 ||www-70911a.com
 ||www-72388.cc
 ||www-7377.com
@@ -19681,7 +19686,6 @@
 ||www.3728a.com
 ||www.3728z.com
 ||www.37a37.com
-||www.389124.com
 ||www.39173399.com
 ||www.3917800.com
 ||www.3917ss.com
@@ -19780,6 +19784,7 @@
 ||www.7117dd.com
 ||www.7171hu.com
 ||www.777021.com
+||www.7777270.net
 ||www.777b.com
 ||www.777option.com
 ||www.777pornotube.com
@@ -20788,9 +20793,9 @@
 ||www.dytt8.com
 ||www.dyvip11.com
 ||www.dyvip35.com
+||www.dyvip56.com
 ||www.dyvip61.com
 ||www.dyvip67.com
-||www.dyvip69.com
 ||www.dyvip70.com
 ||www.dyvip91.com
 ||www.dzcp3555.com
@@ -21153,6 +21158,7 @@
 ||www.fun586.com
 ||www.fun6033.com
 ||www.fun605.com
+||www.fun606.com
 ||www.fun712.com
 ||www.fun78.com
 ||www.fun809.com
@@ -21190,7 +21196,6 @@
 ||www.fvn8.app
 ||www.fwd.com
 ||www.fx110.com
-||www.fxcm-asia.com
 ||www.fxcm-chn.com
 ||www.fxcm-cn.com
 ||www.fxcm-zh.com
@@ -21286,7 +21291,6 @@
 ||www.gkfx.co.uk
 ||www.gkfx.com
 ||www.glaruntech.com
-||www.global-fh.com
 ||www.globeandmail.ca
 ||www.gloryministries.org.tw
 ||www.glthotel.com
@@ -21885,7 +21889,6 @@
 ||www.kkday.com
 ||www.kkk552.com
 ||www.kkkapk.com
-||www.kl.edu.tw
 ||www.kleinsorge-online.de
 ||www.kljhw.net
 ||www.klxsw.com
@@ -22702,6 +22705,7 @@
 ||www.qm900.com
 ||www.qmllt.com
 ||www.qomun.com
+||www.qoo-app.com
 ||www.qq-av.com
 ||www.qqzxdl.com
 ||www.qruq.com
@@ -23650,17 +23654,16 @@
 ||www.xbiquge.la
 ||www.xbluray.cc
 ||www.xcoyote.com
-||www.xf182.com
 ||www.xf187.com
 ||www.xf197.com
+||www.xf639.com
 ||www.xf802.com
 ||www.xf811.com
 ||www.xf835.com
 ||www.xf836.com
 ||www.xf856.com
-||www.xf877.com
-||www.xf952.com
 ||www.xf966.com
+||www.xf968.com
 ||www.xf979.com
 ||www.xfanz.com
 ||www.xfinity.net
@@ -23932,6 +23935,7 @@
 ||www5.zmall.fun
 ||www7775678.com
 ||www99.aamall.fun
+||www99.llmall.fun
 ||wwwdaili.com
 ||wwwdns.work
 ||wwwfacebook.com
@@ -24237,7 +24241,6 @@
 ||xyy69.com
 ||xyyl168.com
 ||xyz555.com
-||xyzorb.com
 ||xzavr.com
 ||y-china.org
 ||y.tv100.us
@@ -24602,6 +24605,7 @@
 ||yy0110.com
 ||yy11395.com
 ||yy13512.com
+||yy16621.com
 ||yy25202.com
 ||yy29558.com
 ||yy358.com
