@@ -4991,6 +4991,8 @@
 ||01.sel.kor.ygg.yt
 ||0100sc.com
 ||011000077.com
+||0110003330.com
+||0110004440.com
 ||011001000.com
 ||01100333a.com
 ||0110333a.com
@@ -6009,7 +6011,6 @@
 ||554js.com
 ||555-777.com
 ||555000c10.com
-||55518325.yh.789us.net
 ||555506.org
 ||55555xam.com
 ||55557193.com
@@ -6318,7 +6319,6 @@
 ||735bm.com
 ||736bm.com
 ||7377.com
-||7377cc.com
 ||7377xx.com
 ||737bm.com
 ||738284.com
@@ -8369,6 +8369,7 @@
 ||bluecloud.pw
 ||bluekoff.net
 ||bluemoon.com.vn
+||blueseek.com
 ||bluesurface.bolab.net
 ||blurb.com
 ||blurrymeta.com
@@ -9326,6 +9327,7 @@
 ||cm365.xyz
 ||cmail.cornell.edu
 ||cmatec.es
+||cmbswissco.com
 ||cmcmarkets.com
 ||cmi.org.tw
 ||cms.09230927.webnode.tw
@@ -9597,7 +9599,6 @@
 ||cupofchina.com
 ||curioustore.com
 ||curlie.org
-||currencylayer.com
 ||curve.fi
 ||cusmtv.site
 ||custommonkey.org
@@ -10050,6 +10051,7 @@
 ||docbox.fricke-g.de
 ||docs.majesticseagull.com.tw
 ||docs.mongodb.org
+||docs.python-requests.org
 ||docs.qmachine.org
 ||docstoc.com
 ||docsw.com.mx
@@ -10131,6 +10133,7 @@
 ||download.bluesprig.com
 ||download.camfrogcdn.com
 ||download.cnet.com
+||download.pdfforge.org
 ||downloadapkfree.com
 ||downloadatoz.com
 ||downloadfast.org
@@ -11172,6 +11175,7 @@
 ||freeyoutube.net
 ||freezhihu.org
 ||freezing.tv
+||freezone.club
 ||frentzgzesh.org
 ||freshfaces.com.my
 ||freshlive.tv
@@ -12689,6 +12693,7 @@
 ||intl.fender.com
 ||intouchg.com
 ||intporn.com
+||inv.vern.cc
 ||invidio.us
 ||invidio.xamh.de
 ||invidious.fdn.fr
@@ -13117,7 +13122,6 @@
 ||jogja.tk
 ||jogos.uol.com.br
 ||johnlose.de
-||johnpo.com
 ||johntool.com
 ||join.asiamoviepass.com
 ||joinbbs.net
@@ -14033,7 +14037,6 @@
 ||m.jf8822.com
 ||m.jgg18.io
 ||m.kankanwu.com
-||m.kcai528.com
 ||m.kcai969.com
 ||m.kuihua888.com
 ||m.leduo111.com
@@ -14283,12 +14286,14 @@
 ||mcat01.com
 ||mcat123.com
 ||mcat166.com
+||mcat188.com
 ||mcat66.com
 ||mccormicklit.com
 ||mccrack.cf
 ||mcfantasy.xyz
 ||mcfog.com
 ||mcleodganj.com
+||mct1688.com
 ||mct188.com
 ||md-cc.org
 ||md.pub
@@ -14324,7 +14329,6 @@
 ||meetme.com
 ||mefeedia.com
 ||megacorpwars.com
-||megacupom.com
 ||megalodon.jp
 ||megaproxy.pw
 ||megasesso.com
@@ -14614,7 +14618,7 @@
 ||mplol.com
 ||mpweekly.com
 ||mr1310.com
-||mra06.com
+||mra01.com
 ||mra08.com
 ||mra58.com
 ||mratme.com
@@ -14623,8 +14627,6 @@
 ||mrcat168.com
 ||mrcat28.com
 ||mrcatapp.com
-||mrcatlanding88.com
-||mrcatnb.com
 ||mrcboy.com
 ||mrkakisen.net
 ||mrlbookkeeping.com
@@ -14806,13 +14808,13 @@
 ||n.hd36.win
 ||n.na.tl
 ||n.stood.pw
+||n0.2112swt.club
 ||n0.eac9f1fc.net
 ||n0s.me
 ||n1g.org
 ||n24.de
 ||n33285.com
 ||n4i2.es
-||n88850.com
 ||n88880.com
 ||n888jj.com
 ||n888ll.com
@@ -16505,7 +16507,6 @@
 ||romsver.ro
 ||rons-home.net
 ||roobaroo.org
-||room1.7cplay.com
 ||room4rent.cl
 ||root.sx
 ||rop.org.au
@@ -16778,6 +16779,7 @@
 ||searchenginewatch.com
 ||searchquotes.com
 ||sears.com
+||searx.be
 ||searx.decatec.de
 ||searx.run
 ||seasol.org
@@ -18950,7 +18952,6 @@
 ||vpoint.jp
 ||vppn.us
 ||vps.cth451.tk
-||vps7041986.tk
 ||vpscn.net
 ||vraiesagesse.net
 ||vrbangers.com
@@ -19021,6 +19022,7 @@
 ||w.yi.wccnw.top
 ||w06966.com
 ||w1.adca2cf2fdb.xyz
+||w1.f238605b.net
 ||w1.sc1618.co
 ||w1.tg333.net
 ||w1.vz05.club
@@ -19470,6 +19472,7 @@
 ||wsvip3.com
 ||wsvip4.com
 ||wsvip5.com
+||wsvip7.com
 ||wsvip8.com
 ||wsws.org
 ||wtbnnews.org
@@ -19850,8 +19853,8 @@
 ||www.8world.com
 ||www.9009.ws
 ||www.901402.co
-||www.90200sc.com
 ||www.90300sc.com
+||www.91300sc.com
 ||www.91500sc.com
 ||www.91600sc.com
 ||www.91ipip.com
@@ -20922,11 +20925,9 @@
 ||www.evilangelvideo.com
 ||www.ewam.it
 ||www.exacteditions.com
-||www.excite.co.jp
 ||www.exocams.com
 ||www.exovoid.ch
 ||www.exp5redir5.com
-||www.expatsurfer.co.uk
 ||www.expedia.com
 ||www.express-links.com
 ||www.express-vpn.com
@@ -22769,7 +22770,6 @@
 ||www.reginacn.com
 ||www.remotevpn.net
 ||www.resilientsystems.com
-||www.resumebear.com
 ||www.rexxx.com
 ||www.rfa.com
 ||www.rfiplaneteradio.org
@@ -23104,7 +23104,6 @@
 ||www.taiwansig.tw
 ||www.take2hosting.com
 ||www.takebackyourinternet.com
-||www.takeru.org
 ||www.talkaboutxinjiang.com
 ||www.tameikegoro.jp
 ||www.tampabay.com
@@ -23636,7 +23635,6 @@
 ||www.wsj.de
 ||www.wsvip2.com
 ||www.wsvip6.com
-||www.wsvip7.com
 ||www.wuaitao.org
 ||www.wumaav.com
 ||www.wunanbooks.com.tw
@@ -23962,6 +23960,7 @@
 ||x.learn.hinet.net
 ||x03641.com
 ||x06966.com
+||x1.2112szt.xyz
 ||x18r.com
 ||x1949x.com
 ||x210165.com
@@ -24257,6 +24256,7 @@
 ||y1848.com
 ||y1998.com
 ||y2.w1rl.biz
+||y2.w1rl.org
 ||y2346.com
 ||y248.cc
 ||y248.la
