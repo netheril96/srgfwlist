@@ -5986,6 +5986,7 @@
 ||5360i.com
 ||536207.com
 ||536209.com
+||536220.com
 ||536273.com
 ||5365.com
 ||538877.com
@@ -6961,6 +6962,7 @@
 ||acgpy.com
 ||acgpy.net
 ||acleblon.com.br
+||acmarine.com
 ||acmepro.com
 ||acnewsfree.com
 ||acom.azurecomcdn.net
@@ -10688,6 +10690,7 @@
 ||facebook.co.jp
 ||facebook.com.ar
 ||facebook.com.br
+||facebook.com.tw
 ||facebook.de
 ||facebook.es
 ||facebook.fr
@@ -10908,7 +10911,6 @@
 ||fictionfanatic.ca
 ||fides.org
 ||fiete.eu
-||fifaboma365.com
 ||fikfap.com
 ||fikrifaizah.org
 ||file-lounge.com
@@ -12395,7 +12397,6 @@
 ||humanrightsfoundation.org
 ||humanrightshouse.org
 ||humansofnewyork.com
-||humortrain.com
 ||hungry.tw
 ||hungyatw.com
 ||hunmagyar.org
@@ -12703,6 +12704,7 @@
 ||invidious.nerdvpn.de
 ||invidious.projectsegfau.lt
 ||invidious.snopyta.org
+||invidious.weblibre.org
 ||invidious.xyz
 ||invoicedoctor.com
 ||inyt.com
@@ -15068,6 +15070,7 @@
 ||nitter.bgme.bid
 ||nitter.dark.fail
 ||nitter.fdn.fr
+||nitter.it
 ||nitter.mastodont.cat
 ||nitter.poast.org
 ||nitter.snopyta.org
@@ -15135,6 +15138,7 @@
 ||northcoastprep.org
 ||northvilleschools.org
 ||nos.nl
+||notabird.site
 ||notaricluj.ro
 ||notblocked.telex.cc
 ||note.taable.com
@@ -15510,7 +15514,6 @@
 ||p9553.com
 ||pa.swpa.us
 ||pa.wikimedia.us
-||pa483.com
 ||pabdy.site
 ||pac.itzmx.com
 ||pac.mcplay.cn
@@ -15908,6 +15911,7 @@
 ||poro.cc
 ||porsar.com
 ||portal.juliuscentrum.nl
+||portal.mintel.com
 ||portal.shadowsocks.ch
 ||portal.shadowsocks.club
 ||portal.shadowsocks.nu
@@ -16047,6 +16051,7 @@
 ||proxyfort.com
 ||proxyhide.org
 ||proxyhub.ru
+||proxyie.cn
 ||proxylistpro.com
 ||proxylists.me
 ||proxylisty.com
@@ -16220,7 +16225,6 @@
 ||quantfury.com
 ||quantumidiot.com
 ||qubxv.com
-||quchao.com
 ||queerpixels.com
 ||quickleft.net
 ||quickpix.co.za
@@ -16380,7 +16384,6 @@
 ||rejectccp.org
 ||rejecttheccp.com
 ||relaxbbs.com
-||releases.llvm.org
 ||releenc.org
 ||religioustolerance.net
 ||relink.us
@@ -17042,6 +17045,7 @@
 ||sinistracritica.org
 ||sino.uk
 ||sinocism.com
+||sinodefenceforum.com
 ||sinomontreal.ca
 ||sinopsis.cz
 ||sinoturcica.org
@@ -17626,6 +17630,7 @@
 ||t.8964.in
 ||t.livekn.com
 ||t.tv321.pw
+||t.umblr.com
 ||t1-ent.co.kr
 ||t1.c.zxdl.pw
 ||t1.ssrsub.one
@@ -17756,6 +17761,7 @@
 ||telecom-cafe.com
 ||telecomitalia.it
 ||teleconomiser.com
+||telega.one
 ||telegramcn.org
 ||telegramindex.com
 ||telekom.de
@@ -17763,7 +17769,6 @@
 ||teleplus.in
 ||teletrade-asia.com
 ||temauri.nl
-||temp.pm
 ||templeinstitute.org
 ||temporarilyruinconsistent.com
 ||tenacy-free.com
@@ -18463,7 +18468,6 @@
 ||um.domain888.pw
 ||um.freepac.pw
 ||um08s3681.juarvian.com
-||umblr.com
 ||umcbc.ca
 ||umchina.umich.edu
 ||umd.net
@@ -19784,7 +19788,6 @@
 ||www.668200600.com
 ||www.6699.com.tw
 ||www.670038.com
-||www.6798895.com
 ||www.688.com
 ||www.6909.com
 ||www.69park.com
@@ -20287,6 +20290,7 @@
 ||www.bjcluestarvpn.tk
 ||www.bjl5.com
 ||www.bjtongyu.com
+||www.bkk056.com
 ||www.bkpi666.com
 ||www.bladevpn.com
 ||www.blaser.com
@@ -20361,6 +20365,7 @@
 ||www.btcherry.net
 ||www.btkitty.net
 ||www.btsmth.com
+||www.bubbaporn.com
 ||www.budaedu.org.hk
 ||www.buddhajnana.org
 ||www.buddhism.blisswisdom.org
@@ -20416,6 +20421,7 @@
 ||www.bwin00082.com
 ||www.bwin00084.com
 ||www.bwin00085.com
+||www.bwin668890.com
 ||www.bwin99810.com
 ||www.bwin99811.com
 ||www.bwin99813.com
@@ -20891,7 +20897,6 @@
 ||www.englishbymichael.com
 ||www.englishcentral.com
 ||www.englishdaily626.com
-||www.epistar.com.tw
 ||www.epochcar.com
 ||www.epost.de
 ||www.eric21.com
@@ -20964,7 +20969,6 @@
 ||www.facebook.co.za
 ||www.facebook.com.au
 ||www.facebook.com.ru
-||www.facebook.com.tw
 ||www.facebook.cz
 ||www.faceboom.com
 ||www.faceboook.com
@@ -22433,6 +22437,7 @@
 ||www.ok246.com
 ||www.okb.com
 ||www.okex.me
+||www.okinawatimes.co.jp
 ||www.oldje.com
 ||www.omci.it
 ||www.omgi.com
@@ -23705,6 +23710,7 @@
 ||www.xj1996.com
 ||www.xj2238.com
 ||www.xj9928.com
+||www.xmail.net
 ||www.xn--fjqq3lrqd19az11f5zm.com
 ||www.xn--jlqs4s8nbs2a38qjwvwxmsyt.com
 ||www.xnylfcp.com
@@ -24283,6 +24289,7 @@
 ||yabo.com
 ||yabook.org
 ||yahaha.xyz
+||yahara.chinkchinkgo.cf
 ||yahoo.cn
 ||yahoo.com.cn
 ||yahoo.com.tw
@@ -24321,7 +24328,6 @@
 ||yb6552.com
 ||yb9356.com
 ||ybao36.com
-||ybao838.com
 ||ybgj1.com
 ||yc6325.com
 ||yc6326.com
