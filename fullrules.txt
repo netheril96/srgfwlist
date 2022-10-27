@@ -5016,7 +5016,6 @@
 ||02.mine.nu
 ||02.servebbs.org
 ||0200sc.com
-||0203.org
 ||020gay.com
 ||023.chocalanwines.com
 ||023432.com
@@ -5172,6 +5171,7 @@
 ||10minutemail.net
 ||10qiu.com
 ||10questionsforthedalailama.com
+||10sb10.com
 ||10tracks.ru
 ||11.233txb.com
 ||110070.com
@@ -5334,6 +5334,7 @@
 ||1877.cc
 ||188270.com
 ||188522.com
+||188685.com
 ||1888789.com
 ||188982.com
 ||188asia.com
@@ -5469,6 +5470,7 @@
 ||2.ns32.us
 ||20.120v.ac
 ||20009999.com
+||201279.com
 ||20180050.com
 ||20180051.com
 ||20181a.net
@@ -5931,7 +5933,6 @@
 ||517pj.com
 ||518.com.tw
 ||5182228.com
-||51823718.com
 ||51fanqiang.net
 ||51homes.ca
 ||51kdy.com
@@ -6196,6 +6197,7 @@
 ||6623407.com
 ||6644buyu.com
 ||666.77xbgg.com
+||666.88xbgg.com
 ||66624.cc
 ||66630.com
 ||666365.tv
@@ -6266,13 +6268,16 @@
 ||69.mu
 ||69.run
 ||69000sc.com
+||69100su.com
 ||69192.com
+||69200su.com
 ||69227.uk
 ||6961852.com
 ||696205.com
 ||6966699.com
 ||6966vip.com
 ||696958.cc
+||69700su.com
 ||699aa.net
 ||69daili.com
 ||69story.com
@@ -6388,7 +6393,6 @@
 ||7782853.com
 ||7788.hk
 ||7788777.com
-||7799xj.com
 ||77apt.com
 ||77av.net
 ||77euro.com
@@ -6401,7 +6405,6 @@
 ||78945633.com
 ||789666365.com
 ||789888.com
-||789vpn.com
 ||789vpn.net
 ||78ems.com
 ||7911b.com
@@ -6519,10 +6522,13 @@
 ||861173.com
 ||863840.com
 ||86420.co
+||86500su.com
 ||865ba.azurewebsites.net
 ||8675381.com
 ||86862929.com
+||86900su.com
 ||87.from-wy.com
+||870164.com
 ||87080.com
 ||871053.com
 ||871068.com
@@ -6554,6 +6560,7 @@
 ||8878u.com
 ||888.66xbgg.com
 ||888.77xbgg.com
+||888.88xbgg.com
 ||888.msbet8.com
 ||888.xb456.cc
 ||888.xinbao6.net
@@ -6643,6 +6650,7 @@
 ||91yag.com
 ||91yak.com
 ||91yun.org
+||92.lui66sy.club
 ||920vpn.com
 ||923162.com
 ||9259587.com
@@ -6766,6 +6774,7 @@
 ||999.555cyl.com
 ||999.588m5.com
 ||999.77xbgg.com
+||999.88xbgg.com
 ||999.taiyang002.com
 ||999.xinbao6.top
 ||999.zc9066.com
@@ -6993,7 +7002,6 @@
 ||adam-modellbau.pl
 ||addxtv.site
 ||adepoju.org
-||adesso.com
 ||adidas-group.com
 ||adidas.ae
 ||adidas.ag
@@ -7705,6 +7713,7 @@
 ||avday.tv
 ||avdish.com
 ||avemaria.cl
+||avemariaradio.net
 ||aventertainments.com
 ||avgo78.org
 ||avhome.tv
@@ -8921,7 +8930,6 @@
 ||carribeancom.com
 ||cartoonpornvideos.com
 ||cartoonsexx.net
-||cartoonsqueen.com
 ||casacam.net
 ||casadeltibet.it
 ||casamea.org
@@ -9123,6 +9131,7 @@
 ||cherrypimps.com
 ||chetxia.co
 ||chhy01.com
+||chicagoreader.com
 ||chicagotribune.com
 ||chicchiq.com
 ||chicho.smugmug.com
@@ -9135,7 +9144,6 @@
 ||chillit.com.ar
 ||chin-chi.ch
 ||china-files.com
-||china-thedocumentary.com
 ||china-underground.com
 ||china-zentrum.de
 ||china.akamai.com.edgesuite.net
@@ -9550,7 +9558,6 @@
 ||cs019.com
 ||cs037.com
 ||cs045.com
-||cs047.com
 ||cs067.com
 ||cs108.com
 ||cs145.com
@@ -9654,6 +9661,7 @@
 ||czjy.twoseed.com.cn
 ||d.32tv.xyz
 ||d.91jinwandalaohu.club
+||d.91jinwandalaohu.com
 ||d.91jinwandalaohu.xyz
 ||d.cr.rs
 ||d.css5.pw
@@ -9672,6 +9680,7 @@
 ||d000000.com
 ||d0ae73.azurewebsites.net
 ||d1.e6ad19eg3c2.xyz
+||d1.e86912e9.net
 ||d1.h01570d3.org
 ||d1.x8e9ft7k.com
 ||d1.zgdhhjha.com
@@ -10118,6 +10127,7 @@
 ||donou.ro
 ||dontblockme.org
 ||dontbubble.us
+||donttrack.us
 ||dookieland.com
 ||doomdns.com
 ||dooprime.net
@@ -10461,6 +10471,7 @@
 ||en.wanweibaike.com
 ||en.wikinews.org
 ||en.wikipedia-on-ipfs.org
+||en.wikipedia.shutcm.cf
 ||en.wikiversity.org
 ||en.wiktionary.org
 ||enatura.biz
@@ -10524,6 +10535,7 @@
 ||eppdata.de
 ||eprice.com.hk
 ||epscn.site
+||ept.ms
 ||eq11s1017.juarvian.com
 ||equalitylabs.org
 ||er-webs.com
@@ -11114,6 +11126,7 @@
 ||free.com.tw
 ||free.gfw.im
 ||free.moliwebss.com
+||free.riyumi.xyz
 ||free18.net
 ||free8.com
 ||freebase.com
@@ -12477,7 +12490,6 @@
 ||iamyijie.blogspot.it
 ||ianhenderson.org
 ||ianwe.site
-||iba.co.il
 ||ibcp07.com
 ||ibibo.com
 ||ibkr.com.hk
@@ -12848,6 +12860,7 @@
 ||it.wikinews.org
 ||it.wikivoyage.org
 ||italia-film.com
+||italian.com
 ||itb606.com
 ||iteke.ml
 ||iteke.tk
@@ -13162,6 +13175,7 @@
 ||jomjoma.com
 ||jonathancervantes.me
 ||jonimitchell.com
+||jonnidarkkoxxx.com
 ||jonward.com
 ||jorn.net
 ||josephleung-blog.com
@@ -14415,6 +14429,7 @@
 ||mfcclub.com
 ||mfs-shatel-training.maaii.com
 ||mg1111.com
+||mg5555.com
 ||mgj8.com
 ||mgm148.com
 ||mgns.de
@@ -14638,7 +14653,6 @@
 ||mp3juices.cc
 ||mp3juices.se
 ||mp3li.net
-||mp3quack.live
 ||mp3quran.net
 ||mp3searched.com
 ||mp3truck.net
@@ -15177,6 +15191,7 @@
 ||note.taable.com
 ||notepad.pw
 ||notevenwrong.net
+||nothinghere.tk
 ||notjustlabel.com
 ||notreallyblocked.telex.cc
 ||notube.lol
@@ -15612,7 +15627,6 @@
 ||pay.15311.com
 ||pay.pay2go.xyz
 ||payment.accelerationpay.com
-||paypal-business.co.uk
 ||payserve.com
 ||paysimple.com.com
 ||payssav.com
@@ -16105,7 +16119,6 @@
 ||proxywebsite.co.uk
 ||proxywebsite.org
 ||proxyzan.pw
-||prpr.cyou
 ||prprcloud.com
 ||prpxv.com
 ||prsfl6.com
@@ -16548,6 +16561,7 @@
 ||roobaroo.org
 ||room4rent.cl
 ||root.sx
+||root9000.com
 ||rop.org.au
 ||roro.su
 ||roscosmos.com
@@ -17815,6 +17829,7 @@
 ||tenacy.link
 ||tengbiao.org
 ||teppanyaki.hk
+||terapatrick.com
 ||terence.tk
 ||terminus2049.gitlab.io
 ||terminus2049.xyz
@@ -18460,7 +18475,6 @@
 ||ubomtv.site
 ||ubxyz.com
 ||uc4.net
-||ucdavis.pubs.curricunet.com
 ||uchkconsulting.com
 ||uclaut.net
 ||ucpnz.co.nz
@@ -19571,6 +19585,7 @@
 ||www-dc1-n1.sparklabs.com
 ||www-origin.discoverhongkong.com
 ||www.01bz.net
+||www.0203.org
 ||www.02902.com
 ||www.0328g.com
 ||www.03bbcc.com
@@ -19824,6 +19839,7 @@
 ||www.6396i.com
 ||www.651926.com
 ||www.657.com.tw
+||www.6611266.com
 ||www.66666eee.cc
 ||www.66666mmm.cc
 ||www.66666nn.cc
@@ -19891,6 +19907,7 @@
 ||www.88lo.com
 ||www.88msc.com
 ||www.88tv.live
+||www.88xbgg.com
 ||www.88yh.com
 ||www.89200sc.com
 ||www.89400sc.com
@@ -20559,6 +20576,7 @@
 ||www.cgbc.org
 ||www.cgdev.org
 ||www.cgst.org.hk
+||www.chagtong.org
 ||www.challenger.it
 ||www.chandrakirti.co.nz
 ||www.channel8news.sg
@@ -20629,6 +20647,7 @@
 ||www.citizenvpn.com
 ||www.civicus.org
 ||www.ckcoinpro.cn
+||www.ckrl.qc.ca
 ||www.cleodesktop.com
 ||www.climateers.org
 ||www.clinicalterminology.org
@@ -20862,7 +20881,6 @@
 ||www.dyvip56.com
 ||www.dyvip61.com
 ||www.dyvip67.com
-||www.dyvip70.com
 ||www.dyvip91.com
 ||www.dzcp3555.com
 ||www.e-payless.com.tw
@@ -21821,7 +21839,6 @@
 ||www.jbo46.com
 ||www.jbo500.com
 ||www.jbo53.com
-||www.jbo568.com
 ||www.jbo65.com
 ||www.jbo868.com
 ||www.jbo87.com
@@ -22549,7 +22566,6 @@
 ||www.pandavpn.pro
 ||www.panorama.am
 ||www.pantomime.com
-||www.paoche.pro
 ||www.paoche.pw
 ||www.paofucloud.com
 ||www.paofucloud.vip
@@ -23308,7 +23324,7 @@
 ||www.tlc176.com
 ||www.tlc189.com
 ||www.tlc231.com
-||www.tlc269.com
+||www.tlc289.com
 ||www.tlc307.com
 ||www.tlc59.com
 ||www.tlc816.com
@@ -23829,7 +23845,6 @@
 ||www.yc7571.com
 ||www.yc9910.com
 ||www.yd88n.com
-||www.yddc388.com
 ||www.yddc488.com
 ||www.ydn.com.tw
 ||www.yes365.cc
@@ -24370,7 +24385,6 @@
 ||yb1111.com
 ||yb1336.app
 ||yb1375.com
-||yb188.app
 ||yb188.emc388.com
 ||yb188.emc77.com
 ||yb2883.app
@@ -24461,6 +24475,7 @@
 ||yddc0888.com
 ||yddc1888.com
 ||yddc288.com
+||yddc388.com
 ||yddc4888.com
 ||yddc6666.com
 ||yddc988.com
@@ -24697,7 +24712,6 @@
 ||yzc261.com
 ||yzc262.com
 ||yzc888.com
-||yzlm22.com
 ||z-names.com
 ||z.cash
 ||z2r7921695617528q7n48n6805r7594oqp11o0718.tf
