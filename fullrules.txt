@@ -1125,6 +1125,7 @@
 ||aboluowang.com
 ||aboutgfw.com
 ||abs.edu
+||acast.com
 ||accim.org
 ||aceros-de-hispania.com
 ||acevpn.com
@@ -1421,6 +1422,7 @@
 ||blubrry.com
 ||bmfinn.com
 ||bnews.co
+||bnext.com.tw
 ||bnrmetal.com
 ||boardreader.com
 ||bod.asia
@@ -2129,6 +2131,7 @@
 ||fireofliberty.org
 ||firetweet.io
 ||firstpost.com
+||firstrade.com
 ||flagsonline.it
 ||fleursdeslettres.com
 ||flgg.us
@@ -10988,7 +10991,6 @@
 ||firstanalquest.com
 ||firstbusinessnews.com
 ||firstimage.biz
-||firstrade.com
 ||firststrike.mobi
 ||fishproxy.com
 ||fisipa.com.ar
@@ -19984,7 +19986,6 @@
 ||www.abplive.com
 ||www.abrar.ws
 ||www.abs.edu.kw
-||www.acast.com
 ||www.accessvpn.com
 ||www.accorhotels.com
 ||www.accuity.com
