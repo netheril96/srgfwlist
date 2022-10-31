@@ -5212,7 +5212,6 @@
 ||1234.weebly.com
 ||12344555.com
 ||12345proxy.org
-||1234989.com
 ||1235.com
 ||1235566.com
 ||123blm.com
@@ -5472,6 +5471,7 @@
 ||1xccp.com
 ||1youtube.com
 ||2.4.je
+||2.android.pool.ntp.org
 ||2.cr.rs
 ||2.hdd2.host
 ||2.inc.gs
@@ -5718,6 +5718,7 @@
 ||3308yh.net
 ||331.chocalanwines.com
 ||331482.com
+||3322buyu.com
 ||332866.com
 ||33339.com
 ||3333jinsha.com
@@ -5733,6 +5734,7 @@
 ||344663.com
 ||3474879.com
 ||3488js.com
+||34xccp.com
 ||35.crazycat.ro
 ||350988o.com
 ||350988p.com
@@ -5800,6 +5802,7 @@
 ||389124.com
 ||38euro.com
 ||38kq.com
+||38xccp.com
 ||390121.com
 ||3917.com
 ||39170003.com
@@ -5841,6 +5844,7 @@
 ||3utilities.com
 ||3w.nancyxzp.site
 ||3x3avalanche.com
+||3xccp.com
 ||3xplanet.com
 ||3xplanet.net
 ||4000byb.com
@@ -5899,6 +5903,7 @@
 ||486486.com
 ||487.microcycas.com
 ||4887.com
+||48xccp.com
 ||493777.com
 ||495772460901.pwastore.com
 ||4975.am
@@ -5918,6 +5923,7 @@
 ||4sq.com
 ||4tube.com
 ||4tubemate.com
+||4xccp.com
 ||4youtube.com
 ||5.inc.gs
 ||50000.bsymtv.site
@@ -6159,7 +6165,6 @@
 ||62033.com
 ||62228888.com
 ||62365t.com
-||623777.com
 ||624663.com
 ||626ccc.net
 ||626nnn.net
@@ -6944,7 +6949,6 @@
 ||aapks.com
 ||aarberg-bierwanderung.ch
 ||aaronmix.net
-||aasdr.site
 ||aavideo.live
 ||aax.com
 ||aaxpro.com
@@ -7045,9 +7049,7 @@
 ||adidas.co.nz
 ||adidas.co.th
 ||adidas.co.uk
-||adidas.co.za
 ||adidas.com
-||adidas.com.ar
 ||adidas.com.au
 ||adidas.com.br
 ||adidas.com.cn
@@ -7056,7 +7058,6 @@
 ||adidas.dk
 ||adidas.eu
 ||adidas.org
-||adidas.ru
 ||adipascu.ro
 ||aditabio.com.tw
 ||adityabhushan.com
@@ -7337,7 +7338,6 @@
 ||amws1111.com
 ||amws1122.com
 ||amws1133.com
-||amws1144.com
 ||amws1166.com
 ||amws1199.com
 ||amws2200.com
@@ -7562,6 +7562,7 @@
 ||apps.evozi.com
 ||apps.qoo-app.com
 ||apps.wamazing.jp
+||apptest-hifamily.cdn.hinet.net
 ||apptopia.com
 ||appwen.com
 ||april5action.blogspot.it
@@ -8219,10 +8220,12 @@
 ||bitbank.cc
 ||bitbns.com
 ||bitcasino.io
+||bitcoin.com
 ||bitdownloader.com
 ||bitflyer.com
 ||bitforex.com
 ||bitgz.com
+||bitpay.com
 ||bitporno.com
 ||bitrue.com
 ||bitsler.com
@@ -8688,7 +8691,6 @@
 ||bulamiyorum.net
 ||bulkyoutube.com
 ||bullclan.org
-||bulldogfrances.com
 ||bulletin.nna.jp
 ||bullogs.com
 ||bullvpn.com
@@ -12989,7 +12991,6 @@
 ||j9505.com
 ||ja.erocool.com
 ||ja.whotwi.com
-||ja.wikinews.org
 ||ja.wikisource.org
 ||jabber80.com
 ||jabong.com
@@ -13713,6 +13714,7 @@
 ||ldsp55.com
 ||le-baux.com
 ||le1111.com
+||le1233.com
 ||le19.net
 ||le191.com
 ||le2018.com
@@ -14025,7 +14027,6 @@
 ||lslk.org
 ||lsublog.shorelight.com
 ||lsy1984wf.blog.sohu.com
-||lszhibo8.com
 ||lt011.com
 ||lt012.com
 ||lt013.com
@@ -14349,7 +14350,6 @@
 ||mariusl.com
 ||marketamerica.com
 ||marketplace.org
-||markets.bitcoin.com
 ||markets.com.cn
 ||markhidding.nl
 ||markporter.gq
@@ -14419,6 +14419,7 @@
 ||me.cx
 ||me.ns.ci
 ||me9944.com
+||meadowbrook-ma.org
 ||mec.gov.br
 ||medandakwah.com
 ||media.lanecrawford.com
@@ -14838,7 +14839,6 @@
 ||my25.gq
 ||my3xxx.com
 ||my888.app
-||my88xc.com
 ||myaccount.infinox-asia.com
 ||myads.longluntan.com
 ||myaic.de
@@ -15070,7 +15070,6 @@
 ||newrelic.com
 ||newrepublic.com
 ||news.abs-cbn.com
-||news.bitcoin.com
 ||news.com.au
 ||news.dmhk.net
 ||news.ebc.net.tw
@@ -15121,7 +15120,6 @@
 ||nextbigfuture.com
 ||nextgenvpn.com
 ||nextjav.com
-||nextnba.com
 ||nexttv.com.tw
 ||nextv.site
 ||nexus-models.cl
@@ -16098,6 +16096,7 @@
 ||printerbuddy.com
 ||prismtech.com
 ||privacyprotector.eu
+||privadovpn.com
 ||private.mywabrands.com
 ||privatedns.org
 ||privatesearch.io
@@ -19623,7 +19622,6 @@
 ||ws.domain888.pw
 ||ws.freepac.pw
 ||ws.webgis.ro
-||wsaqna.top
 ||wsdc000.com
 ||wsdc002.com
 ||wsdc1111.com
@@ -20982,11 +20980,10 @@
 ||www.dynvpn.com
 ||www.dytt8.com
 ||www.dyvip26.com
-||www.dyvip35.com
 ||www.dyvip37.com
-||www.dyvip56.com
 ||www.dyvip61.com
 ||www.dyvip67.com
+||www.dyvip86.com
 ||www.dyvip91.com
 ||www.dzcp3555.com
 ||www.e-payless.com.tw
@@ -21005,7 +21002,6 @@
 ||www.e8682.com
 ||www.e8696.com
 ||www.e8706.com
-||www.e87127.com
 ||www.e8716.com
 ||www.e8737.com
 ||www.e8752.com
@@ -21159,7 +21155,6 @@
 ||www.fantasyfactory.xyz
 ||www.fantasylover.com
 ||www.fanwall.org
-||www.far-eastern.de
 ||www.farangdingdong.com
 ||www.fark.com
 ||www.faroo.com
@@ -21227,6 +21222,7 @@
 ||www.flyintx.com
 ||www.flyun.org
 ||www.fn139.com
+||www.focused-it.ca
 ||www.foi.se
 ||www.followme.com
 ||www.fondsprofessionell.at
@@ -21524,7 +21520,6 @@
 ||www.greenvpn.site
 ||www.greenway.ie
 ||www.gregodesign.nl
-||www.grimmhardware.de
 ||www.grindr.com
 ||www.grjsq.biz
 ||www.grneggs.com
@@ -22032,7 +22027,6 @@
 ||www.karmapa-europe.net
 ||www.karmapa.org.nz
 ||www.kaskus.com
-||www.kasseler-sparkasse.de
 ||www.katernjapan.nl
 ||www.kaz-online.de
 ||www.kaze-travel.co.jp
@@ -22092,7 +22086,6 @@
 ||www.krtc.com.tw
 ||www.krtco.com.tw
 ||www.kslps.edu.hk
-||www.ksn.co.il
 ||www.ktwr.net
 ||www.kuai500.com
 ||www.kuaichuanmirror.com
@@ -22167,7 +22160,6 @@
 ||www.letou998.com
 ||www.levanto.be
 ||www.levelupthailand.com
-||www.lextv.site
 ||www.leyicai666.com
 ||www.leyicai888.com
 ||www.leyifan.com.cn
@@ -22231,6 +22223,7 @@
 ||www.lonlife.cc
 ||www.loo666.com
 ||www.lookatgame.ru
+||www.lookfantasttic.com
 ||www.lopinion.fr
 ||www.losescotesdealicia.com
 ||www.lotoo.com.tw
@@ -22721,7 +22714,6 @@
 ||www.phoebe.cc
 ||www.photomarket.com
 ||www.phototruth.net
-||www.photozone.de
 ||www.pi88.com
 ||www.pianofundamentals.com
 ||www.piaproxy.net
@@ -23836,7 +23828,6 @@
 ||www.xf137.com
 ||www.xf187.com
 ||www.xf197.com
-||www.xf639.com
 ||www.xf802.com
 ||www.xf811.com
 ||www.xf835.com
@@ -23845,6 +23836,7 @@
 ||www.xf966.com
 ||www.xf968.com
 ||www.xf979.com
+||www.xf985.com
 ||www.xfanz.com
 ||www.xfinity.net
 ||www.xfvod.net
@@ -24185,7 +24177,16 @@
 ||xc.domain888.pw
 ||xc222888.com
 ||xc222999.com
+||xc555222.com
+||xc666333.com
+||xc666555.com
+||xc666888.com
 ||xc777111.com
+||xc777555.com
+||xc777666.com
+||xc888333.com
+||xc888555.com
+||xc888666.com
 ||xcams.com
 ||xccp247.com
 ||xccp271.com
@@ -24250,6 +24251,12 @@
 ||xinbi818.com
 ||xinbi998.com
 ||xinbov6.com
+||xincai5566.com
+||xincai6655.com
+||xincai7788.com
+||xincai8877.com
+||xincai8899.com
+||xincaicaipiao.biz
 ||xing.de
 ||xingdaili.com
 ||xingong.com.tw
@@ -24680,7 +24687,6 @@
 ||youporn-tube.com
 ||youpornteens.com
 ||your-world-at-penn.workplace.com
-||yourbittorrent.com
 ||yourlustmovies.com
 ||yournews.com
 ||yourporn.sexy
