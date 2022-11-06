@@ -4949,7 +4949,6 @@
 ||0.cn.pool.ntp.org
 ||000.com
 ||000000000000000000000000000000000000000000000000000000000000001.com
-||000018.xyz
 ||0000608.com
 ||00006804.com
 ||0000gz.com
@@ -5138,7 +5137,6 @@
 ||1024xp.com
 ||1024yingyuan.com
 ||1024zp.com
-||1029227.com
 ||1035kissfm.com
 ||10399888.com
 ||1048.com
@@ -7853,6 +7851,7 @@
 ||b7288.com
 ||b746327.com
 ||b7628.com
+||b8034.com
 ||b8508.com
 ||b8661.com
 ||b8812.com
@@ -8592,6 +8591,7 @@
 ||brandnewproxy.net
 ||brandonitbox.com
 ||brannans.org
+||brauclub.ch
 ||bravoerotica.com
 ||bravoteens.com
 ||bravotube.com
@@ -8730,7 +8730,6 @@
 ||buyu358.com
 ||buyu359.com
 ||buyu4488.com
-||buyu5099.com
 ||buyu5599.com
 ||buyu6644.com
 ||buyu7755.com
@@ -10262,6 +10261,7 @@
 ||dsnfa02.com
 ||dsnfree.xyz
 ||dtunnel.com
+||dtvideo.com
 ||du.narasmom.com
 ||duangks.com
 ||dubandko.com
@@ -11109,6 +11109,7 @@
 ||forumer.com
 ||forumophilia.com
 ||forumosa.com
+||forums.internetfreedom.org
 ||forums.tripwireinteractive.com
 ||forumsrus.com
 ||forusex.com
@@ -11647,6 +11648,7 @@
 ||gkelite.com
 ||gladiabots.com
 ||gladwell.com
+||glamour.com
 ||glamourwebcams.com
 ||glastream.ca
 ||gleeze.com
@@ -12316,7 +12318,6 @@
 ||hkvaliant.org
 ||hkwesi.com
 ||hkwesi11.xyz
-||hkwesi66.xyz
 ||hkwesi6666.xyz
 ||hkwesi77.xyz
 ||hlw33.com
@@ -12754,7 +12755,6 @@
 ||international.findmespot.com
 ||internetarchive.org
 ||internetcorkboard.com
-||internetfreedom.org
 ||internetproxies.net
 ||interpark.com
 ||inthecrack.com
@@ -14113,6 +14113,7 @@
 ||m.istripper.com
 ||m.j9155.com
 ||m.j999015.com
+||m.javatyro.com
 ||m.jf8822.com
 ||m.jgg18.io
 ||m.kankanwu.com
@@ -14541,6 +14542,7 @@
 ||miss148.com
 ||missav.com
 ||missfuli.com
+||misskey.io
 ||missrissa.net
 ||misstibet.com
 ||missyusa.com
@@ -14578,6 +14580,7 @@
 ||mm831.com
 ||mm94168.com
 ||mmgal.com
+||mminuzero.xyz
 ||mmm-office.co
 ||mmm-office.com
 ||mmm100.com
@@ -14703,7 +14706,6 @@
 ||mrc123.com
 ||mrc68.com
 ||mrcat168.com
-||mrcat28.com
 ||mrcatapp.com
 ||mrcatgame.com
 ||mrcatnb.com
@@ -15269,6 +15271,7 @@
 ||ntta.org
 ||ntu.tdna.me
 ||ntvmsnbc.com
+||ntvspor.net
 ||ntxiehui.com
 ||nuazure.net
 ||nude.tv
@@ -15858,7 +15861,6 @@
 ||play.streamingvideoprovider.com
 ||player.haoli787.com
 ||player.radio.com
-||playergameh5.am88play.com
 ||playersdiner.com
 ||playssh.com
 ||playtube.pk
@@ -16958,6 +16960,7 @@
 ||sex169.net
 ||sex18.xyz
 ||sex520.net
+||sex8.cn
 ||sexart.com
 ||sexasian18.com
 ||sexdelivery.com
@@ -17572,6 +17575,7 @@
 ||styrsky.com.ar
 ||suansuanru.pw
 ||sub-a.usuc.cc
+||sub-health.org
 ||sub.ccsub.site
 ||sub.kamigami.org
 ||suberpinus.pt
@@ -17881,7 +17885,6 @@
 ||terminus2049.xyz
 ||termoconfort.com.ar
 ||tesco.co.uk
-||test-ipv6.com
 ||test.5w8.cc
 ||test.cloudfunctions.net
 ||test.com
@@ -19996,6 +19999,7 @@
 ||www.921201.com
 ||www.939027.com
 ||www.93sihu.com
+||www.94100sc.com
 ||www.941hd.com
 ||www.9458win.com
 ||www.94695.com
@@ -20160,7 +20164,6 @@
 ||www.antvpn.com
 ||www.antvpn.net
 ||www.aobolianmeng.com
-||www.aok.de
 ||www.aolnews.com
 ||www.ap.no
 ||www.ap888.cc
@@ -21276,7 +21279,6 @@
 ||www.fun6033.com
 ||www.fun605.com
 ||www.fun712.com
-||www.fun78.com
 ||www.fun809.com
 ||www.fun88-i78.com
 ||www.fun88.co.uk
@@ -21754,6 +21756,7 @@
 ||www.internationalaffairs.org.au
 ||www.internationalpreschoolcurriculum.com
 ||www.internet2-0.com
+||www.internetfreedom.org
 ||www.internetmodeling.com
 ||www.intersport88.com
 ||www.interwetten.com
@@ -23963,6 +23966,7 @@
 ||www.yunti.me
 ||www.yuntyouzi.com
 ||www.yuyans.com
+||www.yy80030.com
 ||www.yycili.com
 ||www.yzc212.com
 ||www.yzc216.com
@@ -24184,7 +24188,6 @@
 ||xincai8899.com
 ||xincaicaipiao.biz
 ||xincaicaipiao.vip
-||xing.de
 ||xingdaili.com
 ||xingong.com.tw
 ||xinh.xyz
@@ -24765,6 +24768,7 @@
 ||zb8088.com
 ||zb85.com
 ||zb8988.com
+||zb8988a.com
 ||zb9899.com
 ||zb99666.com
 ||zbporn.com
@@ -24888,7 +24892,6 @@
 ||zooburst.com
 ||zoomtv.top
 ||zooqle.com
-||zoosex.cc
 ||zooshock.com
 ||zootube365.com
 ||zorpia.com
