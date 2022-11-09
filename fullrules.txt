@@ -951,7 +951,6 @@
 ||nytstyle.com
 ||steamcommunity.com
 ||t.me
-||updates.tdesktop.com
 ||telegram.dog
 ||telegram.me
 ||telegram.org
@@ -6877,6 +6876,7 @@
 ||a.pomf.se
 ||a.realsrv.com
 ||a.ssd2.bid
+||a.vvvglass.com
 ||a.we55.us
 ||a.yigese.us
 ||a000yl.com
@@ -7858,6 +7858,7 @@
 ||b6737.com
 ||b695983.com
 ||b7106.com
+||b7108.com
 ||b7110.com
 ||b7288.com
 ||b746327.com
@@ -9689,6 +9690,7 @@
 ||cyit.xyz
 ||cyl999.com
 ||cyoutube.com
+||cyprus-mail.com
 ||cysll.com
 ||cytosys.com
 ||czjy.twoseed.com.cn
@@ -10085,6 +10087,7 @@
 ||dnsdojo.com
 ||dnsdojo.net
 ||dnsdojo.org
+||dnsforge.de
 ||dnsfre.xyz
 ||dnsgood.xyz
 ||dnshttp.xyz
@@ -10366,6 +10369,7 @@
 ||ebaumsworld.com
 ||ebook.longmabook.com
 ||ebookjapan.yahoo.co.jp
+||ebuy.mo
 ||ec.gy
 ||ecaipe.com.ar
 ||ecar.jlr-apps.com
@@ -10859,6 +10863,7 @@
 ||fanqiangcn.net
 ||fantage.com
 ||fantasychauleague.league.fantasy.nfl.com
+||fantasymassage.com
 ||fanwen.5article.com
 ||fap69.com
 ||fapa.org
@@ -11923,7 +11928,6 @@
 ||h5.ld17.bet
 ||h5.ld20.bet
 ||h5.ld2060.cc
-||h5.ld2060.com
 ||h5.ld21.bet
 ||h5.ld25.bet
 ||h5.ld26.bet
@@ -11964,7 +11968,6 @@
 ||h5.ld70.bet
 ||h5.ld717.cc
 ||h5.ld72.bet
-||h5.ld72.tv
 ||h5.ld73.bet
 ||h5.ld735.cc
 ||h5.ld74.bet
@@ -12626,6 +12629,7 @@
 ||ikidol.com
 ||ikimi.me
 ||ikk.gr
+||iknowthatgirl.com
 ||iktalks.com
 ||ikuuu.co
 ||ilga-europe.org
@@ -13744,7 +13748,6 @@
 ||lesbea.com
 ||lesbiangirlongirl.com
 ||lesmao.com
-||lesson.swingtaiwan.com
 ||lessonsindemocracy.org
 ||let02.com
 ||let3427.com
@@ -13925,7 +13928,6 @@
 ||llhdzx3.com
 ||lll16.net
 ||llss.bz
-||llttoo.vip
 ||lm.1731788.com
 ||lmb.betway118.com
 ||ln.sync.com
@@ -14033,7 +14035,6 @@
 ||ltou98.com
 ||ltt21.com
 ||ltunnel.com
-||ltyule.vip
 ||luaz.ml
 ||lubinscy.pl
 ||lubl.xyz
@@ -14134,6 +14135,7 @@
 ||m.oe3511.com
 ||m.pb112.com
 ||m.pc500.cc
+||m.pi88.net
 ||m.pncle8.com
 ||m.ptcff666.com
 ||m.qm1212.com
@@ -14813,7 +14815,6 @@
 ||my888.app
 ||myaccount.infinox-asia.com
 ||myads.longluntan.com
-||myaic.de
 ||myav.life
 ||myav.tv
 ||myav123.com
@@ -15204,7 +15205,6 @@
 ||noen.cx
 ||nolimitdronez.com
 ||non-fakenews.org
-||nonleggerlo.blogspot.it
 ||norcomsystemsinc.com
 ||nord-cn-site.org
 ||nord-cn.net
@@ -15285,6 +15285,7 @@
 ||ntvspor.net
 ||ntxiehui.com
 ||nuazure.net
+||nubilefilms.com
 ||nude.tv
 ||nudeflix.com
 ||nudevista.com
@@ -15295,6 +15296,7 @@
 ||nutsvpn.site
 ||nuvoices.com
 ||nvsr.com.au
+||nvyoub.xyz
 ||nw.ejdj12.com
 ||nwanime.tv
 ||nwen.net
@@ -16658,7 +16660,6 @@
 ||runhomefast.com
 ||runoutfor.life
 ||ruralict.com
-||rushlimbaugh.com
 ||russianproxy.ru
 ||russiasexygirls.com
 ||rutnerspazzacamino.ch
@@ -17833,6 +17834,7 @@
 ||tcnr2016.netne.net
 ||tcrn.ch
 ||tcstudents.org
+||tdesktop.com
 ||tdworks.com
 ||teachmefisting.com
 ||teamamericany.com
@@ -18026,6 +18028,7 @@
 ||thinkstockphotos.com
 ||thinktech.org
 ||thisav.tw
+||thisvid.com
 ||thomaslogic.net
 ||thompent.com
 ||thomsonreuters.com
@@ -18355,6 +18358,7 @@
 ||tubepornstars.com
 ||tuberb.com
 ||tuberl.com
+||tubesafari.com
 ||tubeteen18.com
 ||tubethumbs.com
 ||tubev.sex
@@ -19995,7 +19999,6 @@
 ||www.8ssr.com
 ||www.8world.com
 ||www.9009.ws
-||www.901402.co
 ||www.90300sc.com
 ||www.90600sc.com
 ||www.91200sc.com
@@ -20739,11 +20742,10 @@
 ||www.collegetransferstudent.com
 ||www.colombogazette.com
 ||www.coltstudiogroup.com
-||www.comicyu.com
-||www.commercebuild.com
 ||www.comparethecloud.net
 ||www.conceptdoppler.org
 ||www.concreteflux.com
+||www.contrepoints.org
 ||www.coolkid.win
 ||www.coolux.be
 ||www.cootamundraherald.com.au
@@ -20752,6 +20754,7 @@
 ||www.cordc.net
 ||www.cosmicspark.com
 ||www.cosmosbooks.com.hk
+||www.costadailynews.com
 ||www.couleur3.ch
 ||www.countytimes.co.uk
 ||www.covertbrowsing.com
@@ -20849,7 +20852,6 @@
 ||www.dcb77.com
 ||www.ddhw.com
 ||www.ddtomm.com
-||www.ddzmacau.com
 ||www.deerparkcenter.org
 ||www.defensenews.com
 ||www.delawareonline.com
@@ -20883,6 +20885,7 @@
 ||www.diaosiqingnian.com
 ||www.diaosisou.com
 ||www.diarco.cl
+||www.diariodenavarra.es
 ||www.dickdorm.com
 ||www.diedart2.com
 ||www.diedart5.com
@@ -21011,6 +21014,7 @@
 ||www.elb001.com
 ||www.elconfidencial.com
 ||www.electronicdesign.com
+||www.elegantangel.com
 ||www.elkosmos.gr
 ||www.elladodelmal.com
 ||www.elmercurio.com
@@ -21418,6 +21422,7 @@
 ||www.gigantits.com
 ||www.girl127.com
 ||www.girlchina.com
+||www.girlfriendsfilms.com
 ||www.gjsq.biz
 ||www.gkfx.co.uk
 ||www.gkfx.com
@@ -21803,6 +21808,7 @@
 ||www.itb601.com
 ||www.itb88.com
 ||www.itb8888.com
+||www.itb90.com
 ||www.itb9999.com
 ||www.itbit.com
 ||www.itctlogic.com
@@ -22358,6 +22364,7 @@
 ||www.momentsapp.com
 ||www.momomall.com.tw
 ||www.momotai.com
+||www.monde-diplomatique.fr
 ||www.mondo64.com
 ||www.moneydj.com
 ||www.moneynet.com.tw
@@ -22456,7 +22463,6 @@
 ||www.netignition.com
 ||www.netpas.cc
 ||www.nettv.live
-||www.neukofxcn.com
 ||www.neupexcompany.com
 ||www.neurotracker.net
 ||www.neutrinosatemyhomework.com
@@ -22730,6 +22736,7 @@
 ||www.pornflip.com
 ||www.pornheed.com
 ||www.pornmd.com
+||www.pornmega.com
 ||www.porno.com.ar
 ||www.pornohub.com
 ||www.pornosvane.com
@@ -22843,7 +22850,6 @@
 ||www.qzg338.com
 ||www.r-type.ca
 ||www.ra5301.com
-||www.ra8940.com
 ||www.ra8945.com
 ||www.ra8948.com
 ||www.ra8949.com
@@ -23308,6 +23314,7 @@
 ||www.thestatesman.com
 ||www.thestupidnetwork.fr
 ||www.thetarimnetwork.com
+||www.theweek.co.uk
 ||www.thewirechina.com
 ||www.thinkchina.sg
 ||www.thinkstockphotos.ae
@@ -23324,7 +23331,6 @@
 ||www.thinkstockphotos.jp
 ||www.thirdmovies.com
 ||www.thisischile.cl
-||www.thisvid.com
 ||www.thsrc.com.tw
 ||www.ti9mfk.com
 ||www.tiananmen1989.net
@@ -24208,6 +24214,7 @@
 ||xijinping.wiki
 ||xijinping.xyz
 ||xila88.com
+||xinbi333.com
 ||xinbi606.com
 ||xinbi656.com
 ||xinbi768.com
@@ -24626,6 +24633,7 @@
 ||yodobashi.com
 ||yogaalliance.in
 ||yogajournal.com
+||yogipops.com
 ||yoox.com
 ||yoplay.com
 ||yopmail.com
@@ -24800,7 +24808,6 @@
 ||z.cash
 ||z2r7921695617528q7n48n6805r7594oqp11o0718.tf
 ||zaahir.com
-||zagat.com
 ||zahara.cl
 ||zaif.jp
 ||zakrpa.com
