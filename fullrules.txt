@@ -1,4 +1,5 @@
 [Autoproxy]
+@@||corp.google.com
 /google/
 @@||rsy.duckdns.org
 @@||rsyhome.duckdns.org
