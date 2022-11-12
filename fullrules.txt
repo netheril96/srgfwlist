@@ -5600,7 +5600,6 @@
 ||25.php5.bid
 ||25.qc.to
 ||25.wtf.im
-||251727.net
 ||256.now-ip.net
 ||256566.com
 ||257.now-ip.net
@@ -5910,7 +5909,6 @@
 ||487.microcycas.com
 ||48789x.com
 ||4887.com
-||48xccp.com
 ||493777.com
 ||495772460901.pwastore.com
 ||4975.am
@@ -6438,7 +6436,6 @@
 ||785.microcycas.com
 ||7864.com
 ||7867310.com
-||78778aa.com
 ||78945633.com
 ||789666365.com
 ||789888.com
@@ -6588,6 +6585,7 @@
 ||882110055.com
 ||882110077.com
 ||8822buyu.com
+||8832.p5.ro.lt
 ||8833buyu.com
 ||8834667.com
 ||8837340.com
@@ -7404,7 +7402,6 @@
 ||amxj0088.com
 ||amxj1133.com
 ||amxj4422.com
-||amxj5588.com
 ||amxj8899.com
 ||amzn.to
 ||an.1x.net
@@ -7475,7 +7472,6 @@
 ||anppy.com
 ||anqingshi.xyz
 ||ant.comm.ccu.edu.tw
-||antenne-deutschland.de
 ||anti-coco.top
 ||antigfw.weebly.com
 ||antiprism.ca
@@ -7927,6 +7923,7 @@
 ||baliz.si
 ||bananaberry.de
 ||bancochile.cl
+||band.com
 ||bandainamco.com
 ||bangbros.com
 ||bangbrosfreetrial.com
@@ -8137,7 +8134,6 @@
 ||beta.usejump.com
 ||beta.wikiversity.org
 ||betak.net
-||bethelweb.hk
 ||betlego888.com
 ||betslip.hkjcfootball.com
 ||betsson.com
@@ -8963,7 +8959,6 @@
 ||canpromote.com
 ||canvasopedia.org
 ||canview.com
-||cao3.com
 ||caoliushequ.org
 ||caonima.net
 ||caoporn.com
@@ -9447,6 +9442,7 @@
 ||cn1069.org
 ||cn1lib.club
 ||cn1lib.vip
+||cn42.ga
 ||cn42.gq
 ||cn55.cc
 ||cname.bitly.com
@@ -9850,7 +9846,6 @@
 ||data.leafwind.tw
 ||databast.com
 ||datafilehost.com
-||datingbyphone.com
 ||davila.com.ve
 ||dawanda.com
 ||dawanews.com
@@ -10286,7 +10281,6 @@
 ||dsn04.co
 ||dsn101.cn
 ||dsn102.com
-||dsn103.com
 ||dsn1151.com
 ||dsn1151a.com
 ||dsn1171a.com
@@ -10296,7 +10290,6 @@
 ||dsn2272.com
 ||dsn270.com
 ||dsn2pcapp04.com
-||dsn3000.com
 ||dsn501.co
 ||dsn503.co
 ||dsn5050.com
@@ -11150,7 +11143,6 @@
 ||forum.iset.com.tw
 ||forum.mymaji.com
 ||forum.omegarealm.com
-||forum.omy.sg
 ||forum.palmislife.com
 ||forum.phun.org
 ||forum.slime.com.tw
@@ -11465,10 +11457,12 @@
 ||fyt139.com
 ||fyt222.com
 ||fyt30.com
+||fyt33.com
 ||fyt365.bet
 ||fyt365.com
 ||fyt365.vip
 ||fyt38.com
+||fyt39.com
 ||fyt579.com
 ||fyt60.com
 ||fyt80.com
@@ -11494,7 +11488,6 @@
 ||g2959.com
 ||g3353.com
 ||g4w.me
-||ga.de
 ||gabo8.com
 ||gabtrends.com
 ||gainsy.com
@@ -11722,7 +11715,6 @@
 ||gloria.tv
 ||gloriaadams.ml
 ||gloryhole.com
-||glossandtoss.net
 ||glp.tv
 ||gma.abc
 ||gmail.babson.edu
@@ -12343,6 +12335,7 @@
 ||hk.c.cloudss.pw
 ||hk.futu5.com
 ||hk.hacked.jp
+||hk.mail.yahoo.com
 ||hk.mobi.yahoo.com
 ||hk.mssi.pw
 ||hk.tomonews.net
@@ -12383,6 +12376,7 @@
 ||hlw33.com
 ||hlw66.com
 ||hlw799.com
+||hm.mao.bet
 ||hmarkets.com
 ||hmt.org.au
 ||hnag11.com
@@ -12758,6 +12752,7 @@
 ||indiewire.com
 ||indirectconnection.com
 ||indsr.org.tw
+||infinitumx.io
 ||infinitysocks.com
 ||infmeta.com
 ||info-buddhism.com
@@ -13220,6 +13215,7 @@
 ||jizzmontoo.com
 ||jizzmontu.com
 ||jizztogo.com
+||jj.sttkk.com
 ||jjcavideography.com
 ||jjco.in
 ||jjgirls.com
@@ -13483,6 +13479,7 @@
 ||kgjt4.com
 ||kgjt5.com
 ||kgjt8.com
+||kgjt9.com
 ||kgs.wittmund.de
 ||kh.tcp4.me
 ||kh1.spacetechnology.net
@@ -15151,6 +15148,7 @@
 ||newsroom.co.nz
 ||newstalkzb.co.nz
 ||newstarnet.com
+||newstral.com
 ||newsweekjapan.jp
 ||newwatch.slingbox.com
 ||newyorkpost.com
@@ -16959,6 +16957,7 @@
 ||se087872.vooreeno.com
 ||se08s1031.apetteam.com
 ||se669.com
+||se849.com
 ||search.aust.cf
 ||search.f-secure.com
 ||search.gmx.com
@@ -17800,7 +17799,6 @@
 ||sxxbl.org
 ||sxyprn.com
 ||syd.agee.citrix.com
-||sydney.edu.au
 ||sydsvenskan.se
 ||syinji4.xyz
 ||syji5.xyz
@@ -18432,6 +18430,9 @@
 ||ts666.net
 ||ts788.net
 ||tsantiri.gr
+||tsc5331.com
+||tsc5332.com
+||tsc5341.com
 ||tselaconsulting.co.za
 ||tspdh2.xyz
 ||tsquare.tv
@@ -19047,6 +19048,7 @@
 ||vip8.ltyyxb.com
 ||vip9.77xbgg.com
 ||vip9.88xbgg.com
+||vipcrew.com
 ||vipdf8.com
 ||vipergirls.to
 ||vipjs9900.com
@@ -19249,6 +19251,7 @@
 ||vwin.com
 ||vwin055.com
 ||vwin115.com
+||vwin116.com
 ||vwin122.com
 ||vwin152.com
 ||vwin158.com
@@ -19686,6 +19689,7 @@
 ||wotlife.net
 ||woutwoot.be
 ||wowfandom.com
+||wowgirls.xxx
 ||woxinghuiguo.com
 ||woyaolian.net
 ||wozy.in
@@ -19809,8 +19813,10 @@
 ||www.1100kai.com
 ||www.1112mm.com
 ||www.1121100.net
+||www.1122244.net
 ||www.112233a.com
 ||www.1123311.net
+||www.1124411.net
 ||www.11333885.com
 ||www.115ap.com
 ||www.118518.com
@@ -20181,7 +20187,6 @@
 ||www.aboutalgeria.com
 ||www.aboutus.com
 ||www.abplive.com
-||www.abrar.ws
 ||www.abs.edu.kw
 ||www.accorhotels.com
 ||www.accuity.com
@@ -20403,7 +20408,6 @@
 ||www.b195372.com
 ||www.b44.com
 ||www.b6396.com
-||www.b884563.com
 ||www.b9128.com
 ||www.b98d.com
 ||www.b9999.tw
@@ -20635,7 +20639,6 @@
 ||www.bustybloom.com
 ||www.buyu206.com
 ||www.buyu208.com
-||www.buyu209.com
 ||www.buyu703.com
 ||www.buyu860.com
 ||www.buyu870.com
@@ -22110,7 +22113,6 @@
 ||www.kendes.nl
 ||www.keysight.com.cn
 ||www.kgieworld.com
-||www.kgjt9.com
 ||www.kha.twomini.com
 ||www.khg56.com
 ||www.khkinstruments.com
@@ -22345,7 +22347,6 @@
 ||www.mahamudracenter.org
 ||www.maharashtra.gov.in
 ||www.mahooq.com
-||www.mail.de
 ||www.mailbox.org
 ||www.mailboxapp.com
 ||www.mailonline.co.uk
@@ -22647,7 +22648,6 @@
 ||www.nytstore.com
 ||www.nzhantec.com
 ||www.nzmao.com
-||www.o2.de
 ||www.oakmontgroup.com.br
 ||www.oasisnetwork.org
 ||www.ob.com
@@ -23082,6 +23082,7 @@
 ||www.sbf322.com
 ||www.sbf55.com
 ||www.sbf963.com
+||www.sbm.sg
 ||www.scdypost.com
 ||www.schoolbuscity.com
 ||www.schwaebische.de
@@ -23111,6 +23112,7 @@
 ||www.serajeymonastery.org
 ||www.serajeyrigzodchenmo.org
 ||www.serienjunkies.de
+||www.servicecanada.gc.ca
 ||www.seselah.com
 ||www.sesez.com
 ||www.sex8.com
@@ -23686,7 +23688,6 @@
 ||www.vigorspring.com.tw
 ||www.vimeopro.com
 ||www.violibrary.com
-||www.vipcrew.com
 ||www.vipdsd3.com
 ||www.viptlc6088.com
 ||www.viralporn.com
@@ -23778,7 +23779,6 @@
 ||www.wc993.com
 ||www.wcsudalailama.org
 ||www.wdaxv.com
-||www.wdr.de
 ||www.webet.com
 ||www.webet68.com
 ||www.webmasterhome.cn
@@ -24542,7 +24542,6 @@
 ||yahoo.com.cn
 ||yahoo.com.tw
 ||yahoo.hk
-||yahoo.it
 ||yahoo.tw
 ||yahoo.wakool.net
 ||yahoogroups.com
@@ -24563,6 +24562,7 @@
 ||yaypetiteteens.com
 ||yazhouse8.com
 ||yazhouseba.com
+||yb.domain888.pw
 ||yb.freepac.pw
 ||yb1111.com
 ||yb188.emc388.com
@@ -24960,6 +24960,7 @@
 ||zh.m.wikinews.org
 ||zh.m.wikiquote.org
 ||zh.m.wikiversity.org
+||zh.mexgroup.com
 ||zh.pokerstrategy.com
 ||zh.sa1lib.org
 ||zh.swably.com
@@ -24968,6 +24969,7 @@
 ||zh.vpnclub.cc
 ||zh.vpnpros.com
 ||zh.wiki.sxisa.org
+||zh.wikiepdia.org
 ||zh.wikihow.com
 ||zh.wikipedia-on-ipfs.org
 ||zh.wikipedia.ahau.cf
@@ -24977,8 +24979,10 @@
 ||zh.wiktionary.org
 ||zh141029.herobo.com
 ||zh66.xp3.biz
+||zh68.lima-city.de
 ||zh888.lima-city.de
 ||zh9.epizy.com
+||zh9.lima-city.de
 ||zh99.twomini.com
 ||zh999.kickme.to
 ||zhao-visualized.netlify.app
