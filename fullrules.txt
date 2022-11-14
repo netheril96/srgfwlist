@@ -1469,6 +1469,7 @@
 ||bt95.com
 ||btaia.com
 ||btbtav.com
+||btdig.com
 ||btdigg.org
 ||btku.me
 ||btku.org
@@ -1476,7 +1477,6 @@
 ||btsynckeys.com
 ||budaedu.org
 ||buddhanet.com.tw
-||buddhistchannel.tv
 ||buffered.com
 ||bullguard.com
 ||bullog.org
@@ -3371,6 +3371,7 @@
 ||openervpn.in
 ||openid.net
 ||openleaks.org
+||openstreetmap.org
 ||opentech.fund
 ||openvpn.net
 ||openwebster.com
@@ -8695,7 +8696,6 @@
 ||btcmarkets.net
 ||btcturk.com
 ||btdb.eu
-||btdig.com
 ||btguard.com
 ||btkitty.com
 ||btkitty.org
@@ -8726,6 +8726,7 @@
 ||buddhism.about.com
 ||buddhism.kharkov.ua
 ||buddhismnow.com
+||buddhistchannel.tv
 ||bufalopedia.ch
 ||bufalopedia.com
 ||bufalopedia.net
@@ -15636,7 +15637,6 @@
 ||openloadfreetv.me
 ||openproxy.co.uk
 ||openstat.ru
-||openstreetmap.org
 ||opentechfund.org
 ||openvpn.com
 ||openvpn.se
