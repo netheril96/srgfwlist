@@ -4950,6 +4950,7 @@
 ||00006804.com
 ||0000gz.com
 ||0003tyc.com
+||000543.co
 ||00058.cc
 ||0005tyc.com
 ||0006sc.com
@@ -5205,6 +5206,7 @@
 ||117708.com
 ||117899.com
 ||118700080.com
+||11871108.com
 ||11883885.com
 ||119hg.com
 ||11cpk.com
@@ -5639,6 +5641,7 @@
 ||272a.net
 ||2741103.com
 ||2741131.com
+||276106.com
 ||2785173.com
 ||2786919.com
 ||2793.sbf9988.com
@@ -6655,6 +6658,7 @@
 ||8dgo.com
 ||8dice168.com
 ||8dy.me
+||8fu.xyz
 ||8kun.top
 ||8m94z.site
 ||8muses.com
@@ -7839,7 +7843,6 @@
 ||b.spagettitoast.com
 ||b.we55.us
 ||b.wxga.us
-||b000003.com
 ||b000007.com
 ||b00100.com
 ||b00200.com
@@ -7947,7 +7950,6 @@
 ||bananaberry.de
 ||bancochile.cl
 ||band.com
-||bandainamco.com
 ||bangbros.com
 ||bangbrosfreetrial.com
 ||bangbrothers.com
@@ -8075,6 +8077,7 @@
 ||bd831.com
 ||bd935.com
 ||bdg190.com
+||bdg322.com
 ||bdg510.com
 ||bdg88.com
 ||bdg909.com
@@ -8191,7 +8194,6 @@
 ||bg9444.com
 ||bg9888.com
 ||bgme.me
-||bgproxy.org
 ||bhkta.org
 ||bhpho.to
 ||bhrrc.org
@@ -8213,7 +8215,6 @@
 ||bicycle-cycling.com
 ||bicycle-store-123.business.site
 ||biec.us
-||bienaldecuritiba.com.br
 ||biennaledemocrazia.it
 ||bifa1997.com
 ||bifa66.com
@@ -8452,7 +8453,6 @@
 ||blogspot.se
 ||blogspot.sg
 ||blogspot.si
-||blogspot.sk
 ||blooballs.com
 ||blooket.com
 ||bloom.bg
@@ -8819,11 +8819,9 @@
 ||by0100.com
 ||by0200.com
 ||by0300.com
-||by0400.com
 ||by0500.com
 ||by0800.com
 ||by0900.com
-||by88000.com
 ||bygcloud.com
 ||byj01.com
 ||byj02.com
@@ -9299,7 +9297,6 @@
 ||chinmayamission.org
 ||chinyi.ncut.edu.tw
 ||chkci.org.hk
-||chn.chosun.com
 ||chn.the-liberty.com
 ||chnarchive.chosun.com
 ||chng.it
@@ -9981,7 +9978,6 @@
 ||defcon.org
 ||defence.pk
 ||defenddemocracy.org
-||defilter.us
 ||definefetish.com
 ||dehainaut.org
 ||delalastra.cl
@@ -10012,7 +10008,6 @@
 ||desinfecteya.com.ar
 ||desisexclips.com
 ||desmtv.site
-||destatevi.org
 ||destiny.pro
 ||destiny.to
 ||destiny.xfiles.to
@@ -10469,6 +10464,7 @@
 ||edwincheong.com
 ||edwingomez.com
 ||ee.qc.to
+||ee2694.com
 ||ee33.jdao.tk
 ||ee699.net
 ||ee9497.com
@@ -11079,7 +11075,6 @@
 ||fintv.site
 ||fioridicipria.com
 ||fiorinis.com
-||fir3beast.com
 ||fireballrs.de
 ||firebase.com
 ||firebaseapp.com
@@ -12091,6 +12086,7 @@
 ||h5.ledong99.cc
 ||h5.ledongsports72.com
 ||h5.mx80.bet
+||h5.vbvip22.com
 ||h598.com
 ||h5galgame.com
 ||h782.com
@@ -12679,7 +12675,6 @@
 ||idriis.com
 ||idrive.com
 ||idrlabs.com
-||ie.kuniao.com
 ||ie1810.com
 ||ie2205.com
 ||ie2208.com
@@ -13073,6 +13068,7 @@
 ||j-cast.com
 ||j-proxy.net
 ||j.joe.dj
+||j0005.com
 ||j090909.com
 ||j2.jygnet.org
 ||j2226.com
@@ -13299,6 +13295,7 @@
 ||jmara.net
 ||jmcomic.asia
 ||jmcomic.cc
+||jmcomic.city
 ||jmcomic.me
 ||jmcomic.mobi
 ||jmcomic.one
@@ -13584,7 +13581,6 @@
 ||kingss.win
 ||kinkcult.com
 ||kinkykink.com
-||kirby.fandom.com
 ||kirios.co
 ||kirtu.com
 ||kirupa.com
@@ -13695,6 +13691,7 @@
 ||kum.com
 ||kumparan.com
 ||kumquat.gr
+||kuniao.com
 ||kurinjikathambam.com
 ||kusiri.com
 ||kusocity.com
@@ -14356,7 +14353,6 @@
 ||mail.aol.com
 ||mail.asianmenusauces.com
 ||mail.atlanticcouncil.org
-||mail.axg.com.my
 ||mail.baroque-global.com
 ||mail.barrowsonline.com
 ||mail.calipercorp.com
@@ -14961,6 +14957,7 @@
 ||my.jumpthewall.net
 ||my.keepsolid.com
 ||my.keso.cn
+||my.mail.ru
 ||my.now-ip.net
 ||my.shadowsocksr.vip
 ||my.tranzact.com
@@ -15035,6 +15032,7 @@
 ||mystakidis.com
 ||mystartsearch.com
 ||mysunshine.in
+||mysupermarket.co.uk
 ||mysupervisor.org
 ||mysynology.net
 ||mytesa.org
@@ -15065,7 +15063,6 @@
 ||n.stood.pw
 ||n0.2112swt.club
 ||n0.eac9f1fc.net
-||n0s.me
 ||n1g.org
 ||n24.de
 ||n4i2.es
@@ -18778,6 +18775,7 @@
 ||uinvest.com.ua
 ||uk-proxy.co.uk
 ||uk.32bit.top
+||uk.finance.yahoo.com
 ||ukdiscuss.com
 ||ukproxyserver.com
 ||ukuleleshop.com.tw
@@ -19419,6 +19417,7 @@
 ||wa.me
 ||wadi.desertfish.be
 ||waffles.fm
+||wagner.wang
 ||waiguoaccelerator.org
 ||waikeung.net
 ||wakune.xyz
@@ -19427,6 +19426,7 @@
 ||walletconnect.com
 ||walls.io
 ||wallvpn.com
+||wallzhihu.com
 ||walxtv.site
 ||wam-fw.azurewebsites.net
 ||wam-nyt.azurewebsites.net
@@ -19634,6 +19634,7 @@
 ||whitebear.freebearblog.org
 ||whitenight.net16.net
 ||whitepages.com.au
+||whiteteensblackcocks.com
 ||whitmail.whitman.edu
 ||whitneyquesenbery.com
 ||whogovernstw.org
@@ -19769,7 +19770,6 @@
 ||wolf.bet
 ||wolfgang.site40.net
 ||wolfx.cc
-||womad.life
 ||woman.ru
 ||womany.net
 ||wombo.art
@@ -20011,9 +20011,12 @@
 ||www.222k8.com
 ||www.2233556.com
 ||www.223gg.net
-||www.223ii.net
+||www.223i.net
+||www.223ll.net
 ||www.223m.net
 ||www.223oo.net
+||www.223p.net
+||www.223rr.net
 ||www.223ss.net
 ||www.223tt.net
 ||www.22msc.com
@@ -20066,7 +20069,6 @@
 ||www.365smfx.com
 ||www.365winner.biz
 ||www.366655q.com
-||www.366qq.net
 ||www.36dm.com
 ||www.3728a.com
 ||www.3728z.com
@@ -20208,6 +20210,7 @@
 ||www.852648.com
 ||www.88-line.com
 ||www.88200sc.com
+||www.882111199.com
 ||www.882662.com
 ||www.88300sc.com
 ||www.88400sc.com
@@ -20790,6 +20793,7 @@
 ||www.cat.com
 ||www.cathayglory.com
 ||www.cathayglory.org
+||www.cathaypacificcargo.com
 ||www.cathaysite.com.tw
 ||www.caus.com
 ||www.cavip111.com
@@ -21091,6 +21095,7 @@
 ||www.dyvip91.com
 ||www.dzcp3555.com
 ||www.dzogchen.org.au
+||www.e12223.com
 ||www.e8030.com
 ||www.e8078.com
 ||www.e8084.com
@@ -21473,6 +21478,7 @@
 ||www.fxpro.com
 ||www.fxstreet.cn
 ||www.fxtm.com
+||www.fy697.com
 ||www.fy919.com
 ||www.fy969.com
 ||www.fyt65.com
@@ -21530,6 +21536,7 @@
 ||www.ggc-project.de
 ||www.ggc666.com
 ||www.ggncr.com
+||www.ghb.url.tw
 ||www.ghostme.org
 ||www.giftube.com
 ||www.gigantits.com
@@ -21789,6 +21796,7 @@
 ||www.icenci.com
 ||www.ichartsmd.com
 ||www.icilix.com
+||www.iconosquare.com
 ||www.icote.pt
 ||www.icp1111.com
 ||www.idax.pro
@@ -21812,7 +21820,6 @@
 ||www.ihktv.com
 ||www.ihoneyjoo.com
 ||www.ihost.tw
-||www.ihteam.net
 ||www.ijobio.com
 ||www.ikangke.com
 ||www.ikta.com
@@ -21998,6 +22005,7 @@
 ||www.jiashengjituan.com
 ||www.jiasinn.com.tw
 ||www.jica88.com
+||www.jicloud.site
 ||www.jiedaibao10g.com
 ||www.jiligame.com
 ||www.jimmyliikala.se
@@ -22340,7 +22348,6 @@
 ||www.meteo.fr
 ||www.metrostlouis.org
 ||www.mgbet142.com
-||www.mgscl123.com
 ||www.mgvip4.com
 ||www.mhakel.com
 ||www.mhchina.net
@@ -23099,6 +23106,7 @@
 ||www.sourcemap.com
 ||www.southwalesargus.co.uk
 ||www.sovpn.net
+||www.spank2u.com
 ||www.sparklabs.com
 ||www.spbo.com
 ||www.spbook.com.tw
@@ -23502,7 +23510,6 @@
 ||www.vacounh.com
 ||www.vajrapani.org
 ||www.valu-cn.com
-||www.vanbbs.com
 ||www.vanhi.com
 ||www.vastitude.org
 ||www.vaticannews.cn
@@ -23933,6 +23940,7 @@
 ||www.yuyans.com
 ||www.yy80030.com
 ||www.yycili.com
+||www.yyrchina.com
 ||www.yzc212.com
 ||www.yzc216.com
 ||www.yzc369.com
@@ -24112,6 +24120,7 @@
 ||xiaohouzi.club
 ||xiaomei8.dele88.com
 ||xiaomi8.dele88.com
+||xiaopin888.com
 ||xiaotv.xyz
 ||xiaowei11.com
 ||xiazai.nznbwz.com
@@ -24141,6 +24150,7 @@
 ||xingdaili.com
 ||xinhaunet.com
 ||xinhe0.com
+||xinhuanet.org
 ||xinjiang.sppga.ubc.ca
 ||xinlingfamen.net
 ||xinlingfamen.org
