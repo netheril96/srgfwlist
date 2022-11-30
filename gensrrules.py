@@ -67,7 +67,10 @@ def gfwlist_to_domain_suffices(gfwlist: Iterable[str]) -> List[str]:
             c = line[2:]
         else:
             continue
-        domain_suffices.append(c.split("/")[0])
+        c = c.rstrip("/")
+        if "/" in c:
+            continue  # We only keep full domains, not anything with path in it.
+        domain_suffices.append(c)
     return domain_suffices
 
 
