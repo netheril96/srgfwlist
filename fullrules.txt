@@ -4936,6 +4936,7 @@
 ||0328k.com
 ||0328m.com
 ||0328n.com
+||0328t.com
 ||0328u.com
 ||0328v.com
 ||0328y.com
@@ -4968,7 +4969,6 @@
 ||0600sc.com
 ||0637777.com
 ||06666b.com
-||0668.cc
 ||0679.com
 ||068ld.com
 ||06966b.com
@@ -5374,6 +5374,7 @@
 ||1youtube.com
 ||2.4.je
 ||2.android.pool.ntp.org
+||2.cn.pool.ntp.org
 ||2.cr.rs
 ||2.hdd2.host
 ||2.inc.gs
@@ -5915,7 +5916,6 @@
 ||531051l.com
 ||531051y.com
 ||5310522.com
-||531052p.com
 ||531052q.com
 ||531052w.com
 ||5310533.com
@@ -6183,13 +6183,11 @@
 ||6707809.com
 ||670800.com
 ||6767.am
-||6767553.com
 ||677688.com
 ||678k7.com
 ||6791048.com
 ||68000sc.com
 ||680132.com
-||681152.com
 ||681972.com
 ||682137.com
 ||6832.cc
@@ -6331,7 +6329,6 @@
 ||777777.com
 ||777905i.com
 ||777xporn.com
-||7782853.com
 ||7788.hk
 ||7788777.com
 ||77apt.com
@@ -6744,6 +6741,7 @@
 ||99xin6.com
 ||99xv.xyz
 ||9aaa4.com
+||9aaa7.com
 ||9abp1.com
 ||9abx1.com
 ||9acs1.com
@@ -6819,6 +6817,7 @@
 ||a4h.cc
 ||a5.com.ru
 ||a50e791daf7240cfa83d58f58a64b871.azureedge.net
+||a531052.com
 ||a531053.com
 ||a58955.com
 ||a771.dscq.akamai.net
@@ -7134,6 +7133,7 @@
 ||ajn.timesofisrael.com
 ||ak3.me
 ||ak633.com
+||ak88t.com
 ||ak98t.com
 ||akahoshi.weebly.com
 ||akahoshitakuya.com
@@ -7617,6 +7617,7 @@
 ||audiobar.net
 ||audioboom.com
 ||audiobro.com
+||augustgermar.com
 ||auliving.com.au
 ||auluckylottery.com
 ||auntmia.com
@@ -7915,6 +7916,7 @@
 ||bbcukchina.com
 ||bbcurdu.com
 ||bbcworldnews.com
+||bbe-hk.com
 ||bbgyy.net
 ||bblat.se
 ||bbnsilicone.com
@@ -8405,7 +8407,6 @@
 ||bm886.cc
 ||bm887.cc
 ||bm90000.com
-||bm919.com
 ||bmbhanage.weebly.com
 ||bmc03.com
 ||bmc08.com
@@ -8942,7 +8943,6 @@
 ||cc18tv.com
 ||cc1lib.club
 ||cc311458.com
-||cc353.com
 ||cc5912.com
 ||cc9514.com
 ||ccaudi.com
@@ -10478,6 +10478,7 @@
 ||english.astroawani.com
 ||englishforeveryone.org
 ||englishpen.org
+||engrade.com
 ||enia.net
 ||enjinx.cn
 ||enjoytrader90.com
@@ -11360,7 +11361,6 @@
 ||fyc666.com
 ||fydt.org
 ||fyndiq.se
-||fyoutube.com
 ||fyptt.to
 ||fyt10.com
 ||fyt100.com
@@ -11550,8 +11550,6 @@
 ||getwiki.org
 ||getyoutube.com
 ||gexo.com
-||gf0001.com
-||gf0004.com
 ||gf3337.com
 ||gfashion.com
 ||gfbv.de
@@ -12049,7 +12047,6 @@
 ||hd.port0.org
 ||hd.tv100.us
 ||hd25.tk
-||hdavid.net
 ||hdchina.org
 ||hdd.biz.st
 ||hdm2011.com
@@ -12490,7 +12487,6 @@
 ||i-ab.com
 ||i-sux.com
 ||i-t.me
-||i-yu.me
 ||i.filmot.org
 ||i.ftimg.net
 ||i.init.shop
@@ -12947,8 +12943,8 @@
 ||j090909.com
 ||j2.jygnet.org
 ||j2226.com
-||j2254.com
 ||j2268.com
+||j2334.com
 ||j2368.com
 ||j2958.com
 ||j2976.com
@@ -13242,6 +13238,7 @@
 ||jpsex.in
 ||jria.jpn.com
 ||js.intercomcdn.com
+||js00042.com
 ||js00140.com
 ||js0505.com
 ||js053104.com
@@ -13257,7 +13254,6 @@
 ||js590795.com
 ||js710.com
 ||js77777.com
-||js813521.com
 ||js982072.com
 ||jsdaodu.over-blog.com
 ||jsdaodu16.jigsy.com
@@ -13286,6 +13282,7 @@
 ||juliosigns.com.au
 ||jumav.com
 ||jumpingcrab.com
+||jumptags.com
 ||jumptalking.com
 ||junau.com
 ||jundy.org
@@ -13497,7 +13494,9 @@
 ||kodirectory.com
 ||komica2.net
 ||komicolle.org
+||komodojantan.com
 ||konnectuci.wixsite.com
+||kontakto.tejo.org
 ||koreafish.co.kr
 ||koreanfriendfinder.com
 ||kosaarts.com
@@ -13826,7 +13825,6 @@
 ||liberation.fr
 ||libgen.fun
 ||libgen.gs
-||libgen.is
 ||libgen.lc
 ||libgen.li
 ||libgen.me
@@ -14391,10 +14389,10 @@
 ||mbusa.com
 ||mbxqwe6.com
 ||mcasino.vwin000.com
-||mcat007.com
 ||mcat01.com
 ||mcat123.com
 ||mcat166.com
+||mcat188.com
 ||mccormicklit.com
 ||mccrack.cf
 ||mcfantasy.xyz
@@ -14746,20 +14744,17 @@
 ||mprnews.org
 ||mpweekly.com
 ||mr1310.com
-||mra01.com
-||mra02.com
 ||mra08.com
 ||mra58.com
 ||mratme.com
 ||mratyou.com
 ||mrc123.com
-||mrc188.com
 ||mrc68.com
 ||mrcat.com
 ||mrcat168.com
 ||mrcatapp.com
 ||mrcatgame.com
-||mrcatnb.com
+||mrcatlanding88.com
 ||mrcboy.com
 ||mrjizz.com
 ||mrkakisen.net
@@ -15679,6 +15674,7 @@
 ||pallieterke.net
 ||palpung.org.tw
 ||palvo.com
+||pamelageller.com
 ||panampost.com
 ||pandafan.me
 ||pandations.com
@@ -16850,7 +16846,6 @@
 ||saycheese.hk
 ||sb.wixsite.com
 ||sb0919.com
-||sbf123.com
 ||sbf138.com
 ||sbf339.com
 ||sbf363.com
@@ -17115,6 +17110,7 @@
 ||share.wordshare.in
 ||share.youthwant.com.tw
 ||share666.com
+||shareaholic.com
 ||shark-chinaz.com
 ||sharkchina.org
 ||sharkchinaz.com
@@ -17190,6 +17186,7 @@
 ||simple.com
 ||simplecd.me
 ||simplexsolutionsinc.com
+||simplicus.se
 ||sina.com.com
 ||sina.com.hk
 ||sina.com.tw
@@ -18761,6 +18758,7 @@
 ||uporn.net
 ||uproxysite.cloudfunctions.net
 ||upsc.co.uk
+||upside.com
 ||uptown.pw
 ||upyoutube.com
 ||urasob.com
@@ -19028,7 +19026,6 @@
 ||vipergirls.to
 ||vipjs9900.com
 ||vipxxtv.com
-||vipy666.com
 ||virginia.gov
 ||virginmobileusa.com
 ||viria.com.au
@@ -19092,6 +19089,7 @@
 ||vobas.com
 ||vocaroo.com
 ||vocn.tv
+||voicedaily.com
 ||voicesoflove.org
 ||voicesofny.org
 ||voipfone.net
@@ -19624,7 +19622,6 @@
 ||wm699.cc
 ||wmcloud.org
 ||wmflabs.org
-||wmhpx.com
 ||wmkredit.ru
 ||wmscog.cc
 ||wmsxwd999.men
@@ -20087,7 +20084,6 @@
 ||www.82299.com
 ||www.8278.com
 ||www.831886.com
-||www.852648.com
 ||www.88-line.com
 ||www.88200sc.com
 ||www.882111199.com
@@ -20294,6 +20290,7 @@
 ||www.appsheet.com
 ||www.appstore.com
 ||www.araratadvertiser.com.au
+||www.arbetarbladet.se
 ||www.archangelvideo.com
 ||www.archiviolastampa.it
 ||www.areca.com.tw
@@ -20737,6 +20734,7 @@
 ||www.chinonyaa.tk
 ||www.chip1stop.com
 ||www.chitujsq.com
+||www.chnfree.com
 ||www.chode.com
 ||www.choi-waru.com
 ||www.chowtaifook.com
@@ -20874,6 +20872,7 @@
 ||www.davidscottinteriors.com
 ||www.db433.com
 ||www.db458.com
+||www.db577.com
 ||www.dbw9999.com
 ||www.dc667.com
 ||www.dc7774.com
@@ -21184,7 +21183,6 @@
 ||www.fktv99.com
 ||www.fl3q5.com
 ||www.fleshlight.com
-||www.flippa.com
 ||www.floriank.com
 ||www.floridablue.com
 ||www.flowvpx.com
@@ -21731,6 +21729,7 @@
 ||www.instaforex.eu
 ||www.institutvajrayogini.fr
 ||www.int2000.net
+||www.integrity.hk
 ||www.interactivebrokers.com.hk
 ||www.interiorsandsources.com
 ||www.internationalaffairs.org.au
@@ -22871,7 +22870,6 @@
 ||www.sexttt.com
 ||www.sexx123.com
 ||www.sf590.com
-||www.sg505.com
 ||www.sgapi11.com
 ||www.sgchinese.com
 ||www.sgreenvpn.com
@@ -22905,6 +22903,7 @@
 ||www.shireyishunjian.net
 ||www.shireyishunjian.org
 ||www.shireyishunjian.vip
+||www.shs.edu.tw
 ||www.shubhkitchen.com
 ||www.shukousha.com
 ||www.shuku.net
@@ -22958,7 +22957,6 @@
 ||www.socialnmobile.com
 ||www.socketpro.help
 ||www.socketpro.net
-||www.sofaslot.com
 ||www.softonic.cn
 ||www.sogo18.com
 ||www.sologirlpussy.com
@@ -23645,7 +23643,6 @@
 ||www.xj2238.com
 ||www.xj9928.com
 ||www.xlgirls.com
-||www.xlnmtv.site
 ||www.xm.co.uk
 ||www.xmail.net
 ||www.xmbroker-fx.com
@@ -24183,6 +24180,7 @@
 ||xxxporn.com
 ||xxxpussyvideo.com
 ||xxxtik.com
+||xxxxx520.com
 ||xy.domain888.pw
 ||xys.org
 ||xys3.dxiong.com
