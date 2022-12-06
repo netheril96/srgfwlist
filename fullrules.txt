@@ -4949,7 +4949,6 @@
 ||0400sc.com
 ||0403.ca
 ||0446b.com
-||0448704.com
 ||04647.net
 ||04647.xyz
 ||048738.com
@@ -6274,7 +6273,6 @@
 ||73999g.com
 ||73999z.com
 ||739bm.com
-||741040.co
 ||7427830.com
 ||742919.com
 ||7455754.com
@@ -6823,6 +6821,7 @@
 ||a771.dscq.akamai.net
 ||a859.g4.akamai.net
 ||a88.us
+||a8m.aicarclub.com
 ||a941.com
 ||a963.com
 ||a9688.com
@@ -8141,7 +8140,6 @@
 ||billjarrett.com
 ||bilyoner.com
 ||binance.org
-||binancezh.biz
 ||binancezh.io
 ||binary.com
 ||binary20.com
@@ -8723,6 +8721,7 @@
 ||bygcloud.com
 ||byj01.com
 ||byj02.com
+||byoutube.com
 ||bypasskey.com
 ||byt0022.com
 ||byt020.com
@@ -8764,7 +8763,6 @@
 ||c3693c.com
 ||c3j.fun
 ||c3pool.com
-||c43372.com
 ||c4ads.org
 ||c4rt-girl.es
 ||c4story.com
@@ -10116,7 +10114,6 @@
 ||dorceltv.com
 ||dorkly.com
 ||dospic.com
-||dot.sb
 ||dot.tiar.app
 ||dotclub.com
 ||dotunnel.com
@@ -10252,7 +10249,6 @@
 ||dwayneperry.ml
 ||dweb.link
 ||dwelle.de
-||dwibcc.org
 ||dwz.pm
 ||dx1l.ink
 ||dxotv.com
@@ -11412,6 +11408,7 @@
 ||g4w.me
 ||gabo8.com
 ||gabtrends.com
+||gag.com.tw
 ||gainsy.com
 ||gal.voiux.com
 ||galacg.me
@@ -11490,6 +11487,7 @@
 ||gc919.com
 ||gcgc8.com
 ||gci.9fabet.com
+||gci.agvip028.com
 ||gci.eastbfire.com
 ||gci.fun172.com
 ||gci.h3shengbo.com
@@ -11777,6 +11775,7 @@
 ||grupompr.com
 ||gruppuso.com
 ||gs108.com
+||gs326.com
 ||gscssr.net
 ||gsis.gr
 ||gsmarena.gr
@@ -11834,6 +11833,7 @@
 ||gz1616.com
 ||gz2299.com
 ||gz7888.com
+||gzhanyou.org
 ||gzzt.org
 ||h-appybirthday.com
 ||h-digital.athersite.com
@@ -11888,7 +11888,6 @@
 ||h5.ld25.bet
 ||h5.ld26.bet
 ||h5.ld31.bet
-||h5.ld33.bet
 ||h5.ld34.bet
 ||h5.ld35.bet
 ||h5.ld36.bet
@@ -12393,6 +12392,7 @@
 ||howeyun.com
 ||howfu.me
 ||howtolabs.net
+||hp.com
 ||hp.cool
 ||hp.myway.com
 ||hp.nard.ca
@@ -12453,7 +12453,6 @@
 ||humanrightsfoundation.org
 ||humanrightshouse.org
 ||humansofnewyork.com
-||hungry.tw
 ||hungyatw.com
 ||hunmagyar.org
 ||huo360.com
@@ -13066,6 +13065,8 @@
 ||jayrusso.com
 ||jb.wojb.org
 ||jb195.com
+||jb203.com
+||jb235.com
 ||jb288.com
 ||jb33275.com
 ||jb9699.com
@@ -13537,6 +13538,7 @@
 ||ks288.com
 ||ks344.com
 ||ks474.com
+||ks5666.com
 ||ks6000.com
 ||ks662.com
 ||ks9444.com
@@ -14360,6 +14362,7 @@
 ||marvel.app.com
 ||marvell.ent.box.com
 ||marxist.tw
+||mas.to
 ||masalili.tw
 ||mashtechafrica.com
 ||masiukiewicz.pl
@@ -14579,7 +14582,6 @@
 ||minzhuzhongguo.org
 ||mirai.ca
 ||mirandamarques.com
-||mirror.genesisadaptive.com
 ||mirror.xyz
 ||mirrorbooks.com
 ||mirrorfiction.com
@@ -14853,6 +14855,7 @@
 ||my.shadowsocksr.vip
 ||my.tranzact.com
 ||my.twill.net
+||my163.site
 ||my188bet.com
 ||my188home.com
 ||my25.gq
@@ -15383,7 +15386,6 @@
 ||nyt2.azurewebsites.net
 ||nyt3.azurewebsites.net
 ||nyt4.azurewebsites.net
-||nyt5.azurewebsites.net
 ||nyt6.azurewebsites.net
 ||nyt7.azurewebsites.net
 ||nyt8.azurewebsites.net
@@ -15404,7 +15406,6 @@
 ||nztdsm.com
 ||nzz.ch
 ||o.po18.tw
-||o1.lumos.cf
 ||o2online.ie
 ||o3o.ca
 ||o8812.com
@@ -15451,7 +15452,6 @@
 ||ogli.org
 ||ognjaw.bl3301.livefilestore.com
 ||ogplus.oriental-game.com
-||oh11s8757.juarvian.com
 ||ohara.cl
 ||ohayoutube.com
 ||ohhfuck.me
@@ -15615,6 +15615,7 @@
 ||owzkmh.site
 ||oxialfarm.com
 ||oxlife.co
+||oxztt.com
 ||oyax.com
 ||oyuqb.site
 ||ozchinese.com
@@ -15742,7 +15743,6 @@
 ||pbl.nl
 ||pbwiki.com
 ||pc.olife.org
-||pc.php5.us
 ||pc.tv333.us
 ||pc00s9093.tudouser.com
 ||pc4328.com
@@ -15942,6 +15942,7 @@
 ||playvid.com
 ||playvpn.com
 ||plc001.cc
+||plentylights.com
 ||plexporn.com
 ||plotioglobal-cn.com
 ||plotioglobal.com
@@ -15994,7 +15995,6 @@
 ||poow.ga
 ||popcornsupply.com
 ||poppen.de
-||popularpages.net
 ||popularyoutube.com
 ||porbhub.com
 ||porhub.com
@@ -17016,7 +17016,6 @@
 ||sendvid.com
 ||sentinel.co
 ||seopult.ru
-||sep.gob.mx
 ||sep.org.au
 ||sephora.com
 ||serasaexperian.net
@@ -17772,7 +17771,6 @@
 ||swdevelop.de
 ||sweetkiss.me
 ||sweetpacks-search.com
-||swganh.com
 ||swi16.com
 ||swingbop.ch
 ||swinginvent.com.au
@@ -18184,6 +18182,7 @@
 ||timesjobs.com
 ||timeslive.co.za
 ||timesofindia.com
+||timesofisrael.co.il
 ||timestalks.com
 ||timetohide.me
 ||timeweb.ru
@@ -20062,7 +20061,6 @@
 ||www.66666eee.cc
 ||www.66666mmm.cc
 ||www.66666nn.cc
-||www.66666o.cc
 ||www.66666ss.cc
 ||www.666bg.com
 ||www.666fyt.com
@@ -20083,6 +20081,7 @@
 ||www.75123.com
 ||www.777021.com
 ||www.7777270.net
+||www.77777xam.com
 ||www.777b.com
 ||www.777pornotube.com
 ||www.777ycw.com
@@ -20667,6 +20666,7 @@
 ||www.ca991.com
 ||www.ca998.com
 ||www.cabet555.com
+||www.cabet566.com
 ||www.cabet588.com
 ||www.cafepress.com.au
 ||www.cafun88.com
@@ -20674,7 +20674,6 @@
 ||www.caita66.com
 ||www.calciumale.com
 ||www.call4hk.com
-||www.cam4.tw
 ||www.camelsandchocolate.com
 ||www.camillethomas.com
 ||www.camisiri.it
@@ -20752,6 +20751,7 @@
 ||www.chinasfailedtibetpolicies.org
 ||www.chinazhw.com
 ||www.chine-astuces.com
+||www.chinese-fuhui.com
 ||www.chineseconferenceinterpreters.com
 ||www.chineseetymology.org
 ||www.chineseguide.us
@@ -21012,6 +21012,7 @@
 ||www.e8777.com
 ||www.e87788.com
 ||www.e8781.com
+||www.e87858.com
 ||www.e8792.com
 ||www.e8797.com
 ||www.e8832.com
@@ -21021,6 +21022,7 @@
 ||www.e89988.com
 ||www.e8play.cc
 ||www.e8play.com
+||www.e8wx.com
 ||www.e991.com
 ||www.eaadvanced.com
 ||www.eaintl.com
@@ -21174,12 +21176,14 @@
 ||www.fh-asia.com
 ||www.fh-chinese.com
 ||www.fh-chn.com
+||www.fh-fuhui.com
 ||www.fh-jituan.com
 ||www.fh-zh.com
 ||www.fh.game
 ||www.fhd4k.com
 ||www.fhfuhui.com
 ||www.fhgroup-chn.com
+||www.fhgroup-zh.com
 ||www.fhjituan.com
 ||www.fhjt-chinese.com
 ||www.fhjt-chn.com
@@ -21270,7 +21274,6 @@
 ||www.fubo777.com
 ||www.fubo888.com
 ||www.fubooks.com
-||www.fucai1889.com
 ||www.fuckccp.com
 ||www.fuckuh.com
 ||www.fuertenews.com
@@ -21358,6 +21361,7 @@
 ||www.fxcm-chn.com
 ||www.fxcm-cn.com
 ||www.fxcm-zh.com
+||www.fxcm-zhs.com
 ||www.fxcmcn.com
 ||www.fxcmmarkets.com
 ||www.fxcmzh.com
@@ -21389,6 +21393,7 @@
 ||www.gamenet.it
 ||www.gamesofdesire.com
 ||www.ganbey.com
+||www.gaoshu888.com
 ||www.garbc.org
 ||www.gardeningknowhow.com
 ||www.gatestoneinstitute.org
@@ -21582,7 +21587,6 @@
 ||www.hjdc18.com
 ||www.hk-magazine.com
 ||www.hk1282sec.com
-||www.hk2022iufc.hk
 ||www.hkaac.net
 ||www.hkaagzxgpy.org.com
 ||www.hkaim.org.hk
@@ -21921,7 +21925,6 @@
 ||www.jsss.site
 ||www.jtassetcompensation.com
 ||www.jteach.com
-||www.jtw007.com
 ||www.ju111.co
 ||www.juicyads.com
 ||www.julis.de
@@ -22138,6 +22141,7 @@
 ||www.lowyinstitute.org
 ||www.lpsg.org
 ||www.lrt.lt
+||www.lsg2888.com
 ||www.lsj.xyz
 ||www.lsj1080.com
 ||www.lszhibo.com
@@ -22347,6 +22351,7 @@
 ||www.myxvids.com
 ||www.n52040.com
 ||www.n56b.com
+||www.n6396.com
 ||www.n888uu.com
 ||www.n8nr.com
 ||www.n8vip31.com
@@ -23685,7 +23690,6 @@
 ||www.xw256.com
 ||www.xw283.com
 ||www.xw293.com
-||www.xw294.com
 ||www.xw511.com
 ||www.xw663.com
 ||www.xxnxx.com
@@ -23849,7 +23853,6 @@
 ||www.zhongfengmetal.com
 ||www.zhongzidi.com
 ||www.zhujike.com
-||www.zihru.com.tw
 ||www.zimuzu.io
 ||www.zinio.com.tw
 ||www.zionladder.com
@@ -23966,6 +23969,7 @@
 ||xeper.org
 ||xfoxpo.com
 ||xfss.cc
+||xgi.xzfclub.com
 ||xh.domain888.pw
 ||xh.freepac.pw
 ||xh00019.com
@@ -24563,7 +24567,6 @@
 ||yyhbet.com
 ||yyituan.com
 ||yyty.live
-||yyxmv.com
 ||yyy335.com
 ||yyy336.com
 ||yyy343.com
@@ -24649,7 +24652,6 @@
 ||zh.wiki.sxisa.org
 ||zh.wikiepdia.org
 ||zh.wikipedia-on-ipfs.org
-||zh.wikipedia.ahau.cf
 ||zh.wikipedia.aufe.cf
 ||zh.wikipedia.shisu.cf
 ||zh.wikiredia.com
@@ -24657,12 +24659,10 @@
 ||zh141029.herobo.com
 ||zh66.xp3.biz
 ||zh68.lima-city.de
-||zh888.lima-city.de
 ||zh9.epizy.com
 ||zh9.lima-city.de
 ||zh99.twomini.com
 ||zh999.kickme.to
-||zhao-visualized.netlify.app
 ||zhaojiaren.club
 ||zhaoyang.byethost7.com
 ||zhazhijiav.com
