@@ -995,6 +995,8 @@
 ||voanews.com
 ||voatibetan.com
 ||voatibetanenglish.com
+||zh.ecdm.wikia.com
+||evchk.wikia.com
 ||wikimedia.org
 ||zh.wikisource.org
 ||zh.wikiquote.org
@@ -5441,6 +5443,7 @@
 ||22find.com
 ||22letou.com
 ||22ppk.com
+||22youtube.com
 ||23.readmyblog.org
 ||233.wtf
 ||2333666.xyz
@@ -5820,7 +5823,6 @@
 ||50104.coolxtv.com
 ||5016397.com
 ||5017022.com
-||502310.com
 ||502porn.com
 ||50418.9aca1.com
 ||50504688.com
@@ -6066,7 +6068,6 @@
 ||63qq.net
 ||63rr.net
 ||64000sc.com
-||641.qq610.com
 ||642675.com
 ||6444744.com
 ||648571.org
@@ -6548,7 +6549,6 @@
 ||91vff.com
 ||91vhh.com
 ||91vid.com
-||91vpn.com
 ||91vss.com
 ||91xaa.com
 ||91xv.xyz
@@ -6854,7 +6854,6 @@
 ||abc92.ru
 ||abccxv.xyz
 ||abcd.stt019.com
-||abcd3.ml
 ||abcdka.com
 ||abcn.ws
 ||abcradio.com
@@ -7339,7 +7338,6 @@
 ||anonymise.us
 ||anonymize.net
 ||anonymous-proxies.net
-||anonymous-proxy.com.de
 ||anonymous.si
 ||anonymoussurf.us
 ||anonymox.net
@@ -8621,6 +8619,7 @@
 ||business.nikkeibp.co.jp
 ||businessinsider.co.id
 ||businessinsider.com.au
+||businessinsider.in
 ||businessinsider.sg
 ||businesssource.bokf.com
 ||bussou.com
@@ -9329,6 +9328,7 @@
 ||cn.sixsenses.com
 ||cn.souka.xyz
 ||cn.tdna.me
+||cn.uncyclopedia.wikia.com
 ||cn.venetianmacau.com
 ||cn.vintagehour.com
 ||cn.yahoo.com
@@ -11938,7 +11938,6 @@
 ||haima888.com
 ||haiwai.com
 ||halfbug.com
-||halihali.cc
 ||hamburger-me.com
 ||hamrodolakha.com
 ||han-duty.com
@@ -11957,6 +11956,7 @@
 ||haoqianglyu.com
 ||hapi.ettoday.net
 ||happy-science.jp
+||happykomike.com
 ||happyproblog.weebly.com
 ||happysocks.com
 ||happytugs.com
@@ -12082,6 +12082,7 @@
 ||herrneckara.bhitest.com
 ||heryan.web.id
 ||hex.win
+||hexwell.net
 ||heyav.tv
 ||heydouga.com
 ||hg0882.com
@@ -12730,6 +12731,7 @@
 ||invidious.xyz
 ||invoicedoctor.com
 ||inyt.com
+||inznature.weebly.com
 ||io.freess.org
 ||iol.pt
 ||ionic6.org
@@ -13143,7 +13145,6 @@
 ||jk-sexvideos.com
 ||jkforum.net
 ||jlc01.com
-||jlforums.com
 ||jltv.tv
 ||jmara.net
 ||jmcomic.asia
@@ -13327,6 +13328,7 @@
 ||k999777.com
 ||kaav520.com
 ||kaboodle.com
+||kacsystems.com
 ||kadampa-center.org
 ||kafan.cn
 ||kagyu.org.nz
@@ -13828,6 +13830,7 @@
 ||lifechurch.com
 ||lifeselector.com
 ||lifesitenews.com
+||lifestylehub.wikia.com
 ||lifextv.com
 ||liftoff.io
 ||light.iing.tw
@@ -14203,7 +14206,6 @@
 ||magicalaska.weebly.com
 ||magiccloak.net
 ||magmafilm.com
-||magnarider.com
 ||magri.ca
 ||magzter.com
 ||mahjongsoul.com
@@ -14370,6 +14372,7 @@
 ||mbb.bibimtv.site
 ||mbetway88.agent1818.com
 ||mbusa.com
+||mbxqwe6.com
 ||mca.gov.in
 ||mcasino.vwin000.com
 ||mcat01.com
@@ -14383,7 +14386,6 @@
 ||mct188.com
 ||mct36.com
 ||mcwy.club
-||md-cc.org
 ||md.pub
 ||mdacc.box.com
 ||mdhspices.com
@@ -14966,6 +14968,7 @@
 ||nantou.taiwan-pharma.org.tw
 ||nanyang.com.my
 ||nanzaozhinan.com
+||naples-seo.com
 ||narutopixxx.com
 ||nas-trans.at
 ||nas.jochen-hoenicke.de
@@ -15152,7 +15155,6 @@
 ||nichegalz.com
 ||nickipedia.us
 ||nickjapan.com
-||nickschulte.com
 ||nico.one
 ||niconode.com
 ||niconode.net
@@ -15343,6 +15345,7 @@
 ||nw.ejdj12.com
 ||nwanime.com
 ||nwanime.tv
+||nwen.net
 ||nwf.org
 ||nwipvideo.com
 ||nwo-truthresearch.blogspot.it
@@ -16024,7 +16027,6 @@
 ||pornotube.com
 ||pornpic4u.com
 ||pornpics.com
-||pornplanet.com
 ||pornplanner.com
 ||pornpotato.com
 ||pornpranks.com
@@ -16126,6 +16128,7 @@
 ||program-think.blogspot.cz
 ||program-think.blogspot.it
 ||programagol.cl
+||programm.tagesschau24.de
 ||programthinkmirror.com
 ||progress.org
 ||progressive.com
@@ -16348,6 +16351,7 @@
 ||qq404.cf
 ||qq404.gq
 ||qq516.net
+||qq610.com
 ||qq9741.com
 ||qqaccelerator.com
 ||qqav.tv
@@ -16442,6 +16446,7 @@
 ||rank.18-sex.us
 ||rapgenius.com
 ||rapidprivacy.com
+||raresupply.com
 ||rate.trimusco.com
 ||ratedporntube.com
 ||ratefriends1.weebly.com
@@ -16867,6 +16872,7 @@
 ||se08s1031.apetteam.com
 ||se669.com
 ||se849.com
+||seaofog.com
 ||search.aust.cf
 ||search.avira.com
 ||search.f-secure.com
@@ -17044,6 +17050,7 @@
 ||shenyun.org
 ||sherig.org
 ||sheshaft.com
+||shfeiwu.com
 ||shih-tai.com
 ||shile.xyz
 ||shinee.cl
@@ -17342,6 +17349,7 @@
 ||spizoo.com
 ||splathq.com
 ||sploshme.com
+||spn999.com
 ||spoiledvirgins.com
 ||spon.de
 ||sponsus.org
@@ -18071,7 +18079,6 @@
 ||times-bignews.com
 ||times.com
 ||timesjobs.com
-||timeslive.co.za
 ||timesofindia.com
 ||timesofisrael.co.il
 ||timestalks.com
@@ -18314,7 +18321,6 @@
 ||tt033.com
 ||tt2133.com
 ||tt2177.com
-||tt366.net
 ||tt3855.com
 ||tt3955.com
 ||ttkacz.com
@@ -18834,7 +18840,6 @@
 ||vercammen.org
 ||veritasifa.co.uk
 ||verplusonline.com
-||vertewest.com
 ||vertix.cl
 ||veryhuo.com
 ||vets.co.il
@@ -19139,6 +19144,7 @@
 ||vw699.com
 ||vweb10.url.tw
 ||vweb11.url.tw
+||vweb12.url.tw
 ||vwin.com
 ||vwin055.com
 ||vwin115.com
@@ -19235,7 +19241,6 @@
 ||washingtontibet.org
 ||washingtontimes.com
 ||washintonpost.com
-||waskucity.com
 ||wataru.moe
 ||watchbabeshows.com
 ||watchersweb.com
@@ -19283,7 +19288,6 @@
 ||wdly002.com
 ||wdly005.com
 ||wdly015.com
-||wdly071.com
 ||wdly077.com
 ||wdly096.com
 ||wdly603.com
@@ -19471,7 +19475,6 @@
 ||wiki5.gq
 ||wiki77.ml
 ||wiki9.ml
-||wikia.com
 ||wikidata.org
 ||wikiless.org
 ||wikiless.sethforprivacy.com
@@ -19678,7 +19681,6 @@
 ||www-cpk06.com
 ||www-dc1-n1.sparklabs.com
 ||www-origin.discoverhongkong.com
-||www.007.com
 ||www.00899l.com
 ||www.01bz.net
 ||www.024231.com
@@ -20106,6 +20108,7 @@
 ||www.accuity.com
 ||www.acefionline.com
 ||www.acemuse.com
+||www.acer.com.tw
 ||www.acg6.club
 ||www.acgft.com
 ||www.acgn.ren
@@ -20190,7 +20193,6 @@
 ||www.amorz.com
 ||www.ampostech.com
 ||www.amssa.org
-||www.amws5555.com
 ||www.anastasialin.com
 ||www.andong.org.tw
 ||www.andrewward.com
@@ -20505,7 +20507,6 @@
 ||www.bureau36.com
 ||www.burmacampaign.org.uk
 ||www.business-standard.com
-||www.businessinsider.in
 ||www.businessweekly.com.tw
 ||www.busjav.cc
 ||www.busseltonmail.com.au
@@ -20694,7 +20695,6 @@
 ||www.cmidi.com
 ||www.cmmedia.com.tw
 ||www.cn.cdnetworks.com
-||www.cna.asia
 ||www.cna.com
 ||www.cna.com.hk
 ||www.cnacargo.com
@@ -20798,6 +20798,7 @@
 ||www.ddtomm.com
 ||www.delawareonline.com
 ||www.deli28.com
+||www.dell.com.tw
 ||www.deluxevanity.com
 ||www.democraticchina.net
 ||www.denbighshirefreepress.co.uk
@@ -21518,7 +21519,6 @@
 ||www.hooball.com
 ||www.hopesky.net
 ||www.hopetv.org
-||www.hopetvph.com
 ||www.hopthewall.com
 ||www.hostinguk.net
 ||www.hot168.site
@@ -21551,6 +21551,7 @@
 ||www.human.nl
 ||www.humanrights.com
 ||www.humanrightsdefenders.org
+||www.hungerff.com
 ||www.huobi.br.com
 ||www.hurr-durr.com
 ||www.hurriyet.com
@@ -22465,7 +22466,6 @@
 ||www.pfcchina.org
 ||www.ph158nb.com
 ||www.phantom2.com
-||www.philomedium.com
 ||www.phoebe.cc
 ||www.photomarket.com
 ||www.phototruth.net
@@ -22863,7 +22863,6 @@
 ||www.sinopacasia.com
 ||www.sinostand.com
 ||www.sipartnersglobal.com
-||www.siruba.com
 ||www.sislovesme.com
 ||www.site44.com
 ||www.siteonlinetest.com
@@ -22924,7 +22923,6 @@
 ||www.spin88.com
 ||www.spin969.com
 ||www.spirepayments.com
-||www.spn999.com
 ||www.sportsbet.io
 ||www.spreaker.com
 ||www.spyoff.com
@@ -23617,7 +23615,6 @@
 ||www.xnylfcp.com
 ||www.xpj000888.com
 ||www.xpj123123.com
-||www.xpj2017.net
 ||www.xrosee.fr
 ||www.xroxy.com
 ||www.xryshaygh.com
@@ -24190,6 +24187,7 @@
 ||yasni.com
 ||yatra.com
 ||yaxin222.com
+||yayabay.com
 ||yayabay.net
 ||yaypetiteteens.com
 ||yazhouse8.com
@@ -24535,6 +24533,7 @@
 ||zap.co.il
 ||zap2it.com
 ||zapkolik.com
+||zb.xpj57888.com
 ||zb8088.com
 ||zb85.com
 ||zb8988.com
@@ -24571,11 +24570,14 @@
 ||zg111.1apps.com
 ||zg88.1apps.com
 ||zg99.1apps.com
+||zh-hk.hongkong.wikia.com
 ||zh-min-nan.wikiquote.org
 ||zh-min-nan.wikisource.org
 ||zh-min-nan.wiktionary.org
 ||zh.anarchistlibraries.net
+||zh.battlegirl.wikia.com
 ||zh.cam4.be
+||zh.fanqiang.wikia.com
 ||zh.hentai-image.com
 ||zh.hotels.com
 ||zh.ifixit.com
@@ -24590,6 +24592,7 @@
 ||zh.pokerstrategy.com
 ||zh.sa1lib.org
 ||zh.swably.com
+||zh.uncyclopedia.wikia.com
 ||zh.videosfilmsporno.com
 ||zh.vn1lib.org
 ||zh.vpnclub.cc
