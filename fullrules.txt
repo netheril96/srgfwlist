@@ -4899,6 +4899,7 @@
 ||01.buyshouses.net
 ||01.dnsdojo.net
 ||0100sc.com
+||011.com
 ||011000001.com
 ||0110003330.com
 ||01100033a.com
@@ -5880,7 +5881,6 @@
 ||531051j.com
 ||531051l.com
 ||531051y.com
-||5310522.com
 ||531052g.com
 ||531052q.com
 ||531052w.com
@@ -6799,6 +6799,7 @@
 ||aa00600.com
 ||aa00700.com
 ||aa00800.com
+||aa12031.com
 ||aa1801.webnode.tw
 ||aa1802.com
 ||aa2.app
@@ -7227,7 +7228,6 @@
 ||amws1100.com
 ||amws1122.com
 ||amws1133.com
-||amws1199.com
 ||amws2200.com
 ||amws2211.com
 ||amws2255.com
@@ -7547,7 +7547,6 @@
 ||atharori.net
 ||atimes.com
 ||atishacentre.org.au
-||atlantaharekrishnas.com
 ||atlas.valenciacollege.edu
 ||atlasofassistedreproduction.com
 ||atlasvpn.com
@@ -7819,6 +7818,7 @@
 ||banwagong.cn
 ||baoguang.cable-modem.org
 ||barcode.md
+||barenghi.com.ar
 ||barney.ro
 ||barrymatv.com
 ||baseball-reference.com
@@ -8449,7 +8449,6 @@
 ||bookstore.emome.net
 ||bookwalker.jp
 ||bookzone.cwgv.com.tw
-||booloo.com
 ||booming.com.br
 ||boomplayer.com
 ||booms.cc
@@ -8646,7 +8645,6 @@
 ||buyu917.com
 ||buyu981.com
 ||buyu9911.com
-||buyu9933.com
 ||buyu9955.com
 ||buzzav.com
 ||buzztter.com
@@ -8752,6 +8750,7 @@
 ||ca6055.com
 ||ca6088.com
 ||ca6699.com
+||ca686.com
 ||ca715.com
 ||ca758.com
 ||ca763.com
@@ -8941,6 +8940,7 @@
 ||cdn.entelectonline.co.za
 ||cdn.fox008.cc
 ||cdn.gitpod.io
+||cdn.mobileread.com
 ||cdn.mxpnl.com
 ||cdn.plus500.com
 ||cdn.proxyium.com
@@ -9169,6 +9169,7 @@
 ||chubun.com
 ||chuizi.net
 ||chumadventist.org
+||chunliangmei.com
 ||chutz.ch
 ||chuyinss.ooo
 ||chy.taiwans.tw
@@ -9468,6 +9469,7 @@
 ||creditpay.myfxcm.com
 ||creeklandmiddle.org
 ||creepshots.org
+||cricketoptin.com
 ||crikey.com.au
 ||criminicomunisti.blogspot.it
 ||critraining.com
@@ -10322,7 +10324,6 @@
 ||ekd.me
 ||ekh3.way-to-win.com
 ||ekolay.net
-||ektachopra.in
 ||el-ladies.com
 ||elad.ca
 ||eldastyle.it
@@ -10490,7 +10491,6 @@
 ||etaiwannews.com
 ||eteenporn.com
 ||eternicode.org
-||eth0.org.uk
 ||ethanology.net
 ||ethermine.org
 ||etherscan.com
@@ -10938,6 +10938,7 @@
 ||flyzy2005.win
 ||focr.sg
 ||focus.de
+||focused-it.ca
 ||fofldfradio.org
 ||followcn.com
 ||followgram.me
@@ -11410,7 +11411,6 @@
 ||geekz0ne.fr
 ||gegegan.com
 ||gegeshe2014.com
-||geloukodj.com.br
 ||gen.lib.rus.ec
 ||general-porn.com
 ||generals.org
@@ -12084,6 +12084,7 @@
 ||hideipusa.com
 ||hideme.be
 ||hideme.nl
+||hideme.ru
 ||hidemyipaddress.org
 ||hidemyna.me
 ||hidemytraxproxy.ca
@@ -12416,6 +12417,7 @@
 ||i.ssvpn.me
 ||i.zhujike.com
 ||i2.am
+||i24news.tv
 ||i59v.r5.cr.rs
 ||i999.fun
 ||i999.life
@@ -12830,7 +12832,6 @@
 ||itics.cl
 ||itm-tracker.witron.de
 ||itnext.io
-||itpropuebla.com
 ||itsapenalty.com
 ||itsgoingdown.org
 ||iulianneagu.ro
@@ -13242,6 +13243,7 @@
 ||jx2833.com
 ||jxcpw.com
 ||jy055.com
+||jy202.com
 ||jy2204.com
 ||jy33275.com
 ||jyav.com
@@ -13690,6 +13692,7 @@
 ||lenovoappspot.com
 ||lens.hk
 ||leo368.com
+||leodataonline.es
 ||leon.net
 ||lepoint.fr
 ||lernsax.de
@@ -13698,7 +13701,6 @@
 ||lessonsindemocracy.org
 ||let02.com
 ||let50.com
-||let60.com
 ||let66.net
 ||let98.net
 ||letelegramme.com
@@ -13800,7 +13802,6 @@
 ||limnology.org
 ||linco.cl
 ||lindadevries.com
-||line2.iabc.com.tw
 ||line36.ga
 ||lineblog.me
 ||linepost.hk
@@ -13890,6 +13891,7 @@
 ||lolisz.com
 ||lolo.pro
 ||loltrk.com
+||london.neighborhoodr.com
 ||london2012.org
 ||long3158.com
 ||long8321.com
@@ -14035,7 +14037,6 @@
 ||m.ca157.com
 ||m.ca181.com
 ||m.ca295.com
-||m.ca686.com
 ||m.ca821.com
 ||m.ca88vip.com
 ||m.ca951.com
@@ -14286,6 +14287,7 @@
 ||masiukiewicz.pl
 ||maskedip.com
 ||masqulin.com
+||mass-accelerator.com
 ||massjsq.com
 ||massmutual.com
 ||master-insight.com
@@ -14340,6 +14342,7 @@
 ||me-gay.com
 ||me.0vv0.cf
 ||me.688.org
+||me.cx
 ||me.ns.ci
 ||me9944.com
 ||meadowbrook-ma.org
@@ -15316,7 +15319,6 @@
 ||nzlife.nz
 ||nzradioguide.co.nz
 ||nztd2.com
-||nztd34.com
 ||nztdfemdom.com
 ||nztdsm.com
 ||nzz.ch
@@ -15636,6 +15638,7 @@
 ||pay-go.xyz
 ||pay.15311.com
 ||pay.pay2go.xyz
+||pay.v2ex.org
 ||payment.accelerationpay.com
 ||payserve.com
 ||paysimple.com.com
@@ -15670,6 +15673,7 @@
 ||peersfer.com
 ||pegasone.com
 ||pegasusvpn.com
+||peggo.co
 ||peika024.com
 ||peitalk.com
 ||pelicanpointhoa.com
@@ -15845,7 +15849,6 @@
 ||play.decentraland.org
 ||play.pl
 ||playboard.co
-||player.radio.com
 ||playersdiner.com
 ||playssh.com
 ||playstation.com
@@ -16922,6 +16925,7 @@
 ||sfxslibrary.org
 ||sg-mg61.mail.yahoo.com
 ||sg-sin.doh.sb
+||sg.iabc.com.tw
 ||sg.minexmr.com
 ||sg.news.yahoo.com
 ||sg1lib.org
@@ -17204,6 +17208,7 @@
 ||sohosuite.ro
 ||soilindo.com
 ||sokamonline.com
+||sokapk.com
 ||sokxv.com
 ||solar.ofweek.com
 ||solarlogic.net
@@ -17840,6 +17845,7 @@
 ||the1room.com
 ||theage.com.au
 ||theaggie.org
+||theangryhen.com
 ||theatlanticcities.com
 ||theatoms.com
 ||thebest1911.com
@@ -17852,7 +17858,6 @@
 ||thecolbertreport.cc.com
 ||theconservativetreehouse.com
 ||thedailyshow.cc.com
-||thedigitalbits.com
 ||thedns.work
 ||theepochtimessubscribe.com
 ||thefabulabs.com
@@ -18454,7 +18459,6 @@
 ||ubeat.com.cuhk.edu.hk
 ||ubf.kr
 ||ubint.net
-||ubomtv.site
 ||ubxyz.com
 ||uc4.net
 ||uchkconsulting.com
@@ -18507,6 +18511,7 @@
 ||ummah.com
 ||un.or.id
 ||un08s6782.tudouser.com
+||unapec.instructure.com
 ||unblock-proxy.com
 ||unblock-proxy.com.de
 ||unblock.im
@@ -19203,6 +19208,7 @@
 ||wc977.com
 ||wc997.com
 ||wcai000.com
+||wcili.com
 ||wcnc.com
 ||wcnmdmht.ml
 ||wd-c.hnsf888.com
@@ -19522,7 +19528,6 @@
 ||woutwoot.be
 ||wowfandom.com
 ||wowgirls.xxx
-||woxinghuiguo.com
 ||woyaolian.net
 ||wozy.in
 ||wp1.com
@@ -19568,6 +19573,7 @@
 ||wuwei.ca
 ||wuzuowei.com
 ||ww-cc.xyz
+||ww-cc2.xyz
 ||ww.148596.com
 ||ww.298494.com
 ||ww.887708.cc
@@ -19597,6 +19603,7 @@
 ||www-cpk06.com
 ||www-dc1-n1.sparklabs.com
 ||www-origin.discoverhongkong.com
+||www.004488211.com
 ||www.00899l.com
 ||www.01bz.net
 ||www.024231.com
@@ -19631,12 +19638,19 @@
 ||www.1121100.net
 ||www.1121144.net
 ||www.1122244.net
+||www.1122288.net
 ||www.1123300.net
-||www.1123311.net
+||www.1123344.net
 ||www.1123366.net
+||www.1123399.net
 ||www.1124400.net
 ||www.1125555.net
+||www.1126644.net
+||www.1126688.net
+||www.1127722.net
+||www.1127733.net
 ||www.1128844.net
+||www.1128877.net
 ||www.1129900.net
 ||www.1129988.net
 ||www.115ap.com
@@ -20042,7 +20056,6 @@
 ||www.activtrades.com
 ||www.addtoany.com
 ||www.adetocqueville.com
-||www.adjuggler.net
 ||www.admin5.com
 ||www.adsmt4.com
 ||www.adult168.com
@@ -20477,7 +20490,6 @@
 ||www.ca181.com
 ||www.ca218.com
 ||www.ca295.com
-||www.ca686.com
 ||www.ca762.com
 ||www.ca772.com
 ||www.ca788.com
@@ -20745,6 +20757,7 @@
 ||www.digiket.com
 ||www.digisocial.com
 ||www.digitalvajra.com
+||www.dilbert.com
 ||www.dimsumdaily.hk
 ||www.divxtotal.la
 ||www.dj0020.com
@@ -20892,6 +20905,7 @@
 ||www.epost.de
 ||www.eric21.com
 ||www.ero-guide.com
+||www.ero-labs.com
 ||www.erome.com
 ||www.eroticbeauty.com
 ||www.eroxia.com
@@ -20970,7 +20984,6 @@
 ||www.fartv.site
 ||www.fashssh.com
 ||www.fast-ssr.org
-||www.fastvpns.com
 ||www.fbvpn.com
 ||www.fcbayern.telekom.de
 ||www.fdd.org
@@ -21031,7 +21044,6 @@
 ||www.flyradio.com.tw
 ||www.flyun.org
 ||www.fn139.com
-||www.focused-it.ca
 ||www.followme.com
 ||www.fondsprofessionell.at
 ||www.football365.co.uk
@@ -21390,7 +21402,6 @@
 ||www.hide-my-ip.com
 ||www.hideallip.com
 ||www.hidefap.com
-||www.hideme.ru
 ||www.hidemenow.net
 ||www.hidemyass-freeproxy.com
 ||www.hidemyipvpn.com
@@ -21425,6 +21436,7 @@
 ||www.hkpac.org
 ||www.hkppi.com
 ||www.hksinolink.com.hk
+||www.hkticketing.com
 ||www.hlc3456.com
 ||www.hm61881.vip
 ||www.hmoe11.net
@@ -21498,7 +21510,6 @@
 ||www.hyyo.net
 ||www.hyyo.org
 ||www.i12223.com
-||www.i24news.tv
 ||www.iaaf.org
 ||www.iavbobo.com
 ||www.ibackup.com
@@ -21806,6 +21817,7 @@
 ||www.kmeiju.net
 ||www.kmfa.org.tw
 ||www.kobe-np.co.jp
+||www.kochinews.co.jp
 ||www.kokobank.com
 ||www.kollect.com.tw
 ||www.konglingxi.com
@@ -22082,6 +22094,7 @@
 ||www.minecraft.net
 ||www.minerva.kgi.edu
 ||www.ming-jian.net
+||www.mingshi88.com
 ||www.minutouno.com
 ||www.mirrormediagroup.com
 ||www.mishalov.com
@@ -22365,7 +22378,6 @@
 ||www.passeporttibetain.org
 ||www.passworld.cc
 ||www.pastebin.com
-||www.paynowbest.com
 ||www.pazziperilcinema.it
 ||www.pb-schulz-partner.de
 ||www.pc500.cc
@@ -22593,6 +22605,7 @@
 ||www.reachtel.com.au
 ||www.realcleardefense.com
 ||www.realclearprivacy.biz
+||www.realclearworld.com
 ||www.redants.sg
 ||www.reddit.cn
 ||www.redporn.com
@@ -22788,7 +22801,6 @@
 ||www.sipartnersglobal.com
 ||www.sislovesme.com
 ||www.site44.com
-||www.siteonlinetest.com
 ||www.sk-tea.com
 ||www.skd.se
 ||www.skiescomic.com
@@ -23236,6 +23248,7 @@
 ||www.utjd.org
 ||www.uu-gg.top
 ||www.uu777.net
+||www.uuge.com
 ||www.uwdq.cn
 ||www.uyghurcultuurcentrum.com
 ||www.uyghurvoice.com
@@ -23280,6 +23293,7 @@
 ||www.vlive.com
 ||www.vns5252.com
 ||www.vnsr9488.com
+||www.vnztd39.com
 ||www.voaafaanoromoo.com
 ||www.voanews.us
 ||www.voaradiogram.net
@@ -23836,6 +23850,7 @@
 ||xh29249.com
 ||xh33332.com
 ||xh3555.com
+||xh3789.com
 ||xh5333.com
 ||xh57777.com
 ||xh66.org
