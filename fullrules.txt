@@ -4867,7 +4867,6 @@
 ||00058.cc
 ||0005tyc.com
 ||0006sc.com
-||000765.net
 ||000aa.com
 ||000yth.com
 ||001.100du.us
@@ -5202,9 +5201,7 @@
 ||16888vpn.com
 ||168kk.vip
 ||16mmm.net
-||16nnn.net
 ||16xccp.com
-||16zzz.net
 ||17.live
 ||171gifs.com
 ||1730.cc
@@ -5259,6 +5256,7 @@
 ||18comic.fun
 ||18comic.life
 ||18comic.live
+||18comic.me
 ||18comic.one
 ||18comic.org
 ||18comic.pro
@@ -5373,6 +5371,7 @@
 ||2014gcla.weebly.com
 ||2015pdangel.weebly.com
 ||2017pjcp.com
+||20180094.com
 ||20181a.net
 ||201you.me
 ||202099600.com
@@ -5665,6 +5664,7 @@
 ||373699.com
 ||374316.com
 ||377.tx2600.net
+||3774.com
 ||377955.com
 ||378287.com
 ||37xccp.com
@@ -5974,7 +5974,6 @@
 ||58999.com.tw
 ||5902067.com
 ||59136c.com
-||59560m.com
 ||597894.com
 ||5990app.com
 ||599499.com
@@ -5992,6 +5991,7 @@
 ||5yi.com
 ||5youtube.com
 ||6-4.net
+||6.epcc01.com
 ||6.tt
 ||6000.vip
 ||60001sc.com
@@ -6267,6 +6267,7 @@
 ||77.readmyblog.org
 ||7706.com
 ||770b3.azurewebsites.net
+||7716app.com
 ||7716q.net
 ||772241.com
 ||7722xj.com
@@ -7006,7 +7007,6 @@
 ||afcp02.com
 ||afcp03.com
 ||afcp05.com
-||afcp06.com
 ||afcp07.com
 ||afcp08.com
 ||afcp09.com
@@ -7320,6 +7320,7 @@
 ||anime-sharing.com
 ||anime.bliav-1.com
 ||anime.eroterest.net
+||animedreaming.tv
 ||animeidhentai.com
 ||animephile.com
 ||animeultima.tv
@@ -7392,6 +7393,7 @@
 ||api.ott.pm
 ||api.pncle8.com
 ||api.proxlet.com
+||api.rlcdn.com
 ||api.threema.ch
 ||api.wit.ai
 ||api.zdqp11.com
@@ -7451,7 +7453,6 @@
 ||applecottages.co.za
 ||applemusic-spotlight.myunidays.com
 ||applenut.weebly.com
-||applestore.co.za
 ||appliedmath.ro
 ||apps.box.com
 ||apps.evozi.com
@@ -8070,6 +8071,7 @@
 ||bg77.com
 ||bg789.com
 ||bg9444.com
+||bgcp667.com
 ||bgme.me
 ||bhkta.org
 ||bhpho.to
@@ -10802,7 +10804,6 @@
 ||fehrmann.net.br
 ||fei919.com
 ||feichangdao.com
-||feifei28.cc
 ||feiji888.com
 ||feikebt.com
 ||feikebt.pw
@@ -10823,7 +10824,6 @@
 ||fetishshrine.com
 ||fetlife.com
 ||ff1483.pw
-||ff167.net
 ||ff97.azurewebsites.net
 ||ffaarrt.com
 ||ffdy.cc
@@ -10914,6 +10914,7 @@
 ||fixit.com
 ||fixmylag.com
 ||fj.91dfjh.org
+||fj13213.bg866.com
 ||fjbet.com
 ||fjd5599.com
 ||fjd888.com
@@ -11207,7 +11208,6 @@
 ||fugas.pl
 ||fuhaw.com
 ||fuhui-zh.com
-||fuhuiasia.com
 ||fuhuichn.com
 ||fuhuiglobal.com
 ||fuhuiyazhou.com
@@ -11389,6 +11389,7 @@
 ||gay69.tv
 ||gayboystube.com
 ||gaydemon.com
+||gayforit.eu
 ||gayfuckporn.com
 ||gaymaletube.com
 ||gaynetwork.co.uk
@@ -11739,7 +11740,6 @@
 ||guidaili.com
 ||guides.yoosecurity.com
 ||guilded.gg
-||guilty-soft.com
 ||gumroad.helpscoutdocs.com
 ||gun999.tv
 ||gunbroker.com
@@ -11917,7 +11917,6 @@
 ||hafsite.org
 ||hahlo.com
 ||haho.moe
-||haileshe.club
 ||haima888.com
 ||haiwai.com
 ||halfbug.com
@@ -12036,6 +12035,7 @@
 ||helloyoutube.com
 ||hellporno.com
 ||hells.pl
+||help.opera.com
 ||help.overdrive.com
 ||help.weebly.com
 ||helpcn.fun315.com
@@ -12166,7 +12166,6 @@
 ||hjdc38.com
 ||hjdc48.com
 ||hjdc5.com
-||hjdc666.com
 ||hjdc76.com
 ||hjdc78.com
 ||hjedd.com
@@ -12251,9 +12250,9 @@
 ||holeyfuck.com
 ||holiswiss.ch
 ||hollisterco.com
-||home-network.net
 ||home.mihk.tv
 ||home.nzcity.co.nz
+||home.saxo
 ||home.shadowsocks.ch
 ||home.sina.com
 ||homebase.co.uk
@@ -12556,6 +12555,7 @@
 ||ilvpn.com
 ||im058250.juarvian.com
 ||image.duanzh.com
+||image.shzumei.com
 ||image01.fenhao24.com
 ||image1.fmgstatic.com
 ||image8.fmgstatic.com
@@ -14053,6 +14053,7 @@
 ||m.918.com
 ||m.97933.com
 ||m.ashemaletube.com
+||m.bet8e.com
 ||m.bfun66.com
 ||m.bookbao.com
 ||m.box.com
@@ -14188,7 +14189,6 @@
 ||mail.cyberpower.com
 ||mail.dataoncloud.com
 ||mail.dynit.it
-||mail.edison.tech
 ||mail.embraco.com
 ||mail.gavekal.com
 ||mail.gosen.jp
@@ -14348,6 +14348,7 @@
 ||mbxqwe6.com
 ||mca.gov.in
 ||mcasino.vwin000.com
+||mcat007.com
 ||mcat01.com
 ||mcat123.com
 ||mcat166.com
@@ -14558,6 +14559,7 @@
 ||mixlr.com
 ||mixpod.com
 ||mixturecloud.com
+||mjc58.com
 ||mjhuang.weebly.com
 ||mjjma.weebly.com
 ||mjkjzhang.freeiz.com
@@ -14607,6 +14609,7 @@
 ||modpingouin.free.fr
 ||mods.io
 ||modusign.com.com
+||modx.com
 ||moe-gameaward.com
 ||moe.gov.ae
 ||moe2.ga
@@ -14699,10 +14702,11 @@
 ||mpweekly.com
 ||mr-bamibal.nl
 ||mr1310.com
+||mra01.com
 ||mra08.com
 ||mra58.com
 ||mratme.com
-||mratyou.com
+||mrc02.com
 ||mrc123.com
 ||mrc188.com
 ||mrc68.com
@@ -14886,6 +14890,7 @@
 ||mywebtunnel.com
 ||mywife.cc
 ||mywire.org
+||myx16.com
 ||myxperia.sonymobile.com
 ||myxxxtoon.com
 ||myyearbook.com
@@ -15346,6 +15351,7 @@
 ||nytnow.com
 ||nytsyn.com
 ||nzlife.nz
+||nzmao.co.nz
 ||nzradioguide.co.nz
 ||nztd2.com
 ||nztdfemdom.com
@@ -15628,7 +15634,6 @@
 ||pando.com
 ||panerabread.com
 ||panikal.com
-||paninogiusto.com.hk
 ||paoche.pw
 ||paopao13.azurewebsites.net
 ||paopao15.azurewebsites.net
@@ -15643,6 +15648,7 @@
 ||paopao9.azurewebsites.net
 ||paopaocloud.icu
 ||paowang.net
+||papajohns.com
 ||papeling.org
 ||papers.ssrn.com
 ||paperspace.com
@@ -16106,6 +16112,7 @@
 ||projecth.us
 ||projectredcap.org
 ||projectsecretidentity.org
+||proksiak.pl
 ||proksyfree.com
 ||prolapseparty.com
 ||prolink.pl
@@ -17576,6 +17583,7 @@
 ||sun4400.com
 ||sun4411.com
 ||sun4422.com
+||sun4433.com
 ||sun503.com
 ||sun5766.com
 ||sun7711.com
@@ -17751,7 +17759,6 @@
 ||tb7771.com
 ||tb7775.com
 ||tb8600.com
-||tb9875.com
 ||tb9907.com
 ||tb9908.com
 ||tb9993.com
@@ -19179,6 +19186,7 @@
 ||wallzhihu.com
 ||wam-fw.azurewebsites.net
 ||wam-nyt.azurewebsites.net
+||wan95992.com
 ||wanbet.com
 ||wandu.pw
 ||wangchengxi.com
@@ -19656,7 +19664,6 @@
 ||www.100percentpure.com
 ||www.100sihu.com
 ||www.1024boy.com
-||www.1024cores.net
 ||www.104fuck.com
 ||www.1066hg.com
 ||www.106sihu.com
@@ -20727,6 +20734,7 @@
 ||www.crifan.com
 ||www.crocoguide.com
 ||www.crocoporn.com
+||www.crookwellgazette.com.au
 ||www.crossthinker.com
 ||www.crossvpn.org
 ||www.crowdcast.io
@@ -21167,6 +21175,7 @@
 ||www.fuhui-mkt.com
 ||www.fuhui-wechat.com
 ||www.fuhuiapac.com
+||www.fuhuiasia.com
 ||www.fuhuichinese.com
 ||www.fuhuico.com
 ||www.fuhuimkt.com
@@ -21221,7 +21230,6 @@
 ||www.fun903.com
 ||www.fun908.com
 ||www.funbox.com.hk
-||www.funcity88.com
 ||www.funnycat.tv
 ||www.funzino.com
 ||www.fuqizy.com
@@ -21282,7 +21290,6 @@
 ||www.gatestoneinstitute.org
 ||www.gateway2travel.com
 ||www.gay104.com
-||www.gayforit.eu
 ||www.gayfuror.com
 ||www.gayspa.com.tw
 ||www.gboy1069.com
@@ -21392,6 +21399,7 @@
 ||www.guchusum.in
 ||www.guge.link
 ||www.gugesou.com
+||www.guilty-soft.com
 ||www.gulige.com
 ||www.gunmtv.site
 ||www.guns.net
@@ -21505,7 +21513,6 @@
 ||www.hokkaido-np.co.jp
 ||www.hollisterco.com.tw
 ||www.hollyrandall.com
-||www.home.saxo
 ||www.homeproxy.com
 ||www.hongkongherald.com
 ||www.hongkongvpn.net
@@ -21689,7 +21696,6 @@
 ||www.ivacycn.com
 ||www.ivideo6630.0fees.us
 ||www.ivpncup.me
-||www.iwin168.net
 ||www.iwin963.com
 ||www.iwin993.com
 ||www.iwin996.com
@@ -21942,6 +21948,7 @@
 ||www.ldzhibo999.pro
 ||www.leaderlive.co.uk
 ||www.league-funny.com
+||www.leduo222.com
 ||www.leduo88.com
 ||www.legion.org
 ||www.lei.com.tw
@@ -22069,6 +22076,7 @@
 ||www.maitreya.nl
 ||www.maj-soul.com
 ||www.majiajun.org
+||www.malawianwatchdog.com
 ||www.malaymail.com
 ||www.malaysiakini.com.my
 ||www.mangago.me
@@ -22113,6 +22121,7 @@
 ||www.melspring.com
 ||www.meltingsource.com
 ||www.memorydealers.com
+||www.mengzhan12345.com
 ||www.mensheer.cc
 ||www.mensjournal.com
 ||www.mercari.com
@@ -22205,7 +22214,6 @@
 ||www.mvclub.net
 ||www.mvitraining.com
 ||www.mx2.bet
-||www.mx80.bet
 ||www.mx81.bet
 ||www.mxjiasu.com
 ||www.mxvpn.cn
@@ -22436,14 +22444,15 @@
 ||www.pastebin.com
 ||www.pazziperilcinema.it
 ||www.pb-schulz-partner.de
+||www.pc300.cc
+||www.pc400.cc
 ||www.pc500.cc
-||www.pc70.cc
+||www.pc900.cc
 ||www.pcchong.com
 ||www.pchomeskype.com.tw
 ||www.pcp.pt
 ||www.pcwelt.de
 ||www.penguin.com.au
-||www.penispictures.com
 ||www.pepechildrenshoes.it
 ||www.persagg.com
 ||www.personalvpn.com
@@ -22871,7 +22880,6 @@
 ||www.skydrive.live.com
 ||www.skye.com
 ||www.skylinktv.us
-||www.skype.com.tw
 ||www.skypoker.com
 ||www.skyvpn.us
 ||www.slantedeyes.com
@@ -23289,6 +23297,7 @@
 ||www.uoregon.edu
 ||www.upenn.edu
 ||www.uproxy.co.uk
+||www.ups.com
 ||www.upstate.edu
 ||www.urlgot.com
 ||www.usasialaw.org
@@ -24032,7 +24041,6 @@
 ||xn--fiq681d48s.org
 ||xn--lgtu14a.com
 ||xn--noss43i.com
-||xn--omlea-e9b.ro
 ||xn--vjqt50bik1b.com
 ||xn--zck4aye2c2741a5qvo33a.com
 ||xnet.is
@@ -24204,6 +24212,7 @@
 ||yb.freepac.pw
 ||yb188.emc388.com
 ||yb188.emc77.com
+||yb8.net
 ||yb9356.com
 ||ybgj1.com
 ||yc6325.com
