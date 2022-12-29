@@ -3997,7 +3997,6 @@
 ||t-g.com
 ||t35.com
 ||t66y.com
-||esg.t91y.com
 ||taa-usa.org
 ||taaze.tw
 ||www.tablesgenerator.com
@@ -4917,11 +4916,13 @@
 ||0110004440.com
 ||011001000.com
 ||01100333a.com
+||011004400.com
 ||0110099f.com
 ||0110333a.com
 ||01144422.com
 ||011bbb011.com
 ||011f011.com
+||011gg002.com
 ||011seq002.com
 ||012aa.com
 ||014622.cc
@@ -5103,7 +5104,6 @@
 ||12212a.com
 ||12223nn.com
 ||12223oo.com
-||12223vv.com
 ||1224.azurewebsites.net
 ||1234.as
 ||1234.weebly.com
@@ -6432,7 +6432,6 @@
 ||878fd.com
 ||88.tv
 ||88095.com
-||8811buyu.com
 ||88138833.com
 ||882110022.com
 ||882110055.com
@@ -7318,7 +7317,6 @@
 ||anonymise.us
 ||anonymize.net
 ||anonymous-proxies.net
-||anonymous.si
 ||anonymoussurf.us
 ||anonymox.net
 ||anonymus.us
@@ -7535,7 +7533,9 @@
 ||asu.su
 ||asylnetzbaar.ch
 ||asymptotic.net
+||ataxiaontario.ca
 ||atc.org.il
+||atfx.com
 ||atgfw.org
 ||atharori.net
 ||atimes.com
@@ -8357,7 +8357,6 @@
 ||bm70000.com
 ||bm80000.com
 ||bm886.cc
-||bm887.cc
 ||bm90000.com
 ||bmbhanage.weebly.com
 ||bmc03.com
@@ -8370,7 +8369,6 @@
 ||bmw10000.com
 ||bmw168.org
 ||bmw20000.com
-||bmw365.cc
 ||bmw40000.com
 ||bmw50000.com
 ||bmw60000.com
@@ -8595,6 +8593,7 @@
 ||burgosarquitectos.com
 ||burn.tips
 ||burningangel.com
+||business-standard.com
 ||business.nikkeibp.co.jp
 ||businessinsider.co.id
 ||businessinsider.com.au
@@ -8607,9 +8606,6 @@
 ||buypass.com
 ||buyu058.com
 ||buyu068.com
-||buyu092.com
-||buyu104.com
-||buyu1144.com
 ||buyu1177.com
 ||buyu1188.com
 ||buyu207.com
@@ -9694,7 +9690,6 @@
 ||dashboard.securingdemocracy.org
 ||dashboard.shadowrhythm.xyz
 ||dashlane.com
-||dasjak.net
 ||data.leafwind.tw
 ||databast.com
 ||datafilehost.com
@@ -10456,7 +10451,6 @@
 ||esc.nccu.edu.tw
 ||escortforumit.xxx
 ||escortguide.co.uk
-||esgtmp.t91y.com
 ||esjzone.cc
 ||esjzone.net
 ||eskimotube.com
@@ -10471,7 +10465,6 @@
 ||esu.red
 ||esu.wiki
 ||esu.zone
-||esugou.t91y.com
 ||esviernes.com.ar
 ||etaireia.gr
 ||etaiwannews.com
@@ -12673,6 +12666,7 @@
 ||invidious.nerdvpn.de
 ||invidious.privacydev.net
 ||invidious.projectsegfau.lt
+||invidious.slipfox.xyz
 ||invidious.snopyta.org
 ||invidious.tube
 ||invidious.weblibre.org
@@ -13093,7 +13087,6 @@
 ||jkforum.net
 ||jlc01.com
 ||jltv.tv
-||jmara.net
 ||jmcomic.asia
 ||jmcomic.bet
 ||jmcomic.cc
@@ -13427,6 +13420,7 @@
 ||kms.03k.org
 ||kneeodorant.com
 ||knorr.com
+||koaservice.nl
 ||kodirectory.com
 ||komica2.net
 ||komicolle.org
@@ -14053,6 +14047,7 @@
 ||m.lanqiuba.com
 ||m.leduo111.com
 ||m.mbetxapp12.com
+||m.mbetxapp16.com
 ||m.milulucn.com
 ||m.moegirl.org
 ||m.mysports98.com
@@ -14552,7 +14547,6 @@
 ||mn232.com
 ||mo.be
 ||mo138.com
-||moa33.com
 ||moba8.net
 ||mobidia.com
 ||mobifcuk.com
@@ -14727,7 +14721,6 @@
 ||multimar.com.ar
 ||multiproxy.org
 ||multiupload.com
-||mup.gov.hr
 ||murcia.es
 ||murmurcn.com
 ||murtadho.com.br
@@ -14742,7 +14735,6 @@
 ||muslimmatters.org
 ||muvits.com
 ||muviza.net
-||muviza.su
 ||muyzorras.com
 ||mv.aeweb.xyz
 ||mvbtc.xyz
@@ -15510,7 +15502,6 @@
 ||otri.ujaen.es
 ||ottof.xyz
 ||ottofaster.xyz
-||ourrobocopremake.com
 ||oursogo.com
 ||ourxxtv.com
 ||outfw.net
@@ -16060,6 +16051,7 @@
 ||prntube.com
 ||pro.eimi.vip
 ||pro.tribeofnoise.com
+||probit.com
 ||prod.tme.hk
 ||productsofdesign.sva.edu
 ||professionalclick.com
@@ -16775,7 +16767,6 @@
 ||scoken.com
 ||scope.co.id
 ||scopemarkets.com
-||scopuli.us
 ||scotchbrand.com
 ||scotusblog.org
 ||scratch.org
@@ -17658,6 +17649,7 @@
 ||t69y.com
 ||t7.ssrsub.one
 ||t8.ssrsub.one
+||t91y.com
 ||t951.com
 ||ta05s2527.deflanid.com
 ||tabtter.jp
@@ -18183,6 +18175,7 @@
 ||traffichaus.com
 ||trafficlive.com
 ||trainenquiry.com
+||transfer.ftapi.com
 ||transferstudent.weebly.com
 ||transmissionzero.co.uk
 ||travelicious.ch
@@ -19118,6 +19111,7 @@
 ||w234234.com
 ||w3.001www.com
 ||w3.csjbzcjnr.pw
+||w3.css5.pw
 ||w3.nat789.org
 ||w3.now-ip.net
 ||w3.now-ip.org
@@ -19487,6 +19481,7 @@
 ||wn4455.com
 ||wn5988.com
 ||wn7789.com
+||wn9996.com
 ||wnacg.wtf
 ||wnbc.com
 ||wng.org
@@ -19613,8 +19608,6 @@
 ||www.029-89293368.top
 ||www.02902.com
 ||www.0328g.com
-||www.04aacc.com
-||www.06966b.com
 ||www.06966d.com
 ||www.06966e.com
 ||www.06bbcc.com
@@ -19633,7 +19626,6 @@
 ||www.108tlc.com
 ||www.10b88.com
 ||www.10bo1008.com
-||www.10bo16.com
 ||www.1100kai.com
 ||www.1112mm.com
 ||www.1120000.net
@@ -20456,7 +20448,6 @@
 ||www.bumingbai.net
 ||www.bureau36.com
 ||www.burmacampaign.org.uk
-||www.business-standard.com
 ||www.businessweekly.com.tw
 ||www.busjav.cc
 ||www.busseltonmail.com.au
@@ -20464,7 +20455,6 @@
 ||www.butsan.edu.hk
 ||www.buypass.no
 ||www.buyu206.com
-||www.buyu703.com
 ||www.buyu870.com
 ||www.buyu99.app
 ||www.buyukhome.com
@@ -20848,12 +20838,10 @@
 ||www.e8716.com
 ||www.e8737.com
 ||www.e8752.com
-||www.e8771.com
 ||www.e87766.com
 ||www.e8777.com
 ||www.e87788.com
 ||www.e8781.com
-||www.e8792.com
 ||www.e8797.com
 ||www.e8832.com
 ||www.e8951.com
@@ -21494,6 +21482,7 @@
 ||www.houseoffreedom.org
 ||www.howbbs.com
 ||www.hoyolab.com
+||www.hr8755.com
 ||www.hrgj22.com
 ||www.htl-steyr.ac.at
 ||www.htmianfen.com
@@ -22964,7 +22953,6 @@
 ||www.syndu.com
 ||www.szgay.net
 ||www.t2u.cc
-||www.t91y.com
 ||www.t9kk.com
 ||www.tabletmag.com
 ||www.tagesthemen.de
@@ -23257,6 +23245,7 @@
 ||www.unblockbook.biz
 ||www.unblockfacebook.com
 ||www.unblockthat.com
+||www.unblockvideos.com
 ||www.uncledos.com
 ||www.undergrad.hk
 ||www.unicef.org
@@ -23429,6 +23418,7 @@
 ||www.wf333.vip
 ||www.wfgold.com
 ||www.wfzhonghui.com
+||www.wg388.com
 ||www.whatscap.com
 ||www.whes.mlc.edu.tw
 ||www.whitworths.com.au
@@ -23551,6 +23541,7 @@
 ||www.xh079.com
 ||www.xh23333.com
 ||www.xh32222.com
+||www.xh33330.com
 ||www.xh3336.com
 ||www.xh3337.com
 ||www.xh506.com
@@ -24516,6 +24507,7 @@
 ||zalio.net
 ||zaloapp.com
 ||zambranolimitada.cl
+||zampach.ee
 ||zap.co.il
 ||zap2it.com
 ||zapkolik.com
