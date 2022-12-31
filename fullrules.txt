@@ -4927,6 +4927,7 @@
 ||014622.cc
 ||015001.com
 ||016006.com
+||018639.com
 ||01980198cz.com
 ||02.servebbs.org
 ||0200sc.com
@@ -5106,7 +5107,6 @@
 ||1224.azurewebsites.net
 ||1234.as
 ||1234.weebly.com
-||12344555.com
 ||12345proxy.org
 ||1235566.com
 ||123blm.com
@@ -5706,6 +5706,7 @@
 ||3cyber.com
 ||3d.ddos.im
 ||3d48.com
+||3desk.com
 ||3dporn-pics.com
 ||3dss.hitrustpay.com.tw
 ||3dtoontube.com
@@ -5922,7 +5923,6 @@
 ||55155.com
 ||5525hao.comli.com
 ||554js.com
-||555-777.com
 ||55555xam.com
 ||55557193.com
 ||5555cs.com
@@ -6215,6 +6215,7 @@
 ||719.servebeer.com
 ||71bwin.com
 ||72.cr.rs
+||72.dynalias.com
 ||72.iseoz.com
 ||7249819.com
 ||7249k.com
@@ -6305,6 +6306,7 @@
 ||789888.com
 ||789vpn.net
 ||7911b.com
+||7911hh.com
 ||7911tt.com
 ||797678.com
 ||79796s.com
@@ -6949,6 +6951,7 @@
 ||adnetworkperformance.com
 ||adnmb1.com
 ||adnmb2.com
+||adobe.com
 ||adoos.com
 ||adrianato.com.br
 ||adrianos.org
@@ -7176,7 +7179,6 @@
 ||amateurgalls.com
 ||amateurs-gone-wild.com
 ||amateursexy.net
-||amazon.com.com
 ||amazonprimevideo.com
 ||ambelion.com
 ||ambjl19.com
@@ -7487,7 +7489,6 @@
 ||asia-api.yikyakapi.net
 ||asia-east2-trans-filament-233005.cloudfunctions.net
 ||asia-northeast1-saluton.cloudfunctions.net
-||asia.playstation.com
 ||asiabet168.com
 ||asiabet555.com
 ||asiae.co.kr
@@ -7603,6 +7604,7 @@
 ||av666.tv
 ||av6699.com
 ||av6k.com
+||av77999.com
 ||av789gg.com
 ||av789hd.com
 ||av88.tv
@@ -8335,7 +8337,6 @@
 ||bm00000.com
 ||bm1100.cc
 ||bm1104.cc
-||bm1108.cc
 ||bm168168.com
 ||bm20000.com
 ||bm50000.com
@@ -8354,7 +8355,6 @@
 ||bmofa.org.au
 ||bmty118.com
 ||bmw00000.com
-||bmw10000.com
 ||bmw168.org
 ||bmw40000.com
 ||bmw90000.com
@@ -8804,6 +8804,7 @@
 ||careerairforce.nic.in
 ||cargurus.com
 ||caritas.tk
+||carl-keinath.co.de
 ||carlier.fr
 ||carlospayne.cf
 ||carmonengsub.com
@@ -8813,6 +8814,7 @@
 ||carpauto.ca
 ||carrefour.com.br
 ||carribeancom.com
+||cart.mn
 ||cartermatt.com
 ||cartoonpornvideos.com
 ||cartoonsexx.net
@@ -9241,6 +9243,7 @@
 ||cmatec.es
 ||cmbswissco.com
 ||cmcmarkets.com
+||cmct.cc
 ||cmi.org.tw
 ||cms.09230927.webnode.tw
 ||cms.jgg18.me
@@ -9421,7 +9424,6 @@
 ||crashlytics.com
 ||crazymonstercock.com
 ||crazypool.org
-||crc003.net
 ||crd-net.org
 ||creader.com
 ||creampiereality.com
@@ -9718,7 +9720,6 @@
 ||dc5599.com
 ||dc665.com
 ||dc666888.com
-||dc772.com
 ||dc7789.com
 ||dc7799.com
 ||dc867.com
@@ -9874,6 +9875,7 @@
 ||div17.com
 ||diva-portal.org
 ||divakeramika.com
+||divas8.com
 ||diygod.me
 ||dizdiaz.com.ar
 ||dizilab.com
@@ -10050,8 +10052,6 @@
 ||dr-wall.com
 ||draft.it
 ||dragon-fly.club
-||dragonkangaroo.com
-||dragosciobanu.ro
 ||dragtimes.com
 ||draiveda.lt
 ||drama3s.com
@@ -10075,7 +10075,6 @@
 ||dsd002.com
 ||dsdv001.com
 ||dsdv003.com
-||dsdv005.com
 ||dsdv009.com
 ||dslady.com
 ||dsmedia.org
@@ -10085,33 +10084,26 @@
 ||dsn04.co
 ||dsn101.cn
 ||dsn102.com
-||dsn1171a.com
 ||dsn207.com
 ||dsn2211.com
-||dsn2272.com
 ||dsn270.com
 ||dsn2pcapp04.com
 ||dsn503.co
-||dsn5050.com
 ||dsn5558.com
 ||dsndsn00.com
 ||dsnextgen.com
 ||dsnfa03.com
-||dsnfree.xyz
 ||dtny.weebly.com
 ||dtunnel.com
 ||dtvideo.com
 ||du.narasmom.com
 ||duangks.com
-||dubandko.com
 ||duc-tran.com
-||duck.co
 ||duckduckgo.org
 ||duckduckhack.com
 ||duckgo.com
 ||duckload.com
 ||duckmovies.net
-||ductran.com
 ||duimtv.site
 ||dukevpn.com
 ||dukgo.com
@@ -10134,7 +10126,6 @@
 ||dvs.com.my
 ||dwayneperry.ml
 ||dweb.link
-||dwelle.de
 ||dwz.pm
 ||dx1l.ink
 ||dxotv.com
@@ -10144,7 +10135,6 @@
 ||dydx.co.uk
 ||dylangauthier.com
 ||dylanwaite.com
-||dynalias.com
 ||dynamodb.ap-northeast-1.amazonaws.com
 ||dynathome.net
 ||dyndns-at-work.com
@@ -10163,7 +10153,6 @@
 ||dzh990.com
 ||dziama.ca
 ||dziama.com
-||dzyy123.com
 ||e-activist.com
 ||e-info.org.tw
 ||e-leva.com.ar
@@ -10340,7 +10329,6 @@
 ||en.wikisource.org
 ||en.wikiversity.org
 ||en.wiktionary.org
-||enatura.biz
 ||encyclopedia.tw
 ||encyclopediaofukraine.com
 ||endccp.com
@@ -10931,7 +10919,6 @@
 ||forum.doctorvoice.org
 ||forum.iset.com.tw
 ||forum.mymaji.com
-||forum.omegarealm.com
 ||forum.omy.sg
 ||forum.palmislife.com
 ||forum.slime.com.tw
@@ -11301,7 +11288,6 @@
 ||gameclient.ebacc777.com
 ||gamejolt.com
 ||gamelink.com
-||gameofwar.com
 ||gametrailer.com
 ||gamingsoft.com
 ||gamona.de
@@ -12291,6 +12277,7 @@
 ||hrwf.eu
 ||hrwf.net
 ||hs.vc
+||hs8882.com
 ||hsbc.com.cn
 ||hsc.taiwans.tw
 ||hsex.men
@@ -12552,7 +12539,6 @@
 ||inanews.tw
 ||inbanban.com
 ||inbox.alumni.utoronto.ca
-||incatel.cl
 ||incezt.net
 ||incibe.es
 ||incloak.es
@@ -13934,10 +13920,8 @@
 ||ltou188.com
 ||ltthailand.xyz
 ||ltunnel.com
-||ltyule.vip
 ||lubinscy.pl
 ||lubl.xyz
-||lucaspc.com
 ||lucgallant.com
 ||lucianelgi.ro
 ||lucky678.com
@@ -14021,7 +14005,6 @@
 ||m.huancai66.com
 ||m.isle.moe
 ||m.istripper.com
-||m.j9155.com
 ||m.j999015.com
 ||m.javatyro.com
 ||m.jf8822.com
@@ -15127,6 +15110,7 @@
 ||niuxss.com
 ||nixgeex.org
 ||nixmoon.homenet.org
+||nizxh.site
 ||njal.la
 ||nju.pt
 ||nkolanyane.nom.za
@@ -15575,7 +15559,6 @@
 ||pando.com
 ||pandora.chinkchinkgo.cf
 ||panerabread.com
-||panikal.com
 ||paoche.pw
 ||paopao13.azurewebsites.net
 ||paopao15.azurewebsites.net
@@ -15830,6 +15813,7 @@
 ||playboard.co
 ||playersdiner.com
 ||playssh.com
+||playstation.com
 ||playtube.pk
 ||playvid.com
 ||playvpn.com
@@ -17240,7 +17224,6 @@
 ||spanking.wiki
 ||spareroom.co.uk
 ||sparham.org.uk
-||spark.adobe.com
 ||spatio.li
 ||spcnwiki.top
 ||spdh.bar
@@ -17578,6 +17561,7 @@
 ||sv.domain888.pw
 ||sv.freepac.pw
 ||sv08s8159.deflanid.com
+||svd.se
 ||svencoop.fr
 ||svita.cz
 ||svmblocker.com
@@ -18820,7 +18804,9 @@
 ||viglink.com
 ||vikacg.com
 ||vilavpn6.club
+||vilina.dynalias.com
 ||villasante.cl
+||vin.dynalias.com
 ||vinatray.vn
 ||vincefry.com
 ||vincentkwok.hk
@@ -19196,6 +19182,7 @@
 ||waze.com
 ||wb.aeweb.xyz
 ||wb.dnstool.xyz
+||wb.dsnfree.xyz
 ||wb.graylady.us
 ||wbur.com
 ||wby118.com
@@ -19309,7 +19296,6 @@
 ||wechat.kanfb.com
 ||wechatinchina.com
 ||weeklystandard.com
-||wegoeast.ch
 ||weibosuite.com
 ||weidb.com
 ||weijingsheng.org
@@ -19797,6 +19783,7 @@
 ||www.3088.com
 ||www.3178zz.com
 ||www.327hk.com
+||www.3313dd.com
 ||www.333tv.com
 ||www.334418.net
 ||www.33443885.com
@@ -19952,7 +19939,6 @@
 ||www.816736.com
 ||www.82299.com
 ||www.823252.xyz
-||www.8278.com
 ||www.828968.com
 ||www.831886.com
 ||www.8356156.com
@@ -20472,6 +20458,7 @@
 ||www.bway928.com
 ||www.bway981.com
 ||www.bway997.com
+||www.bwei101.com
 ||www.bwei8668.com
 ||www.bwin00086.com
 ||www.bwin668890.com
@@ -20735,6 +20722,7 @@
 ||www.db458.com
 ||www.db577.com
 ||www.dbw9999.com
+||www.dc772.com
 ||www.dc8884.com
 ||www.dcb77.com
 ||www.ddtomm.com
@@ -21605,6 +21593,7 @@
 ||www.investor.bg
 ||www.ioptv.site
 ||www.ipinator.com
+||www.iraqinews.com
 ||www.iri.org
 ||www.irishsun.com
 ||www.isdp.eu
@@ -21699,6 +21688,7 @@
 ||www.jbo084.com
 ||www.jbo097.com
 ||www.jbo10.com
+||www.jbo106.com
 ||www.jbo13.com
 ||www.jbo26.com
 ||www.jbo28.com
@@ -23633,9 +23623,12 @@
 ||www.yc6382.com
 ||www.yc6389.com
 ||www.yc6396.com
+||www.yc6446.com
 ||www.yc6457.com
+||www.yc6853.com
 ||www.yc6855.com
 ||www.yc7571.com
+||www.yc7577.com
 ||www.yd88n.com
 ||www.ydn.com.tw
 ||www.yellowpages.com.sg
@@ -23801,6 +23794,7 @@
 ||x1080x.com
 ||x18r.com
 ||x1949x.com
+||x210164.com
 ||x210165.com
 ||x2646.com
 ||x3.1024lualu.club
@@ -23852,7 +23846,6 @@
 ||xccp273.com
 ||xccp81.com
 ||xcream.net
-||xd.adobe.com
 ||xe08s5961.steutura.com
 ||xeper.org
 ||xfss.cc
@@ -23870,6 +23863,7 @@
 ||xh29249.com
 ||xh33332.com
 ||xh3555.com
+||xh3678.com
 ||xh3789.com
 ||xh5333.com
 ||xh57777.com
@@ -23892,6 +23886,7 @@
 ||xhamsterhq.com
 ||xheaven.net
 ||xian618.com
+||xiang-ya.tw
 ||xiangyangs1.xyz
 ||xianzhe001.com
 ||xiao-sheng.ml
@@ -24206,12 +24201,9 @@
 ||yc6443.com
 ||yc6444.com
 ||yc6445.com
-||yc6446.com
 ||yc6447.com
-||yc6448.com
 ||yc6830.com
 ||yc6852.com
-||yc6853.com
 ||yc6875.com
 ||yc7568.com
 ||yc7569.com
@@ -24219,7 +24211,6 @@
 ||yc7572.com
 ||yc7573.com
 ||yc7576.com
-||yc7577.com
 ||yc7578.com
 ||yc7579.com
 ||yc7876.com
@@ -24235,7 +24226,6 @@
 ||yddc5888.com
 ||yddc6666.com
 ||yddc988.com
-||yddc991.com
 ||ydgj2727.com
 ||yenmingtemple.org.au
 ||yes.6te.net
@@ -24259,7 +24249,6 @@
 ||yh478.com
 ||yh56789.com
 ||yh60089.com
-||yh88304.com
 ||yh88309.com
 ||yhapp18.com
 ||yhwcr.cdv.tw
@@ -24284,9 +24273,7 @@
 ||yk-tekoki1919.com
 ||ykhwong.x-y.net
 ||yl.ejdj12.com
-||yl0108.com
 ||yl1166.org
-||yl3300.org
 ||yl3344.org
 ||yl8.com
 ||yl8by.net
@@ -24305,6 +24292,7 @@
 ||yoplay.com
 ||yopmail.com
 ||yorkshire.com.ar
+||yoseph.net
 ||yosi.ro
 ||yotubesexo.es
 ||you.com
@@ -24317,7 +24305,6 @@
 ||youdian.in
 ||youfap.me
 ||youfinamil.redirectme.net
-||youfreeproxytube.com
 ||youiv.net
 ||youiv.tv
 ||youjizz-fuck.com
@@ -24679,11 +24666,13 @@
 ||zzu.dnsser.xyz
 ||zzv.dnsser.xyz
 ||zzv.dnstool.xyz
+||zzv.dsnfree.xyz
 ||zzv.familyhealth.xyz
 ||zzw.dnsfree.xyz
 ||zzw.dnsmail.xyz
 ||zzw.dnsserv.xyz
 ||zzw.dnstool.xyz
+||zzw.dsnfree.xyz
 ||zzw.dyndns.work
 ||zzw.healthsection.xyz
 ||zzx.dnsdyn.xyz
@@ -24692,6 +24681,7 @@
 ||zzx.dnsmail.xyz
 ||zzx.dnsser.xyz
 ||zzx.dnstool.xyz
+||zzx.dsnfree.xyz
 ||zzx.goforhealth.xyz
 ||zzx.healthsection.xyz
 ||zzy.dnsget.xyz
