@@ -5,7 +5,6 @@ import base64
 
 GFWLIST_URL = "https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt"
 TELEGRAM_CIDR_URL = "https://core.telegram.org/resources/cidr.txt"
-LOYAL_URL = "https://cn-blocked-domain.trli.club/domains.txt"
 
 
 class TrieNode:
@@ -122,13 +121,13 @@ def main():
         d2 = domainlist_to_domain_suffices(f)
     with open("switchy.txt") as f:
         d3 = switchylist_to_domain_suffices(f)
-    d4 = domainlist_to_domain_suffices(requests.get(LOYAL_URL).text.splitlines())
-    combined = combine_domain_suffices(d3, d2, d1, d4)
+    combined = combine_domain_suffices(d3, d2, d1)
     with open("fullrules.conf", "w", newline="\n") as f:
         f.write(convert_to_shadowrocket_rules(combined, ip_ranges))
     with open("fullrules.txt", "w", newline="\n") as f:
         f.write(
             """[Autoproxy]
+@@||cn
 @@||corp.google.com
 /google/
 @@||rsy.duckdns.org
@@ -186,6 +185,7 @@ skip-proxy = 192.168.0.0/16, 10.0.0.0/8, 172.16.0.0/12, localhost, *.local, e.cr
 bypass-tun = 10.0.0.0/8,100.64.0.0/10,127.0.0.0/8,169.254.0.0/16,172.16.0.0/12,192.0.0.0/24,192.0.2.0/24,192.88.99.0/24,192.168.0.0/16,198.18.0.0/15,198.51.100.0/24,203.0.113.0/24,224.0.0.0/4,255.255.255.255/32
 dns-server = system
 [Rule]
+DOMAIN-SUFFIX,cn,Direct
 DOMAIN-SUFFIX,corp.google.com,Direct
 DOMAIN-KEYWORD,google,Proxy
 DOMAIN-SUFFIX,rsyhome.duckdns.org,Direct
