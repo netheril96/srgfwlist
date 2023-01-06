@@ -94,6 +94,13 @@
 ||macrumors.com
 ||connatix.com
 ||arcpublishing.com
+||soupian.app
+||venus7202.com
+||haiwaikan.com
+||iole.tv
+||s3.us-east-2.amazonaws.com
+||travis-ci.org
+||travis-ci.com
 ||ycombinator.com
 ||bitcointalk.org
 ||coinglass.com
