@@ -102,3 +102,10 @@
 *.macrumors.com +proxy
 *.connatix.com +proxy
 *.arcpublishing.com +proxy
+*.soupian.app +proxy
+*.venus7202.com +proxy
+*.haiwaikan.com +proxy
+*.iole.tv +proxy
+*.s3.us-east-2.amazonaws.com +proxy
+*.travis-ci.org +proxy
+*.travis-ci.com +proxy
