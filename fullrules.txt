@@ -1347,6 +1347,7 @@
 ||baijie.org
 ||bailandaily.com
 ||baixing.me
+||baizhi.org
 ||bakgeekhome.tk
 ||banana-vpn.com
 ||band.us
@@ -2246,6 +2247,7 @@
 ||gamez.com.tw
 ||gamousa.com
 ||gaoming.net
+||ganjing.com
 ||ganjingworld.com
 ||gaopi.net
 ||gaozhisheng.org
