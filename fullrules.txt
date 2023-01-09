@@ -600,6 +600,7 @@
 ||gatecoin.com
 ||hbg.com
 ||hitbtc.com
+||hotcoin.com
 ||huobi.co
 ||huobi.com
 ||huobi.me
@@ -957,6 +958,7 @@
 ||waymo.com
 ||web.dev
 ||webmproject.org
+||webpkgcache.com
 ||webrtc.org
 ||whatbrowser.org
 ||widevine.com
@@ -1156,6 +1158,7 @@
 ||abchinese.com
 ||ablwang.com
 ||aboluowang.com
+||about.me
 ||aboutgfw.com
 ||abs.edu
 ||acast.com
@@ -1506,6 +1509,7 @@
 ||bullguard.com
 ||bullog.org
 ||bullogger.com
+||bumingbai.net
 ||bunbunhk.com
 ||busayari.com
 ||business-humanrights.org
@@ -1637,6 +1641,7 @@
 ||chinadigitaltimes.net
 ||chinaelections.org
 ||chinaeweekly.com
+||chinafile.com
 ||chinafreepress.org
 ||chinagate.com
 ||chinagfw.org
@@ -1894,6 +1899,7 @@
 ||dotsub.com
 ||dotvpn.com
 ||doub.io
+||doublethinklab.org
 ||dougscripts.com
 ||douhokanko.net
 ||doujincafe.com
@@ -2468,6 +2474,7 @@
 ||hgseav.com
 ||hhdcb3office.org
 ||hhthesakyatrizin.org
+||hiccears.com
 ||hidden-advent.org
 ||hide.me
 ||hidein.net
@@ -2526,6 +2533,7 @@
 ||hmv.co.jp
 ||hnjhj.com
 ||hnntube.com
+||hojemacau.com.mo
 ||hola.com
 ||hola.org
 ||holyspiritspeaks.org
@@ -2581,6 +2589,7 @@
 ||huhamhire.com
 ||huhangfei.com
 ||hulkshare.com
+||humanrightspressawards.org
 ||hung-ya.com
 ||hungerstrikeforaids.org
 ||huping.net
@@ -3120,6 +3129,7 @@
 ||moonbbs.com
 ||moptt.tw
 ||monitorchina.org
+||monocloud.me
 ||morningsun.org
 ||moroneta.com
 ||motherless.com
@@ -3227,6 +3237,7 @@
 ||newgrounds.com
 ||newhighlandvision.com
 ||newlandmagazine.com.au
+||newmitbbs.com
 ||newnews.ca
 ||newscn.org
 ||newsancai.com
@@ -3246,6 +3257,7 @@
 ||nextmag.com.tw
 ||nextmedia.com
 ||nexton-net.jp
+||nexttv.com.tw
 ||nfjtyd.com
 ||co.ng.mil
 ||nga.mil
@@ -3411,6 +3423,7 @@
 ||pastie.org
 ||blog.pathtosharepoint.com
 ||patreon.com
+||pawoo.net
 ||pbworks.com
 ||developers.box.net
 ||wiki.oauth.net
@@ -3738,6 +3751,7 @@
 ||salvation.org.hk
 ||sambhota.org
 ||cn.sandscotaicentral.com
+||sankakucomplex.com
 ||sankei.com
 ||sanmin.com.tw
 ||savethesounds.info
@@ -4280,6 +4294,7 @@
 ||tsu.org.tw
 ||tt1069.com
 ||tttan.com
+||ttv.com.tw
 ||tubaholic.com
 ||tube.com
 ||tube8.com
