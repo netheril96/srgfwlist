@@ -1,7 +1,7 @@
 from typing import Dict, Iterable, List, Sequence, TextIO
 import requests
 import base64
-
+import argparse
 
 GFWLIST_URL = "https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt"
 TELEGRAM_CIDR_URL = "https://core.telegram.org/resources/cidr.txt"
@@ -112,6 +112,11 @@ def combine_domain_suffices(*domain_suffices: Sequence[str]) -> List[str]:
 
 
 def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--server", help="Address of the server")
+    parser.add_argument("--port", help="Port of the server", type=int, default=-1)
+    parser.add_argument("--password", help="Password")
+    args = parser.parse_args()
     gfwlist = (
         base64.b64decode(requests.get(GFWLIST_URL).text).decode("utf-8").splitlines()
     )
@@ -137,6 +142,11 @@ def main():
         )
         for key in combined:
             f.write(f"||{key}\n")
+    if args.server:
+        with open("leaf.conf", "w", newline="\n") as f:
+            write_leaf_rules(
+                f, combined, ip_ranges, args.server, args.port, args.password
+            )
 
 
 def get_blocked_ip_ranges() -> List[str]:
@@ -203,6 +213,46 @@ FINAL,direct
 [URL Rewrite]
 ^https?://(www.)?g(oogle)?.cn https://www.google.com 302
 """
+    )
+
+
+def write_leaf_rules(
+    f: TextIO,
+    domain_suffices: Iterable[str],
+    ip_ranges: Iterable[str],
+    server: str,
+    port: int,
+    password: str,
+) -> None:
+    f.write(
+        f"""
+[General]
+always-real-ip = apple.com
+
+[Proxy]
+Direct = direct
+Reject = reject
+T = trojan, {server}, {port}, password={password}
+
+[Rule]
+EXTERNAL,site:category-ads-all,Reject
+DOMAIN-SUFFIX,cn,Direct
+DOMAIN-SUFFIX,corp.google.com,Direct
+DOMAIN-KEYWORD,google,T
+DOMAIN-SUFFIX,rsyhome.duckdns.org,Direct
+DOMAIN-SUFFIX,rsy.duckdns.org,Direct
+
+
+"""
+    )
+    for d in domain_suffices:
+        f.write(f"DOMAIN-SUFFIX,{d},T\n")
+    for r in ip_ranges:
+        f.write(f"IP-CIDR,{r},T\n")
+    f.write(
+        """
+FINAL,Direct
+    """
     )
 
 
