@@ -1,4 +1,4 @@
-from typing import Dict, Iterable, List, Sequence
+from typing import Dict, Iterable, List, Sequence, TextIO
 import requests
 import base64
 
@@ -123,7 +123,7 @@ def main():
         d3 = switchylist_to_domain_suffices(f)
     combined = combine_domain_suffices(d3, d2, d1)
     with open("fullrules.conf", "w", newline="\n") as f:
-        f.write(convert_to_shadowrocket_rules(combined, ip_ranges))
+        write_shadowrocket_rules(f, combined, ip_ranges)
     with open("fullrules.txt", "w", newline="\n") as f:
         f.write(
             """[Autoproxy]
@@ -173,10 +173,10 @@ def get_blocked_ip_ranges() -> List[str]:
     return sorted(result)
 
 
-def convert_to_shadowrocket_rules(
-    domain_suffices: Iterable[str], ip_ranges: Iterable[str]
-) -> str:
-    pieces = [
+def write_shadowrocket_rules(
+    f: TextIO, domain_suffices: Iterable[str], ip_ranges: Iterable[str]
+) -> None:
+    f.write(
         """[General]
 ipv6 = true
 prefer-ipv6 = true
@@ -191,12 +191,12 @@ DOMAIN-KEYWORD,google,Proxy
 DOMAIN-SUFFIX,rsyhome.duckdns.org,Direct
 DOMAIN-SUFFIX,rsy.duckdns.org,Direct
 """
-    ]
+    )
     for d in domain_suffices:
-        pieces.append(f"DOMAIN-SUFFIX,{d},Proxy")
+        f.write(f"DOMAIN-SUFFIX,{d},Proxy\n")
     for r in ip_ranges:
-        pieces.append(f"IP-CIDR,{r},Proxy")
-    pieces.append(
+        f.write(f"IP-CIDR,{r},Proxy\n")
+    f.write(
         """
 FINAL,direct
 
@@ -204,7 +204,6 @@ FINAL,direct
 ^https?://(www.)?g(oogle)?.cn https://www.google.com 302
 """
     )
-    return "\n".join(pieces)
 
 
 if __name__ == "__main__":
