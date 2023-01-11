@@ -3,7 +3,7 @@ set -e;
 set -x;
 cd "$(dirname "$(realpath "$0")")";
 git pull --rebase;
-python3 ./gensrrules.py;
+python3 ./gensrrules.py "$@";
 STATUS_MSG=$(git status);
 if [[ $STATUS_MSG == *'Changes not staged for commit'* ]]
 then
