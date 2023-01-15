@@ -10,7 +10,10 @@ SRGFWLIST_ID = os.environ.get("SRGFWLIST_ID")
 
 try:
     os.chdir(os.path.dirname(os.path.realpath(__file__)))
-    subprocess.check_call(["git", "pull", "--rebase", "-f"])
+    subprocess.check_call(["git", "reset", "--hard"])
+    subprocess.check_call(["git", "config", "user.name", "Autorebuilder"])
+    subprocess.check_call(["git", "config", "user.email", "autorebuilder@auto.sh"])
+    subprocess.check_call(["git", "pull", "--rebase"])
     subprocess.check_call([sys.executable, "gensrrules.py"])
     status_msg = subprocess.check_output(["git", "status"], encoding="utf-8")
     if "Changes not staged for commit" in status_msg:
