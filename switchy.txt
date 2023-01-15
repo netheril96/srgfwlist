@@ -109,3 +109,9 @@
 *.s3.us-east-2.amazonaws.com +proxy
 *.travis-ci.org +proxy
 *.travis-ci.com +proxy
+*.steamstatic.com +proxy
+*.dailymotion.com +proxy
+*.letsencrypt.org +proxy
+*.linuxcapable.com +proxy
+*.sagernet.org +proxy
+*.fragment.com +proxy
