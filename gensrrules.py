@@ -197,6 +197,7 @@ dns-server = system
 icmp-auto-reply=true
 private-ip-answer=true
 dns-direct-fallback-proxy=true
+udp-policy-not-supported-behavior=DIRECT
 
 [Rule]
 DOMAIN-SUFFIX,cn,Direct
