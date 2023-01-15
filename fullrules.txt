@@ -101,6 +101,11 @@
 ||s3.us-east-2.amazonaws.com
 ||travis-ci.org
 ||travis-ci.com
+||dailymotion.com
+||letsencrypt.org
+||linuxcapable.com
+||sagernet.org
+||fragment.com
 ||ycombinator.com
 ||bitcointalk.org
 ||coinglass.com
@@ -1809,7 +1814,6 @@
 ||daidostup.ru
 ||dailidaili.com
 ||dailymail.co.uk
-||dailymotion.com
 ||dailysabah.com
 ||dajiyuan.com
 ||dajiyuan.de
@@ -2913,7 +2917,6 @@
 ||lesoir.be
 ||letou.com
 ||letscorp.net
-||ocsp.int-x3.letsencrypt.org
 ||ss.levyhsu.com
 ||cdn.assets.lfpcontent.com
 ||lhakar.org
