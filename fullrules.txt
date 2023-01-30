@@ -106,6 +106,12 @@
 ||linuxcapable.com
 ||sagernet.org
 ||fragment.com
+||rsms.me
+||nhri.org.tw
+||cloudflare.com
+||arbitrum.one
+||telegramgroup.org
+||crates.io
 ||ycombinator.com
 ||bitcointalk.org
 ||coinglass.com
