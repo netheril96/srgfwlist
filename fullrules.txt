@@ -345,6 +345,7 @@
 ||omni7.jp
 ||onapp.com
 ||ontrac.com
+||openai.com
 ||pandora.com
 ||pandora.tv
 ||parkansky.com
@@ -2681,6 +2682,7 @@
 ||indianarrative.com
 ||timesofindia.indiatimes.com
 ||indiemerch.com
+||info-graf.fr
 ||initiativesforchina.org
 ||inkui.com
 ||inmediahk.net
@@ -2691,6 +2693,7 @@
 ||inside.com.tw
 ||insidevoa.com
 ||institut-tibetain.org
+||interactivebrokers.com
 ||internet.org
 ||internetpopculture.com
 ||inthenameofconfuciusmovie.com
@@ -3964,6 +3967,7 @@
 ||spike.com
 ||spotflux.com
 ||spring4u.info
+||springwood.me
 ||sproutcore.com
 ||sproxy.info
 ||squirrelvpn.com
@@ -4144,6 +4148,7 @@
 ||theporndude.com
 ||theportalwiki.com
 ||theprint.in
+||threadreaderapp.com
 ||thesaturdaypaper.com.au
 ||thestandnews.com
 ||thetibetmuseum.org
@@ -4827,6 +4832,7 @@
 ||yolasite.com
 ||yomiuri.co.jp
 ||yorkbbs.ca
+||you.com
 ||youxu.info
 ||youjizz.com
 ||youmaker.com
