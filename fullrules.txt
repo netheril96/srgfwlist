@@ -29,7 +29,6 @@
 ||internet2.edu
 ||torrentseeker.com
 ||bootstrapcdn.com
-||steampowered.com
 ||nexusmods.com
 ||doubleclick.net
 ||redventures.io
@@ -41,7 +40,6 @@
 ||coinbase.com
 ||btc.com
 ||zmk.pw
-||steamstatic.com
 ||bandainamcoent.eu
 ||tangibleabstraction.com
 ||ramnode.com
@@ -112,6 +110,12 @@
 ||arbitrum.one
 ||telegramgroup.org
 ||crates.io
+||upi.com
+||apnic.net
+||archive.org
+||unpkg.com
+||steampowered.com
+||steamstatic.com
 ||ycombinator.com
 ||bitcointalk.org
 ||coinglass.com
@@ -1301,7 +1305,6 @@
 ||archive.fo
 ||archive.is
 ||archive.li
-||archive.org
 ||archive.ph
 ||archiveofourown.com
 ||archiveofourown.org
