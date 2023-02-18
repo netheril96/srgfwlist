@@ -24,7 +24,6 @@
 *.google-analytics.com +proxy
 *.torrentseeker.com +proxy
 *.bootstrapcdn.com +proxy
-*.steampowered.com +proxy
 *.nexusmods.com +proxy
 *.doubleclick.net +proxy
 *.redventures.io +proxy
@@ -37,7 +36,6 @@
 *.coinbase.com +proxy
 *.btc.com +proxy
 *.zmk.pw +proxy
-*.steamstatic.com +proxy
 *.bandainamcoent.eu +proxy
 *.tangibleabstraction.com +proxy
 *.ramnode.com +proxy
@@ -109,7 +107,6 @@
 *.s3.us-east-2.amazonaws.com +proxy
 *.travis-ci.org +proxy
 *.travis-ci.com +proxy
-*.steamstatic.com +proxy
 *.dailymotion.com +proxy
 *.letsencrypt.org +proxy
 *.linuxcapable.com +proxy
@@ -140,3 +137,7 @@
 *.macrumors.com +proxy
 *.connatix.com +proxy
 *.arcpublishing.com +proxy
+*.upi.com +proxy
+*.apnic.net +proxy
+*.archive.org +proxy
+*.unpkg.com +proxy
