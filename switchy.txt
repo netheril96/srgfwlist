@@ -141,3 +141,5 @@
 *.apnic.net +proxy
 *.archive.org +proxy
 *.unpkg.com +proxy
+*.steampowered.com +proxy
+*.steamstatic.com +proxy
