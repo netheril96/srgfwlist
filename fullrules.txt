@@ -911,6 +911,7 @@
 ||chromercise.com
 ||chromestatus.com
 ||chromium.org
+||cloudfunctions.net
 ||crbug.com
 ||creativelab5.com
 ||crrev.com
@@ -1266,6 +1267,7 @@
 ||angularjs.org
 ||aniscartujo.com
 ||anobii.com
+||anonfiles.com
 ||anonymitynetwork.com
 ||anonymizer.com
 ||anonymouse.org
@@ -2739,6 +2741,7 @@
 ||isupportuyghurs.org
 ||itaboo.info
 ||italiatibet.org
+||itemfix.com
 ||itshidden.com
 ||itsky.it
 ||itweet.net
@@ -2918,6 +2921,7 @@
 ||lausan.hk
 ||le-vpn.com
 ||leafyvpn.net
+||ledger.com
 ||left21.hk
 ||legalporno.com
 ||legsjapan.com
