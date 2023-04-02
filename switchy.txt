@@ -143,3 +143,15 @@
 *.unpkg.com +proxy
 *.steampowered.com +proxy
 *.steamstatic.com +proxy
+*.tutorialspoint.com +proxy
+*.postimg.cc +proxy
+*.postimgs.org +proxy
+*.weizenrestaurant.com +proxy
+*.defidaonews.com +proxy
+*.wikihow.com +proxy
+*.iphonelife.com +proxy
+*.mdpi.com +proxy
+*.upi.com +proxy
+*.apnic.net +proxy
+*.archive.org +proxy
+*.unpkg.com +proxy
