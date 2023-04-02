@@ -116,6 +116,14 @@
 ||unpkg.com
 ||steampowered.com
 ||steamstatic.com
+||tutorialspoint.com
+||postimg.cc
+||postimgs.org
+||weizenrestaurant.com
+||defidaonews.com
+||wikihow.com
+||iphonelife.com
+||mdpi.com
 ||ycombinator.com
 ||bitcointalk.org
 ||coinglass.com
