@@ -23,7 +23,7 @@ def main():
     with open(args.template) as f:
         template = json.load(f)
     for rule in template["dns"]["rules"]:
-        if rule.get("server") == "my" and "domain_suffix" in rule:
+        if rule.get("server") in {"my", "fakeip"} and "domain_suffix" in rule:
             rule["domain_suffix"] = domain_suffixes
     for rule in template["route"]["rules"]:
         if (
