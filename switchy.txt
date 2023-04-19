@@ -155,3 +155,4 @@
 *.apnic.net +proxy
 *.archive.org +proxy
 *.unpkg.com +proxy
+*.poe.com +proxy
