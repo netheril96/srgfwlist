@@ -929,6 +929,7 @@
 ||deepmind.com
 ||deja.com
 ||digisfera.com
+||hub.docker.com
 ||duck.com
 ||feedburner.com
 ||firebaseio.com
@@ -3430,6 +3431,7 @@
 ||packetix.net
 ||pacopacomama.com
 ||padmanet.com
+||page.link
 ||pagodabox.com
 ||palacemoon.com
 ||eriversoft.com
