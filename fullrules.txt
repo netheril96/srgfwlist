@@ -125,6 +125,15 @@
 ||iphonelife.com
 ||mdpi.com
 ||poe.com
+||fsdn.com
+||steamdb.info
+||vulkk.com
+||puffin.com
+||jinrongwang.net
+||loldytt.com
+||u.gg
+||ksapisrv.com
+||mobalytics.gg
 ||ycombinator.com
 ||bitcointalk.org
 ||coinglass.com
