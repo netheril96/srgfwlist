@@ -134,6 +134,15 @@
 ||u.gg
 ||ksapisrv.com
 ||mobalytics.gg
+||huggingface.co
+||analyticsvidhya.com
+||numpy.org
+||aljazeera.com
+||academictorrents.com
+||amd.com
+||deepai.org
+||jupyterbook.org
+||canonical.com
 ||ycombinator.com
 ||bitcointalk.org
 ||coinglass.com
