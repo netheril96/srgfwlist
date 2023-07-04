@@ -33,7 +33,7 @@ def main():
         ):
             rule["domain_suffix"] = domain_suffixes
             rule["ip_cidr"] = ip_cidr
-    with open(args.out, "w") as f:
+    with open(args.out, "w", newline='\n') as f:
         json.dump(template, f, ensure_ascii=False, indent=2)
 
 
