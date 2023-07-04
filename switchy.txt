@@ -180,3 +180,12 @@
 *.apnic.net +proxy
 *.archive.org +proxy
 *.unpkg.com +proxy
+*.huggingface.co +proxy
+*.analyticsvidhya.com +proxy
+*.numpy.org +proxy
+*.aljazeera.com +proxy
+*.academictorrents.com +proxy
+*.amd.com +proxy
+*.deepai.org +proxy
+*.jupyterbook.org +proxy
+*.canonical.com +proxy
