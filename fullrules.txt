@@ -2376,6 +2376,7 @@
 ||gnews.org
 ||goagent.biz
 ||goagentplus.com
+||godaddy.com
 ||godfootsteps.org
 ||godsdirectcontact.org
 ||godsimmediatecontact.com
