@@ -3179,6 +3179,7 @@
 ||moon.fm
 ||moonbbs.com
 ||moptt.tw
+||monica.im
 ||monitorchina.org
 ||monocloud.me
 ||morningsun.org
