@@ -189,3 +189,4 @@
 *.deepai.org +proxy
 *.jupyterbook.org +proxy
 *.canonical.com +proxy
+*.1point3acres.com +proxy
