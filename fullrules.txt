@@ -143,6 +143,7 @@
 ||deepai.org
 ||jupyterbook.org
 ||canonical.com
+||1point3acres.com
 ||ycombinator.com
 ||bitcointalk.org
 ||coinglass.com
