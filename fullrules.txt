@@ -1390,6 +1390,7 @@
 ||b-ok.cc
 ||babylonbee.com
 ||backchina.com
+||bad.news
 ||badiucao.com
 ||badjojo.com
 ||*2.bahamut.com.tw
@@ -2722,6 +2723,7 @@
 ||indiemerch.com
 ||info-graf.fr
 ||initiativesforchina.org
+||inkbunny.net
 ||inkui.com
 ||inmediahk.net
 ||innermongolia.org
@@ -3076,6 +3078,7 @@
 ||mathiew-badimon.com
 ||matrix.org
 ||matsushimakaede.com
+||matters.town
 ||maturejp.com
 ||maxing.jp
 ||mcaf.ee
