@@ -561,6 +561,7 @@
 ||potato.im
 ||premproxy.com
 ||prism-break.org
+||proton.me
 ||protonvpn.com
 ||api.pureapk.com
 ||quora.com
@@ -681,6 +682,7 @@
 ||localbitcoins.com
 ||mercatox.com
 ||oanda.com
+||obyte.org
 ||oex.com
 ||okex.com
 ||opensea.io
@@ -1809,6 +1811,7 @@
 ||contactmagazine.net
 ||convio.net
 ||coobay.com
+||cool18.com
 ||coolaler.com
 ||coolder.com
 ||coolloud.org.tw
@@ -2449,7 +2452,6 @@
 ||gzm.tv
 ||gzone-anime.info
 ||clementine-player.org
-||greasespot.net
 ||www.klip.me
 ||stephaniered.com
 ||ub0.cc
@@ -3651,7 +3653,6 @@
 ||privoxy.org
 ||procopytips.com
 ||project-syndicate.org
-||proton.me
 ||prosiben.de
 ||proxomitron.info
 ||proxpn.com
