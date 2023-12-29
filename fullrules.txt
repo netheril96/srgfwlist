@@ -927,6 +927,7 @@
 ||rocksdb.org
 ||parse.com
 ||thefacebook.com
+||threads.net
 ||whatsapp.com
 ||whatsapp.net
 ||auntology.fandom.com
@@ -3663,6 +3664,7 @@
 ||psiphon.ca
 ||psiphon3.com
 ||psiphontoday.com
+||pstatic.net
 ||pt.im
 ||ptt.cc
 ||pttgame.com
@@ -4762,12 +4764,12 @@
 ||witnessleeteaching.com
 ||witopia.net
 ||wjbk.org
+||wmflabs.org
 ||wn.com
 ||wnacg.com
 ||wnacg.org
 ||wo.tc
 ||woeser.com
-||woesermiddle-way.net
 ||wokar.org
 ||wolfax.com
 ||wombo.ai
@@ -4867,6 +4869,7 @@
 ||yam.org.tw
 ||yande.re
 ||disk.yandex.com
+||disk.yandex.ru
 ||yanghengjun.com
 ||yasni.co.uk
 ||ydy.com
@@ -4885,6 +4888,8 @@
 ||yibada.com
 ||yibaochina.com
 ||yidio.com
+||s.yimg.com
+||xa.yimg.com
 ||yingsuoss.com
 ||yipub.com
 ||yiyechat.com
