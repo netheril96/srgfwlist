@@ -1049,12 +1049,19 @@
 ||nytimg.com
 ||nytstyle.com
 ||steamcommunity.com
+||cdn-telegram.org
+||comments.app
+||graph.org
+||quiz.directory
 ||t.me
 ||updates.tdesktop.com
 ||telegram.dog
 ||telegram.me
 ||telegram.org
+||telegram.space
+||telegram-cdn.org
 ||telegramdownload.com
+||telegra.ph
 ||telesco.pe
 ||jtvnw.net
 ||ttvnw.net
@@ -1602,6 +1609,7 @@
 ||cafepress.com
 ||cahr.org.tw
 ||caijinglengyan.com
+||calendarz.com
 ||calgarychinese.ca
 ||calgarychinese.com
 ||calgarychinese.net
@@ -2350,6 +2358,7 @@
 ||geekheart.info
 ||gekikame.com
 ||gelbooru.com
+||generated.photos
 ||genius.com
 ||geocities.co.jp
 ||geph.io
@@ -2654,6 +2663,8 @@
 ||huaren4us.com
 ||huashangnews.com
 ||huayuworld.org
+||huffingtonpost.com
+||huffpost.com
 ||hugoroy.eu
 ||huhaitai.com
 ||huhamhire.com
@@ -4182,7 +4193,6 @@
 ||tehrantimes.com
 ||telecomspace.com
 ||telegraph.co.uk
-||telegra.ph
 ||tenacy.com
 ||tenzinpalmo.com
 ||tew.org
@@ -4693,6 +4703,7 @@
 ||watch8x.com
 ||watchmygf.net
 ||wav.tv
+||wd.bible
 ||wdf5.com
 ||wealth.com.tw
 ||wearehairy.com
