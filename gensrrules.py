@@ -133,7 +133,6 @@ def main():
         f.write(
             """[Autoproxy]
 @@||cn
-@@||corp.google.com
 /google/
 @@||rsy.duckdns.org
 @@||rsyhome.duckdns.org
@@ -201,7 +200,6 @@ udp-policy-not-supported-behavior=DIRECT
 
 [Rule]
 DOMAIN-SUFFIX,cn,Direct
-DOMAIN-SUFFIX,corp.google.com,Direct
 DOMAIN-KEYWORD,google,Proxy
 DOMAIN-SUFFIX,rsyhome.duckdns.org,Direct
 DOMAIN-SUFFIX,rsy.duckdns.org,Direct
@@ -242,7 +240,6 @@ T = trojan, {server}, {port}, password={password}
 [Rule]
 EXTERNAL,site:category-ads-all,Reject
 DOMAIN-SUFFIX,cn,Direct
-DOMAIN-SUFFIX,corp.google.com,Direct
 DOMAIN-KEYWORD,google,T
 DOMAIN-SUFFIX,rsyhome.duckdns.org,Direct
 DOMAIN-SUFFIX,rsy.duckdns.org,Direct
