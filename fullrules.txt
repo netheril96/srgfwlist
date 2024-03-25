@@ -161,6 +161,19 @@
 ||onlyguides.com
 ||bigbrain.gg
 ||addons.mozilla.org
+||thepiratebay10.info
+||akamaized.net
+||op.gg
+||amazon.com
+||cryptopp.com
+||v82u1l.com
+||bollenhurkle.com
+||onerousethelpictures.com
+||xiaoxintv.net
+||olevod.com
+||dealmoon.co.uk
+||r10s.jp
+||gresearch.com
 ||ycombinator.com
 ||bitcointalk.org
 ||coinglass.com
@@ -1269,9 +1282,6 @@
 ||aiweiweiblog.com
 ||www.ajsands.com
 ||a248.e.akamai.net
-||abematv.akamaized.net
-||linear-abematv.akamaized.net
-||vod-abematv.akamaized.net
 ||akiba-online.com
 ||akow.org
 ||al-islam.com
@@ -3425,7 +3435,6 @@
 ||ok.ru
 ||okayfreedom.com
 ||okk.tw
-||olevod.com
 ||olumpo.com
 ||olympicwatch.org
 ||omct.org
