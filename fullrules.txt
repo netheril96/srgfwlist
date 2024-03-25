@@ -1,6 +1,6 @@
 [Autoproxy]
-@@||cn
 /google/
+@@||cn
 @@||rsy.duckdns.org
 @@||rsyhome.duckdns.org
 
