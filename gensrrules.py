@@ -132,8 +132,8 @@ def main():
     with open("fullrules.txt", "w", newline="\n") as f:
         f.write(
             """[Autoproxy]
-@@||cn
 /google/
+@@||cn
 @@||rsy.duckdns.org
 @@||rsyhome.duckdns.org
 
@@ -199,8 +199,8 @@ dns-direct-fallback-proxy=true
 udp-policy-not-supported-behavior=DIRECT
 
 [Rule]
-DOMAIN-SUFFIX,cn,Direct
 DOMAIN-KEYWORD,google,Proxy
+DOMAIN-SUFFIX,cn,Direct
 DOMAIN-SUFFIX,rsyhome.duckdns.org,Direct
 DOMAIN-SUFFIX,rsy.duckdns.org,Direct
 """
