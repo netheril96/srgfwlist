@@ -277,11 +277,13 @@
 ||casinobellini.com
 ||centauro.com.br
 ||chobit.cc
+||ciciai.com
 ||clearsurance.com
 ||images.comico.tw
 ||static.comico.tw
 ||counter.social
 ||costco.com
+||coze.com
 ||crossfire.co.kr
 ||crunchyroll.com
 ||d2pass.com
@@ -1374,6 +1376,7 @@
 ||archive.fo
 ||archive.is
 ||archive.li
+||archive.md
 ||archive.ph
 ||archiveofourown.com
 ||archiveofourown.org
@@ -1611,6 +1614,7 @@
 ||c-spanvideo.org
 ||c-est-simple.com
 ||c100tibet.org
+||cableav.tv
 ||cablegatesearch.net
 ||cachinese.com
 ||cacnw.com
@@ -2046,6 +2050,7 @@
 ||easyca.ca
 ||easypic.com
 ||fnc.ebc.net.tw
+||news.ebc.net.tw
 ||ebony-beauty.com
 ||ecfa.org.tw
 ||ecimg.tw
@@ -2125,6 +2130,7 @@
 ||eulam.com
 ||eurekavpt.com
 ||euronews.com
+||apps.evozi.com
 ||evschool.net
 ||exblog.jp
 ||blog.exblog.co.jp
