@@ -228,3 +228,26 @@
 *.gstatic.com +proxy
 *.r10s.jp +proxy
 *.gresearch.com +proxy
+*.bt-tt.cc +proxy
+*.bt-tt.com +proxy
+*.storj.io +proxy
+*.transmissionbt.com +proxy
+*.epicgames.com +proxy
+*.thepiratebay10.info +proxy
+*.akamaized.net +proxy
+*.op.gg +proxy
+*.amazon.com +proxy
+*.cryptopp.com +proxy
+*.v82u1l.com +proxy
+*.bollenhurkle.com +proxy
+*.onerousethelpictures.com +proxy
+*.xiaoxintv.net +proxy
+*.olevod.com +proxy
+*.dealmoon.co.uk +proxy
+*.sagernet.org +proxy
+*.rakuten.co.jp +proxy
+*.gstatic.com +proxy
+*.r10s.jp +proxy
+*.gresearch.com +proxy
+*.telegram.org +tcp
+
