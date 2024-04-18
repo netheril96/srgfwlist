@@ -674,10 +674,12 @@
 ||dragonex.io
 ||ebtcbank.com
 ||etherdelta.com
+||ethermine.org
 ||etherscan.io
 ||exmo.com
 ||exrates.me
 ||exx.com
+||f2pool.com
 ||fatbtc.com
 ||ftx.com
 ||gate.io
