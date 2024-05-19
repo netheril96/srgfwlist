@@ -19,6 +19,7 @@
 ||arbitrum.one
 ||archive.org
 ||arcpublishing.com
+||arstechnica.net
 ||bandainamcoent.eu
 ||bigbrain.gg
 ||bollenhurkle.com
@@ -68,6 +69,7 @@
 ||haiwaikan.com
 ||hotexamples.com
 ||huggingface.co
+||hysteria.network
 ||ibytedtos.com
 ||iconcardinal.com
 ||idgesg.net
@@ -93,6 +95,7 @@
 ||mdpi.com
 ||media-amazon.com
 ||mobalytics.gg
+||mp4us.com
 ||myprotein.cn
 ||neoseeker.com
 ||nexusmods.com
@@ -113,6 +116,8 @@
 ||poecdn.net
 ||postimg.cc
 ||postimgs.org
+||prcdn.co
+||pressreader.com
 ||puffin.com
 ||qbittorrent.org
 ||r10s.jp
@@ -159,6 +164,7 @@
 ||transmissionbt.com
 ||travis-ci.com
 ||travis-ci.org
+||truthout.org
 ||ttwstatic.com
 ||tutorialspoint.com
 ||typekit.net
@@ -170,10 +176,12 @@
 ||v82u1l.com
 ||venus7202.com
 ||vulkk.com
+||wapo.st
 ||weizenrestaurant.com
 ||whichbrowser.net
 ||wi-fi.org
 ||wikihow.com
+||winfsp.dev
 ||wpadmngr.com
 ||xiaoxintv.net
 ||xposed.info

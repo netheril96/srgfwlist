@@ -1,12 +1,3 @@
-*.arstechnica.net +proxy
-*.wapo.st +proxy
-*.prcdn.co +proxy
-*.pressreader.com +proxy
-*.mp4us.com +proxy
-*.winfsp.dev +proxy
-*.hysteria.network +proxy
-*.truthout.org +proxy
-*.addons.mozilla.org +proxy
 
 *.1point3acres.com +proxy
 *.academictorrents.com +proxy
@@ -23,6 +14,7 @@
 *.arbitrum.one +proxy
 *.archive.org +proxy
 *.arcpublishing.com +proxy
+*.arstechnica.net +proxy
 *.bandainamcoent.eu +proxy
 *.bigbrain.gg +proxy
 *.bollenhurkle.com +proxy
@@ -76,6 +68,7 @@
 *.haiwaikan.com +proxy
 *.hotexamples.com +proxy
 *.huggingface.co +proxy
+*.hysteria.network +proxy
 *.ibytedtos.com +proxy
 *.iconcardinal.com +proxy
 *.idgesg.net +proxy
@@ -101,6 +94,7 @@
 *.mdpi.com +proxy
 *.media-amazon.com +proxy
 *.mobalytics.gg +proxy
+*.mp4us.com +proxy
 *.myprotein.cn +proxy
 *.neoseeker.com +proxy
 *.nexusmods.com +proxy
@@ -121,6 +115,8 @@
 *.poecdn.net +proxy
 *.postimg.cc +proxy
 *.postimgs.org +proxy
+*.prcdn.co +proxy
+*.pressreader.com +proxy
 *.puffin.com +proxy
 *.qbittorrent.org +proxy
 *.r10s.jp +proxy
@@ -170,6 +166,7 @@
 *.transmissionbt.com +proxy
 *.travis-ci.com +proxy
 *.travis-ci.org +proxy
+*.truthout.org +proxy
 *.ttwstatic.com +proxy
 *.tutorialspoint.com +proxy
 *.typekit.net +proxy
@@ -181,10 +178,12 @@
 *.v82u1l.com +proxy
 *.venus7202.com +proxy
 *.vulkk.com +proxy
+*.wapo.st +proxy
 *.weizenrestaurant.com +proxy
 *.whichbrowser.net +proxy
 *.wi-fi.org +proxy
 *.wikihow.com +proxy
+*.winfsp.dev +proxy
 *.wpadmngr.com +proxy
 *.xiaoxintv.net +proxy
 *.xposed.info +proxy
