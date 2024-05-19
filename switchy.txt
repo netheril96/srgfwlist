@@ -1,3 +1,12 @@
+*.arstechnica.net +proxy
+*.wapo.st +proxy
+*.prcdn.co +proxy
+*.pressreader.com +proxy
+*.mp4us.com +proxy
+*.winfsp.dev +proxy
+*.hysteria.network +proxy
+*.truthout.org +proxy
+*.addons.mozilla.org +proxy
 
 *.1point3acres.com +proxy
 *.academictorrents.com +proxy
