@@ -1107,6 +1107,7 @@
 ||twitter.com
 ||twitter.jp
 ||vine.co
+||x.com
 ||gov.taipei
 ||gov.tw
 ||li.taipei
