@@ -3609,6 +3609,7 @@
 ||pipii.tv
 ||piposay.com
 ||piring.com
+||pixeldrain.com
 ||pixelqi.com
 ||css.pixnet.in
 ||pixnet.net
@@ -4943,7 +4944,6 @@
 ||xa.yimg.com
 ||yingsuoss.com
 ||yipub.com
-||yiyechat.com
 ||yizhihongxing.com
 ||yobt.com
 ||yobt.tv
@@ -4971,11 +4971,11 @@
 ||yuanzhengtang.org
 ||yulghun.com
 ||yunchao.net
-||yuntipub.com
 ||yuvutu.com
 ||yvesgeleyn.com
 ||yyii.org
 ||yyjlymb.xyz
+||yysub.net
 ||yzzk.com
 ||z-lib.org
 ||zalmos.com
