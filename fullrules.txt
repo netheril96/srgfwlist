@@ -3076,13 +3076,12 @@
 ||livedoor.jp
 ||liveleak.com
 ||livemint.com
-||livestation.com
 ||livestream.com
 ||livingonline.us
 ||livingstream.com
 ||livevideo.com
 ||liwangyang.com
-||llss.me
+||chat.lmsys.org
 ||lncn.org
 ||load.to
 ||lobsangwangyal.com
@@ -3755,10 +3754,10 @@
 ||quranexplorer.com
 ||qvodzy.org
 ||r0.ru
-||ra.gg
-||radicalparty.org
+||radio-canada.ca
 ||rael.org
 ||radio.garden
+||radioaustralia.net.au
 ||radiohilight.net
 ||radioline.co
 ||radiovaticana.org
@@ -4181,6 +4180,7 @@
 ||tagwalk.com
 ||taipeisociety.org
 ||taipeitimes.com
+||taisounds.com
 ||taiwanbible.com
 ||taiwancon.com
 ||taiwandaily.net
@@ -4761,6 +4761,7 @@
 ||wefightcensorship.org
 ||wefong.com
 ||weihuo.org
+||weijingsheng.org
 ||weiming.info
 ||weisuo.ws
 ||welovecock.com
