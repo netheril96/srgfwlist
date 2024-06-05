@@ -1381,6 +1381,7 @@
 ||apkmonk.com
 ||apkplz.com
 ||apkpure.com
+||apkpure.net
 ||aplusvpn.com
 ||appbrain.com
 ||appledaily.com
@@ -1963,6 +1964,7 @@
 ||deviantart.net
 ||devio.us
 ||devpn.com
+||devv.ai
 ||dfas.mil
 ||dharamsalanet.com
 ||diaoyuislands.org
