@@ -34,6 +34,8 @@
 ||cms-twdigitalassets.com
 ||coinbase.com
 ||coindesk.com
+||coinglass.com
+||coinglasscdn.com
 ||connatix.com
 ||cookielaw.org
 ||crates.io
@@ -159,6 +161,7 @@
 ||tiktokv.com
 ||tommycoolman.com
 ||tomshardware.com
+||torrends.to
 ||torrentgalaxy.to
 ||torrentseeker.com
 ||transmissionbt.com
@@ -190,7 +193,6 @@
 ||zmk.pw
 ||ycombinator.com
 ||bitcointalk.org
-||coinglass.com
 ||2miners.com
 ||sushi.com
 ||gemini.com

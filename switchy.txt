@@ -1,16 +1,3 @@
-*.coinglasscdn.com +proxy
-*.coinglass.com +proxy
-*.torrends.to +proxy
-*.mac.gov.tw +proxy
-*.arstechnica.net +proxy
-*.wapo.st +proxy
-*.prcdn.co +proxy
-*.pressreader.com +proxy
-*.mp4us.com +proxy
-*.winfsp.dev +proxy
-*.hysteria.network +proxy
-*.truthout.org +proxy
-*.addons.mozilla.org +proxy
 
 *.1point3acres.com +proxy
 *.academictorrents.com +proxy
@@ -42,6 +29,8 @@
 *.cms-twdigitalassets.com +proxy
 *.coinbase.com +proxy
 *.coindesk.com +proxy
+*.coinglass.com +proxy
+*.coinglasscdn.com +proxy
 *.connatix.com +proxy
 *.cookielaw.org +proxy
 *.crates.io +proxy
@@ -99,6 +88,7 @@
 *.letsencrypt.org +proxy
 *.linuxcapable.com +proxy
 *.loldytt.com +proxy
+*.mac.gov.tw +proxy
 *.macrumors.com +proxy
 *.magnetdl.com +proxy
 *.maketecheasier.com +proxy
@@ -174,6 +164,7 @@
 *.tiktokv.com +proxy
 *.tommycoolman.com +proxy
 *.tomshardware.com +proxy
+*.torrends.to +proxy
 *.torrentgalaxy.to +proxy
 *.torrentseeker.com +proxy
 *.transmissionbt.com +proxy
