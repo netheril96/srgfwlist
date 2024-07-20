@@ -274,6 +274,7 @@
 ||altrec.com
 ||angela-merkel.de
 ||angola.org
+||anthropic.com
 ||apartmentratings.com
 ||apartments.com
 ||arena.taipei
@@ -294,6 +295,7 @@
 ||centauro.com.br
 ||chobit.cc
 ||ciciai.com
+||claude.ai
 ||clearsurance.com
 ||images.comico.tw
 ||static.comico.tw
@@ -3582,6 +3584,7 @@
 ||percy.in
 ||perfectgirls.net
 ||perfect-privacy.com
+||perplexity.ai
 ||persecutionblog.com
 ||persiankitty.com
 ||phayul.com
