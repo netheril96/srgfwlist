@@ -1449,6 +1449,7 @@
 ||avyahoo.com
 ||axureformac.com
 ||azerbaycan.tv
+||azirevpn.com
 ||boxun*.azurewebsites.net
 ||b-ok.cc
 ||babylonbee.com
@@ -1823,6 +1824,8 @@
 ||cloudflare-ipfs.com
 ||club1069.com
 ||clubhouseapi.com
+||cmegroup.com
+||cmi.org.tw
 ||www.cmoinc.org
 ||cmule.com
 ||cmule.org
@@ -2779,6 +2782,8 @@
 ||imageab.com
 ||imagefap.com
 ||imageflea.com
+||imageglass.org
+||imageshack.us
 ||imagevenue.com
 ||imagezilla.net
 ||imb.org
