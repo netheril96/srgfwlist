@@ -5,6 +5,7 @@
 @@||rsyhome.duckdns.org
 
 ||1point3acres.com
+||8v.com
 ||academictorrents.com
 ||addons.mozilla.org
 ||addthis.com
@@ -22,6 +23,7 @@
 ||arstechnica.net
 ||bandainamcoent.eu
 ||bigbrain.gg
+||bitpay.com
 ||bollenhurkle.com
 ||bootstrapcdn.com
 ||bt-tt.cc
@@ -30,6 +32,8 @@
 ||bytedapm.com
 ||caddyserver.com
 ||canonical.com
+||changelly.com
+||chinaq.tv
 ||cloudflare.com
 ||cms-twdigitalassets.com
 ||coinbase.com
@@ -54,6 +58,7 @@
 ||ebrary.net
 ||epicgames.com
 ||escapistmagazine.com
+||fluence.network
 ||fontawesome.com
 ||forbes.com
 ||forhims.com
@@ -64,6 +69,7 @@
 ||fsdn.com
 ||gamespot.com
 ||github.community
+||githubassets.com
 ||go.com
 ||gresearch.com
 ||gstatic.com
@@ -80,6 +86,7 @@
 ||iole.tv
 ||iphonelife.com
 ||itefix.net
+||iyf.tv
 ||jetbrains.com
 ||jinrongwang.net
 ||jupyterbook.org
@@ -113,9 +120,11 @@
 ||onlyguides.com
 ||ooni.org
 ||op.gg
+||pcgamesn.com
 ||piratebayproxy.info
 ||poe.com
 ||poecdn.net
+||politico.eu
 ||postimg.cc
 ||postimgs.org
 ||prcdn.co
@@ -148,6 +157,7 @@
 ||steampowered.com
 ||steamstatic.com
 ||storj.io
+||stripe.com
 ||substack.com
 ||tangibleabstraction.com
 ||techhive.com
@@ -164,6 +174,7 @@
 ||torrends.to
 ||torrentgalaxy.to
 ||torrentseeker.com
+||transak.com
 ||transmissionbt.com
 ||travis-ci.com
 ||travis-ci.org
@@ -224,7 +235,6 @@
 ||circleid.com
 ||torrents.io
 ||legittorrents.info
-||githubassets.com
 ||cellstream.com
 ||dynu.com
 ||acrylicwifi.com
