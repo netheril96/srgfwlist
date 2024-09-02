@@ -1640,6 +1640,7 @@
 ||buzzhand.com
 ||buzzhand.net
 ||buzzorange.com
+||buzzsprout.com
 ||bvpn.com
 ||bwh1.net
 ||bx.tl
@@ -2874,6 +2875,7 @@
 ||iuksky.com
 ||ivacy.com
 ||iverycd.com
+||ivonblog.com
 ||ivpn.net
 ||iwara.tv
 ||ixquick.com
@@ -2886,8 +2888,10 @@
 ||izlesem.org
 ||j.mp
 ||jable.tv
+||blog.jackjia.com
 ||jamestown.org
 ||jamyangnorbu.com
+||jan.ai
 ||jandyx.com
 ||janwongphoto.com
 ||japan-whores.com
@@ -3594,6 +3598,7 @@
 ||penchinese.net
 ||blog.pentalogic.net
 ||penthouse.com
+||pentoy.hk
 ||peoplebookcafe.com
 ||peoplenews.tw
 ||peopo.org
@@ -3655,6 +3660,9 @@
 ||podictionary.com
 ||pokerstars.com
 ||pokerstars.net
+||zh.pokerstrategy.com
+||politicalchina.org
+||politicalconsultation.org
 ||politiscales.net
 ||poloniex.com
 ||polymerhk.com
@@ -3793,7 +3801,6 @@
 ||blog.ranxiang.com
 ||ranyunfei.com
 ||rapbull.net
-||rapidgator.net
 ||rapidmoviez.com
 ||rapidvpn.com
 ||rarbgprx.org
@@ -4317,8 +4324,10 @@
 ||tibet.at
 ||tibet.com
 ||tibet.net
+||tibet.nu
 ||tibet.org
 ||tibet.sk
+||tibet.org.tw
 ||tibet.to
 ||tibet-envoy.eu
 ||tibet-foundation.org
@@ -4375,11 +4384,13 @@
 ||tibetoralhistory.org
 ||tibetpolicy.eu
 ||tibetrelieffund.co.uk
+||tibetsites.com
 ||tibetsociety.com
 ||tibetsun.com
 ||tibetsupportgroup.org
 ||tibetswiss.ch
 ||tibettelegraph.com
+||tibettimes.net
 ||tibettruth.com
 ||tibetwrites.org
 ||ticket.com.tw
