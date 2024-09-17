@@ -21,6 +21,7 @@
 ||archive.org
 ||arcpublishing.com
 ||arstechnica.net
+||asus.com
 ||bandainamcoent.eu
 ||bigbrain.gg
 ||bitpay.com
@@ -28,7 +29,9 @@
 ||bootstrapcdn.com
 ||bt-tt.cc
 ||bt-tt.com
+||bt2160.com
 ||btc.com
+||bttt11.com
 ||bytedapm.com
 ||caddyserver.com
 ||canonical.com
@@ -42,6 +45,7 @@
 ||coinglasscdn.com
 ||connatix.com
 ||cookielaw.org
+||craiyon.com
 ||crates.io
 ||cryptopp.com
 ||cryptotradingcafe.com
@@ -53,11 +57,14 @@
 ||discord.com
 ||disney.io
 ||doubleclick.net
+||downloadhelper.net
 ||dydx.exchange
 ||dyncdn.me
 ||ebrary.net
 ||epicgames.com
 ||escapistmagazine.com
+||exodus.com
+||facebook.net
 ||fluence.network
 ||fontawesome.com
 ||forbes.com
@@ -67,6 +74,7 @@
 ||freedesktop.org
 ||freerdp.com
 ||fsdn.com
+||fxempire.com
 ||gamespot.com
 ||github.community
 ||githubassets.com
@@ -81,6 +89,7 @@
 ||ibytedtos.com
 ||iconcardinal.com
 ||idgesg.net
+||infinitywallet.io
 ||infoworld.com
 ||internet2.edu
 ||iole.tv
@@ -115,6 +124,7 @@
 ||nyaa.si
 ||olehdtv.com
 ||olevod.com
+||onekey.so
 ||onerousethelpictures.com
 ||onlinedisassembler.com
 ||onlyguides.com
@@ -169,6 +179,7 @@
 ||tiktokcdn-us.com
 ||tiktokcdn.com
 ||tiktokv.com
+||tinhte.vn
 ||tommycoolman.com
 ||tomshardware.com
 ||torrends.to
@@ -953,7 +964,6 @@
 ||facebook.br
 ||facebook.com
 ||facebook.design
-||connect.facebook.net
 ||facebook.hu
 ||facebook.in
 ||facebook.nl

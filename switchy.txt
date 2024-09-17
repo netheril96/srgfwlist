@@ -1,15 +1,3 @@
-*.exodus.com +proxy
-*.onekey.so +proxy
-*.infinitywallet.io +proxy
-*.facebook.net +proxy
-*.tinhte.vn +proxy
-*.magnetdl.com +proxy
-*.fxempire.com +proxy
-*.bttt11.com +proxy
-*.bt2160.com +proxy
-*.downloadhelper.net +proxy
-*.craiyon.com +proxy
-*.asus.com +proxy
 *.1point3acres.com +proxy
 *.8v.com +proxy
 *.academictorrents.com +proxy
@@ -27,6 +15,7 @@
 *.archive.org +proxy
 *.arcpublishing.com +proxy
 *.arstechnica.net +proxy
+*.asus.com +proxy
 *.bandainamcoent.eu +proxy
 *.bigbrain.gg +proxy
 *.bitpay.com +proxy
@@ -34,7 +23,9 @@
 *.bootstrapcdn.com +proxy
 *.bt-tt.cc +proxy
 *.bt-tt.com +proxy
+*.bt2160.com +proxy
 *.btc.com +proxy
+*.bttt11.com +proxy
 *.bytedapm.com +proxy
 *.caddyserver.com +proxy
 *.canonical.com +proxy
@@ -48,6 +39,7 @@
 *.coinglasscdn.com +proxy
 *.connatix.com +proxy
 *.cookielaw.org +proxy
+*.craiyon.com +proxy
 *.crates.io +proxy
 *.cryptopp.com +proxy
 *.cryptotradingcafe.com +proxy
@@ -59,11 +51,14 @@
 *.discord.com +proxy
 *.disney.io +proxy
 *.doubleclick.net +proxy
+*.downloadhelper.net +proxy
 *.dydx.exchange +proxy
 *.dyncdn.me +proxy
 *.ebrary.net +proxy
 *.epicgames.com +proxy
 *.escapistmagazine.com +proxy
+*.exodus.com +proxy
+*.facebook.net +proxy
 *.fluence.network +proxy
 *.fontawesome.com +proxy
 *.forbes.com +proxy
@@ -73,6 +68,7 @@
 *.freedesktop.org +proxy
 *.freerdp.com +proxy
 *.fsdn.com +proxy
+*.fxempire.com +proxy
 *.gamespot.com +proxy
 *.github.community +proxy
 *.githubassets.com +proxy
@@ -92,6 +88,7 @@
 *.ibytedtos.com +proxy
 *.iconcardinal.com +proxy
 *.idgesg.net +proxy
+*.infinitywallet.io +proxy
 *.infoworld.com +proxy
 *.internet2.edu +proxy
 *.iole.tv +proxy
@@ -127,6 +124,7 @@
 *.nyaa.si +proxy
 *.olehdtv.com +proxy
 *.olevod.com +proxy
+*.onekey.so +proxy
 *.onerousethelpictures.com +proxy
 *.onlinedisassembler.com +proxy
 *.onlyguides.com +proxy
@@ -184,6 +182,7 @@
 *.tiktokcdn-us.com +proxy
 *.tiktokcdn.com +proxy
 *.tiktokv.com +proxy
+*.tinhte.vn +proxy
 *.tommycoolman.com +proxy
 *.tomshardware.com +proxy
 *.torrends.to +proxy
