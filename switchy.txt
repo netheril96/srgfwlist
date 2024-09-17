@@ -1,3 +1,15 @@
+*.exodus.com +proxy
+*.onekey.so +proxy
+*.infinitywallet.io +proxy
+*.facebook.net +proxy
+*.tinhte.vn +proxy
+*.magnetdl.com +proxy
+*.fxempire.com +proxy
+*.bttt11.com +proxy
+*.bt2160.com +proxy
+*.downloadhelper.net +proxy
+*.craiyon.com +proxy
+*.asus.com +proxy
 *.1point3acres.com +proxy
 *.8v.com +proxy
 *.academictorrents.com +proxy
