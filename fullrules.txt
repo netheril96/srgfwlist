@@ -963,6 +963,7 @@
 ||f8.com
 ||facebook.br
 ||facebook.com
+||facebook.de
 ||facebook.design
 ||facebook.hu
 ||facebook.in
@@ -979,6 +980,7 @@
 ||instagram.com
 ||m.me
 ||messenger.com
+||meta.com
 ||oculus.com
 ||oculuscdn.com
 ||rocksdb.org
@@ -4447,6 +4449,7 @@
 ||torrentproject.se
 ||torrenty.org
 ||torrentz.eu
+||tortoisesvn.net
 ||torvpn.com
 ||totalvpn.com
 ||toutiaoabc.com
