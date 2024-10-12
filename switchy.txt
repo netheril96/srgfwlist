@@ -1,3 +1,19 @@
+*.cloudflare-eth.com +proxy
+*.uniswap.org +proxy
+*.infura.io +proxy
+*.coinzillatag.com +proxy
+*.walletconnect.org +proxy
+*.walletconnect.com +proxy
+*.fluence.network +proxy
+*.uchicago.edu +proxy
+*.yts.mx +proxy
+*.magnetdl.com +proxy
+*.gstatic.com +proxy
+*.moviesfun.site +proxy
+*.youku-tv.blogspot.com +proxy
+*.hdmoviesworld.xyz +proxy
+*.googlesyndication.com +proxy
+
 *.1point3acres.com +proxy
 *.8v.com +proxy
 *.academictorrents.com +proxy
