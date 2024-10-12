@@ -1,18 +1,3 @@
-*.cloudflare-eth.com +proxy
-*.uniswap.org +proxy
-*.infura.io +proxy
-*.coinzillatag.com +proxy
-*.walletconnect.org +proxy
-*.walletconnect.com +proxy
-*.fluence.network +proxy
-*.uchicago.edu +proxy
-*.yts.mx +proxy
-*.magnetdl.com +proxy
-*.gstatic.com +proxy
-*.moviesfun.site +proxy
-*.youku-tv.blogspot.com +proxy
-*.hdmoviesworld.xyz +proxy
-*.googlesyndication.com +proxy
 
 *.1point3acres.com +proxy
 *.8v.com +proxy
@@ -47,12 +32,14 @@
 *.canonical.com +proxy
 *.changelly.com +proxy
 *.chinaq.tv +proxy
+*.cloudflare-eth.com +proxy
 *.cloudflare.com +proxy
 *.cms-twdigitalassets.com +proxy
 *.coinbase.com +proxy
 *.coindesk.com +proxy
 *.coinglass.com +proxy
 *.coinglasscdn.com +proxy
+*.coinzillatag.com +proxy
 *.connatix.com +proxy
 *.cookielaw.org +proxy
 *.craiyon.com +proxy
@@ -98,6 +85,7 @@
 *.gstatic.com +proxy
 *.haitu.tv +proxy
 *.haiwaikan.com +proxy
+*.hdmoviesworld.xyz +proxy
 *.hotexamples.com +proxy
 *.huggingface.co +proxy
 *.hysteria.network +proxy
@@ -106,6 +94,7 @@
 *.idgesg.net +proxy
 *.infinitywallet.io +proxy
 *.infoworld.com +proxy
+*.infura.io +proxy
 *.internet2.edu +proxy
 *.iole.tv +proxy
 *.iphonelife.com +proxy
@@ -129,6 +118,7 @@
 *.mdpi.com +proxy
 *.media-amazon.com +proxy
 *.mobalytics.gg +proxy
+*.moviesfun.site +proxy
 *.mp4us.com +proxy
 *.myprotein.cn +proxy
 *.neoseeker.com +proxy
@@ -213,13 +203,17 @@
 *.tutorialspoint.com +proxy
 *.typekit.net +proxy
 *.u.gg +proxy
+*.uchicago.edu +proxy
 *.unecne.com +proxy
+*.uniswap.org +proxy
 *.unpkg.com +proxy
 *.upi.com +proxy
 *.v2rayssr.com +proxy
 *.v82u1l.com +proxy
 *.venus7202.com +proxy
 *.vulkk.com +proxy
+*.walletconnect.com +proxy
+*.walletconnect.org +proxy
 *.wapo.st +proxy
 *.weizenrestaurant.com +proxy
 *.whichbrowser.net +proxy
@@ -229,6 +223,8 @@
 *.wpadmngr.com +proxy
 *.xiaoxintv.net +proxy
 *.xposed.info +proxy
+*.youku-tv.blogspot.com +proxy
 *.youtube.com +proxy
+*.yts.mx +proxy
 *.zdassets.com +proxy
 *.zmk.pw +proxy

@@ -37,12 +37,14 @@
 ||canonical.com
 ||changelly.com
 ||chinaq.tv
+||cloudflare-eth.com
 ||cloudflare.com
 ||cms-twdigitalassets.com
 ||coinbase.com
 ||coindesk.com
 ||coinglass.com
 ||coinglasscdn.com
+||coinzillatag.com
 ||connatix.com
 ||cookielaw.org
 ||craiyon.com
@@ -83,6 +85,7 @@
 ||gstatic.com
 ||haitu.tv
 ||haiwaikan.com
+||hdmoviesworld.xyz
 ||hotexamples.com
 ||huggingface.co
 ||hysteria.network
@@ -91,6 +94,7 @@
 ||idgesg.net
 ||infinitywallet.io
 ||infoworld.com
+||infura.io
 ||internet2.edu
 ||iole.tv
 ||iphonelife.com
@@ -113,6 +117,7 @@
 ||mdpi.com
 ||media-amazon.com
 ||mobalytics.gg
+||moviesfun.site
 ||mp4us.com
 ||myprotein.cn
 ||neoseeker.com
@@ -194,13 +199,17 @@
 ||tutorialspoint.com
 ||typekit.net
 ||u.gg
+||uchicago.edu
 ||unecne.com
+||uniswap.org
 ||unpkg.com
 ||upi.com
 ||v2rayssr.com
 ||v82u1l.com
 ||venus7202.com
 ||vulkk.com
+||walletconnect.com
+||walletconnect.org
 ||wapo.st
 ||weizenrestaurant.com
 ||whichbrowser.net
@@ -210,7 +219,9 @@
 ||wpadmngr.com
 ||xiaoxintv.net
 ||xposed.info
+||youku-tv.blogspot.com
 ||youtube.com
+||yts.mx
 ||zdassets.com
 ||zmk.pw
 ||ycombinator.com
@@ -219,7 +230,6 @@
 ||sushi.com
 ||gemini.com
 ||tryroll.com
-||uniswap.org
 ||aave.com
 ||archlinux.org
 ||manjaro.org
