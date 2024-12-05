@@ -58,6 +58,7 @@
 ||cookielaw.org
 ||craiyon.com
 ||crates.io
+||creativefabrica.com
 ||crypto.com
 ||cryptopp.com
 ||cryptotradingcafe.com
@@ -65,6 +66,7 @@
 ||dealmoon.co.uk
 ||deepai.org
 ||defidaonews.com
+||digitalnomadlc.com
 ||dilcdn.com
 ||discord.com
 ||disney.io
@@ -73,11 +75,14 @@
 ||downloadhelper.net
 ||dydx.exchange
 ||dyncdn.me
+||eastday.com
 ||ebrary.net
 ||epicgames.com
 ||escapistmagazine.com
 ||exodus.com
 ||facebook.net
+||firstrade.com
+||firstrade.net
 ||fluence.network
 ||fontawesome.com
 ||forbes.com
@@ -92,6 +97,7 @@
 ||fx168news.com
 ||fxempire.com
 ||gamespot.com
+||gitbook.io
 ||github.community
 ||githubassets.com
 ||go.com
@@ -123,10 +129,12 @@
 ||kaltura.com
 ||klickl.com
 ||ksapisrv.com
+||lantern.io
 ||launchdarkly.com
 ||leetcode.com
 ||letsencrypt.org
 ||linuxcapable.com
+||localcard.hk
 ||loldytt.com
 ||macrumors.com
 ||magnetdl.com
@@ -139,9 +147,11 @@
 ||michigan.gov
 ||mirror.xyz
 ||mobalytics.gg
+||morningstar.com
 ||moviesfun.site
 ||mp4us.com
 ||myprotein.cn
+||n26.com
 ||naehrdine.blogspot.com
 ||neoseeker.com
 ||newrepublic.com
@@ -150,6 +160,7 @@
 ||nicehash.com
 ||nitrocdn.com
 ||nowpayments.io
+||npttech.com
 ||numpy.org
 ||nyaa.si
 ||olehdtv.com
@@ -164,6 +175,7 @@
 ||outbrain.com
 ||pcgamesn.com
 ||piratebayproxy.info
+||pjmedia.com
 ||pnas.org
 ||poe.com
 ||poecdn.net
@@ -229,6 +241,7 @@
 ||torrends.to
 ||torrentgalaxy.to
 ||torrentseeker.com
+||townhall.com
 ||transak.com
 ||transmissionbt.com
 ||travis-ci.com
@@ -249,6 +262,7 @@
 ||v2ex.com
 ||v2rayssr.com
 ||v82u1l.com
+||valuerstarringarmistice.com
 ||venus7202.com
 ||vulkk.com
 ||walletconnect.com
@@ -2333,7 +2347,6 @@
 ||fireofliberty.org
 ||firetweet.io
 ||firstpost.com
-||firstrade.com
 ||flagsonline.it
 ||fleursdeslettres.com
 ||flgg.us
