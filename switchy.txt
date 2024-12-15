@@ -1,17 +1,3 @@
-*.lifecell.ua +proxy
-*.hcaptcha.com +proxy
-*.databasearchitects.blogspot.com +proxy
-*.supergorand.cloud +proxy
-*.bitget.com +proxy
-*.photoup.net +proxy
-*.facebook.net +proxy
-*.usdailyrewards.com +proxy
-*.fiat24.com +proxy
-*.ipify.org +proxy
-*.immd.gov.hk +proxy
-*.cex.io +proxy
-*.arbitrum.io +proxy
-*.pancakeswap.finance +proxy
 *.1point3acres.com +proxy
 *.8v.com +proxy
 *.9gag.com +proxy
@@ -29,6 +15,7 @@
 *.amd.com +proxy
 *.analyticsvidhya.com +proxy
 *.apnic.net +proxy
+*.arbitrum.io +proxy
 *.arbitrum.one +proxy
 *.archive.org +proxy
 *.arcpublishing.com +proxy
@@ -39,6 +26,7 @@
 *.bet365.com +proxy
 *.bigbrain.gg +proxy
 *.bitcoin.com +proxy
+*.bitget.com +proxy
 *.bitpay.com +proxy
 *.bollenhurkle.com +proxy
 *.bootstrapcdn.com +proxy
@@ -52,6 +40,7 @@
 *.bytedapm.com +proxy
 *.caddyserver.com +proxy
 *.canonical.com +proxy
+*.cex.io +proxy
 *.changelly.com +proxy
 *.chartbeat.com +proxy
 *.chinaq.tv +proxy
@@ -73,6 +62,7 @@
 *.cryptopp.com +proxy
 *.cryptotradingcafe.com +proxy
 *.dailymotion.com +proxy
+*.databasearchitects.blogspot.com +proxy
 *.dealmoon.co.uk +proxy
 *.deepai.org +proxy
 *.defidaonews.com +proxy
@@ -92,6 +82,7 @@
 *.escapistmagazine.com +proxy
 *.exodus.com +proxy
 *.facebook.net +proxy
+*.fiat24.com +proxy
 *.firstrade.com +proxy
 *.firstrade.net +proxy
 *.fluence.network +proxy
@@ -122,6 +113,7 @@
 *.h-cdn.com +proxy
 *.haitu.tv +proxy
 *.haiwaikan.com +proxy
+*.hcaptcha.com +proxy
 *.hdmoviesworld.xyz +proxy
 *.hotexamples.com +proxy
 *.htx.com +proxy
@@ -130,12 +122,14 @@
 *.ibytedtos.com +proxy
 *.iconcardinal.com +proxy
 *.idgesg.net +proxy
+*.immd.gov.hk +proxy
 *.infinitywallet.io +proxy
 *.infoworld.com +proxy
 *.infura.io +proxy
 *.internet2.edu +proxy
 *.iole.tv +proxy
 *.iphonelife.com +proxy
+*.ipify.org +proxy
 *.itefix.net +proxy
 *.iyf.tv +proxy
 *.jetbrains.com +proxy
@@ -149,6 +143,7 @@
 *.launchdarkly.com +proxy
 *.leetcode.com +proxy
 *.letsencrypt.org +proxy
+*.lifecell.ua +proxy
 *.linuxcapable.com +proxy
 *.loanspq.com +proxy
 *.localcard.hk +proxy
@@ -191,7 +186,9 @@
 *.ooni.org +proxy
 *.op.gg +proxy
 *.outbrain.com +proxy
+*.pancakeswap.finance +proxy
 *.pcgamesn.com +proxy
+*.photoup.net +proxy
 *.piratebayproxy.info +proxy
 *.pjmedia.com +proxy
 *.pkuanvil.com +proxy
@@ -242,6 +239,7 @@
 *.storj.io +proxy
 *.stripe.com +proxy
 *.substack.com +proxy
+*.supergorand.cloud +proxy
 *.tangibleabstraction.com +proxy
 *.techhive.com +proxy
 *.techtaalk.com +proxy
@@ -279,6 +277,7 @@
 *.upi.com +proxy
 *.usatoday.com +proxy
 *.uscourts.gov +proxy
+*.usdailyrewards.com +proxy
 *.v2ex.com +proxy
 *.v2rayssr.com +proxy
 *.v82u1l.com +proxy

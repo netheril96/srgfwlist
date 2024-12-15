@@ -21,6 +21,7 @@
 ||amd.com
 ||analyticsvidhya.com
 ||apnic.net
+||arbitrum.io
 ||arbitrum.one
 ||archive.org
 ||arcpublishing.com
@@ -31,6 +32,7 @@
 ||bet365.com
 ||bigbrain.gg
 ||bitcoin.com
+||bitget.com
 ||bitpay.com
 ||bollenhurkle.com
 ||bootstrapcdn.com
@@ -44,6 +46,7 @@
 ||bytedapm.com
 ||caddyserver.com
 ||canonical.com
+||cex.io
 ||changelly.com
 ||chartbeat.com
 ||chinaq.tv
@@ -65,6 +68,7 @@
 ||cryptopp.com
 ||cryptotradingcafe.com
 ||dailymotion.com
+||databasearchitects.blogspot.com
 ||dealmoon.co.uk
 ||deepai.org
 ||defidaonews.com
@@ -84,6 +88,7 @@
 ||escapistmagazine.com
 ||exodus.com
 ||facebook.net
+||fiat24.com
 ||firstrade.com
 ||firstrade.net
 ||fluence.network
@@ -109,6 +114,7 @@
 ||h-cdn.com
 ||haitu.tv
 ||haiwaikan.com
+||hcaptcha.com
 ||hdmoviesworld.xyz
 ||hotexamples.com
 ||htx.com
@@ -117,12 +123,14 @@
 ||ibytedtos.com
 ||iconcardinal.com
 ||idgesg.net
+||immd.gov.hk
 ||infinitywallet.io
 ||infoworld.com
 ||infura.io
 ||internet2.edu
 ||iole.tv
 ||iphonelife.com
+||ipify.org
 ||itefix.net
 ||iyf.tv
 ||jetbrains.com
@@ -136,6 +144,7 @@
 ||launchdarkly.com
 ||leetcode.com
 ||letsencrypt.org
+||lifecell.ua
 ||linuxcapable.com
 ||loanspq.com
 ||localcard.hk
@@ -177,7 +186,9 @@
 ||ooni.org
 ||op.gg
 ||outbrain.com
+||pancakeswap.finance
 ||pcgamesn.com
+||photoup.net
 ||piratebayproxy.info
 ||pjmedia.com
 ||pkuanvil.com
@@ -225,6 +236,7 @@
 ||storj.io
 ||stripe.com
 ||substack.com
+||supergorand.cloud
 ||tangibleabstraction.com
 ||techhive.com
 ||techtaalk.com
@@ -262,6 +274,7 @@
 ||upi.com
 ||usatoday.com
 ||uscourts.gov
+||usdailyrewards.com
 ||v2ex.com
 ||v2rayssr.com
 ||v82u1l.com
