@@ -1,3 +1,17 @@
+*.lifecell.ua +proxy
+*.hcaptcha.com +proxy
+*.databasearchitects.blogspot.com +proxy
+*.supergorand.cloud +proxy
+*.bitget.com +proxy
+*.photoup.net +proxy
+*.facebook.net +proxy
+*.usdailyrewards.com +proxy
+*.fiat24.com +proxy
+*.ipify.org +proxy
+*.immd.gov.hk +proxy
+*.cex.io +proxy
+*.arbitrum.io +proxy
+*.pancakeswap.finance +proxy
 *.1point3acres.com +proxy
 *.8v.com +proxy
 *.9gag.com +proxy
