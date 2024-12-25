@@ -1,3 +1,19 @@
+*.idev.dev +proxy
+*.gstatic.com +proxy
+*.extrabux.com +proxy
+*.discord.gg +proxy
+*.discord.com +proxy
+*.localizeapi.com +proxy
+*.x.com +proxy
+*.website-files.com +proxy
+*.coincarp.com +proxy
+*.oneplus.com +proxy
+*.sardine.ai +proxy
+*.kraken.com +proxy
+*.launchdarkly.com +proxy
+*.orlandoweekly.com +proxy
+*.bt2160.com +proxy
+
 *.1point3acres.com +proxy
 *.8v.com +proxy
 *.9gag.com +proxy
