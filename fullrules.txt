@@ -55,6 +55,7 @@
 ||cms-twdigitalassets.com
 ||cnn.com
 ||coinbase.com
+||coincarp.com
 ||coindesk.com
 ||coinglass.com
 ||coinglasscdn.com
@@ -75,6 +76,7 @@
 ||digitalnomadlc.com
 ||dilcdn.com
 ||discord.com
+||discord.gg
 ||disney.io
 ||domp4.net
 ||doubleclick.net
@@ -87,6 +89,7 @@
 ||epicgames.com
 ||escapistmagazine.com
 ||exodus.com
+||extrabux.com
 ||facebook.net
 ||fiat24.com
 ||firstrade.com
@@ -122,6 +125,7 @@
 ||hysteria.network
 ||ibytedtos.com
 ||iconcardinal.com
+||idev.dev
 ||idgesg.net
 ||immd.gov.hk
 ||infinitywallet.io
@@ -139,6 +143,7 @@
 ||jwplayer.com
 ||kaltura.com
 ||klickl.com
+||kraken.com
 ||ksapisrv.com
 ||lantern.io
 ||launchdarkly.com
@@ -148,6 +153,7 @@
 ||linuxcapable.com
 ||loanspq.com
 ||localcard.hk
+||localizeapi.com
 ||loldytt.com
 ||macrumors.com
 ||magnetdl.com
@@ -179,12 +185,14 @@
 ||olehdtv.com
 ||olevod.com
 ||onekey.so
+||oneplus.com
 ||onerousethelpictures.com
 ||onesignal.com
 ||onlinedisassembler.com
 ||onlyguides.com
 ||ooni.org
 ||op.gg
+||orlandoweekly.com
 ||outbrain.com
 ||pancakeswap.finance
 ||pcgamesn.com
@@ -216,6 +224,7 @@
 ||rsms.me
 ||s3.us-east-2.amazonaws.com
 ||sagernet.org
+||sardine.ai
 ||sciencedirect.com
 ||scorecardresearch.com
 ||segment.com
@@ -285,12 +294,14 @@
 ||walletconnect.org
 ||wapo.st
 ||washingtonexaminer.com
+||website-files.com
 ||weizenrestaurant.com
 ||whichbrowser.net
 ||wi-fi.org
 ||wikihow.com
 ||winfsp.dev
 ||wpadmngr.com
+||x.com
 ||xiaoxintv.net
 ||xposed.info
 ||youku-tv.blogspot.com
@@ -358,7 +369,6 @@
 ||githubusercontent.com
 ||sourceforge.net
 ||dev.to
-||kraken.com
 ||healthline.com
 ||toorgle.com
 ||insider.com
@@ -416,7 +426,6 @@
 ||deezer.com
 ||desipro.de
 ||dingchin.com.tw
-||discord.gg
 ||discordapp.com
 ||discordapp.net
 ||dish.com
@@ -1217,7 +1226,6 @@
 ||twitter.com
 ||twitter.jp
 ||vine.co
-||x.com
 ||gov.taipei
 ||gov.tw
 ||li.taipei
