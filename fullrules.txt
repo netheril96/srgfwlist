@@ -33,7 +33,9 @@
 ||bigbrain.gg
 ||bitcoin.com
 ||bitget.com
+||bitkan.com
 ||bitpay.com
+||blockchain.com
 ||bollenhurkle.com
 ||bootstrapcdn.com
 ||breitbart.com
@@ -123,6 +125,7 @@
 ||htx.com
 ||huggingface.co
 ||hysteria.network
+||ibkr.com
 ||ibytedtos.com
 ||iconcardinal.com
 ||idev.dev
@@ -131,6 +134,7 @@
 ||infinitywallet.io
 ||infoworld.com
 ||infura.io
+||interactivebrokers.com
 ||internet2.edu
 ||iole.tv
 ||iphonelife.com
@@ -150,6 +154,7 @@
 ||leetcode.com
 ||letsencrypt.org
 ||lifecell.ua
+||liminstudio.blogspot.com
 ||linuxcapable.com
 ||loanspq.com
 ||localcard.hk
@@ -2925,7 +2930,6 @@
 ||inside.com.tw
 ||insidevoa.com
 ||institut-tibetain.org
-||interactivebrokers.com
 ||internet.org
 ||internetpopculture.com
 ||inthenameofconfuciusmovie.com
