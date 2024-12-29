@@ -1,3 +1,8 @@
+*.interactivebrokers.com +proxy
+*.ibkr.com +proxy
+*.blockchain.com +proxy
+*.liminstudio.blogspot.com +proxy
+*.bitkan.com +proxy
 
 *.1point3acres.com +proxy
 *.8v.com +proxy
