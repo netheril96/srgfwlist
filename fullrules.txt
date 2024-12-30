@@ -1125,6 +1125,7 @@
 ||deja.com
 ||digisfera.com
 ||hub.docker.com
+||docs.new
 ||duck.com
 ||feedburner.com
 ||firebaseio.com
@@ -1169,6 +1170,9 @@
 ||schema.org
 ||shattered.io
 ||sipml5.org
+||sheets.new
+||slides.new
+||snapseed.com
 ||synergyse.com
 ||teachparentstech.org
 ||tensorflow.org
@@ -1183,6 +1187,7 @@
 ||webpkgcache.com
 ||webrtc.org
 ||whatbrowser.org
+||whats.new
 ||widevine.com
 ||withyoutube.com
 ||x.company
@@ -1723,7 +1728,8 @@
 ||broadpressinc.com
 ||brookings.edu
 ||brutaltgp.com
-||bt2mag.com
+||bsky.app
+||bsky.social
 ||bt95.com
 ||btaia.com
 ||btbtav.com
@@ -2647,14 +2653,10 @@
 ||h5galgame.me
 ||h-china.org
 ||h-moe.com
-||hacg.club
-||hacg.in
-||hacg.li
-||hacg.me
-||hacg.red
 ||hacker.org
 ||hackmd.io
 ||hackthatphone.net
+||haijiao.com
 ||hakkatv.org.tw
 ||handcraftedsoftware.org
 ||bbs.hanminzu.org
@@ -4854,6 +4856,7 @@
 ||vpnworldwide.com
 ||vporn.com
 ||vpser.net
+||vrchat.com
 ||vrmtr.com
 ||vtunnel.com
 ||vuku.cc
