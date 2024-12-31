@@ -2616,6 +2616,7 @@
 ||greenvpn.net
 ||greenvpn.org
 ||grindr.com
+||ground.news
 ||grotty-monday.com
 ||gsearch.media
 ||gtricks.com
@@ -2704,6 +2705,7 @@
 ||helpzhuling.org
 ||hentaivideoworld.com
 ||id.heroku.com
+||herokuapp.com
 ||heqinglian.net
 ||heritage.org
 ||heungkongdiscuss.com
@@ -2803,6 +2805,7 @@
 ||hougaige.com
 ||howtoforge.com
 ||hoxx.com
+||hpjav.com
 ||hqcdp.org
 ||hqjapanesesex.com
 ||hrcir.com
@@ -2857,6 +2860,7 @@
 ||iask.ca
 ||iask.bz
 ||iav19.com
+||iavian.net
 ||ibit.am
 ||iblist.com
 ||iblogserv-f.net
@@ -3689,6 +3693,7 @@
 ||wiki.jqueryui.com
 ||pbxes.com
 ||pbxes.org
+||pcgamestorrents.com
 ||pchome.com.tw
 ||pcij.org
 ||pcstore.com.tw
