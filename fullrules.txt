@@ -418,6 +418,7 @@
 ||ciciai.com
 ||claude.ai
 ||clearsurance.com
+||cnbeta.com.tw
 ||images.comico.tw
 ||static.comico.tw
 ||counter.social
