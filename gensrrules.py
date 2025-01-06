@@ -2,6 +2,7 @@ from typing import Dict, Iterable, List, Sequence, TextIO
 import requests
 import base64
 import argparse
+import json
 
 GFWLIST_URL = "https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt"
 TELEGRAM_CIDR_URL = "https://core.telegram.org/resources/cidr.txt"
@@ -129,6 +130,8 @@ def main():
     combined = combine_domain_suffices(d3, d2, d1)
     with open("fullrules.conf", "w", newline="\n") as f:
         write_shadowrocket_rules(f, combined, ip_ranges)
+    with open("fullrules.srs", mode="w", newline="\n") as f:
+        write_sing_box_rules(f, combined, ip_ranges)
     with open("fullrules.txt", "w", newline="\n") as f:
         f.write(
             """[Autoproxy]
@@ -217,6 +220,16 @@ FINAL,direct
 ^https?://(www.)?g(oogle)?.cn https://www.google.com 302
 """
     )
+
+
+def write_sing_box_rules(
+    f: TextIO, domain_suffices: Iterable[str], ip_ranges: Iterable[str]
+) -> None:
+    rules = {
+        "version": 2,
+        "rules": [{"domain_suffix": domain_suffices}, {"ip_cidr": ip_ranges}],
+    }
+    json.dump(rules, f, ensure_ascii=False)
 
 
 def write_leaf_rules(
