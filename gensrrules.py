@@ -227,7 +227,11 @@ def write_sing_box_rules(
 ) -> None:
     rules = {
         "version": 2,
-        "rules": [{"domain_suffix": domain_suffices}, {"ip_cidr": ip_ranges}],
+        "rules": [
+            {"domain_keyword": "google"},
+            {"domain_suffix": domain_suffices},
+            {"ip_cidr": ip_ranges},
+        ],
     }
     json.dump(rules, f, ensure_ascii=False)
 
