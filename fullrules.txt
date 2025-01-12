@@ -512,6 +512,7 @@
 ||mattwilcox.net
 ||metarthunter.com
 ||mfxmedia.com
+||miraheze.org
 ||mojim.com
 ||kb.monitorware.com
 ||monster.com
@@ -1555,6 +1556,7 @@
 ||atdmt.com
 ||atlanta168.com
 ||atnext.com
+||audacy.com
 ||av.com
 ||av.movie
 ||av-e-body.com
@@ -1833,6 +1835,9 @@
 ||cdp1998.org
 ||cdp2006.org
 ||cdpa.url.tw
+||cdpeu.org
+||cdpuk.co.uk
+||cdpusa.org
 ||cdpweb.org
 ||cdpwu.org
 ||cdw.com
@@ -2383,6 +2388,7 @@
 ||fireofliberty.org
 ||firetweet.io
 ||firstpost.com
+||fish.audio
 ||flagsonline.it
 ||fleursdeslettres.com
 ||flgg.us
@@ -2927,6 +2933,7 @@
 ||timesofindia.indiatimes.com
 ||indiemerch.com
 ||info-graf.fr
+||inherit.live
 ||initiativesforchina.org
 ||inkbunny.net
 ||inkui.com
@@ -2939,6 +2946,7 @@
 ||insidevoa.com
 ||institut-tibetain.org
 ||internet.org
+||internetfreedom.org
 ||internetpopculture.com
 ||inthenameofconfuciusmovie.com
 ||inxian.com
@@ -3385,6 +3393,7 @@
 ||mofos.com
 ||mog.com
 ||mohu.rocks
+||momoshop.com.tw
 ||mondex.org
 ||money-link.com.tw
 ||www.monlamit.org
@@ -3901,6 +3910,7 @@
 ||qvodzy.org
 ||r0.ru
 ||radio-canada.ca
+||radio-en-ligne.fr
 ||rael.org
 ||radio.garden
 ||radioaustralia.net.au
@@ -4159,6 +4169,7 @@
 ||skyxvpn.com
 ||slaytizle.com
 ||sleazydream.com
+||sleazyfork.org
 ||slheng.com
 ||slideshare.net
 ||slinkset.com
@@ -4226,6 +4237,7 @@
 ||spideroak.com
 ||spike.com
 ||spotflux.com
+||spreaker.com
 ||spring4u.info
 ||springwood.me
 ||sproutcore.com
@@ -5132,6 +5144,7 @@
 ||yyjlymb.xyz
 ||yysub.net
 ||yzzk.com
+||z-lib.io
 ||z-lib.org
 ||zalmos.com
 ||zannel.com
