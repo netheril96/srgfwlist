@@ -36,6 +36,7 @@
 ||bitkan.com
 ||bitpay.com
 ||blockchain.com
+||blogspot.com
 ||bollenhurkle.com
 ||bootstrapcdn.com
 ||breitbart.com
@@ -71,7 +72,6 @@
 ||cryptopp.com
 ||cryptotradingcafe.com
 ||dailymotion.com
-||databasearchitects.blogspot.com
 ||dealmoon.co.uk
 ||deepai.org
 ||defidaonews.com
@@ -80,6 +80,7 @@
 ||discord.com
 ||discord.gg
 ||disney.io
+||dmit.io
 ||domp4.net
 ||doubleclick.net
 ||downloadhelper.net
@@ -116,6 +117,7 @@
 ||go.com
 ||gresearch.com
 ||gstatic.com
+||guruin.com
 ||h-cdn.com
 ||haitu.tv
 ||haiwaikan.com
@@ -147,6 +149,7 @@
 ||jwplayer.com
 ||kaltura.com
 ||klickl.com
+||koinly.io
 ||kraken.com
 ||ksapisrv.com
 ||lantern.io
@@ -154,7 +157,6 @@
 ||leetcode.com
 ||letsencrypt.org
 ||lifecell.ua
-||liminstudio.blogspot.com
 ||linuxcapable.com
 ||loanspq.com
 ||localcard.hk
@@ -168,6 +170,7 @@
 ||mdpi.com
 ||media-amazon.com
 ||megpxs.com
+||mexc.com
 ||michigan.gov
 ||mirror.xyz
 ||mobalytics.gg
@@ -176,7 +179,6 @@
 ||mp4us.com
 ||myprotein.cn
 ||n26.com
-||naehrdine.blogspot.com
 ||neoseeker.com
 ||newrepublic.com
 ||nexusmods.com
@@ -234,6 +236,7 @@
 ||scorecardresearch.com
 ||segment.com
 ||segmentnextimages.com
+||shuzijumin.com
 ||smileunionpay.com
 ||soupian.app
 ||sqlitetutorial.net
@@ -265,6 +268,7 @@
 ||tiktokv.com
 ||tiktokv.us
 ||tinhte.vn
+||tokenize.exchange
 ||tommycoolman.com
 ||tomshardware.com
 ||torrends.to
@@ -309,7 +313,6 @@
 ||x.com
 ||xiaoxintv.net
 ||xposed.info
-||youku-tv.blogspot.com
 ||youtube.com
 ||yts.mx
 ||za.group
