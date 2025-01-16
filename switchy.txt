@@ -1,3 +1,15 @@
+*.guruin.com +proxy
+*.shuzijumin.com +proxy
+*.koinly.io +proxy
+*.mexc.com +proxy
+*.launchdarkly.com +proxy
+*.tokenize.exchange +proxy
+*.dmit.io +proxy
+*.interactivebrokers.com +proxy
+*.ibkr.com +proxy
+*.blockchain.com +proxy
+*.blogspot.com +proxy
+*.bitkan.com +proxy
 
 *.1point3acres.com +proxy
 *.8v.com +proxy
