@@ -559,6 +559,7 @@
 ||phmsociety.org
 ||*.pimg.tw
 ||podcast.co
+||popai.pro
 ||pure18.com
 ||pytorch.org
 ||qq.co.za
@@ -1205,6 +1206,7 @@
 ||yt.be
 ||ytimg.com
 ||zynamics.com
+||copilot.microsoft.com
 ||naughtyamerica.com
 ||nyt.com
 ||nytcn.me
@@ -1393,6 +1395,7 @@
 ||abc.com
 ||abc.net.au
 ||abchinese.com
+||abebooks.co.uk
 ||ablwang.com
 ||aboluowang.com
 ||about.me
@@ -1651,6 +1654,7 @@
 ||bgvpn.com
 ||bianlei.com
 ||biblesforamerica.org
+||vpl.bibliocommons.com
 ||bic2011.org
 ||biedian.me
 ||bigjapanesesex.com
@@ -1802,6 +1806,7 @@
 ||casatibet.org.mx
 ||cari.com.my
 ||caribbeancom.com
+||carousell.com.hk
 ||casinoking.com
 ||casinoriva.com
 ||catch22.net
@@ -1859,6 +1864,7 @@
 ||changp.com
 ||changsa.net
 ||channelnewsasia.com
+||chanworld.org
 ||chapm25.com
 ||chatgpt.com
 ||chaturbate.com
@@ -2080,6 +2086,7 @@
 ||daliulian.org
 ||danke4china.net
 ||darrenliuwei.com
+||dashlane.com
 ||dastrassi.org
 ||david-kilgour.com
 ||daxa.cn
@@ -2280,7 +2287,6 @@
 ||eroprofile.com
 ||eroticsaloon.net
 ||eslite.com
-||esu.dog
 ||etaa.org.au
 ||etadult.com
 ||etizer.org
