@@ -1710,6 +1710,7 @@
 ||book.com.tw
 ||bookdepository.com
 ||books.com.tw
+||bookwalker.com.tw
 ||borgenmagazine.com
 ||botanwang.com
 ||bot.nu
@@ -2401,6 +2402,7 @@
 ||relay.firefox.com
 ||fireofliberty.org
 ||firetweet.io
+||open.firstory.me
 ||firstpost.com
 ||fish.audio
 ||flagsonline.it
@@ -2609,12 +2611,12 @@
 ||golden-ages.org
 ||goldeneyevault.com
 ||goldenfrog.com
-||goldjizz.com
 ||goldstep.net
 ||goldwave.com
-||gongwt.com
+||gongm.in
 ||gooday.xyz
 ||goodhope.school
+||goodnewsnetwork.org
 ||goodreads.com
 ||goodreaders.com
 ||goodtv.com.tw
@@ -2702,6 +2704,7 @@
 ||haproxy.org
 ||hardsextube.com
 ||harunyahya.com
+||b.hatena.ne.jp
 ||hclips.com
 ||hdlt.me
 ||hdtvb.net
@@ -3031,9 +3034,9 @@
 ||jandyx.com
 ||janwongphoto.com
 ||japan-whores.com
+||japanhdv.com
 ||jav.com
 ||jav101.com
-||jav2be.com
 ||jav68.tv
 ||javakiba.org
 ||javbus.com
@@ -3415,6 +3418,7 @@
 ||moon.fm
 ||moonbbs.com
 ||moptt.tw
+||moneydj.com
 ||monica.im
 ||monitorchina.org
 ||monocloud.me
@@ -3578,6 +3582,7 @@
 ||nokola.com
 ||norbulingka.org
 ||nordvpn.com
+||nos.nl
 ||notepad-plus-plus.org
 ||novelasia.com
 ||nownews.com
@@ -3711,7 +3716,9 @@
 ||pastie.org
 ||blog.pathtosharepoint.com
 ||patreon.com
+||patreonusercontent.com
 ||pawoo.net
+||pbs.org
 ||pbworks.com
 ||developers.box.net
 ||wiki.oauth.net
@@ -4435,7 +4442,7 @@
 ||thegay.com
 ||thegioitinhoc.vn
 ||thegly.com
-||thehots.info
+||thehindu.com
 ||thehun.net
 ||theinitium.com
 ||themoviedb.org
@@ -4452,6 +4459,7 @@
 ||thetinhat.com
 ||thetvdb.com
 ||thewgo.org
+||thewirechina.com
 ||theync.com
 ||thinkingtaiwan.com
 ||thisav.com
