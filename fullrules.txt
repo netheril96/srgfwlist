@@ -502,6 +502,7 @@
 ||kkbox.com
 ||leisurepro.com
 ||lifemiles.com
+||lih.kg
 ||longtoes.com
 ||lovetvshow.com
 ||www.m-sport.co.uk
@@ -850,6 +851,7 @@
 ||otcbtc.com
 ||poolin.com
 ||rightbtc.com
+||simpleswap.io
 ||solv.finance
 ||topbtc.com
 ||tronscan.org
@@ -1187,6 +1189,7 @@
 ||tiltbrush.com
 ||translate.goog
 ||urchin.com
+||usercontent.goog
 ||waveprotocol.org
 ||waymo.com
 ||web.dev
@@ -1428,6 +1431,7 @@
 ||afantibbs.com
 ||afr.com
 ||ai-kan.net
+||aiosearch.com
 ||aiph.net
 ||airasia.com
 ||airconsole.com
@@ -1486,6 +1490,7 @@
 ||ancsconf.org
 ||andfaraway.net
 ||android-x86.org
+||androidapksfree.com
 ||angularjs.org
 ||aniscartujo.com
 ||anobii.com
@@ -1552,6 +1557,7 @@
 ||asiaone.com
 ||asiatgp.com
 ||asiatoday.us
+||ask.com
 ||askstudent.com
 ||askynz.net
 ||aspi.org.au
@@ -1802,6 +1808,7 @@
 ||caobian.info
 ||caochangqing.com
 ||cap.org.hk
+||caoporn.us
 ||carabinasypistolas.com
 ||posts.careerengine.us
 ||carrd.co
@@ -1821,6 +1828,7 @@
 ||cathvoice.org.tw
 ||cato.org
 ||cattt.com
+||caus.com
 ||cbc.ca
 ||cbtc.org.hk
 ||southpark.cc.com
@@ -1896,6 +1904,7 @@
 ||chinachange.org
 ||chinachannel.hk
 ||chinacitynews.be
+||chinademocrats.org
 ||chinadialogue.net
 ||chinadigitaltimes.net
 ||chinaelections.org
@@ -2158,6 +2167,7 @@
 ||danbooru.donmai.us
 ||dontfilter.us
 ||dontmovetochina.com
+||doourbest.org
 ||dorjeshugden.com
 ||dotplane.com
 ||dotsub.com
@@ -2415,6 +2425,7 @@
 ||fling.com
 ||flipkart.com
 ||flog.tw
+||flowhongkong.net
 ||flyvpn.com
 ||cn.fmnnow.com
 ||forum4hk.com
@@ -2437,6 +2448,7 @@
 ||fpmt-osel.org
 ||fpmtmexico.org
 ||fqrouter.com
+||frank2019.me
 ||franklc.com
 ||freakshare.com
 ||free4u.com.ar
@@ -2491,6 +2503,7 @@
 ||fuckcnnic.net
 ||fulione.com
 ||fullerconsideration.com
+||fullservicegame.com
 ||funf.tw
 ||fuq.com
 ||furhhdl.org
@@ -2583,6 +2596,8 @@
 ||github.io
 ||gizlen.net
 ||gjczz.com
+||glarity.app
+||globaljihad.net
 ||globalrescue.net
 ||globaltm.org
 ||globalvoicesonline.org
@@ -3061,14 +3076,14 @@
 ||jinbushe.org
 ||jingsim.org
 ||jingpin.org
-||jinroukong.com
+||jinrizhiyi.news
 ||jitouch.com
 ||jizzthis.com
 ||jkb.cc
 ||jma.go.jp
+||jmsc.hku.hk
 ||jmscult.com
 ||joachims.org
-||jobso.tv
 ||sunwinism.joinbbs.net
 ||joinclubhouse.com
 ||jornaldacidadeonline.com.br
@@ -3155,6 +3170,7 @@
 ||ksdl.org
 ||ksnews.com.tw
 ||ktzhk.com
+||kuaichedao.co
 ||kukuku.uk
 ||kurashsultan.com
 ||kurtmunger.com
@@ -3328,6 +3344,7 @@
 ||mega.co.nz
 ||mega.io
 ||mega.nz
+||megalodon.jp
 ||megaproxy.com
 ||megarotic.com
 ||megurineluka.com
@@ -3350,15 +3367,15 @@
 ||metrolife.ca
 ||metroradio.com.hk
 ||mewe.com
-||meyul.com
 ||mgoon.com
 ||mgstage.com
 ||mh4u.org
-||michaelanti.com
 ||michaelmarketl.com
 ||bbs.mikocon.com
 ||microvpn.com
 ||mihr.com
+||mihua.org
+||mikanani.me
 ||mikesoltys.com
 ||milph.net
 ||milsurps.com
@@ -3847,6 +3864,7 @@
 ||powercx.com
 ||powerphoto.org
 ||www.powerpointninja.com
+||ppy.sh
 ||presidentlee.tw
 ||cdn.printfriendly.com
 ||pritunl.com
@@ -3855,6 +3873,9 @@
 ||proxynetwork.org.uk
 ||pts.org.tw
 ||pttvan.org
+||pubu.com.tw
+||puffinbrowser.com
+||pureinsight.org
 ||pushchinawall.com
 ||putty.org
 ||calebelston.com
@@ -3900,7 +3921,6 @@
 ||puuko.com
 ||pullfolio.com
 ||pureconcepts.net
-||pureinsight.org
 ||purepdf.com
 ||purevpn.com
 ||purplelotus.org
@@ -4261,6 +4281,7 @@
 ||spatial.io
 ||spb.com
 ||speakerdeck.com
+||speedcat.me
 ||speedify.com
 ||spencertipping.com
 ||spendee.com
