@@ -626,6 +626,7 @@
 ||xn--4gq171p.com
 ||xn--czq75pvv1aj5c.org
 ||xn--i2ru8q2qg.com
+||xn--noss43i.com
 ||xn--oiq.cc
 ||xn--p8j9a0d9c9a.xn--q9jyb4c
 ||xn--9pr62r24a.com
@@ -1935,6 +1936,7 @@
 ||chinaworker.info
 ||chinayuanmin.org
 ||chinese-hermit.net
+||chinese-memorial.org
 ||chinesedaily.com
 ||chinesedailynews.com
 ||chinesedemocracy.com
@@ -2490,6 +2492,9 @@
 ||freeweibo.com
 ||freexinwen.com
 ||freeyoutubeproxy.net
+||freezhihu.org
+||friendfeed.com
+||friends-of-tibet.org
 ||friendsoftibet.org
 ||www.zensur.freerk.com
 ||adult.friendfinder.com
@@ -3150,6 +3155,7 @@
 ||kink.com
 ||kinokuniya.com
 ||killwall.com
+||kindle4rss.com
 ||kinmen.travel
 ||kir.jp
 ||kissbbao.cn
@@ -3553,6 +3559,7 @@
 ||newnews.ca
 ||newscn.org
 ||newsancai.com
+||newsblur.com
 ||newsdetox.ca
 ||newsdh.com
 ||newsmax.com
@@ -3938,6 +3945,7 @@
 ||qgirl.com.tw
 ||qianbai.tw
 ||qiandao.today
+||qianglie.com
 ||qiangwaikan.com
 ||qi-gong.me
 ||qiangyou.org
@@ -3976,12 +3984,11 @@
 ||rapidmoviez.com
 ||rapidvpn.com
 ||rarbgprx.org
-||raremovie.cc
-||raremovie.net
 ||rationalwiki.org
 ||rawgit.com
 ||rawgithub.com
-||razyboard.com
+||rcinet.ca
+||reabble.com
 ||read100.com
 ||readingtimes.com.tw
 ||readmoo.com
@@ -4899,6 +4906,7 @@
 ||voxer.com
 ||voy.com
 ||vpn.ac
+||vpn.net
 ||vpn4all.com
 ||vpnaccount.org
 ||vpnaccounts.com
