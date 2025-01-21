@@ -609,6 +609,7 @@
 ||ecsm.vs.com
 ||wanz-factory.com
 ||ssl.webpack.de
+||weebly.com
 ||wheretowatch.com
 ||wingamestore.com
 ||wizcrafts.net
@@ -718,6 +719,7 @@
 ||picacomic.com
 ||pincong.rocks
 ||pixiv.net
+||pixivsketch.net
 ||potato.im
 ||premproxy.com
 ||prism-break.org
@@ -1701,6 +1703,7 @@
 ||assets.bwbx.io
 ||bloomfortune.com
 ||blubrry.com
+||bmdru.com
 ||bmfinn.com
 ||bnews.co
 ||bnext.com.tw
@@ -2186,8 +2189,7 @@
 ||drmingxia.org
 ||dropbooks.tv
 ||dropbox.com
-||api.dropboxapi.com
-||notify.dropboxapi.com
+||dropboxapi.com
 ||dropboxusercontent.com
 ||drtuber.com
 ||dscn.info
@@ -3424,6 +3426,7 @@
 ||mod.io
 ||modernchinastudies.org
 ||moeerolibrary.com
+||moeshare.cc
 ||mofaxiehui.com
 ||mofos.com
 ||mog.com
@@ -3804,6 +3807,7 @@
 ||css.pixnet.in
 ||pixnet.net
 ||pk.com
+||pkqjiasu.com
 ||placemix.com
 ||play-asia.com
 ||playboy.com
@@ -4027,6 +4031,7 @@
 ||roadshow.hk
 ||roboforex.com
 ||robustnessiskey.com
+||rocket.chat
 ||rocket-inc.net
 ||rojo.com
 ||ronjoneswriter.com
@@ -4580,7 +4585,9 @@
 ||timsah.com
 ||timtales.com
 ||blog.tiney.com
+||tingtalk.me
 ||tiny.cc
+||tinychat.com
 ||tinypaste.com
 ||tipas.net
 ||tistory.com
@@ -4819,6 +4826,7 @@
 ||ustream.tv
 ||utopianpal.com
 ||uu-gg.com
+||uujiasu.com
 ||uvwxyz.xyz
 ||uwants.com
 ||uwants.net
@@ -5087,9 +5095,9 @@
 ||xcafe.in
 ||xcity.jp
 ||xcritic.com
-||cdn*.xda-developers.com
 ||xerotica.com
 ||xfm.pp.ru
+||xfxssr.me
 ||xgmyd.com
 ||xhamster.com
 ||xianba.net
