@@ -525,6 +525,7 @@
 ||moonbingo.com
 ||mos.ru
 ||msha.gov
+||www.msn.com
 ||muzu.tv
 ||mvg.jp
 ||mybet.com
@@ -631,6 +632,7 @@
 ||xn--p8j9a0d9c9a.xn--q9jyb4c
 ||xn--9pr62r24a.com
 ||abebooks.com
+||s3-ap-southeast-1.amazonaws.com
 ||s3-ap-southeast-2.amazonaws.com
 ||43110.cf
 ||agro.hk
@@ -1226,6 +1228,7 @@
 ||cdn-telegram.org
 ||comments.app
 ||graph.org
+||legra.ph
 ||quiz.directory
 ||t.me
 ||updates.tdesktop.com
@@ -1527,6 +1530,7 @@
 ||apkpure.com
 ||apkpure.net
 ||aplusvpn.com
+||appadvice.com
 ||appbrain.com
 ||appledaily.com
 ||appledaily.com.hk
@@ -2230,6 +2234,7 @@
 ||earlytibet.com
 ||earthcam.com
 ||earthvpn.com
+||eastasiaforum.org
 ||easternlightning.org
 ||eastturkestan.com
 ||www.eastturkistan.net
@@ -3011,6 +3016,7 @@
 ||ironpython.net
 ||ironsocket.com
 ||is.gd
+||ishr.ch
 ||islahhaber.net
 ||islam.org.hk
 ||islamhouse.com
@@ -3066,6 +3072,7 @@
 ||jav68.tv
 ||javakiba.org
 ||javbus.com
+||javfinder.ai
 ||javfor.me
 ||javhd.com
 ||javhip.com
@@ -3193,6 +3200,7 @@
 ||kyofun.com
 ||kyoyue.com
 ||kyzyhello.com
+||kzaobao.com
 ||kzeng.info
 ||labiennale.org
 ||lagranepoca.com
@@ -3424,6 +3432,7 @@
 ||mixx.com
 ||mizzmona.com
 ||mk5000.com
+||mlc.ai
 ||mlcool.com
 ||mlzs.work
 ||mm-cg.com
@@ -4013,6 +4022,7 @@
 ||redchinacn.net
 ||referer.us
 ||reflectivecode.com
+||blog.reimu.net
 ||relay.com.tw
 ||releaseinternational.org
 ||religionnews.com
@@ -4342,6 +4352,7 @@
 ||sthoo.com
 ||stickam.com
 ||stileproject.com
+||stitcher.com
 ||sto.cc
 ||stoporganharvesting.org
 ||storagenewsletter.com
@@ -4501,6 +4512,7 @@
 ||thewirechina.com
 ||theync.com
 ||thinkingtaiwan.com
+||thirdmill.org
 ||thisav.com
 ||thlib.org
 ||thomasbernhard.org
@@ -4695,6 +4707,8 @@
 ||slutmoonbeam.com
 ||blog.soylent.com
 ||tv.com
+||forum.tvb.com
+||inews-api.tvb.com
 ||tvboxnow.com
 ||tvmost.com.hk
 ||tvplayvideos.com
@@ -4817,6 +4831,7 @@
 ||unodedos.com
 ||unstable.icu
 ||untraceable.us
+||unwire.hk
 ||uocn.org
 ||upghsbc.com
 ||upholdjustice.org
@@ -4985,6 +5000,7 @@
 ||watch8x.com
 ||watchmygf.net
 ||wav.tv
+||waybig.com
 ||wd.bible
 ||wdf5.com
 ||wealth.com.tw
