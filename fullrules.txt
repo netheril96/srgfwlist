@@ -391,6 +391,8 @@
 ||tenor.com
 ||teamexos.com
 ||techcrunch.com
+||500px.com
+||500px.org
 ||85.17.73.31
 ||afreecatv.com
 ||agnesb.fr
@@ -552,6 +554,7 @@
 ||s1.nudezz.com
 ||nusatrip.com
 ||nuuvem.com
+||bbs.nyinfor.com
 ||omni7.jp
 ||onapp.com
 ||ontrac.com
@@ -2152,6 +2155,7 @@
 ||discuss4u.com
 ||disqus.com
 ||dit-inc.us
+||diyin.org
 ||dizhidizhi.com
 ||dizhuzhishang.com
 ||djorz.com
@@ -3251,6 +3255,7 @@
 ||libredd.it
 ||lighten.org.tw
 ||lightnovel.cn
+||lilaoshibushinilaoshi.com
 ||line.me
 ||line-apps.com
 ||linglingfa.com
@@ -3326,6 +3331,7 @@
 ||maiplus.com
 ||maizhong.org
 ||mamingzhe.com
+||mangmang.run
 ||manyvoices.news
 ||maplew.com
 ||marc.info
@@ -4473,6 +4479,7 @@
 ||tenacy.com
 ||tenzinpalmo.com
 ||tew.org
+||tfc-taiwan.org.tw
 ||tfiflve.com
 ||thaicn.com
 ||theatlantic.com
@@ -4506,7 +4513,6 @@
 ||thestandnews.com
 ||thetibetmuseum.org
 ||thetibetpost.com
-||thetinhat.com
 ||thetvdb.com
 ||thewgo.org
 ||thewirechina.com
@@ -5281,6 +5287,7 @@
 ||ziporn.com
 ||zippyshare.com
 ||zkaip.com
+||zmedia.com.tw
 ||zmw.cn
 ||zodgame.us
 ||zonaeuropa.com
