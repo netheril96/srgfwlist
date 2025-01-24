@@ -1683,6 +1683,7 @@
 ||bjnewlife.org
 ||bjs.org
 ||bjzc.org
+||blacked.com
 ||blacklogic.com
 ||blackvpn.com
 ||blinkx.com
@@ -2414,6 +2415,7 @@
 ||fingerdaily.com
 ||firearmsworld.net
 ||relay.firefox.com
+||fireofliberty.info
 ||fireofliberty.org
 ||firetweet.io
 ||open.firstory.me
@@ -2444,6 +2446,7 @@
 ||fooooo.com
 ||foreignaffairs.com
 ||fotile.me
+||fountmedia.io
 ||fourthinternational.org
 ||foxdie.us
 ||foxsub.com
@@ -2897,6 +2900,7 @@
 ||hwinfo.com
 ||hxwk.org
 ||hyperrate.com
+||hypothes.is
 ||ebook.hyread.com.tw
 ||i1.hk
 ||i2p2.de
@@ -3360,6 +3364,7 @@
 ||meizhong.report
 ||meltoday.com
 ||memehk.com
+||memes.tw
 ||memri.org
 ||memrijttm.org
 ||mercdn.net
@@ -3788,6 +3793,7 @@
 ||picacomiccn.com
 ||picidae.net
 ||img*.picturedip.com
+||pigav.com
 ||pin-cong.com
 ||pin6.com
 ||ping.fm
@@ -3929,7 +3935,7 @@
 ||ptt.cc
 ||pttgame.com
 ||puffstore.com
-||puuko.com
+||main-ecnpaper-economist.content.pugpig.com
 ||pullfolio.com
 ||pureconcepts.net
 ||purepdf.com
@@ -4116,11 +4122,12 @@
 ||securetunnel.com
 ||securitykiss.com
 ||seed4.me
+||news.seehua.com
 ||seevpn.com
 ||seezone.net
+||sehuatang.net
 ||sendspace.com
 ||sensortower.com
-||tweets.seraph.me
 ||sesawe.net
 ||sesawe.org
 ||sethwklein.net
@@ -4214,7 +4221,6 @@
 ||siteks.uk.to
 ||sitemaps.org
 ||sjrt.org
-||sjum.cn
 ||sketchappsources.com
 ||skimtube.com
 ||lab.skk.moe
@@ -4617,6 +4623,7 @@
 ||toodoc.com
 ||topnews.in
 ||toppornsites.com
+||toptoon.net
 ||torguard.net
 ||top.tv
 ||topshareware.com
@@ -4858,6 +4865,7 @@
 ||vanemu.cn
 ||vanilla-jp.com
 ||vanpeople.com
+||vansky.com
 ||vaticannews.va
 ||vcf-online.org
 ||vcfbuilder.org
