@@ -1284,11 +1284,16 @@
 ||voatibetanenglish.com
 ||zh.ecdm.wikia.com
 ||evchk.wikia.com
+||wikidata.org
 ||wikimedia.org
+||wikiversity.org
 ||zh.wikisource.org
 ||zh.wikiquote.org
 ||zh.wikinews.org
+||wikivoyage.org
+||wiktionary.org
 ||wikipedia.org
+||wmfusercontent.org
 ||data.flurry.com
 ||page.bid.yahoo.com
 ||tw.bid.yahoo.com
