@@ -1,11 +1,3 @@
-*.insiderpaper.com +proxy
-*.remarkablycommunity.com +proxy
-*.magnetdl.hair +proxy
-*.bitsearch.to +proxy
-*.btzj.net +proxy
-*.btjia.com +proxy
-*.lmarena.ai +proxy
-*.amazonaws.com +proxy
 *.1point3acres.com +proxy
 *.8v.com +proxy
 *.9gag.com +proxy
@@ -20,6 +12,7 @@
 *.aljazeera.com +proxy
 *.amazon-adsystem.com +proxy
 *.amazon.com +proxy
+*.amazonaws.com +proxy
 *.amd.com +proxy
 *.analyticsvidhya.com +proxy
 *.apnic.net +proxy
@@ -37,6 +30,7 @@
 *.bitget.com +proxy
 *.bitkan.com +proxy
 *.bitpay.com +proxy
+*.bitsearch.to +proxy
 *.blockchain.com +proxy
 *.blogspot.com +proxy
 *.bollenhurkle.com +proxy
@@ -46,8 +40,10 @@
 *.bt-tt.com +proxy
 *.bt2160.com +proxy
 *.btc.com +proxy
+*.btjia.com +proxy
 *.btsearch.love +proxy
 *.bttt11.com +proxy
+*.btzj.net +proxy
 *.bytedapm.com +proxy
 *.caddyserver.com +proxy
 *.canonical.com +proxy
@@ -144,6 +140,7 @@
 *.infinitywallet.io +proxy
 *.infoworld.com +proxy
 *.infura.io +proxy
+*.insiderpaper.com +proxy
 *.interactivebrokers.com +proxy
 *.internet2.edu +proxy
 *.iole.tv +proxy
@@ -167,6 +164,7 @@
 *.lifecell.ua +proxy
 *.liminstudio.blogspot.com +proxy
 *.linuxcapable.com +proxy
+*.lmarena.ai +proxy
 *.loanspq.com +proxy
 *.localcard.hk +proxy
 *.localizeapi.com +proxy
@@ -174,6 +172,7 @@
 *.mac.gov.tw +proxy
 *.macrumors.com +proxy
 *.magnetdl.com +proxy
+*.magnetdl.hair +proxy
 *.maketecheasier.com +proxy
 *.mapgenie.io +proxy
 *.marketo.com +proxy
@@ -239,6 +238,7 @@
 *.redditspace.com +proxy
 *.redian.news +proxy
 *.redventures.io +proxy
+*.remarkablycommunity.com +proxy
 *.rsms.me +proxy
 *.s3.us-east-2.amazonaws.com +proxy
 *.sagernet.org +proxy

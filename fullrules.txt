@@ -18,6 +18,7 @@
 ||aljazeera.com
 ||amazon-adsystem.com
 ||amazon.com
+||amazonaws.com
 ||amd.com
 ||analyticsvidhya.com
 ||apnic.net
@@ -35,6 +36,7 @@
 ||bitget.com
 ||bitkan.com
 ||bitpay.com
+||bitsearch.to
 ||blockchain.com
 ||blogspot.com
 ||bollenhurkle.com
@@ -44,8 +46,10 @@
 ||bt-tt.com
 ||bt2160.com
 ||btc.com
+||btjia.com
 ||btsearch.love
 ||bttt11.com
+||btzj.net
 ||bytedapm.com
 ||caddyserver.com
 ||canonical.com
@@ -136,6 +140,7 @@
 ||infinitywallet.io
 ||infoworld.com
 ||infura.io
+||insiderpaper.com
 ||interactivebrokers.com
 ||internet2.edu
 ||iole.tv
@@ -158,12 +163,14 @@
 ||letsencrypt.org
 ||lifecell.ua
 ||linuxcapable.com
+||lmarena.ai
 ||loanspq.com
 ||localcard.hk
 ||localizeapi.com
 ||loldytt.com
 ||macrumors.com
 ||magnetdl.com
+||magnetdl.hair
 ||maketecheasier.com
 ||mapgenie.io
 ||marketo.com
@@ -228,8 +235,8 @@
 ||redditspace.com
 ||redian.news
 ||redventures.io
+||remarkablycommunity.com
 ||rsms.me
-||s3.us-east-2.amazonaws.com
 ||sagernet.org
 ||sardine.ai
 ||sciencedirect.com
@@ -635,8 +642,6 @@
 ||xn--p8j9a0d9c9a.xn--q9jyb4c
 ||xn--9pr62r24a.com
 ||abebooks.com
-||s3-ap-southeast-1.amazonaws.com
-||s3-ap-southeast-2.amazonaws.com
 ||43110.cf
 ||agro.hk
 ||share.america.gov
