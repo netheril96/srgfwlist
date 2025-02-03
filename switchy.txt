@@ -1,4 +1,11 @@
-
+*.insiderpaper.com +proxy
+*.remarkablycommunity.com +proxy
+*.magnetdl.hair +proxy
+*.bitsearch.to +proxy
+*.btzj.net +proxy
+*.btjia.com +proxy
+*.lmarena.ai +proxy
+*.amazonaws.com +proxy
 *.1point3acres.com +proxy
 *.8v.com +proxy
 *.9gag.com +proxy
