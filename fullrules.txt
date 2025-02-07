@@ -1268,10 +1268,12 @@
 ||teco-hk.org
 ||teco-mo.org
 ||kinmen.org.tw
-||www.americorps.gov
+||americorps.gov
+||dfas.mil
 ||dma.mil
 ||jpl.nasa.gov
 ||pds.nasa.gov
+||pacom.mil
 ||soc.mil
 ||solarsystem.nasa.gov
 ||uscg.mil
@@ -1862,6 +1864,7 @@
 ||cccat.cc
 ||cccat.co
 ||ccdtr.org
+||ccfd.org.tw
 ||cchere.com
 ||ccim.org
 ||cclife.ca
@@ -2155,7 +2158,6 @@
 ||devio.us
 ||devpn.com
 ||devv.ai
-||dfas.mil
 ||dharamsalanet.com
 ||diaoyuislands.org
 ||difangwenge.org
@@ -2685,6 +2687,7 @@
 ||greenfieldbookstore.com.hk
 ||greenparty.org.tw
 ||greenpeace.org
+||greasyfork.org
 ||greenpeace.com.tw
 ||greenvpn.net
 ||greenvpn.org
@@ -3018,6 +3021,7 @@
 ||internetpopculture.com
 ||inthenameofconfuciusmovie.com
 ||inxian.com
+||ipdefenseforum.com
 ||ipfire.org
 ||iphone4hongkong.com
 ||iphonehacks.com
@@ -3640,6 +3644,7 @@
 ||dynupdate.no-ip.com
 ||nobel.se
 ||nobodycanstop.us
+||nodeseek.com
 ||nokogiri.org
 ||nokola.com
 ||norbulingka.org
@@ -3652,7 +3657,6 @@
 ||noypf.com
 ||npa.go.jp
 ||npnt.me
-||nps.gov
 ||nradio.me
 ||nrk.no
 ||ntd.tv
