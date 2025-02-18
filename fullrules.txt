@@ -1386,6 +1386,7 @@
 ||5299.tv
 ||5isotoi5.org
 ||5maodang.com
+||611study.icu
 ||63i.com
 ||64museum.org
 ||66.ca
@@ -3596,6 +3597,7 @@
 ||newlandmagazine.com.au
 ||newmitbbs.com
 ||newnews.ca
+||news1.kr
 ||newscn.org
 ||newsancai.com
 ||newsblur.com
@@ -3827,6 +3829,7 @@
 ||picacomiccn.com
 ||picidae.net
 ||img*.picturedip.com
+||picuki.com
 ||pigav.com
 ||pin-cong.com
 ||pin6.com
