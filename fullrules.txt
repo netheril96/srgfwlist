@@ -482,6 +482,7 @@
 ||wego.here.com
 ||gamer-cds.cdn.hinet.net
 ||gamer2-cds.cdn.hinet.net
+||grok.com
 ||hmoegirl.com
 ||hmvdigital.ca
 ||hmvdigital.com
@@ -2032,6 +2033,7 @@
 ||goagent.codeplex.com
 ||codeshare.io
 ||codeskulptor.org
+||cofacts.tw
 ||conoha.jp
 ||tosh.comedycentral.com
 ||comefromchina.com
