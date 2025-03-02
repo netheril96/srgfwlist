@@ -731,6 +731,7 @@
 ||picacomic.com
 ||pincong.rocks
 ||pixiv.net
+||pixiv.org
 ||pixivsketch.net
 ||potato.im
 ||premproxy.com
@@ -1147,7 +1148,7 @@
 ||deepmind.com
 ||deja.com
 ||digisfera.com
-||hub.docker.com
+||docker.com
 ||docs.new
 ||duck.com
 ||feedburner.com
@@ -1316,6 +1317,7 @@
 ||hk.news.yahoo.com
 ||tw.knowledge.yahoo.com
 ||tw.mall.yahoo.com
+||tw.yahoo.com
 ||tw.mobi.yahoo.com
 ||tw.news.yahoo.com
 ||search.yahoo.com
@@ -1421,6 +1423,8 @@
 ||9bis.com
 ||9bis.net
 ||9news.com.au
+||acg.rip
+||annas-archive.se
 ||tibet.a.se
 ||a-normal-day.com
 ||aamacau.com
@@ -1618,6 +1622,7 @@
 ||azerbaycan.tv
 ||azirevpn.com
 ||boxun*.azurewebsites.net
+||bangumi.moe
 ||b-ok.cc
 ||babylonbee.com
 ||backchina.com
@@ -1809,6 +1814,7 @@
 ||bwh1.net
 ||bx.tl
 ||bypasscensorship.org
+||ci-en.jp
 ||c-span.org
 ||c-spanvideo.org
 ||c-est-simple.com
@@ -2202,6 +2208,7 @@
 ||danbooru.donmai.us
 ||dontfilter.us
 ||dontmovetochina.com
+||doosho.com
 ||doourbest.org
 ||dorjeshugden.com
 ||dotplane.com
@@ -2364,6 +2371,9 @@
 ||eyevio.jp
 ||eyny.com
 ||ezpeer.com
+||fanbox.cc
+||free.bg
+||f-droid.org
 ||facebookquotes4u.com
 ||faceless.me
 ||facesoftibetanselfimmolators.info
@@ -2729,6 +2739,7 @@
 ||gvlib.com
 ||gyalwarinpoche.com
 ||gyatsostudio.com
+||hoy.tv
 ||h528.com
 ||h5dm.com
 ||h5galgame.me
@@ -3152,6 +3163,7 @@
 ||juziyue.com
 ||jwmusic.org
 ||jyxf.net
+||kpkuang.org
 ||k-doujin.net
 ||ka-wai.com
 ||kadokawa.co.jp
@@ -3346,6 +3358,7 @@
 ||lyfhk.net
 ||lzjscript.com
 ||lzmtnews.org
+||mangabz.com
 ||macrovpn.com
 ||mad-ar.ch
 ||madrau.com
@@ -3411,6 +3424,7 @@
 ||meripet.biz
 ||meripet.com
 ||merit-times.com.tw
+||wiki.metacubex.one
 ||metafilter.com
 ||meteorshowersonline.com
 ||metro.taipei
@@ -3548,6 +3562,7 @@
 ||myspacecdn.com
 ||mytalkbox.com
 ||mytizi.com
+||newthuhole.com
 ||naacoalition.org
 ||naitik.net
 ||nakido.com
@@ -3759,6 +3774,10 @@
 ||ozvoice.org
 ||ozxw.com
 ||ozyoyo.com
+||pendrivelinux.com
+||paimon.moe
+||photonmedia.net
+||points-media.com
 ||pachosting.com
 ||pacificpoker.com
 ||packetix.net
@@ -4117,6 +4136,7 @@
 ||rutracker.net
 ||ruyiseek.com
 ||rxhj.net
+||syosetu.com
 ||s1s1s1.com
 ||s-cute.com
 ||s-dragon.org
@@ -4433,6 +4453,9 @@
 ||sytes.net
 ||szbbs.net
 ||szetowah.org.hk
+||thechasernews.co.uk
+||hole.thu.monster
+||thuhole.com
 ||t-g.com
 ||t35.com
 ||t66y.com
@@ -5086,6 +5109,7 @@
 ||wikileaks.org
 ||wikileaks.pl
 ||wikileaks-forum.com
+||wilsoncenter.org
 ||williamhill.com
 ||collateralmurder.com
 ||collateralmurder.org
