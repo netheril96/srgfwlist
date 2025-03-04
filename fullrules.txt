@@ -398,6 +398,7 @@
 ||tenor.com
 ||teamexos.com
 ||techcrunch.com
+||zoominfo.com
 ||ptwxz.com
 ||miuipolska.pl
 ||piaotia.com
@@ -639,6 +640,7 @@
 ||zattoo.com
 ||zim.vn
 ||zozotown.com
+||xn--11xs86f.icu
 ||xn--4gq171p.com
 ||xn--czq75pvv1aj5c.org
 ||xn--i2ru8q2qg.com
@@ -1313,6 +1315,7 @@
 ||yahoo.com.hk
 ||yahoo.com
 ||duckduckgo-owned-server.yahoo.net
+||611study.com
 ||18comic.org
 ||000webhost.com
 ||030buy.com
@@ -1414,6 +1417,7 @@
 ||9bis.com
 ||9bis.net
 ||9news.com.au
+||akinator.com
 ||annas-archive.org
 ||av01.tv
 ||acg.rip
@@ -1559,10 +1563,12 @@
 ||aptoide.com
 ||archives.gov
 ||archive.fo
+||archive.vn
 ||archive.is
 ||archive.li
 ||archive.md
 ||archive.ph
+||archive.today
 ||archiveofourown.com
 ||archiveofourown.org
 ||arctosia.com
@@ -1615,6 +1621,9 @@
 ||azerbaycan.tv
 ||azirevpn.com
 ||boxun*.azurewebsites.net
+||blocktempo.com
+||blockcast.it
+||www.bing.com
 ||bangumi.moe
 ||b-ok.cc
 ||babylonbee.com
@@ -1711,7 +1720,6 @@
 ||blackvpn.com
 ||blinkx.com
 ||blip.tv
-||blockcast.it
 ||blockcn.com
 ||blockedbyhk.com
 ||blockless.com
@@ -1807,6 +1815,7 @@
 ||bwh1.net
 ||bx.tl
 ||bypasscensorship.org
+||crosswall.org
 ||clipconverter.cc
 ||zh-hans.cfsh99.com
 ||colacloud.net
@@ -2369,6 +2378,7 @@
 ||eyevio.jp
 ||eyny.com
 ||ezpeer.com
+||fril.jp
 ||free.com.tw
 ||fastgpt.run
 ||froth.zone
@@ -2741,6 +2751,7 @@
 ||gvlib.com
 ||gyalwarinpoche.com
 ||gyatsostudio.com
+||halktv.com.tr
 ||home.saxo
 ||hoy.tv
 ||h528.com
@@ -3100,6 +3111,7 @@
 ||gmozomg.izihost.org
 ||izles.net
 ||izlesem.org
+||jav321.com
 ||javdb.com
 ||jifangge.com
 ||j.mp
@@ -3170,6 +3182,7 @@
 ||juziyue.com
 ||jwmusic.org
 ||jyxf.net
+||kanald.com.tr
 ||kpkuang.org
 ||k-doujin.net
 ||ka-wai.com
@@ -3716,6 +3729,7 @@
 ||nydus.ca
 ||nzchinese.com
 ||nzchinese.net.nz
+||olelive.com
 ||oann.com
 ||obutu.com
 ||ocreampies.com
@@ -4149,6 +4163,8 @@
 ||rutracker.net
 ||ruyiseek.com
 ||rxhj.net
+||ssrshare.us
+||cdn.statically.io
 ||slides.com
 ||suno.com
 ||sydney.bing.com
@@ -4472,6 +4488,7 @@
 ||sytes.net
 ||szbbs.net
 ||szetowah.org.hk
+||tardigrade.io
 ||tomp3.cc
 ||tukaani.org
 ||thetatoken.org
@@ -5053,6 +5070,7 @@
 ||vrporn.com
 ||vtunnel.com
 ||vuku.cc
+||work2icu.org
 ||wikiless.funami.tech
 ||waffle1999.com
 ||wahas.com
@@ -5199,6 +5217,8 @@
 ||wuw.red
 ||wuyanblog.com
 ||wwitv.com
+||xt.com
+||xt.pub
 ||x.co
 ||x-berry.com
 ||x-art.com
@@ -5258,6 +5278,7 @@
 ||xxxfuckmom.com
 ||xxxx.com.au
 ||xxxymovies.com
+||storage.yandex.net
 ||y2mate.com
 ||yadi.sk
 ||yakbutterblues.com
