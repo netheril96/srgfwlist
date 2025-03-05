@@ -398,6 +398,7 @@
 ||tenor.com
 ||teamexos.com
 ||techcrunch.com
+||blogjav.net
 ||zoominfo.com
 ||ptwxz.com
 ||miuipolska.pl
@@ -1154,6 +1155,18 @@
 ||auntology.fandom.com
 ||hongkong.fandom.com
 ||ftchinese.com
+||doc.new
+||form.new
+||forms.new
+||sheet.new
+||sheets.new
+||spreadsheet.new
+||site.new
+||sites.new
+||website.new
+||slides.new
+||deck.new
+||presentation.new
 ||1e100.net
 ||466453.com
 ||abc.xyz
@@ -1234,8 +1247,6 @@
 ||schema.org
 ||shattered.io
 ||sipml5.org
-||sheets.new
-||slides.new
 ||snapseed.com
 ||synergyse.com
 ||teachparentstech.org
@@ -1343,6 +1354,7 @@
 ||wiktionary.org
 ||wikipedia.org
 ||wmfusercontent.org
+||shopping.yahoo.co.jp
 ||auctions.yahoo.co.jp
 ||blogs.yahoo.co.jp
 ||search.yahoo.co.jp
@@ -1350,6 +1362,7 @@
 ||yahoo.com.hk
 ||yahoo.com
 ||duckduckgo-owned-server.yahoo.net
+||2049bbs.xyz
 ||611study.com
 ||18comic.org
 ||000webhost.com
@@ -1633,7 +1646,6 @@
 ||atc.org.au
 ||atchinese.com
 ||atlaspost.com
-||atdmt.com
 ||atlanta168.com
 ||atnext.com
 ||audacy.com
@@ -1656,6 +1668,8 @@
 ||azerbaycan.tv
 ||azirevpn.com
 ||boxun*.azurewebsites.net
+||btbtt.me
+||btbtt.co
 ||btbit.net
 ||betaclouds.net
 ||blocktempo.com
@@ -1852,6 +1866,9 @@
 ||bwh1.net
 ||bx.tl
 ||bypasscensorship.org
+||cixiaoya.club
+||campaign-archive.com
+||chinauncensored.tv
 ||catbox.moe
 ||crosswall.org
 ||clipconverter.cc
@@ -2149,6 +2166,7 @@
 ||ifan.cz.cc
 ||mike.cz.cc
 ||nic.cz.cc
+||ddex.io
 ||d.cash
 ||doubiyunbackup.com
 ||cloud.dify.ai
@@ -2226,6 +2244,7 @@
 ||directcreative.com
 ||discuss.com.hk
 ||discuss4u.com
+||disp.cc
 ||disqus.com
 ||dit-inc.us
 ||diyin.org
@@ -2304,8 +2323,10 @@
 ||dynawebinc.com
 ||dysfz.cc
 ||dzze.com
+||edx-cdn.org
+||everipedia.org
 ||epochtimes.com.tw
-||cn.etherscan.com
+||etherscan.com
 ||elconfidencial.com
 ||e-classical.com.tw
 ||e-gold.com
@@ -2420,6 +2441,7 @@
 ||eyevio.jp
 ||eyny.com
 ||ezpeer.com
+||fuchsia.dev
 ||freess.org
 ||fril.jp
 ||free.com.tw
@@ -3004,6 +3026,7 @@
 ||hyperrate.com
 ||hypothes.is
 ||ebook.hyread.com.tw
+||invidio.us
 ||improd.works
 ||illawarramercury.com.au
 ||imago-images.com
@@ -3159,6 +3182,7 @@
 ||gmozomg.izihost.org
 ||izles.net
 ||izlesem.org
+||justmysockscn.com
 ||justmysocks.net
 ||jav321.com
 ||javdb.com
@@ -3231,6 +3255,7 @@
 ||juziyue.com
 ||jwmusic.org
 ||jyxf.net
+||kingkong.com.tw
 ||kanald.com.tr
 ||kpkuang.org
 ||k-doujin.net
@@ -3310,6 +3335,7 @@
 ||kyzyhello.com
 ||kzaobao.com
 ||kzeng.info
+||ltn.com.tw
 ||litenews.hk
 ||www.lorenzetti.com.br
 ||linktr.ee
@@ -3419,7 +3445,6 @@
 ||lsmchinese.org
 ||lsmkorean.org
 ||lsmwebcast.com
-||ltn.com.tw
 ||luckydesigner.space
 ||luke54.com
 ||luke54.org
@@ -3430,6 +3455,7 @@
 ||lyfhk.net
 ||lzjscript.com
 ||lzmtnews.org
+||mergersandinquisitions.com
 ||m.moegirl.org
 ||myjs.tw
 ||mercari.com
@@ -3643,6 +3669,7 @@
 ||myspacecdn.com
 ||mytalkbox.com
 ||mytizi.com
+||nightswatch.top
 ||nbyy.tv
 ||newthuhole.com
 ||naacoalition.org
@@ -3784,6 +3811,7 @@
 ||nydus.ca
 ||nzchinese.com
 ||nzchinese.net.nz
+||onevps.com
 ||onedrive.com
 ||olelive.com
 ||oann.com
@@ -3858,6 +3886,8 @@
 ||ozvoice.org
 ||ozxw.com
 ||ozyoyo.com
+||pandafan.pub
+||proxz.com
 ||potatso.com
 ||pendrivelinux.com
 ||paimon.moe
@@ -3944,18 +3974,7 @@
 ||pinimg.com
 ||pinkrod.com
 ||pinoy-n.com
-||pinterest.at
-||pinterest.ca
-||pinterest.co.kr
-||pinterest.co.uk
-||pinterest.com
-||pinterest.com.mx
-||pinterest.de
-||pinterest.dk
-||pinterest.fr
-||pinterest.jp
-||pinterest.nl
-||pinterest.se
+||pinterest.*
 ||pipii.tv
 ||piposay.com
 ||piring.com
@@ -4090,6 +4109,7 @@
 ||putihome.org
 ||pximg.net
 ||python.com.tw
+||qianmo.tw
 ||qanote.com
 ||qgirl.com.tw
 ||qianbai.tw
@@ -4220,8 +4240,13 @@
 ||rutracker.net
 ||ruyiseek.com
 ||rxhj.net
-||share-videos.se
+||ssrtool.com
 ||ssrshare.us
+||secure.shadowsocks.nu
+||synapse.org
+||south-plus.net
+||silvergatebank.com
+||share-videos.se
 ||cdn.statically.io
 ||slides.com
 ||suno.com
@@ -4353,6 +4378,7 @@
 ||silkbook.com
 ||simbolostwitter.com
 ||simplecd.org
+||simplecd.me
 ||magazines.sina.com.tw
 ||singaporepools.com.sg
 ||singfortibet.com
@@ -4545,6 +4571,8 @@
 ||sytes.net
 ||szbbs.net
 ||szetowah.org.hk
+||tunein.streamguys1.com
+||tou.tv
 ||tinyurl.com
 ||textnow.com
 ||token.im
@@ -4780,6 +4808,7 @@
 ||tngrnow.net
 ||tnp.org
 ||to-porno.com
+||togetter.com
 ||tokyo-247.com
 ||tokyo-hot.com
 ||tokyo-porn-tube.com
@@ -5027,6 +5056,8 @@
 ||uyghurstudies.org
 ||uyghurtribunal.com
 ||uymaarip.com
+||vilanet.me
+||vewas.net
 ||v2.help
 ||vocaroo.com
 ||vern.cc
