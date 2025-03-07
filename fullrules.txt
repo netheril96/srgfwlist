@@ -1362,6 +1362,7 @@
 ||yahoo.com.hk
 ||yahoo.com
 ||duckduckgo-owned-server.yahoo.net
+||69shuba.cx
 ||2049bbs.xyz
 ||611study.com
 ||18comic.org
@@ -2420,7 +2421,7 @@
 ||etizer.org
 ||etokki.com
 ||etsy.com
-||*.ettoday.net
+||ettoday.net
 ||eucasino.com
 ||eulam.com
 ||eurekavpt.com
@@ -2491,8 +2492,8 @@
 ||fanswong.com
 ||fanyue.info
 ||farwestchina.com
-||*.global.ssl.fastly.net
-||*.freetls.fastly.net
+||global.ssl.fastly.net
+||freetls.fastly.net
 ||nytimes.map.fastly.net
 ||fast.wistia.com
 ||fastestvpn.com
@@ -5252,7 +5253,6 @@
 ||collateralmurder.org
 ||wikimapia.org
 ||wikiwand.com
-||wikiwiki.jp
 ||willw.net
 ||windowsphoneme.com
 ||windscribe.com
