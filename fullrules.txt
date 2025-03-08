@@ -3456,6 +3456,7 @@
 ||lyfhk.net
 ||lzjscript.com
 ||lzmtnews.org
+||musixmatch.com
 ||mergersandinquisitions.com
 ||m.moegirl.org
 ||myjs.tw
