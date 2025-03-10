@@ -571,7 +571,7 @@
 ||omni7.jp
 ||onapp.com
 ||ontrac.com
-||openai.com
+||chat.openai.com
 ||pandora.com
 ||pandora.tv
 ||parkansky.com
@@ -596,7 +596,7 @@
 ||sm-miracle.com
 ||softnology.biz
 ||soylentnews.org
-||spotify.com
+||open.spotify.com
 ||spreadshirt.es
 ||springboardplatform.com
 ||sprite.org
