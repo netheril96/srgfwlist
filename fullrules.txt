@@ -702,7 +702,6 @@
 ||encyclopedia.com
 ||fangeqiang.com
 ||fanqiangdang.com
-||feedly.comfastgpt.run
 ||feedx.net
 ||flyzy2005.com
 ||foreignpolicy.com
@@ -1362,6 +1361,7 @@
 ||yahoo.com.hk
 ||yahoo.com
 ||duckduckgo-owned-server.yahoo.net
+||2047.one
 ||69shuba.cx
 ||2049bbs.xyz
 ||611study.com
@@ -1669,6 +1669,7 @@
 ||azerbaycan.tv
 ||azirevpn.com
 ||boxun*.azurewebsites.net
+||bearteach.com
 ||btbtt.me
 ||btbtt.co
 ||btbit.net
@@ -1867,6 +1868,9 @@
 ||bwh1.net
 ||bx.tl
 ||bypasscensorship.org
+||cachefly.com
+||cachefly.net
+||cutout.pro
 ||cixiaoya.club
 ||campaign-archive.com
 ||chinauncensored.tv
@@ -2442,6 +2446,8 @@
 ||eyevio.jp
 ||eyny.com
 ||ezpeer.com
+||factchecklab.org
+||ft.com
 ||fuchsia.dev
 ||freess.org
 ||fril.jp
@@ -2645,6 +2651,8 @@
 ||fuyu.org.tw
 ||fw.cm
 ||fxcm-chinese.com
+||getsession.org
+||gdaily.org
 ||gfwatch.org
 ||go-to-zlibrary.se
 ||g6hentai.com
@@ -3671,6 +3679,7 @@
 ||myspacecdn.com
 ||mytalkbox.com
 ||mytizi.com
+||netlify.app
 ||nightswatch.top
 ||nbyy.tv
 ||newthuhole.com
@@ -4242,6 +4251,7 @@
 ||rutracker.net
 ||ruyiseek.com
 ||rxhj.net
+||soundon.fm
 ||ssrtool.com
 ||ssrshare.us
 ||secure.shadowsocks.nu
@@ -4573,6 +4583,7 @@
 ||sytes.net
 ||szbbs.net
 ||szetowah.org.hk
+||tg-me.com
 ||twkan.com
 ||tunein.streamguys1.com
 ||tou.tv
@@ -4681,7 +4692,6 @@
 ||thehindu.com
 ||thehun.net
 ||theinitium.com
-||themoviedb.org
 ||thenewslens.com
 ||thepiratebay.org
 ||theporndude.com
@@ -5313,6 +5323,7 @@
 ||wuw.red
 ||wuyanblog.com
 ||wwitv.com
+||x.ai
 ||xt.com
 ||xt.pub
 ||x.co
