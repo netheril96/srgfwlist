@@ -673,6 +673,7 @@
 ||xn--oiq.cc
 ||xn--p8j9a0d9c9a.xn--q9jyb4c
 ||xn--9pr62r24a.com
+||xn--ngstr-lra8j.com
 ||abebooks.com
 ||43110.cf
 ||agro.hk
@@ -1267,7 +1268,6 @@
 ||widevine.com
 ||withyoutube.com
 ||x.company
-||xn--ngstr-lra8j.com
 ||youtu.be
 ||youtube-nocookie.com
 ||youtubeeducation.com
@@ -1466,6 +1466,7 @@
 ||9bis.com
 ||9bis.net
 ||9news.com.au
+||aomedia.org
 ||akinator.com
 ||annas-archive.org
 ||av01.tv
