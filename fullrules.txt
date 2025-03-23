@@ -1096,6 +1096,9 @@
 ||yourtrap.com
 ||zyns.com
 ||zzux.com
+||1.1.1.1
+||1.0.0.1
+||one.one.one.one
 ||3d-game.com
 ||4irc.com
 ||b0ne.com
