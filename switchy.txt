@@ -1,4 +1,3 @@
-ai.dev +proxy
 *.1point3acres.com +proxy
 *.8v.com +proxy
 *.9gag.com +proxy
@@ -336,3 +335,4 @@ ai.dev +proxy
 *.zdassets.com +proxy
 *.zhongan.io +proxy
 *.zmk.pw +proxy
+ai.dev +proxy

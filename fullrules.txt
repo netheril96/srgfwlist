@@ -327,6 +327,7 @@
 ||zdassets.com
 ||zhongan.io
 ||zmk.pw
+||ai.dev
 ||ycombinator.com
 ||bitcointalk.org
 ||2miners.com
