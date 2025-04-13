@@ -1101,6 +1101,7 @@
 ||1.1.1.1
 ||1.0.0.1
 ||one.one.one.one
+||cloudflare-dns.com
 ||3d-game.com
 ||4irc.com
 ||b0ne.com
@@ -2453,6 +2454,8 @@
 ||eyevio.jp
 ||eyny.com
 ||ezpeer.com
+||fani.com
+||favcomic.com
 ||factchecklab.org
 ||ft.com
 ||fuchsia.dev
@@ -2830,6 +2833,7 @@
 ||gvlib.com
 ||gyalwarinpoche.com
 ||gyatsostudio.com
+||h-ciyuan.com
 ||halktv.com.tr
 ||home.saxo
 ||hoy.tv
@@ -3466,6 +3470,7 @@
 ||lyfhk.net
 ||lzjscript.com
 ||lzmtnews.org
+||manwa.me
 ||musixmatch.com
 ||mergersandinquisitions.com
 ||m.moegirl.org
@@ -4255,6 +4260,8 @@
 ||rutracker.net
 ||ruyiseek.com
 ||rxhj.net
+||ssm.fun
+||sotwe.com
 ||soundon.fm
 ||ssrtool.com
 ||ssrshare.us
@@ -4587,6 +4594,7 @@
 ||sytes.net
 ||szbbs.net
 ||szetowah.org.hk
+||thotsbay.tv
 ||tg-me.com
 ||twkan.com
 ||tunein.streamguys1.com
