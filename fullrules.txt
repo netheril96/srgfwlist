@@ -11,11 +11,13 @@
 ||ad-delivery.net
 ||addons.mozilla.org
 ||addthis.com
+||adsninja.ca
 ||agriculture.com
 ||aicoin.com
 ||akamaihd.net
 ||akamaized.net
 ||aljazeera.com
+||alpinelinux.org
 ||amazon-adsystem.com
 ||amazon.com
 ||amazonaws.com
@@ -76,6 +78,7 @@
 ||cryptopp.com
 ||cryptotradingcafe.com
 ||dailymotion.com
+||dailywire.com
 ||dealmoon.co.uk
 ||deepai.org
 ||defidaonews.com
@@ -88,6 +91,7 @@
 ||domp4.net
 ||doubleclick.net
 ||downloadhelper.net
+||dy2018.com
 ||dydx.exchange
 ||dyncdn.me
 ||eastday.com
@@ -114,8 +118,11 @@
 ||fsdn.com
 ||fx168news.com
 ||fxempire.com
+||gamerantimages.com
 ||gamespot.com
+||gginsights.io
 ||gitbook.io
+||githack.com
 ||github.community
 ||githubassets.com
 ||go.com
@@ -131,6 +138,7 @@
 ||htx.com
 ||huggingface.co
 ||hysteria.network
+||ibb.co
 ||ibkr.com
 ||ibytedtos.com
 ||iconcardinal.com
@@ -188,6 +196,7 @@
 ||n26.com
 ||neoseeker.com
 ||newrepublic.com
+||nexus-cdn.com
 ||nexusmods.com
 ||nhri.org.tw
 ||nicehash.com
@@ -244,6 +253,8 @@
 ||segment.com
 ||segmentnextimages.com
 ||shuzijumin.com
+||simgbb.com
+||slate.com
 ||smileunionpay.com
 ||soupian.app
 ||sqlitetutorial.net
@@ -261,9 +272,11 @@
 ||stripe.com
 ||substack.com
 ||supergorand.cloud
+||supremecourt.gov
 ||tangibleabstraction.com
 ||techhive.com
 ||techtaalk.com
+||telegram.org +TCP
 ||telegramgroup.org
 ||thefederalist.com
 ||thegamerimages.com
@@ -305,6 +318,7 @@
 ||v82u1l.com
 ||valuerstarringarmistice.com
 ||venus7202.com
+||vox.com
 ||vulkk.com
 ||walletconnect.com
 ||walletconnect.org
@@ -317,6 +331,7 @@
 ||wikihow.com
 ||winfsp.dev
 ||wpadmngr.com
+||x.ai
 ||x.com
 ||xiaoxintv.net
 ||xposed.info
@@ -2731,7 +2746,6 @@
 ||girlbanker.com
 ||git.io
 ||softwaredownload.gitbooks.io
-||raw.githack.com
 ||githubcopilot.com
 ||github.io
 ||gizlen.net
@@ -5328,7 +5342,6 @@
 ||wuw.red
 ||wuyanblog.com
 ||wwitv.com
-||x.ai
 ||xt.com
 ||xt.pub
 ||x.co
