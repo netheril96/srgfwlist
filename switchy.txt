@@ -1,3 +1,27 @@
+*.alpinelinux.org +proxy
+*.githack.com +proxy
+*.x.ai +proxy
+*.dailywire.com +proxy
+*.supremecourt.gov +proxy
+*.ibb.co +proxy
+*.simgbb.com +proxy
+*.gginsights.io +proxy
+*.dy2018.com +proxy
+*.vox.com +proxy
+*.adsninja.ca +proxy
+*.gamerantimages.com +proxy
+*.nexus-cdn.com +proxy
+*.slate.com +proxy
+*.insiderpaper.com +proxy
+*.remarkablycommunity.com +proxy
+*.magnetdl.hair +proxy
+*.bitsearch.to +proxy
+*.btzj.net +proxy
+*.btjia.com +proxy
+*.lmarena.ai +proxy
+*.telegram.org +TCP
+*.amazonaws.com +proxy
+
 *.1point3acres.com +proxy
 *.8v.com +proxy
 *.9gag.com +proxy
