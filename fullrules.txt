@@ -588,7 +588,6 @@
 ||onapp.com
 ||ontrac.com
 ||chat.openai.com
-||auth.openai.com
 ||pandora.com
 ||pandora.tv
 ||parkansky.com
@@ -1113,10 +1112,6 @@
 ||yourtrap.com
 ||zyns.com
 ||zzux.com
-||1.1.1.1
-||1.0.0.1
-||one.one.one.one
-||cloudflare-dns.com
 ||3d-game.com
 ||4irc.com
 ||b0ne.com
@@ -1487,7 +1482,6 @@
 ||9bis.com
 ||9bis.net
 ||9news.com.au
-||audiomack.com
 ||aomedia.org
 ||akinator.com
 ||annas-archive.org
@@ -2468,8 +2462,6 @@
 ||eyevio.jp
 ||eyny.com
 ||ezpeer.com
-||fani.com
-||favcomic.com
 ||factchecklab.org
 ||ft.com
 ||fuchsia.dev
@@ -2524,15 +2516,19 @@
 ||global.ssl.fastly.net
 ||freetls.fastly.net
 ||nytimes.map.fastly.net
+||fast.wistia.com
 ||fastestvpn.com
 ||fastssh.com
 ||faststone.org
-||faydao.com
+||favstar.fm
 ||faz.net
+||fc2.com
+||fc2china.com
 ||fc2cn.com
 ||uygur.fc2web.com
 ||fdc64.de
 ||fdc64.org
+||fdc89.jp
 ||fourface.nodesnoop.com
 ||feeder.co
 ||feelssh.com
@@ -2797,6 +2793,7 @@
 ||gopetition.com
 ||goproxing.net
 ||goreforum.com
+||gotquestions.org
 ||gotrusted.com
 ||gotw.ca
 ||grammaly.com
@@ -2846,7 +2843,6 @@
 ||gvlib.com
 ||gyalwarinpoche.com
 ||gyatsostudio.com
-||h-ciyuan.com
 ||halktv.com.tr
 ||home.saxo
 ||hoy.tv
@@ -3084,6 +3080,7 @@
 ||identi.ca
 ||idiomconnection.com
 ||www.idlcoyote.com
+||idope.se
 ||idouga.com
 ||idreamx.com
 ||idv.tw
@@ -3484,7 +3481,6 @@
 ||lzjscript.com
 ||lzmtnews.org
 ||news.mt.co.kr
-||manwa.me
 ||musixmatch.com
 ||mergersandinquisitions.com
 ||m.moegirl.org
@@ -3700,6 +3696,7 @@
 ||myspacecdn.com
 ||mytalkbox.com
 ||mytizi.com
+||nodeloc.com
 ||netlify.app
 ||nightswatch.top
 ||nbyy.tv
@@ -3843,7 +3840,6 @@
 ||nydus.ca
 ||nzchinese.com
 ||nzchinese.net.nz
-||opendesktop.org
 ||onevps.com
 ||onedrive.com
 ||olelive.com
@@ -4167,7 +4163,6 @@
 ||quran.com
 ||quranexplorer.com
 ||qvodzy.org
-||rutracker.org
 ||r0.ru
 ||radio-canada.ca
 ||radio-en-ligne.fr
@@ -4273,10 +4268,9 @@
 ||rusvpn.com
 ||ruten.com.tw
 ||rutracker.net
+||rutracker.org
 ||ruyiseek.com
 ||rxhj.net
-||ssm.fun
-||sotwe.com
 ||soundon.fm
 ||ssrtool.com
 ||ssrshare.us
@@ -4577,6 +4571,7 @@
 ||strongwindpress.com
 ||studentsforafreetibet.org
 ||stumbleupon.com
+||subhd.tv
 ||successfn.com
 ||sugarsync.com
 ||sugobbs.com
@@ -4609,7 +4604,7 @@
 ||sytes.net
 ||szbbs.net
 ||szetowah.org.hk
-||thotsbay.tv
+||threads.com
 ||tg-me.com
 ||twkan.com
 ||tunein.streamguys1.com
