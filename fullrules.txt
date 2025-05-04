@@ -587,7 +587,7 @@
 ||omni7.jp
 ||onapp.com
 ||ontrac.com
-||chat.openai.com
+||openai.com
 ||pandora.com
 ||pandora.tv
 ||parkansky.com
@@ -612,7 +612,7 @@
 ||sm-miracle.com
 ||softnology.biz
 ||soylentnews.org
-||open.spotify.com
+||spotify.com
 ||spreadshirt.es
 ||springboardplatform.com
 ||sprite.org
@@ -1302,6 +1302,9 @@
 ||nytimg.com
 ||nytstyle.com
 ||steamcommunity.com
+||tx.me
+||tg.dev
+||telega.one
 ||cdn-telegram.org
 ||comments.app
 ||graph.org
@@ -2188,6 +2191,7 @@
 ||ifan.cz.cc
 ||mike.cz.cc
 ||nic.cz.cc
+||disneyplus.com
 ||ddex.io
 ||d.cash
 ||doubiyunbackup.com
@@ -2462,6 +2466,7 @@
 ||eyevio.jp
 ||eyny.com
 ||ezpeer.com
+||fast.com
 ||factchecklab.org
 ||ft.com
 ||fuchsia.dev
@@ -2843,6 +2848,7 @@
 ||gvlib.com
 ||gyalwarinpoche.com
 ||gyatsostudio.com
+||hanime1.me
 ||halktv.com.tr
 ||home.saxo
 ||hoy.tv
@@ -3480,6 +3486,7 @@
 ||lyfhk.net
 ||lzjscript.com
 ||lzmtnews.org
+||missav.ws
 ||news.mt.co.kr
 ||musixmatch.com
 ||mergersandinquisitions.com
@@ -4271,6 +4278,7 @@
 ||rutracker.org
 ||ruyiseek.com
 ||rxhj.net
+||simplex.chat
 ||soundon.fm
 ||ssrtool.com
 ||ssrshare.us
@@ -4604,6 +4612,7 @@
 ||sytes.net
 ||szbbs.net
 ||szetowah.org.hk
+||tellapart.com
 ||threads.com
 ||tg-me.com
 ||twkan.com
@@ -5472,6 +5481,7 @@
 ||yyjlymb.xyz
 ||yysub.net
 ||yzzk.com
+||zodgame.xyz
 ||zhongzidi.com
 ||zooqle.com
 ||z-lib.io
