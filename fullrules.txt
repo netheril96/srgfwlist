@@ -1112,6 +1112,8 @@
 ||yourtrap.com
 ||zyns.com
 ||zzux.com
+||workers.dev
+||one.one.one.one
 ||3d-game.com
 ||4irc.com
 ||b0ne.com
@@ -1380,6 +1382,8 @@
 ||yahoo.com.hk
 ||yahoo.com
 ||duckduckgo-owned-server.yahoo.net
+||i.111666.best
+||1lib.sk
 ||2047.one
 ||69shuba.cx
 ||2049bbs.xyz
@@ -2191,6 +2195,7 @@
 ||ifan.cz.cc
 ||mike.cz.cc
 ||nic.cz.cc
+||docker.io
 ||disneyplus.com
 ||ddex.io
 ||d.cash
@@ -2671,6 +2676,7 @@
 ||fuyu.org.tw
 ||fw.cm
 ||fxcm-chinese.com
+||gmp4.com
 ||getsession.org
 ||gdaily.org
 ||gfwatch.org
@@ -3922,6 +3928,7 @@
 ||ozvoice.org
 ||ozxw.com
 ||ozyoyo.com
+||puredns.org
 ||pandafan.pub
 ||proxz.com
 ||potatso.com
@@ -4146,6 +4153,7 @@
 ||putihome.org
 ||pximg.net
 ||python.com.tw
+||qmp4.com
 ||qianmo.tw
 ||qanote.com
 ||qgirl.com.tw
@@ -4170,6 +4178,7 @@
 ||quran.com
 ||quranexplorer.com
 ||qvodzy.org
+||rule34video.com
 ||r0.ru
 ||radio-canada.ca
 ||radio-en-ligne.fr
@@ -4612,6 +4621,7 @@
 ||sytes.net
 ||szbbs.net
 ||szetowah.org.hk
+||rtm.tnt-ea.com
 ||tellapart.com
 ||threads.com
 ||tg-me.com
@@ -5327,7 +5337,6 @@
 ||workatruna.com
 ||workerdemo.org.hk
 ||workerempowerment.org
-||workers.dev
 ||workersthebig.net
 ||worldcat.org
 ||worldvpn.net
@@ -5481,6 +5490,11 @@
 ||yyjlymb.xyz
 ||yysub.net
 ||yzzk.com
+||z-library.sk
+||z-lib.fm
+||z-lib.gd
+||z-lib.gl
+||z-lib.fo
 ||zodgame.xyz
 ||zhongzidi.com
 ||zooqle.com
