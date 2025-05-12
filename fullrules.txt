@@ -3709,6 +3709,10 @@
 ||myspacecdn.com
 ||mytalkbox.com
 ||mytizi.com
+||nikke.hotcool.tw
+||nikke-kr.com
+||nikke-jp.com
+||nikke-en.com
 ||nodeloc.com
 ||netlify.app
 ||nightswatch.top
