@@ -1322,6 +1322,7 @@
 ||telegramdownload.com
 ||telegra.ph
 ||telesco.pe
+||tiktokcdn-eu.com
 ||jtvnw.net
 ||ttvnw.net
 ||twitch.tv
@@ -3372,6 +3373,8 @@
 ||kyzyhello.com
 ||kzaobao.com
 ||kzeng.info
+||ldplayer.tw
+||ldplayer.net
 ||ltn.com.tw
 ||litenews.hk
 ||www.lorenzetti.com.br
@@ -3709,6 +3712,7 @@
 ||myspacecdn.com
 ||mytalkbox.com
 ||mytizi.com
+||bbs.naixi.net
 ||nikke.hotcool.tw
 ||nikke-kr.com
 ||nikke-jp.com
