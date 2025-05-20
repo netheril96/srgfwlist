@@ -428,6 +428,7 @@
 ||airitilibrary.com
 ||akiba-web.com
 ||altrec.com
+||amazonvideo.com
 ||angela-merkel.de
 ||angola.org
 ||anthropic.com
@@ -435,6 +436,7 @@
 ||apartments.com
 ||arena.taipei
 ||asianspiss.com
+||assets.bwbx.io
 ||assimp.org
 ||athenaeizou.com
 ||azubu.tv
@@ -536,6 +538,8 @@
 ||lih.kg
 ||longtoes.com
 ||lovetvshow.com
+||lpsg.com
+||lrfz.com
 ||www.m-sport.co.uk
 ||macgamestore.com
 ||madonna-av.com
@@ -595,6 +599,8 @@
 ||*.pimg.tw
 ||podcast.co
 ||popai.pro
+||primevideo.com
+||proyectoclubes.com
 ||pure18.com
 ||pytorch.org
 ||qq.co.za
@@ -1811,7 +1817,6 @@
 ||bloglovin.com
 ||blogtd.org
 ||bloodshed.net
-||assets.bwbx.io
 ||bloomfortune.com
 ||blubrry.com
 ||bmdru.com
@@ -3477,8 +3482,6 @@
 ||looktoronto.com
 ||lotuslight.org.hk
 ||lotuslight.org.tw
-||lpsg.com
-||lrfz.com
 ||lrip.org
 ||lsd.org.hk
 ||lsm.org
@@ -4138,7 +4141,6 @@
 ||proxylist.org.uk
 ||proxypy.net
 ||proxytunnel.net
-||proyectoclubes.com
 ||psblog.name
 ||pshvpn.com
 ||psiphon.ca
