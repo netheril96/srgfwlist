@@ -796,6 +796,7 @@
 ||qz.com
 ||cdn.seatguru.com
 ||secure.raxcdn.com
+||reddithelp.com
 ||redditlist.com
 ||redditstatic.com
 ||rixcloud.com
@@ -3720,7 +3721,7 @@
 ||nikke-kr.com
 ||nikke-jp.com
 ||nikke-en.com
-||nodeloc.com
+||www.nodeloc.com
 ||netlify.app
 ||nightswatch.top
 ||nbyy.tv
