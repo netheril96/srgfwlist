@@ -1,4 +1,25 @@
-
+*.19950817.xyz +proxy
+*.domp4.icu +proxy
+*.idrlabs.com +proxy
+*.gitter.im +proxy
+*.torrindex.net +proxy
+*.apibay.org +proxy
+*.unhappyweakness.com +proxy
+*.pcgamer.com +proxy
+*.amazon-adsystem.com +proxy
+*.polygon.com +proxy
+*.opencollective.com +proxy
+*.bluestacks.com +proxy
+*.max.com +proxy
+*.videolan.org +proxy
+*.man7.org +proxy
+*.redditspace.com +proxy
+*.docker.io +proxy
+*.boost.org +proxy
+*.redd.it +proxy
+*.redditmedia.com +proxy
+*.rclone.org +proxy
+*.cloudfareinsights.com +proxy
 *.1point3acres.com +proxy
 *.8v.com +proxy
 *.9gag.com +proxy
