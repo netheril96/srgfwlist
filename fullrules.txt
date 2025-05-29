@@ -4,6 +4,7 @@
 @@||rsy.duckdns.org
 @@||rsyhome.duckdns.org
 
+||19950817.xyz
 ||1point3acres.com
 ||8v.com
 ||9gag.com
@@ -23,6 +24,7 @@
 ||amazonaws.com
 ||amd.com
 ||analyticsvidhya.com
+||apibay.org
 ||apnic.net
 ||arbitrum.io
 ||arbitrum.one
@@ -41,7 +43,9 @@
 ||bitsearch.to
 ||blockchain.com
 ||blogspot.com
+||bluestacks.com
 ||bollenhurkle.com
+||boost.org
 ||bootstrapcdn.com
 ||breitbart.com
 ||bt-tt.cc
@@ -59,6 +63,7 @@
 ||changelly.com
 ||chartbeat.com
 ||chinaq.tv
+||cloudfareinsights.com
 ||cloudflare-eth.com
 ||cloudflare.com
 ||cms-twdigitalassets.com
@@ -88,6 +93,8 @@
 ||discord.gg
 ||disney.io
 ||dmit.io
+||docker.io
+||domp4.icu
 ||domp4.net
 ||doubleclick.net
 ||downloadhelper.net
@@ -125,6 +132,7 @@
 ||githack.com
 ||github.community
 ||githubassets.com
+||gitter.im
 ||go.com
 ||gresearch.com
 ||gstatic.com
@@ -144,6 +152,7 @@
 ||iconcardinal.com
 ||idev.dev
 ||idgesg.net
+||idrlabs.com
 ||immd.gov.hk
 ||infinitywallet.io
 ||infoworld.com
@@ -180,8 +189,10 @@
 ||magnetdl.com
 ||magnetdl.hair
 ||maketecheasier.com
+||man7.org
 ||mapgenie.io
 ||marketo.com
+||max.com
 ||mdpi.com
 ||media-amazon.com
 ||megpxs.com
@@ -215,9 +226,11 @@
 ||onlyguides.com
 ||ooni.org
 ||op.gg
+||opencollective.com
 ||orlandoweekly.com
 ||outbrain.com
 ||pancakeswap.finance
+||pcgamer.com
 ||pcgamesn.com
 ||photoup.net
 ||piratebayproxy.info
@@ -227,6 +240,7 @@
 ||poe.com
 ||poecdn.net
 ||politico.eu
+||polygon.com
 ||polymarket.com
 ||postimg.cc
 ||postimgs.org
@@ -238,6 +252,7 @@
 ||rakuten.co.jp
 ||ramnode.com
 ||rarbg.to
+||rclone.org
 ||redd.it
 ||reddit.com
 ||redditmedia.com
@@ -294,6 +309,7 @@
 ||torrends.to
 ||torrentgalaxy.to
 ||torrentseeker.com
+||torrindex.net
 ||townhall.com
 ||transak.com
 ||transmissionbt.com
@@ -307,6 +323,7 @@
 ||uchicago.edu
 ||ufuk.edu.tr
 ||unecne.com
+||unhappyweakness.com
 ||uniswap.org
 ||unpkg.com
 ||upi.com
@@ -318,6 +335,7 @@
 ||v82u1l.com
 ||valuerstarringarmistice.com
 ||venus7202.com
+||videolan.org
 ||vox.com
 ||vulkk.com
 ||walletconnect.com
@@ -2202,7 +2220,6 @@
 ||ifan.cz.cc
 ||mike.cz.cc
 ||nic.cz.cc
-||docker.io
 ||disneyplus.com
 ||ddex.io
 ||d.cash

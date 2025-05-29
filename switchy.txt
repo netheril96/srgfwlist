@@ -1,25 +1,4 @@
 *.19950817.xyz +proxy
-*.domp4.icu +proxy
-*.idrlabs.com +proxy
-*.gitter.im +proxy
-*.torrindex.net +proxy
-*.apibay.org +proxy
-*.unhappyweakness.com +proxy
-*.pcgamer.com +proxy
-*.amazon-adsystem.com +proxy
-*.polygon.com +proxy
-*.opencollective.com +proxy
-*.bluestacks.com +proxy
-*.max.com +proxy
-*.videolan.org +proxy
-*.man7.org +proxy
-*.redditspace.com +proxy
-*.docker.io +proxy
-*.boost.org +proxy
-*.redd.it +proxy
-*.redditmedia.com +proxy
-*.rclone.org +proxy
-*.cloudfareinsights.com +proxy
 *.1point3acres.com +proxy
 *.8v.com +proxy
 *.9gag.com +proxy
@@ -39,6 +18,7 @@
 *.amazonaws.com +proxy
 *.amd.com +proxy
 *.analyticsvidhya.com +proxy
+*.apibay.org +proxy
 *.apnic.net +proxy
 *.arbitrum.io +proxy
 *.arbitrum.one +proxy
@@ -57,7 +37,9 @@
 *.bitsearch.to +proxy
 *.blockchain.com +proxy
 *.blogspot.com +proxy
+*.bluestacks.com +proxy
 *.bollenhurkle.com +proxy
+*.boost.org +proxy
 *.bootstrapcdn.com +proxy
 *.breitbart.com +proxy
 *.bt-tt.cc +proxy
@@ -75,6 +57,7 @@
 *.changelly.com +proxy
 *.chartbeat.com +proxy
 *.chinaq.tv +proxy
+*.cloudfareinsights.com +proxy
 *.cloudflare-eth.com +proxy
 *.cloudflare.com +proxy
 *.cms-twdigitalassets.com +proxy
@@ -105,6 +88,8 @@
 *.discord.gg +proxy
 *.disney.io +proxy
 *.dmit.io +proxy
+*.docker.io +proxy
+*.domp4.icu +proxy
 *.domp4.net +proxy
 *.doubleclick.net +proxy
 *.downloadhelper.net +proxy
@@ -142,6 +127,7 @@
 *.githack.com +proxy
 *.github.community +proxy
 *.githubassets.com +proxy
+*.gitter.im +proxy
 *.go.com +proxy
 *.google-analytics.com +proxy
 *.google.com +proxy
@@ -166,6 +152,7 @@
 *.iconcardinal.com +proxy
 *.idev.dev +proxy
 *.idgesg.net +proxy
+*.idrlabs.com +proxy
 *.immd.gov.hk +proxy
 *.infinitywallet.io +proxy
 *.infoworld.com +proxy
@@ -204,8 +191,10 @@
 *.magnetdl.com +proxy
 *.magnetdl.hair +proxy
 *.maketecheasier.com +proxy
+*.man7.org +proxy
 *.mapgenie.io +proxy
 *.marketo.com +proxy
+*.max.com +proxy
 *.mdpi.com +proxy
 *.media-amazon.com +proxy
 *.megpxs.com +proxy
@@ -240,9 +229,11 @@
 *.onlyguides.com +proxy
 *.ooni.org +proxy
 *.op.gg +proxy
+*.opencollective.com +proxy
 *.orlandoweekly.com +proxy
 *.outbrain.com +proxy
 *.pancakeswap.finance +proxy
+*.pcgamer.com +proxy
 *.pcgamesn.com +proxy
 *.photoup.net +proxy
 *.piratebayproxy.info +proxy
@@ -252,6 +243,7 @@
 *.poe.com +proxy
 *.poecdn.net +proxy
 *.politico.eu +proxy
+*.polygon.com +proxy
 *.polymarket.com +proxy
 *.postimg.cc +proxy
 *.postimgs.org +proxy
@@ -263,6 +255,7 @@
 *.rakuten.co.jp +proxy
 *.ramnode.com +proxy
 *.rarbg.to +proxy
+*.rclone.org +proxy
 *.redd.it +proxy
 *.reddit.com +proxy
 *.redditmedia.com +proxy
@@ -323,6 +316,7 @@
 *.torrends.to +proxy
 *.torrentgalaxy.to +proxy
 *.torrentseeker.com +proxy
+*.torrindex.net +proxy
 *.townhall.com +proxy
 *.transak.com +proxy
 *.transmissionbt.com +proxy
@@ -336,6 +330,7 @@
 *.uchicago.edu +proxy
 *.ufuk.edu.tr +proxy
 *.unecne.com +proxy
+*.unhappyweakness.com +proxy
 *.uniswap.org +proxy
 *.unpkg.com +proxy
 *.upi.com +proxy
@@ -347,6 +342,7 @@
 *.v82u1l.com +proxy
 *.valuerstarringarmistice.com +proxy
 *.venus7202.com +proxy
+*.videolan.org +proxy
 *.vox.com +proxy
 *.vulkk.com +proxy
 *.walletconnect.com +proxy
