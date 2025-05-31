@@ -1719,6 +1719,7 @@
 ||azerbaycan.tv
 ||azirevpn.com
 ||boxun*.azurewebsites.net
+||blackmagicdesign.com
 ||bearteach.com
 ||btbtt.me
 ||btbtt.co
