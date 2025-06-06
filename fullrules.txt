@@ -1409,6 +1409,7 @@
 ||yahoo.com.hk
 ||yahoo.com
 ||duckduckgo-owned-server.yahoo.net
+||91dasai.com
 ||i.111666.best
 ||1lib.sk
 ||2047.one
