@@ -33,6 +33,7 @@
 ||arstechnica.net
 ||asus.com
 ||axosbank.com
+||backpack.exchange
 ||bandainamcoent.eu
 ||bet365.com
 ||bigbrain.gg
@@ -57,6 +58,7 @@
 ||bttt11.com
 ||btzj.net
 ||bytedapm.com
+||c.gle
 ||caddyserver.com
 ||canonical.com
 ||cex.io
@@ -66,6 +68,7 @@
 ||cloudfareinsights.com
 ||cloudflare-eth.com
 ||cloudflare.com
+||cmake.org
 ||cms-twdigitalassets.com
 ||cnn.com
 ||coinbase.com
@@ -91,6 +94,7 @@
 ||dilcdn.com
 ||discord.com
 ||discord.gg
+||discourse-cdn.com
 ||disney.io
 ||dmit.io
 ||docker.io
@@ -180,11 +184,13 @@
 ||letsencrypt.org
 ||lifecell.ua
 ||linuxcapable.com
+||llli.org
 ||lmarena.ai
 ||loanspq.com
 ||localcard.hk
 ||localizeapi.com
 ||loldytt.com
+||long2ice.io
 ||macrumors.com
 ||magnetdl.com
 ||magnetdl.hair
