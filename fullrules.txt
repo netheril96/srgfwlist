@@ -1926,6 +1926,7 @@
 ||bwh1.net
 ||bx.tl
 ||bypasscensorship.org
+||cpu-monkey.com
 ||coffeemanga.to
 ||ctinews.com
 ||cachefly.com
@@ -3092,7 +3093,6 @@
 ||hutianyi.net
 ||hwadzan.tw
 ||hwayue.org.tw
-||hwinfo.com
 ||hxwk.org
 ||hyperrate.com
 ||hypothes.is
