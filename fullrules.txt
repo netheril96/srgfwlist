@@ -1350,6 +1350,7 @@
 ||wikiversity.org
 ||wikisource.org
 ||zh.wikiquote.org
+||wikinews.org
 ||wikivoyage.org
 ||wiktionary.org
 ||wikipedia.org
