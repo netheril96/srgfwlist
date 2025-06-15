@@ -2538,6 +2538,7 @@
 ||fuyu.org.tw
 ||fw.cm
 ||fxcm-chinese.com
+||gitlab.net
 ||gmp4.com
 ||getsession.org
 ||gdaily.org
@@ -2697,6 +2698,7 @@
 ||gvlib.com
 ||gyalwarinpoche.com
 ||gyatsostudio.com
+||hinet.net
 ||hindustantimes.com
 ||hanime1.me
 ||halktv.com.tr
