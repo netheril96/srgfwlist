@@ -1361,6 +1361,7 @@
 ||yahoo.com.tw
 ||yahoo.com.hk
 ||yahoo.com
+||ipfs.4everland.io
 ||91dasai.com
 ||i.111666.best
 ||1lib.sk
@@ -2101,6 +2102,7 @@
 ||ifan.cz.cc
 ||mike.cz.cc
 ||nic.cz.cc
+||dweb.link
 ||disneyplus.com
 ||ddex.io
 ||d.cash
@@ -3449,6 +3451,7 @@
 ||myspacecdn.com
 ||mytalkbox.com
 ||mytizi.com
+||nftstorage.link
 ||newindianexpress.com
 ||news18.com
 ||bbs.naixi.net
@@ -3982,6 +3985,7 @@
 ||rutracker.net
 ||rutracker.org
 ||rxhj.net
+||storry.tv
 ||standard.co.uk
 ||simplex.chat
 ||soundon.fm
