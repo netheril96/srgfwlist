@@ -2881,6 +2881,11 @@
 ||hyperrate.com
 ||hypothes.is
 ||ebook.hyread.com.tw
+||president.ir
+||gov.ir
+||irna.ir
+||arvanstorage.ir
+||irangov.ir
 ||india.com
 ||indiatoday.in
 ||invidio.us
