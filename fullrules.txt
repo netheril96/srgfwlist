@@ -2104,6 +2104,7 @@
 ||ifan.cz.cc
 ||mike.cz.cc
 ||nic.cz.cc
+||doom9.org
 ||dweb.link
 ||disneyplus.com
 ||ddex.io
