@@ -4662,6 +4662,7 @@
 ||blog.expofutures.com
 ||contests.twilio.com
 ||typora.io
+||upbit.com
 ||demo.unlock-music.dev
 ||u9un.com
 ||ubddns.org
