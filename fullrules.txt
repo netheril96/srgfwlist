@@ -3467,7 +3467,6 @@
 ||nikke-kr.com
 ||nikke-jp.com
 ||nikke-en.com
-||www.nodeloc.com
 ||netlify.app
 ||nightswatch.top
 ||nbyy.tv
