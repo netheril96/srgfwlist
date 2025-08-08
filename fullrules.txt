@@ -1099,6 +1099,7 @@
 ||zzux.com
 ||workers.dev
 ||one.one.one.one
+||cloudflare-dns.com
 ||3d-game.com
 ||4irc.com
 ||b0ne.com
