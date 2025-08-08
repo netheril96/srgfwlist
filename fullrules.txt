@@ -6,6 +6,7 @@
 
 ||19950817.xyz
 ||1point3acres.com
+||6v123.net
 ||8v.com
 ||9gag.com
 ||academictorrents.com
@@ -32,6 +33,7 @@
 ||arcpublishing.com
 ||arstechnica.net
 ||asus.com
+||autisticempire.com
 ||axosbank.com
 ||backpack.exchange
 ||bandainamcoent.eu
@@ -69,6 +71,7 @@
 ||cloudflare.com
 ||cmake.org
 ||cms-twdigitalassets.com
+||cnbtkitty.com
 ||cnn.com
 ||coinbase.com
 ||coincarp.com
@@ -112,6 +115,7 @@
 ||exodus.com
 ||extrabux.com
 ||facebook.net
+||feikebt.com
 ||fiat24.com
 ||firstrade.com
 ||firstrade.net
@@ -131,6 +135,7 @@
 ||gamerantimages.com
 ||gamespot.com
 ||gginsights.io
+||gitbook.com
 ||gitbook.io
 ||githack.com
 ||github.community
@@ -156,6 +161,7 @@
 ||idev.dev
 ||idgesg.net
 ||idrlabs.com
+||imdb.com
 ||immd.gov.hk
 ||infinitywallet.io
 ||infoworld.com
@@ -163,6 +169,7 @@
 ||insiderpaper.com
 ||interactivebrokers.com
 ||internet2.edu
+||intodns.com
 ||iole.tv
 ||iphonelife.com
 ||ipify.org
@@ -193,6 +200,7 @@
 ||macrumors.com
 ||magnetdl.com
 ||magnetdl.hair
+||magnetdl.homes
 ||maketecheasier.com
 ||man7.org
 ||mapgenie.io
@@ -210,6 +218,8 @@
 ||mp4us.com
 ||myprotein.cn
 ||n26.com
+||nabble.com
+||ndmctsgh.edu.tw
 ||neoseeker.com
 ||newrepublic.com
 ||nexus-cdn.com
@@ -219,6 +229,7 @@
 ||nitrocdn.com
 ||nowpayments.io
 ||npttech.com
+||nthlink.com
 ||numpy.org
 ||nyaa.si
 ||olehdtv.com
@@ -272,6 +283,7 @@
 ||scorecardresearch.com
 ||segment.com
 ||segmentnextimages.com
+||sharethis.com
 ||shuzijumin.com
 ||simgbb.com
 ||slate.com
@@ -288,6 +300,7 @@
 ||steampowered.com
 ||steamspy.com
 ||steamstatic.com
+||steeplereconciliation.com
 ||storj.io
 ||stripe.com
 ||substack.com
@@ -299,6 +312,7 @@
 ||telegram.org +TCP
 ||telegramgroup.org
 ||thefederalist.com
+||thegamer.com
 ||thegamerimages.com
 ||thehill.com
 ||thepiratebay10.info
@@ -357,6 +371,7 @@
 ||x.ai
 ||x.com
 ||xiaoxintv.net
+||xlmp4.com
 ||xposed.info
 ||youtube.com
 ||yts.mx
