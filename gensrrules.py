@@ -1,4 +1,4 @@
-from typing import Dict, Iterable, List, Sequence, TextIO
+from typing import Dict, Iterable, List, Optional, Sequence, TextIO
 import requests
 import base64
 import argparse
@@ -131,9 +131,11 @@ def main():
     with open("fullrules.conf", "w", newline="\n") as f:
         write_shadowrocket_rules(f, combined, ip_ranges)
     with open("domains.srs", mode="w", newline="\n") as f:
-        write_sing_box_rules_for_domains(f, domain_suffices=combined)
+        write_sing_box_rules(f, domain_suffices=combined, ip_ranges=None)
     with open("ips.srs", mode="w", newline="\n") as f:
-        write_sing_box_rules_for_ips(f, ip_ranges=ip_ranges)
+        write_sing_box_rules(f, ip_ranges=ip_ranges, domain_suffices=None)
+    with open("fullrules.srs", mode="w", newline="\n") as f:
+        write_sing_box_rules(f, domain_suffices=combined, ip_ranges=ip_ranges)
     with open("fullrules.txt", "w", newline="\n") as f:
         f.write(
             """[Autoproxy]
@@ -200,22 +202,27 @@ FINAL,direct
     )
 
 
-def write_sing_box_rules_for_domains(f: TextIO, domain_suffices: Iterable[str]) -> None:
-    rules = {
-        "version": 2,
-        "rules": [{"domain_keyword": "google"}, {"domain_suffix": domain_suffices}],
-    }
-    json.dump(rules, f, ensure_ascii=False)
-
-
-def write_sing_box_rules_for_ips(f: TextIO, ip_ranges: Iterable[str]) -> None:
-    rules = {
-        "version": 2,
-        "rules": [
-            {"ip_cidr": ip_ranges},
-        ],
-    }
-    json.dump(rules, f, ensure_ascii=False)
+def write_sing_box_rules(
+    f: TextIO,
+    domain_suffices: Optional[Iterable[str]],
+    ip_ranges: Optional[Iterable[str]],
+) -> None:
+    rules = []
+    if domain_suffices:
+        rules += [
+            {"domain_keyword": "google"},
+            {"domain_suffix": domain_suffices},
+        ]
+    if ip_ranges:
+        rules += {"ip_cidr": ip_ranges}
+    json.dump(
+        {
+            "version": 2,
+            "rules": rules,
+        },
+        f,
+        ensure_ascii=False,
+    )
 
 
 def write_leaf_rules(
