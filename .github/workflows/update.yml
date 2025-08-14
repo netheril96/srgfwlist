@@ -1,0 +1,21 @@
+name: Run Script and Commit
+
+on:
+  push:
+  schedule:
+    - cron:  '17 */4 * * *'
+jobs:
+  build:
+    runs-on: ubuntu-latest # Define runner OS
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+            fetch-depth: 0
+      - uses: actions/setup-python@v5
+      - name: Run script
+        run:  python3 dedupe.py && python3 gensrrules.py
+      - name: Commit & Push changes
+        uses: devops-infra/action-commit-push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
