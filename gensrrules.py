@@ -130,7 +130,7 @@ def main():
     combined = combine_domain_suffices(d3, d2, d1)
     with open("fullrules.conf", "w", newline="\n") as f:
         write_shadowrocket_rules(f, combined, ip_ranges)
-    with open("fullrules.srs", mode="w", newline="\n") as f:
+    with open("domains.srs", mode="w", newline="\n") as f:
         write_sing_box_rules_for_domains(f, domain_suffices=combined)
     with open("ips.srs", mode="w", newline="\n") as f:
         write_sing_box_rules_for_ips(f, ip_ranges=ip_ranges)
