@@ -155,31 +155,7 @@ def main():
 
 def get_blocked_ip_ranges() -> List[str]:
     telegram_ranges = requests.get(TELEGRAM_CIDR_URL).text.splitlines()
-    result = {
-        # Hardcoded values copied from https://github.com/h2y/Shadowrocket-ADBlock-Rules
-        "67.198.55.0/24",
-        "91.108.4.0/22",
-        "91.108.8.0/22",
-        "91.108.12.0/22",
-        "91.108.16.0/22",
-        "91.108.56.0/22",
-        "109.239.140.0/24",
-        "149.154.160.0/20",
-        "149.154.164.0/22",
-        "149.154.168.0/22",
-        "149.154.172.0/22",
-        "74.125.23.127/32",
-        "14.102.250.18/32",
-        "14.102.250.19/32",
-        "174.142.105.153/32",
-        "67.220.91.15/32",
-        "67.220.91.18/32",
-        "67.220.91.23/32",
-        "69.65.19.160/32",
-        "72.52.81.22/32",
-        "85.17.73.31/32",
-        "50.7.31.230/32",
-    }
+    result = set()
     for line in telegram_ranges:
         line = line.strip()
         if line:
