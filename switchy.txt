@@ -1,60 +1,7 @@
-*.tracker.opentrackr.org
-*.www.torrentsnipe.info
-*.www.genesis-sp.org
-*.tracker810.xyz
-*.tracker2.dler.org
-*.tracker1.bt.moack.co.kr
-*.tracker.xiaoduola.xyz
-*.tracker.vanitycore.co
-*.tracker.sbsub.com
-*.tracker.renfei.net
-*.tracker.qu.ax
-*.tracker.mywaifu.best
-*.tracker.moxing.party
-*.tracker.lintk.me
-*.tracker.ipv6tracker.org
-*.tracker.dmcomic.org
-*.tracker.dler.org
-*.tracker.dler.com
-*.tracker.corpscorp.online
-*.tracker.bz
-*.tracker.bt4g.com
-*.tracker.bt-hash.com
-*.tracker.bittor.pw
-*.tr.kxmp.cf
-*.t.overflow.biz
-*.t.jaekr.sh
-*.shubt.net
-*.share.hkg-fansub.info
-*.servandroidkino.ru
-*.seeders-paradise.org
-*.retracker.spark-rostov.ru
-*.public.tracker.vraphim.com
-*.p4p.arenabg.com
-*.open.trackerlist.xyz
-*.home.yxgz.club
-*.highteahop.top
-*.finbytes.org
-*.buny.uk
-*.bt1.xxxxbt.cc
-*.bt.poletracker.org
-*.bittorrent-tracker.e-n-c-r-y-p-t.net
-*.1337.abcvg.info
-*.0d.kebhana.mx
-*.0123456789nonexistent.com
-*.tracker1.itzmx.com
-*.tracker.zhuqiy.top
-*.tracker.waaa.moe
-*.tracker.ghostchu-services.top
-*.tracker.23794.top
-*.tracker.coppersurfer.tk
-*.rarbg.to
-*.tracker.leechers-paradise.org
-*.tracker.open-internet.nl
-*.open.demonii.si
-*.tracker.pirateparty.gr
-*.denis.stalker.upeer.me
 
+*.0123456789nonexistent.com
+*.0d.kebhana.mx
+*.1337.abcvg.info
 *.19950817.xyz +proxy
 *.1point3acres.com +proxy
 *.6v123.net +proxy
@@ -95,6 +42,7 @@
 *.bitkan.com +proxy
 *.bitpay.com +proxy
 *.bitsearch.to +proxy
+*.bittorrent-tracker.e-n-c-r-y-p-t.net
 *.blockchain.com +proxy
 *.blogspot.com +proxy
 *.bluestacks.com +proxy
@@ -104,12 +52,15 @@
 *.breitbart.com +proxy
 *.bt-tt.cc +proxy
 *.bt-tt.com +proxy
+*.bt.poletracker.org
+*.bt1.xxxxbt.cc
 *.bt2160.com +proxy
 *.btc.com +proxy
 *.btjia.com +proxy
 *.btsearch.love +proxy
 *.bttt11.com +proxy
 *.btzj.net +proxy
+*.buny.uk
 *.bytedapm.com +proxy
 *.c.gle +proxy
 *.caddyserver.com +proxy
@@ -145,6 +96,7 @@
 *.dealmoon.co.uk +proxy
 *.deepai.org +proxy
 *.defidaonews.com +proxy
+*.denis.stalker.upeer.me
 *.digitalnomadlc.com +proxy
 *.dilcdn.com +proxy
 *.discord.com +proxy
@@ -170,6 +122,7 @@
 *.facebook.net +proxy
 *.feikebt.com +proxy
 *.fiat24.com +proxy
+*.finbytes.org
 *.firstrade.com +proxy
 *.firstrade.net +proxy
 *.fluence.network +proxy
@@ -208,6 +161,8 @@
 *.haiwaikan.com +proxy
 *.hcaptcha.com +proxy
 *.hdmoviesworld.xyz +proxy
+*.highteahop.top
+*.home.yxgz.club
 *.hotexamples.com +proxy
 *.htx.com +proxy
 *.huggingface.co +proxy
@@ -303,9 +258,12 @@
 *.onlyguides.com +proxy
 *.ooni.org +proxy
 *.op.gg +proxy
+*.open.demonii.si
+*.open.trackerlist.xyz
 *.opencollective.com +proxy
 *.orlandoweekly.com +proxy
 *.outbrain.com +proxy
+*.p4p.arenabg.com
 *.pancakeswap.finance +proxy
 *.pcgamer.com +proxy
 *.pcgamesn.com +proxy
@@ -323,11 +281,13 @@
 *.postimgs.org +proxy
 *.prcdn.co +proxy
 *.pressreader.com +proxy
+*.public.tracker.vraphim.com
 *.puffin.com +proxy
 *.qbittorrent.org +proxy
 *.r10s.jp +proxy
 *.rakuten.co.jp +proxy
 *.ramnode.com +proxy
+*.rarbg.to
 *.rarbg.to +proxy
 *.rclone.org +proxy
 *.redd.it +proxy
@@ -337,6 +297,7 @@
 *.redian.news +proxy
 *.redventures.io +proxy
 *.remarkablycommunity.com +proxy
+*.retracker.spark-rostov.ru
 *.rsms.me +proxy
 *.s3.us-east-2.amazonaws.com +proxy
 *.sagernet.org +proxy
@@ -344,10 +305,14 @@
 *.scdn.co +direct
 *.sciencedirect.com +proxy
 *.scorecardresearch.com +proxy
+*.seeders-paradise.org
 *.segment.com +proxy
 *.segmentnextimages.com +proxy
+*.servandroidkino.ru
 *.sewest.net +direct
+*.share.hkg-fansub.info
 *.sharethis.com +proxy
+*.shubt.net
 *.shuzijumin.com +proxy
 *.simgbb.com +proxy
 *.slate.com +proxy
@@ -371,6 +336,8 @@
 *.substack.com +proxy
 *.supergorand.cloud +proxy
 *.supremecourt.gov +proxy
+*.t.jaekr.sh
+*.t.overflow.biz
 *.tangibleabstraction.com +proxy
 *.techhive.com +proxy
 *.techtaalk.com +proxy
@@ -395,6 +362,37 @@
 *.torrentseeker.com +proxy
 *.torrindex.net +proxy
 *.townhall.com +proxy
+*.tr.kxmp.cf
+*.tracker.23794.top
+*.tracker.bittor.pw
+*.tracker.bt-hash.com
+*.tracker.bt4g.com
+*.tracker.bz
+*.tracker.coppersurfer.tk
+*.tracker.corpscorp.online
+*.tracker.dler.com
+*.tracker.dler.org
+*.tracker.dmcomic.org
+*.tracker.ghostchu-services.top
+*.tracker.ipv6tracker.org
+*.tracker.leechers-paradise.org
+*.tracker.lintk.me
+*.tracker.moxing.party
+*.tracker.mywaifu.best
+*.tracker.open-internet.nl
+*.tracker.opentrackr.org
+*.tracker.pirateparty.gr
+*.tracker.qu.ax
+*.tracker.renfei.net
+*.tracker.sbsub.com
+*.tracker.vanitycore.co
+*.tracker.waaa.moe
+*.tracker.xiaoduola.xyz
+*.tracker.zhuqiy.top
+*.tracker1.bt.moack.co.kr
+*.tracker1.itzmx.com
+*.tracker2.dler.org
+*.tracker810.xyz
 *.transak.com +proxy
 *.transmissionbt.com +proxy
 *.travis-ci.com +proxy
@@ -433,6 +431,8 @@
 *.wikihow.com +proxy
 *.winfsp.dev +proxy
 *.wpadmngr.com +proxy
+*.www.genesis-sp.org
+*.www.torrentsnipe.info
 *.x.ai +proxy
 *.x.com +proxy
 *.xiaoxintv.net +proxy
