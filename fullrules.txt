@@ -4017,6 +4017,7 @@
 ||rutracker.net
 ||rutracker.org
 ||rxhj.net
+||swapspace.co
 ||storry.tv
 ||standard.co.uk
 ||simplex.chat
