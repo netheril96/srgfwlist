@@ -214,7 +214,7 @@ def write_sing_box_rules(
             {"domain_suffix": domain_suffices},
         ]
     if ip_ranges:
-        rules += {"ip_cidr": ip_ranges}
+        rules.append({"ip_cidr": ip_ranges})
     json.dump(
         {
             "version": 2,
