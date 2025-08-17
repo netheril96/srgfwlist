@@ -1,4 +1,3 @@
-*.immihelp.com
 *.0123456789nonexistent.com
 *.0d.kebhana.mx
 *.1337.abcvg.info
@@ -176,6 +175,7 @@
 *.idrlabs.com +proxy
 *.imdb.com +proxy
 *.immd.gov.hk +proxy
+*.immihelp.com
 *.infinitywallet.io +proxy
 *.infoworld.com +proxy
 *.infura.io +proxy
