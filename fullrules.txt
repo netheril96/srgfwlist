@@ -3537,6 +3537,7 @@
 ||myspacecdn.com
 ||mytalkbox.com
 ||mytizi.com
+||naver.com
 ||maven.neoforged.net
 ||nftstorage.link
 ||newindianexpress.com
