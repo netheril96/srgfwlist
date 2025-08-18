@@ -2178,6 +2178,8 @@
 ||ifan.cz.cc
 ||mike.cz.cc
 ||nic.cz.cc
+||deno.dev
+||docs.deno.com
 ||doom9.org
 ||dweb.link
 ||disneyplus.com
@@ -2433,6 +2435,7 @@
 ||eyevio.jp
 ||eyny.com
 ||ezpeer.com
+||furrybar.com
 ||financialexpress.com
 ||fast.com
 ||factchecklab.org
