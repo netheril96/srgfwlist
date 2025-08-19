@@ -446,4 +446,4 @@
 *.zdassets.com +proxy
 *.zhongan.io +proxy
 *.zmk.pw +proxy
-ai.dev +proxy
+*.ai.dev +proxy
