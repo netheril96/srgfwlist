@@ -18,6 +18,7 @@
 ||addthis.com
 ||adsninja.ca
 ||agriculture.com
+||ai.dev
 ||aicoin.com
 ||akamaihd.net
 ||akamaized.net
@@ -436,7 +437,6 @@
 ||zdassets.com
 ||zhongan.io
 ||zmk.pw
-||ai.dev
 ||ycombinator.com
 ||bitcointalk.org
 ||2miners.com
@@ -4747,6 +4747,7 @@
 ||blog.expofutures.com
 ||contests.twilio.com
 ||typora.io
+||udomain.hk
 ||upbit.com
 ||demo.unlock-music.dev
 ||u9un.com

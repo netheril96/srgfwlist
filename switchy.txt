@@ -12,6 +12,7 @@
 *.addthis.com +proxy
 *.adsninja.ca +proxy
 *.agriculture.com +proxy
+*.ai.dev +proxy
 *.aicoin.com +proxy
 *.akamaihd.net +proxy
 *.akamaized.net +proxy
@@ -446,4 +447,3 @@
 *.zdassets.com +proxy
 *.zhongan.io +proxy
 *.zmk.pw +proxy
-*.ai.dev +proxy
