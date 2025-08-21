@@ -1,3 +1,4 @@
+*.ollama.ai
 *.0123456789nonexistent.com
 *.0d.kebhana.mx
 *.1337.abcvg.info
@@ -251,7 +252,6 @@
 *.nyaa.si +proxy
 *.olehdtv.com +proxy
 *.olevod.com +proxy
-*.ollama.ai
 *.onekey.so +proxy
 *.oneplus.com +proxy
 *.onerousethelpictures.com +proxy
