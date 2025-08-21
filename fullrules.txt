@@ -247,6 +247,7 @@
 ||nyaa.si
 ||olehdtv.com
 ||olevod.com
+||ollama.ai
 ||onekey.so
 ||oneplus.com
 ||onerousethelpictures.com
@@ -2960,6 +2961,7 @@
 ||hyperrate.com
 ||hypothes.is
 ||ebook.hyread.com.tw
+||itiger.com
 ||itch.io
 ||president.ir
 ||gov.ir
