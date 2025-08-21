@@ -2960,6 +2960,7 @@
 ||hyperrate.com
 ||hypothes.is
 ||ebook.hyread.com.tw
+||itiger.com
 ||itch.io
 ||president.ir
 ||gov.ir
