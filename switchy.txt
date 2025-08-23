@@ -1,4 +1,3 @@
-*.lencr.org
 *.0123456789nonexistent.com
 *.0d.kebhana.mx
 *.1337.abcvg.info
@@ -202,6 +201,7 @@
 *.lantern.io +proxy
 *.launchdarkly.com +proxy
 *.leetcode.com +proxy
+*.lencr.org
 *.letsencrypt.org +proxy
 *.lifecell.ua +proxy
 *.liminstudio.blogspot.com +proxy

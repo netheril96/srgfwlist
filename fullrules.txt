@@ -200,6 +200,7 @@
 ||lantern.io
 ||launchdarkly.com
 ||leetcode.com
+||lencr.org
 ||letsencrypt.org
 ||lifecell.ua
 ||linuxcapable.com
