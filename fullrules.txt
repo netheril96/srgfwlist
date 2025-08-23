@@ -423,6 +423,7 @@
 ||wi-fi.org
 ||wikihow.com
 ||winfsp.dev
+||wix.com
 ||wpadmngr.com
 ||www.genesis-sp.org
 ||www.torrentsnipe.info

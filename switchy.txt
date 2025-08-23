@@ -1,4 +1,3 @@
-*.wix.com
 *.0123456789nonexistent.com
 *.0d.kebhana.mx
 *.1337.abcvg.info
@@ -433,6 +432,7 @@
 *.wi-fi.org +proxy
 *.wikihow.com +proxy
 *.winfsp.dev +proxy
+*.wix.com
 *.wpadmngr.com +proxy
 *.www.genesis-sp.org
 *.www.torrentsnipe.info
