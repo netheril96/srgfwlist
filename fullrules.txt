@@ -437,6 +437,7 @@
 ||za.group
 ||zajourney.com
 ||zdassets.com
+||zerotier.com
 ||zhongan.io
 ||zmk.pw
 ||ycombinator.com
