@@ -241,6 +241,7 @@
 ||nhri.org.tw
 ||nicehash.com
 ||nitrocdn.com
+||noemamag.com
 ||nowpayments.io
 ||npttech.com
 ||nthlink.com

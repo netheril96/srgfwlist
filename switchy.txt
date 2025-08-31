@@ -1,4 +1,3 @@
-*.noemamag.com
 *.0123456789nonexistent.com
 *.0d.kebhana.mx
 *.1337.abcvg.info
@@ -246,6 +245,7 @@
 *.nhri.org.tw +proxy
 *.nicehash.com +proxy
 *.nitrocdn.com +proxy
+*.noemamag.com
 *.nowpayments.io +proxy
 *.npttech.com +proxy
 *.nthlink.com +proxy
