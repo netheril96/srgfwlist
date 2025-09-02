@@ -1,4 +1,3 @@
-*.api.themoviedb.org
 *.0123456789nonexistent.com
 *.0d.kebhana.mx
 *.1337.abcvg.info
@@ -24,6 +23,7 @@
 *.amazonaws.com +proxy
 *.amd.com +proxy
 *.analyticsvidhya.com +proxy
+*.api.themoviedb.org
 *.apibay.org +proxy
 *.apnic.net +proxy
 *.arbitrum.io +proxy

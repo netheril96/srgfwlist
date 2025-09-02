@@ -29,6 +29,7 @@
 ||amazonaws.com
 ||amd.com
 ||analyticsvidhya.com
+||api.themoviedb.org
 ||apibay.org
 ||apnic.net
 ||arbitrum.io
