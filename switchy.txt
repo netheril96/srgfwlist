@@ -1,4 +1,3 @@
-*.mirror.pkgbuild.com
 *.0123456789nonexistent.com
 *.0d.kebhana.mx
 *.1337.abcvg.info
@@ -230,6 +229,7 @@
 *.megpxs.com +proxy
 *.mexc.com +proxy
 *.michigan.gov +proxy
+*.mirror.pkgbuild.com
 *.mirror.xyz +proxy
 *.mobalytics.gg +proxy
 *.morningstar.com +proxy

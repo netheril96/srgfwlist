@@ -226,6 +226,7 @@
 ||megpxs.com
 ||mexc.com
 ||michigan.gov
+||mirror.pkgbuild.com
 ||mirror.xyz
 ||mobalytics.gg
 ||morningstar.com
