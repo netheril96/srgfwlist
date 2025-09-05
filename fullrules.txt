@@ -1720,6 +1720,8 @@
 ||axureformac.com
 ||azirevpn.com
 ||boxun*.azurewebsites.net
+||bt4gprx.com
+||bt4g.org
 ||betterhash.net
 ||binance.org
 ||blackmagicdesign.com
@@ -4392,6 +4394,7 @@
 ||sytes.net
 ||szbbs.net
 ||szetowah.org.hk
+||tanks.gg
 ||thehansindia.com
 ||rtm.tnt-ea.com
 ||tellapart.com
