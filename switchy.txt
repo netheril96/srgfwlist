@@ -1,5 +1,3 @@
-*.slashdot.org
-*.tracker.cl
 *.0123456789nonexistent.com
 *.0d.kebhana.mx
 *.1337.abcvg.info
@@ -322,6 +320,7 @@
 *.shubt.net
 *.shuzijumin.com +proxy
 *.simgbb.com +proxy
+*.slashdot.org
 *.slate.com +proxy
 *.smileunionpay.com +proxy
 *.soupian.app +proxy
@@ -375,6 +374,7 @@
 *.tracker.bt-hash.com
 *.tracker.bt4g.com
 *.tracker.bz
+*.tracker.cl
 *.tracker.coppersurfer.tk
 *.tracker.corpscorp.online
 *.tracker.dler.com
