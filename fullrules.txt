@@ -315,6 +315,7 @@
 ||slashdot.org
 ||slate.com
 ||smileunionpay.com
+||social
 ||soupian.app
 ||sqlitetutorial.net
 ||sstatic.net
@@ -557,7 +558,6 @@
 ||claude.ai
 ||clearsurance.com
 ||cnbeta.com.tw
-||counter.social
 ||costco.com
 ||coze.com
 ||crossfire.co.kr
@@ -818,7 +818,6 @@
 ||free-ss.site
 ||freehongkong.org
 ||blog.fuckgfw233.org
-||g0v.social
 ||globalvoices.org
 ||glorystar.me
 ||goregrish.com
@@ -844,7 +843,6 @@
 ||cdn-images.mailchimp.com
 ||mastodon.cloud
 ||mastodon.host
-||mastodon.social
 ||mastodon.xyz
 ||matters.news
 ||me.me
@@ -1007,7 +1005,6 @@
 ||me.ns.ci
 ||moresci.sale
 ||social.edu.ci
-||mstdn.social
 ||douchi.space
 ||slashine.onl
 ||social.datalabour.com
@@ -1882,7 +1879,6 @@
 ||brutaltgp.com
 ||bsky.app
 ||bsky.network
-||bsky.social
 ||bt95.com
 ||btaia.com
 ||btbtav.com
@@ -2018,7 +2014,6 @@
 ||changp.com
 ||channelnewsasia.com
 ||chanworld.org
-||chaos.social
 ||character.ai
 ||chatgpt.com
 ||chaturbate.com

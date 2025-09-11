@@ -1,4 +1,3 @@
-*.social
 *.0123456789nonexistent.com
 *.0d.kebhana.mx
 *.1337.abcvg.info
@@ -324,6 +323,7 @@
 *.slashdot.org
 *.slate.com +proxy
 *.smileunionpay.com +proxy
+*.social
 *.soupian.app +proxy
 *.sqlitetutorial.net +proxy
 *.square-enix-games.com +direct
