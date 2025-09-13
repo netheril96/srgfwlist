@@ -3356,6 +3356,7 @@
 ||lyfhk.net
 ||lzjscript.com
 ||lzmtnews.org
+||mcusercontent.com
 ||metamask.io
 ||missav.ws
 ||news.mt.co.kr
@@ -4089,6 +4090,7 @@
 ||rutracker.net
 ||rutracker.org
 ||rxhj.net
+||sina.com.hk
 ||swapspace.co
 ||storry.tv
 ||standard.co.uk
@@ -4391,6 +4393,7 @@
 ||sytes.net
 ||szbbs.net
 ||szetowah.org.hk
+||talkatone.com
 ||tanks.gg
 ||thehansindia.com
 ||rtm.tnt-ea.com
