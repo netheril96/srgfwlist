@@ -2628,6 +2628,7 @@
 ||fuyu.org.tw
 ||fw.cm
 ||fxcm-chinese.com
+||garudalinux.org
 ||gitlab.net
 ||gmp4.com
 ||getsession.org
@@ -3551,6 +3552,7 @@
 ||myspacecdn.com
 ||mytalkbox.com
 ||mytizi.com
+||nirsoft.net
 ||naver.com
 ||maven.neoforged.net
 ||nftstorage.link
@@ -4834,6 +4836,7 @@
 ||uyghurstudies.org
 ||uyghurtribunal.com
 ||uymaarip.com
+||vpsxb.net
 ||vilanet.me
 ||vewas.net
 ||v2.help
