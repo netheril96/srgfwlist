@@ -4771,7 +4771,6 @@
 ||uberproxy.net
 ||uc-japan.org
 ||china.ucanews.com
-||uderzo.it
 ||udn.com
 ||udn.com.tw
 ||uforadio.com.tw
