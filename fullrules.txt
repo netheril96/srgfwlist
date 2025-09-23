@@ -3691,6 +3691,7 @@
 ||nyaa.eu
 ||nybooks.com
 ||nzchinese.com
+||octocaptcha.com
 ||oojj.de
 ||onevps.com
 ||onedrive.com
@@ -3761,6 +3762,7 @@
 ||ozvoice.org
 ||ozxw.com
 ||ozyoyo.com
+||api.palworldgame.com
 ||pewresearch.org
 ||privacyguides.org
 ||img.picgo.net
