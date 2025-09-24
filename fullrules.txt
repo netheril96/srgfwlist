@@ -1906,6 +1906,7 @@
 ||bvpn.com
 ||bwh1.net
 ||bypasscensorship.org
+||ctinets.com
 ||covenantswatch.org.tw
 ||cpu-monkey.com
 ||coffeemanga.to
@@ -2970,6 +2971,7 @@
 ||hyperrate.com
 ||hypothes.is
 ||ebook.hyread.com.tw
+||interseclab.org
 ||itiger.com
 ||itch.io
 ||president.ir
