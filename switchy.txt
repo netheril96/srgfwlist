@@ -1,4 +1,3 @@
-*.reuters.tv
 *.0123456789nonexistent.com
 *.0d.kebhana.mx
 *.1337.abcvg.info
@@ -304,6 +303,7 @@
 *.redventures.io +proxy
 *.remarkablycommunity.com +proxy
 *.retracker.spark-rostov.ru
+*.reuters.tv
 *.rsms.me +proxy
 *.s3.us-east-2.amazonaws.com +proxy
 *.sagernet.org +proxy
