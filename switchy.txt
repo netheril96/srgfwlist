@@ -1,4 +1,3 @@
-*.bitmart.com
 *.0123456789nonexistent.com
 *.0d.kebhana.mx
 *.1337.abcvg.info
@@ -42,6 +41,7 @@
 *.bitcoin.com +proxy
 *.bitget.com +proxy
 *.bitkan.com +proxy
+*.bitmart.com
 *.bitpay.com +proxy
 *.bitsearch.to +proxy
 *.bittorrent-tracker.e-n-c-r-y-p-t.net

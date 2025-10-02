@@ -47,6 +47,7 @@
 ||bitcoin.com
 ||bitget.com
 ||bitkan.com
+||bitmart.com
 ||bitpay.com
 ||bitsearch.to
 ||bittorrent-tracker.e-n-c-r-y-p-t.net
