@@ -39,7 +39,6 @@
 *.bet365.com +proxy
 *.bigbrain.gg +proxy
 *.bitcoin.com +proxy
-*.bitget.com +proxy
 *.bitkan.com +proxy
 *.bitmart.com
 *.bitpay.com +proxy
