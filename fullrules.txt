@@ -45,7 +45,6 @@
 ||bet365.com
 ||bigbrain.gg
 ||bitcoin.com
-||bitget.com
 ||bitkan.com
 ||bitmart.com
 ||bitpay.com
@@ -1726,6 +1725,7 @@
 ||bt4g.org
 ||betterhash.net
 ||binance.org
+||bitget.com
 ||blackmagicdesign.com
 ||bearteach.com
 ||btbtt.me
