@@ -4101,6 +4101,7 @@
 ||rutracker.net
 ||rutracker.org
 ||rxhj.net
+||solscan.io
 ||sina.com.hk
 ||swapspace.co
 ||storry.tv
