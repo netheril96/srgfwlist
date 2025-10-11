@@ -40,6 +40,7 @@
 ||arstechnica.net
 ||asus.com
 ||autisticempire.com
+||awswaf.com
 ||axosbank.com
 ||backpack.exchange
 ||bandainamcoent.eu
@@ -2446,6 +2447,8 @@
 ||eyevio.jp
 ||eyny.com
 ||ezpeer.com
+||freegpt.tech
+||freegpt.es
 ||feedly.com
 ||fuckccp.xyz
 ||fuckccp.com
