@@ -1538,6 +1538,7 @@
 ||9bis.com
 ||9bis.net
 ||9news.com.au
+||asianfanfics.com
 ||amuletmc.com
 ||abplive.com
 ||aomedia.org
@@ -4408,6 +4409,7 @@
 ||sytes.net
 ||szbbs.net
 ||szetowah.org.hk
+||trustwallet.com
 ||tap.io
 ||taptap.io
 ||talkatone.com
@@ -5199,6 +5201,7 @@
 ||yyjlymb.xyz
 ||yysub.net
 ||yzzk.com
+||z-library.ec
 ||z-library.sk
 ||z-lib.fm
 ||z-lib.gd
