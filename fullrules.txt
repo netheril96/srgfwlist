@@ -1888,7 +1888,6 @@
 ||btaia.com
 ||btbtav.com
 ||btdig.com
-||btdigg.org
 ||btguard.com
 ||btku.me
 ||btku.org
