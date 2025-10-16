@@ -780,6 +780,7 @@
 ||binancezh.cc
 ||r-pool.net
 ||w-pool.com
+||xn--u2u927b.com
 ||xn--11xs86f.icu
 ||xn--4gq171p.com
 ||xn--czq75pvv1aj5c.org
@@ -1236,6 +1237,7 @@
 ||auntology.fandom.com
 ||hongkong.fandom.com
 ||ftchinese.com
+||goog
 ||gle
 ||doc.new
 ||form.new
@@ -1313,7 +1315,6 @@
 ||on2.com
 ||panoramio.com
 ||picasaweb.com
-||pki.goog
 ||plus.codes
 ||polymer-project.org
 ||questvisual.com
@@ -1332,10 +1333,8 @@
 ||tensorflow.org
 ||tfhub.dev
 ||tiltbrush.com
-||translate.goog
 ||ua5v.com
 ||urchin.com
-||usercontent.goog
 ||waveprotocol.org
 ||waymo.com
 ||web.dev
@@ -4956,6 +4955,7 @@
 ||vrporn.com
 ||vtunnel.com
 ||vuku.cc
+||websdr.org
 ||wikipedia.com
 ||wxw.moe
 ||wxw.cat
