@@ -96,6 +96,7 @@
 ||crates.io
 ||creativefabrica.com
 ||crypto.com
+||cryptomus.com
 ||cryptopp.com
 ||cryptotradingcafe.com
 ||dailymotion.com
