@@ -278,6 +278,7 @@
 ||pnas.org
 ||poe.com
 ||poecdn.net
+||police.uk
 ||politico.eu
 ||polygon.com
 ||polymarket.com

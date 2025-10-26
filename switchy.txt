@@ -1,4 +1,3 @@
-*.police.uk
 *.0123456789nonexistent.com
 *.0d.kebhana.mx
 *.1337.abcvg.info
@@ -283,6 +282,7 @@
 *.pnas.org +proxy
 *.poe.com +proxy
 *.poecdn.net +proxy
+*.police.uk
 *.politico.eu +proxy
 *.polygon.com +proxy
 *.polymarket.com +proxy
