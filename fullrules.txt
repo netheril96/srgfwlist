@@ -4410,6 +4410,7 @@
 ||sytes.net
 ||szbbs.net
 ||szetowah.org.hk
+||temu.com
 ||trustwallet.com
 ||tap.io
 ||taptap.io
