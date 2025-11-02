@@ -1,4 +1,3 @@
-*.wasi.dev
 *.0123456789nonexistent.com
 *.0d.kebhana.mx
 *.1337.abcvg.info
@@ -438,6 +437,7 @@
 *.walletconnect.org +proxy
 *.wapo.st +proxy
 *.washingtonexaminer.com +proxy
+*.wasi.dev
 *.website-files.com +proxy
 *.weizenrestaurant.com +proxy
 *.whichbrowser.net +proxy

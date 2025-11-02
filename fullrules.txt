@@ -428,6 +428,7 @@
 ||walletconnect.org
 ||wapo.st
 ||washingtonexaminer.com
+||wasi.dev
 ||website-files.com
 ||weizenrestaurant.com
 ||whichbrowser.net
