@@ -1540,6 +1540,7 @@
 ||9bis.com
 ||9bis.net
 ||9news.com.au
+||aoxvpn.com
 ||asianfanfics.com
 ||amuletmc.com
 ||abplive.com
@@ -1726,6 +1727,7 @@
 ||axureformac.com
 ||azirevpn.com
 ||boxun*.azurewebsites.net
+||bettergpt.chat
 ||bt4gprx.com
 ||bt4g.org
 ||betterhash.net
@@ -1913,6 +1915,10 @@
 ||bvpn.com
 ||bwh1.net
 ||bypasscensorship.org
+||cchostvps.xyz
+||canva.com
+||chatpdf.com
+||chat.com
 ||ctinets.com
 ||covenantswatch.org.tw
 ||cpu-monkey.com
@@ -2192,6 +2198,7 @@
 ||ifan.cz.cc
 ||mike.cz.cc
 ||nic.cz.cc
+||darmau.co
 ||dockerstatus.com
 ||deno.dev
 ||docs.deno.com
@@ -2449,6 +2456,9 @@
 ||eyevio.jp
 ||eyny.com
 ||ezpeer.com
+||hyperbeam.com
+||flowgpt.com
+||forefront.ai
 ||flexclip.com
 ||freegpt.tech
 ||freegpt.es
@@ -2800,6 +2810,7 @@
 ||gvlib.com
 ||gyalwarinpoche.com
 ||gyatsostudio.com
+||hicairo.com
 ||herominers.com
 ||hinet.net
 ||hindustantimes.com
@@ -3156,7 +3167,6 @@
 ||jgoodies.com
 ||jiangweiping.com
 ||jiaoyou8.com
-||jichangtj.com
 ||jiehua.cz
 ||hk.jiepang.com
 ||tw.jiepang.com
@@ -3263,6 +3273,8 @@
 ||kyofun.com
 ||kzaobao.com
 ||kzeng.info
+||linux.do
+||lexica.art
 ||luckymobile.ca
 ||ludepress.com
 ||lingualeo.com
@@ -3704,6 +3716,7 @@
 ||nyaa.eu
 ||nybooks.com
 ||nzchinese.com
+||files.oaiusercontent.com
 ||octocaptcha.com
 ||oojj.de
 ||onevps.com
@@ -4006,6 +4019,7 @@
 ||quitccp.org
 ||quran.com
 ||quranexplorer.com
+||rentry.co
 ||radmin-vpn.com
 ||rule34video.com
 ||r0.ru
@@ -4108,6 +4122,8 @@
 ||rutracker.net
 ||rutracker.org
 ||rxhj.net
+||sora.com
+||lt.sntp.uk
 ||solscan.io
 ||sina.com.hk
 ||swapspace.co
@@ -4412,6 +4428,7 @@
 ||sytes.net
 ||szbbs.net
 ||szetowah.org.hk
+||terobox.com
 ||temu.com
 ||trustwallet.com
 ||tap.io

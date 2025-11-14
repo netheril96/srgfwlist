@@ -1,4 +1,3 @@
-*.crates.io
 *.0123456789nonexistent.com
 *.0d.kebhana.mx
 *.1337.abcvg.info
@@ -89,6 +88,7 @@
 *.connatix.com +proxy
 *.cookielaw.org +proxy
 *.craiyon.com +proxy
+*.crates.io
 *.crates.io +proxy
 *.creativefabrica.com +proxy
 *.crypto.com +proxy
