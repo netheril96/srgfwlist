@@ -3381,6 +3381,7 @@
 ||lyfhk.net
 ||lzjscript.com
 ||lzmtnews.org
+||mjj.rip
 ||mcusercontent.com
 ||metamask.io
 ||missav.ws
@@ -4019,6 +4020,7 @@
 ||quitccp.org
 ||quran.com
 ||quranexplorer.com
+||rustdesk.com
 ||rentry.co
 ||radmin-vpn.com
 ||rule34video.com
