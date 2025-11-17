@@ -1540,6 +1540,7 @@
 ||9bis.com
 ||9bis.net
 ||9news.com.au
+||adguard-vpn.com
 ||aoxvpn.com
 ||asianfanfics.com
 ||amuletmc.com
@@ -2810,6 +2811,7 @@
 ||gvlib.com
 ||gyalwarinpoche.com
 ||gyatsostudio.com
+||hbomax.com
 ||hicairo.com
 ||herominers.com
 ||hinet.net
