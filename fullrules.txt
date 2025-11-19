@@ -1180,6 +1180,7 @@
 ||yourtrap.com
 ||zyns.com
 ||zzux.com
+||cloudflarestatus.com
 ||workers.dev
 ||one.one.one.one
 ||cloudflare-dns.com
@@ -3383,6 +3384,7 @@
 ||lyfhk.net
 ||lzjscript.com
 ||lzmtnews.org
+||mji.rip
 ||mjj.rip
 ||mcusercontent.com
 ||metamask.io
