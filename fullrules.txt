@@ -3276,6 +3276,7 @@
 ||kyofun.com
 ||kzaobao.com
 ||kzeng.info
+||library-access.sk
 ||linux.do
 ||lexica.art
 ||luckymobile.ca
@@ -3384,6 +3385,7 @@
 ||lyfhk.net
 ||lzjscript.com
 ||lzmtnews.org
+||mij.rip
 ||mji.rip
 ||mjj.rip
 ||mcusercontent.com
