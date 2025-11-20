@@ -2652,6 +2652,7 @@
 ||fuyu.org.tw
 ||fw.cm
 ||fxcm-chinese.com
+||greatfirevpn.com
 ||garudalinux.org
 ||gitlab.net
 ||gmp4.com
@@ -4986,6 +4987,7 @@
 ||vrporn.com
 ||vtunnel.com
 ||vuku.cc
+||wikiunblocked.org
 ||websdr.org
 ||wikipedia.com
 ||wxw.moe
