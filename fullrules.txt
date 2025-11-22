@@ -3586,6 +3586,7 @@
 ||myspacecdn.com
 ||mytalkbox.com
 ||mytizi.com
+||namu.wiki
 ||nirsoft.net
 ||naver.com
 ||maven.neoforged.net
@@ -3797,6 +3798,7 @@
 ||ozvoice.org
 ||ozxw.com
 ||ozyoyo.com
+||picsart.com
 ||images.prismic.io
 ||api.palworldgame.com
 ||pewresearch.org
