@@ -141,6 +141,7 @@
 ||foxbusiness.com
 ||foxnews.com
 ||fragment.com
+||freebsd.org
 ||freedesktop.org
 ||freerdp.com
 ||fsdn.com
@@ -236,6 +237,7 @@
 ||moviesfun.site
 ||mp4us.com
 ||myprotein.cn
+||myworkday.com
 ||n26.com
 ||nabble.com
 ||ndmctsgh.edu.tw
@@ -274,7 +276,6 @@
 ||photoup.net
 ||piratebayproxy.info
 ||pjmedia.com
-||pkg.freebsd.org
 ||pkuanvil.com
 ||pnas.org
 ||poe.com

@@ -138,6 +138,7 @@
 *.foxbusiness.com +proxy
 *.foxnews.com +proxy
 *.fragment.com +proxy
+*.freebsd.org
 *.freedesktop.org +proxy
 *.freerdp.com +proxy
 *.fsdn.com +proxy
@@ -240,6 +241,7 @@
 *.moviesfun.site +proxy
 *.mp4us.com +proxy
 *.myprotein.cn +proxy
+*.myworkday.com
 *.n26.com +proxy
 *.nabble.com +proxy
 *.naehrdine.blogspot.com +proxy
@@ -279,13 +281,11 @@
 *.photoup.net +proxy
 *.piratebayproxy.info +proxy
 *.pjmedia.com +proxy
-*.freebsd.org
 *.pkuanvil.com +proxy
 *.pnas.org +proxy
 *.poe.com +proxy
 *.poecdn.net +proxy
 *.police.uk
-*.myworkday.com
 *.politico.eu +proxy
 *.polygon.com +proxy
 *.polymarket.com +proxy
