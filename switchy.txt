@@ -279,12 +279,13 @@
 *.photoup.net +proxy
 *.piratebayproxy.info +proxy
 *.pjmedia.com +proxy
-*.pkg.freebsd.org
+*.freebsd.org
 *.pkuanvil.com +proxy
 *.pnas.org +proxy
 *.poe.com +proxy
 *.poecdn.net +proxy
 *.police.uk
+*.myworkday.com
 *.politico.eu +proxy
 *.polygon.com +proxy
 *.polymarket.com +proxy
