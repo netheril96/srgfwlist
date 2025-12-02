@@ -306,6 +306,7 @@
 ||retracker.spark-rostov.ru
 ||reuters.tv
 ||rsms.me
+||rust-lang.org
 ||sagernet.org
 ||sardine.ai
 ||sciencedirect.com
