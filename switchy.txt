@@ -1,4 +1,3 @@
-*.oaistatic.com
 *.0123456789nonexistent.com
 *.0d.kebhana.mx
 *.1337.abcvg.info
@@ -260,6 +259,7 @@
 *.nthlink.com +proxy
 *.numpy.org +proxy
 *.nyaa.si +proxy
+*.oaistatic.com
 *.olehdtv.com +proxy
 *.olevod.com +proxy
 *.onekey.so +proxy

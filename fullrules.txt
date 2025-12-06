@@ -254,6 +254,7 @@
 ||nthlink.com
 ||numpy.org
 ||nyaa.si
+||oaistatic.com
 ||olehdtv.com
 ||olevod.com
 ||onekey.so
