@@ -1546,6 +1546,7 @@
 ||9bis.com
 ||9bis.net
 ||9news.com.au
+||anuneko.com
 ||adguard-vpn.com
 ||aoxvpn.com
 ||asianfanfics.com
@@ -3147,6 +3148,7 @@
 ||izaobao.us
 ||izles.net
 ||izlesem.org
+||jhelab.org
 ||justmysockscn.com
 ||justmysocks.net
 ||jav321.com
@@ -3802,6 +3804,7 @@
 ||ozvoice.org
 ||ozxw.com
 ||ozyoyo.com
+||podwise.ai
 ||picsart.com
 ||images.prismic.io
 ||api.palworldgame.com
@@ -4034,6 +4037,8 @@
 ||quitccp.org
 ||quran.com
 ||quranexplorer.com
+||radiojar.com
+||radio.co
 ||rustdesk.com
 ||rentry.co
 ||radmin-vpn.com
