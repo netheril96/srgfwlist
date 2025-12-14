@@ -232,6 +232,7 @@
 ||michigan.gov
 ||mirror.pkgbuild.com
 ||mirror.xyz
+||mitmproxy.org
 ||mobalytics.gg
 ||morningstar.com
 ||moviesfun.site
