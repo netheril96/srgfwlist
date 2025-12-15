@@ -147,6 +147,7 @@
 ||fsdn.com
 ||fx168news.com
 ||fxempire.com
+||g.cn
 ||gamerantimages.com
 ||gamespot.com
 ||gginsights.io
