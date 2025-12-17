@@ -1737,6 +1737,7 @@
 ||axureformac.com
 ||azirevpn.com
 ||boxun*.azurewebsites.net
+||bitbaby.com
 ||bettergpt.chat
 ||bt4gprx.com
 ||bt4g.org
@@ -3004,6 +3005,7 @@
 ||hyperrate.com
 ||hypothes.is
 ||ebook.hyread.com.tw
+||idcflare.com
 ||interseclab.org
 ||itiger.com
 ||itch.io
