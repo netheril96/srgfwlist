@@ -1285,7 +1285,6 @@
 ||chromecast.com
 ||chromeexperiments.com
 ||chromestatus.com
-||chromium.org
 ||cloudfunctions.net
 ||crbug.com
 ||creativelab5.com
@@ -3288,6 +3287,7 @@
 ||kyofun.com
 ||kzaobao.com
 ||kzeng.info
+||lovart.ai
 ||library-access.sk
 ||linux.do
 ||lexica.art
