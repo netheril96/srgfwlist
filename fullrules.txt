@@ -1248,6 +1248,7 @@
 ||auntology.fandom.com
 ||hongkong.fandom.com
 ||ftchinese.com
+||issues.chromium.org
 ||goog
 ||gle
 ||doc.new
@@ -1547,6 +1548,7 @@
 ||9bis.com
 ||9bis.net
 ||9news.com.au
+||aljazeera.net
 ||anuneko.com
 ||adguard-vpn.com
 ||aoxvpn.com
@@ -2210,8 +2212,6 @@
 ||nic.cz.cc
 ||darmau.co
 ||dockerstatus.com
-||deno.dev
-||docs.deno.com
 ||doom9.org
 ||dweb.link
 ||disneyplus.com
@@ -4150,6 +4150,7 @@
 ||rutracker.net
 ||rutracker.org
 ||rxhj.net
+||steamladder.com
 ||sora.com
 ||lt.sntp.uk
 ||solscan.io
