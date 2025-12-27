@@ -2659,6 +2659,7 @@
 ||fuyu.org.tw
 ||fw.cm
 ||fxcm-chinese.com
+||gfwbao.com
 ||greatfirevpn.com
 ||garudalinux.org
 ||gitlab.net
