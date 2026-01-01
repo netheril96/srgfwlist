@@ -3810,6 +3810,7 @@
 ||ozvoice.org
 ||ozxw.com
 ||ozyoyo.com
+||pdst.fm
 ||static.pocketcasts.com
 ||partnerstack.xyz
 ||podwise.ai
@@ -4831,6 +4832,7 @@
 ||blog.expofutures.com
 ||contests.twilio.com
 ||typora.io
+||up.audio
 ||udomain.hk
 ||upbit.com
 ||demo.unlock-music.dev
