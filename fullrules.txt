@@ -1248,6 +1248,7 @@
 ||auntology.fandom.com
 ||hongkong.fandom.com
 ||ftchinese.com
+||ai.studio
 ||issues.chromium.org
 ||goog
 ||gle
