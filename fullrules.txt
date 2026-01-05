@@ -2210,6 +2210,7 @@
 ||ifan.cz.cc
 ||mike.cz.cc
 ||nic.cz.cc
+||dazn.com
 ||darmau.co
 ||dockerstatus.com
 ||doom9.org
@@ -3738,6 +3739,7 @@
 ||nyaa.eu
 ||nybooks.com
 ||nzchinese.com
+||ooni.io
 ||files.oaiusercontent.com
 ||octocaptcha.com
 ||oojj.de
@@ -5157,6 +5159,7 @@
 ||wujieliulan.com
 ||wuw.red
 ||wwitv.com
+||xcancel.com
 ||www.xicons.org
 ||xt.com
 ||xt.pub
