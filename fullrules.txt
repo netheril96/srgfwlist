@@ -1559,6 +1559,9 @@
 ||aomedia.org
 ||akinator.com
 ||annas-archive.org
+||annas-archive.in
+||annas-archive.li
+||annas-archive.pm
 ||av01.tv
 ||acg.rip
 ||annas-archive.se
@@ -4783,8 +4786,11 @@
 ||slutmoonbeam.com
 ||blog.soylent.com
 ||tv.com
-||forum.tvb.com
+||mytvsuper.com
+||tvbanywhere.com
+||akamai.tvb.com
 ||inews-api.tvb.com
+||news.tvbs.com.tw
 ||tvboxnow.com
 ||tvmost.com.hk
 ||tvplayvideos.com
