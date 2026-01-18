@@ -441,6 +441,7 @@
 ||wi-fi.org
 ||wikihow.com
 ||winfsp.dev
+||wireshark.org
 ||wix.com
 ||wpadmngr.com
 ||www.genesis-sp.org
