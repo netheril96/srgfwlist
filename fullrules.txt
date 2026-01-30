@@ -4177,6 +4177,7 @@
 ||rutracker.net
 ||rutracker.org
 ||rxhj.net
+||simianx.ai
 ||steamladder.com
 ||sora.com
 ||lt.sntp.uk
