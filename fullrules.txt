@@ -1744,6 +1744,7 @@
 ||axureformac.com
 ||azirevpn.com
 ||boxun*.azurewebsites.net
+||help.byspotify.com
 ||bitbaby.com
 ||bettergpt.chat
 ||bt4gprx.com
@@ -3406,6 +3407,7 @@
 ||lyfhk.net
 ||lzjscript.com
 ||lzmtnews.org
+||dcs-spotify.megaphone.fm
 ||mij.rip
 ||mji.rip
 ||mjj.rip
@@ -4485,6 +4487,7 @@
 ||sytes.net
 ||szbbs.net
 ||szetowah.org.hk
+||bbc.pdn.tritondigital.com
 ||terobox.com
 ||temu.com
 ||trustwallet.com
