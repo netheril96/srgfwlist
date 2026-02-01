@@ -4487,6 +4487,7 @@
 ||sytes.net
 ||szbbs.net
 ||szetowah.org.hk
+||tails.net
 ||bbc.pdn.tritondigital.com
 ||terobox.com
 ||temu.com
