@@ -1,4 +1,3 @@
-*.deb.debian.org
 *.0123456789nonexistent.com
 *.0d.kebhana.mx
 *.1337.abcvg.info
@@ -100,6 +99,7 @@
 *.dailywire.com +proxy
 *.databasearchitects.blogspot.com +proxy
 *.dealmoon.co.uk +proxy
+*.deb.debian.org
 *.deepai.org +proxy
 *.defidaonews.com +proxy
 *.denis.stalker.upeer.me

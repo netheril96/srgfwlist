@@ -102,6 +102,7 @@
 ||dailymotion.com
 ||dailywire.com
 ||dealmoon.co.uk
+||deb.debian.org
 ||deepai.org
 ||defidaonews.com
 ||denis.stalker.upeer.me
