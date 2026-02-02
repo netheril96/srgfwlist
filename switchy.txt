@@ -1,4 +1,3 @@
-*.gamerant.com
 *.0123456789nonexistent.com
 *.0d.kebhana.mx
 *.1337.abcvg.info
@@ -147,6 +146,7 @@
 *.fx168news.com +proxy
 *.fxempire.com +proxy
 *.g.cn
+*.gamerant.com
 *.gamerantimages.com +proxy
 *.gamespot.com +proxy
 *.gginsights.io +proxy
