@@ -1192,6 +1192,7 @@
 ||zyns.com
 ||zzux.com
 ||cloudflarestatus.com
+||pages.dev
 ||workers.dev
 ||one.one.one.one
 ||cloudflare-dns.com
@@ -1411,6 +1412,7 @@
 ||twitter.com
 ||twitter.jp
 ||vine.co
+||sef.org.tw
 ||gov.taipei
 ||gov.tw
 ||li.taipei
@@ -2833,6 +2835,7 @@
 ||gvlib.com
 ||gyalwarinpoche.com
 ||gyatsostudio.com
+||www.hoyolab.com
 ||hbomax.com
 ||hicairo.com
 ||herominers.com
