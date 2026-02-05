@@ -1,4 +1,3 @@
-*.ktvb.com
 *.0123456789nonexistent.com
 *.0d.kebhana.mx
 *.1337.abcvg.info
@@ -208,6 +207,7 @@
 *.koinly.io +proxy
 *.kraken.com +proxy
 *.ksapisrv.com +proxy
+*.ktvb.com
 *.lantern.io +proxy
 *.launchdarkly.com +proxy
 *.leetcode.com +proxy
