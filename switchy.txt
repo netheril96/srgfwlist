@@ -1,3 +1,4 @@
+*.ktvb.com
 *.0123456789nonexistent.com
 *.0d.kebhana.mx
 *.1337.abcvg.info
