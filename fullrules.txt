@@ -3426,6 +3426,7 @@
 ||ozvoice.org
 ||ozxw.com
 ||ozyoyo.com
+||prompthero.com
 ||pdst.fm
 ||static.pocketcasts.com
 ||partnerstack.xyz
