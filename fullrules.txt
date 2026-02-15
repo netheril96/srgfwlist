@@ -2254,6 +2254,7 @@
 ||futuremessage.org
 ||fw.cm
 ||fxcm-chinese.com
+||gmgn.ai
 ||grokipedia.com
 ||gfwbao.com
 ||greatfirevpn.com
