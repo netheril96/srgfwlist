@@ -1147,7 +1147,7 @@
 ||godoc.org
 ||golang.org
 ||goo.gl
-||gvt1.com]
+||gvt1.com
 ||gvt3.com
 ||gwtproject.org
 ||html5rocks.com
@@ -2765,6 +2765,7 @@
 ||lyfhk.net
 ||lzjscript.com
 ||lzmtnews.org
+||mosavi.io
 ||dcs-spotify.megaphone.fm
 ||mij.rip
 ||mji.rip
