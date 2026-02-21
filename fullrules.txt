@@ -1352,6 +1352,7 @@
 ||9bis.com
 ||9bis.net
 ||9news.com.au
+||akile.io
 ||aljazeera.net
 ||anuneko.com
 ||adguard-vpn.com
@@ -1661,6 +1662,7 @@
 ||bvpn.com
 ||bwh1.net
 ||bypasscensorship.org
+||www.clashverge.dev
 ||clementine-player.org
 ||backend-v2.crixet.com
 ||cchostvps.xyz
@@ -2765,6 +2767,7 @@
 ||lyfhk.net
 ||lzjscript.com
 ||lzmtnews.org
+||meee.com.tw
 ||mosavi.io
 ||dcs-spotify.megaphone.fm
 ||mij.rip
@@ -2921,6 +2924,7 @@
 ||myparagliding.com
 ||mypopescu.com
 ||myspacecdn.com
+||assets.nxtrace.org
 ||nephobox.com
 ||namu.wiki
 ||nirsoft.net
@@ -3021,6 +3025,7 @@
 ||nvtongzhisheng.org
 ||nyaa.eu
 ||nybooks.com
+||opencritic.com
 ||ooni.io
 ||files.oaiusercontent.com
 ||octocaptcha.com
