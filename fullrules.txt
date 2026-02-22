@@ -3594,6 +3594,7 @@
 ||sydneytoday.com
 ||sylfoundation.org
 ||syncback.com
+||tor.eff.org
 ||tails.net
 ||bbc.pdn.tritondigital.com
 ||terobox.com
