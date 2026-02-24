@@ -2077,6 +2077,7 @@
 ||expressvpn.com
 ||eyevio.jp
 ||eyny.com
+||freedom.gov
 ||hyperbeam.com
 ||flowgpt.com
 ||forefront.ai
