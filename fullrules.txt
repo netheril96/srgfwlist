@@ -1353,6 +1353,7 @@
 ||9bis.com
 ||9bis.net
 ||9news.com.au
+||arweave.org
 ||akile.io
 ||aljazeera.net
 ||anuneko.com
@@ -4023,6 +4024,7 @@
 ||vrporn.com
 ||vtunnel.com
 ||vuku.cc
+||wispbyte.com
 ||wallzhihu.com
 ||wikis.tw
 ||weights.com
