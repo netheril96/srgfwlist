@@ -2002,6 +2002,7 @@
 ||dwnews.net
 ||dynawebinc.com
 ||dysfz.cc
+||economist.com
 ||e621.net
 ||edx-cdn.org
 ||everipedia.org
@@ -4246,7 +4247,6 @@
 ||z-lib.io
 ||z-lib.org
 ||zalmos.com
-||zaobao.com.sg
 ||zdnet.com.tw
 ||zello.com
 ||zenmate.com
