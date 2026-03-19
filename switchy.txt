@@ -1,4 +1,3 @@
-*.packages.linuxmint.com
 *.0123456789nonexistent.com
 *.0d.kebhana.mx
 *.1337.abcvg.info
@@ -283,6 +282,7 @@
 *.orlandoweekly.com +proxy
 *.outbrain.com +proxy
 *.p4p.arenabg.com
+*.packages.linuxmint.com
 *.pancakeswap.finance +proxy
 *.pcgamer.com +proxy
 *.pcgamesn.com +proxy

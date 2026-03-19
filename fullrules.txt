@@ -277,6 +277,7 @@
 ||orlandoweekly.com
 ||outbrain.com
 ||p4p.arenabg.com
+||packages.linuxmint.com
 ||pancakeswap.finance
 ||pcgamer.com
 ||pcgamesn.com
