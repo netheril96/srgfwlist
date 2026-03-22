@@ -1,4 +1,3 @@
-*.nextcloud.com
 *.0123456789nonexistent.com
 *.0d.kebhana.mx
 *.1337.abcvg.info
@@ -255,6 +254,7 @@
 *.ndmctsgh.edu.tw +proxy
 *.neoseeker.com +proxy
 *.newrepublic.com +proxy
+*.nextcloud.com
 *.nexus-cdn.com +proxy
 *.nexusmods.com +proxy
 *.nhri.org.tw +proxy

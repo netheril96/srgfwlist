@@ -249,6 +249,7 @@
 ||ndmctsgh.edu.tw
 ||neoseeker.com
 ||newrepublic.com
+||nextcloud.com
 ||nexus-cdn.com
 ||nexusmods.com
 ||nhri.org.tw
