@@ -1138,6 +1138,7 @@
 ||duck.com
 ||feedburner.com
 ||firebaseio.com
+||crashlytics.com
 ||g.co
 ||gcr.io
 ||get.app
