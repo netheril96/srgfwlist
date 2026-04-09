@@ -1357,6 +1357,9 @@
 ||9bis.com
 ||9bis.net
 ||9news.com.au
+||annas-archive.gd
+||annas-archive.gl
+||annas-archive.pk
 ||archive-it.org
 ||arweave.org
 ||akile.io
@@ -1369,13 +1372,8 @@
 ||abplive.com
 ||aomedia.org
 ||akinator.com
-||annas-archive.org
-||annas-archive.in
-||annas-archive.li
-||annas-archive.pm
 ||av01.tv
 ||acg.rip
-||annas-archive.se
 ||a-normal-day.com
 ||aamacau.com
 ||abc.net.au
