@@ -1,4 +1,3 @@
-*.slashskill.com
 *.0123456789nonexistent.com
 *.0d.kebhana.mx
 *.1337.abcvg.info
@@ -340,6 +339,7 @@
 *.shuzijumin.com +proxy
 *.simgbb.com +proxy
 *.slashdot.org
+*.slashskill.com
 *.slate.com +proxy
 *.smileunionpay.com +proxy
 *.social
