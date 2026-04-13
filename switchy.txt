@@ -1,4 +1,3 @@
-*.trueachievements.com
 *.0123456789nonexistent.com
 *.0d.kebhana.mx
 *.1337.abcvg.info
@@ -425,6 +424,7 @@
 *.transmissionbt.com +proxy
 *.travis-ci.com +proxy
 *.travis-ci.org +proxy
+*.trueachievements.com
 *.truthout.org +proxy
 *.ttwstatic.com +proxy
 *.tutorialspoint.com +proxy
