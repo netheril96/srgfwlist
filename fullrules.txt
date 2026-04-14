@@ -2420,8 +2420,6 @@
 ||hitomi.la
 ||hk-pub.com
 ||hk01.com
-||hkacg.com
-||hkacg.net
 ||hkbookcity.com
 ||hkchronicles.com
 ||hkcnews.com
@@ -2926,7 +2924,6 @@
 ||mullvad.net
 ||muzi.com
 ||muzi.net
-||mx981.com
 ||my-private-network.co.uk
 ||myaudiocast.com
 ||bbs.mychat.to
@@ -3040,6 +3037,7 @@
 ||nvtongzhisheng.org
 ||nyaa.eu
 ||nybooks.com
+||openart.ai
 ||osmand.net
 ||oklink.com
 ||okcoin.com
@@ -4036,7 +4034,6 @@
 ||vrchat.com
 ||vrporn.com
 ||vtunnel.com
-||vuku.cc
 ||wispbyte.com
 ||wallzhihu.com
 ||wikis.tw
@@ -4177,7 +4174,6 @@
 ||xing.com
 ||xinjiangpolicefiles.org
 ||xinmiao.com.hk
-||xjp.cc
 ||xjtravelguide.com
 ||xml-training-guide.com
 ||xnxx.com
