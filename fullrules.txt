@@ -1404,7 +1404,6 @@
 ||aiosearch.com
 ||aiph.net
 ||airconsole.com
-||download.aircrack-ng.org
 ||airvpn.org
 ||ait.org.tw
 ||aiweiweiblog.com
