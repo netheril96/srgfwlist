@@ -257,6 +257,7 @@
 ||nitrocdn.com
 ||noemamag.com
 ||nowpayments.io
+||npmjs.org
 ||npttech.com
 ||nthlink.com
 ||numpy.org

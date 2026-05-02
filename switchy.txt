@@ -1,4 +1,3 @@
-*.npmjs.org
 *.0123456789nonexistent.com
 *.0d.kebhana.mx
 *.1337.abcvg.info
@@ -263,6 +262,7 @@
 *.nitrocdn.com +proxy
 *.noemamag.com
 *.nowpayments.io +proxy
+*.npmjs.org
 *.npttech.com +proxy
 *.nthlink.com +proxy
 *.numpy.org +proxy
