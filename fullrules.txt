@@ -81,6 +81,7 @@
 ||cloudfareinsights.com
 ||cloudflare-eth.com
 ||cloudflare.com
+||cloudflarestorage.com
 ||cmake.org
 ||cms-twdigitalassets.com
 ||cnbtkitty.com

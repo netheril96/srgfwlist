@@ -1,4 +1,3 @@
-*.cloudflarestorage.com
 *.0123456789nonexistent.com
 *.0d.kebhana.mx
 *.1337.abcvg.info
@@ -77,6 +76,7 @@
 *.cloudfareinsights.com +proxy
 *.cloudflare-eth.com +proxy
 *.cloudflare.com +proxy
+*.cloudflarestorage.com
 *.cmake.org +proxy
 *.cms-twdigitalassets.com +proxy
 *.cnbtkitty.com +proxy
