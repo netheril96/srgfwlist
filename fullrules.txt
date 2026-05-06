@@ -1356,6 +1356,7 @@
 ||9bis.com
 ||9bis.net
 ||9news.com.au
+||acg.mn
 ||asiasociety.org
 ||avistaz.to
 ||annas-archive.gd
@@ -1514,6 +1515,8 @@
 ||axureformac.com
 ||azirevpn.com
 ||boxun*.azurewebsites.net
+||boomplay.com
+||bleepingcomputer.com
 ||bellingcat.com
 ||bittorrent.com
 ||help.byspotify.com
@@ -1668,6 +1671,8 @@
 ||bvpn.com
 ||bwh1.net
 ||bypasscensorship.org
+||ctinsider.com
+||cnbc.com
 ||cia.gov
 ||claude.com
 ||www.clashverge.dev
@@ -2011,6 +2016,7 @@
 ||dwnews.net
 ||dynawebinc.com
 ||dysfz.cc
+||edigest.hk
 ||app.element.io
 ||economist.com
 ||e621.net
@@ -2363,6 +2369,7 @@
 ||gumroad.com
 ||gunsamerica.com
 ||gvlib.com
+||hive.blog
 ||hembed.com
 ||www.hoyolab.com
 ||hbomax.com
@@ -2486,6 +2493,7 @@
 ||hyperrate.com
 ||hypothes.is
 ||ebook.hyread.com.tw
+||infosec.exchange
 ||idcflare.com
 ||interseclab.org
 ||itiger.com
@@ -2648,6 +2656,7 @@
 ||justhost.ru
 ||justmysocks1.net
 ||juziyue.com
+||kathmandupost.com
 ||kingkong.com.tw
 ||kanald.com.tr
 ||kpkuang.org
@@ -2697,6 +2706,8 @@
 ||kxsw.life
 ||kzaobao.com
 ||kzeng.info
+||libgen.is
+||lemonde.fr
 ||lovart.ai
 ||library-access.sk
 ||linux.do
@@ -2780,6 +2791,8 @@
 ||lyfhk.net
 ||lzjscript.com
 ||lzmtnews.org
+||mjj.today
+||mediamatters.org
 ||mistral.ai
 ||manus.im
 ||meee.com.tw
@@ -2937,6 +2950,10 @@
 ||myparagliding.com
 ||mypopescu.com
 ||myspacecdn.com
+||nfscofficial.com
+||nfsc.press
+||newstimes.com
+||newshub.co.nz
 ||assets.nxtrace.org
 ||nephobox.com
 ||namu.wiki
@@ -3038,6 +3055,7 @@
 ||nvtongzhisheng.org
 ||nyaa.eu
 ||nybooks.com
+||overdrive.com
 ||openart.ai
 ||osmand.net
 ||oklink.com
@@ -3104,6 +3122,7 @@
 ||www.oxid.it
 ||ow.ly
 ||ozvoice.org
+||penguin.com.au
 ||prompthero.com
 ||pdst.fm
 ||static.pocketcasts.com
@@ -3302,6 +3321,7 @@
 ||qtrac.eu
 ||quitccp.org
 ||quran.com
+||rts.ch
 ||rawstory.com
 ||recordedfuture.com
 ||roblox.com
@@ -3390,6 +3410,7 @@
 ||rutracker.net
 ||rutracker.org
 ||rxhj.net
+||sinchew.com.my
 ||softether.co.jp
 ||shitjournal.org
 ||spacex.com
@@ -3616,6 +3637,10 @@
 ||sydneytoday.com
 ||sylfoundation.org
 ||syncback.com
+||tvdy1.com
+||tgstat.com
+||the-sun.com
+||theweek.com
 ||techbang.com
 ||thinkchina.sg
 ||tor.eff.org
@@ -4042,6 +4067,7 @@
 ||vrchat.com
 ||vrporn.com
 ||vtunnel.com
+||worldjournal.com
 ||wispbyte.com
 ||wallzhihu.com
 ||wikis.tw
