@@ -162,6 +162,8 @@
 ||githubassets.com
 ||gitter.im
 ||go.com
+||go.dev
+||golang.org
 ||gresearch.com
 ||gstatic.com
 ||guruin.com
@@ -256,6 +258,7 @@
 ||nhri.org.tw
 ||nicehash.com
 ||nitrocdn.com
+||nodejs.org
 ||noemamag.com
 ||nowpayments.io
 ||npmjs.org
@@ -1149,7 +1152,6 @@
 ||gmail.com
 ||gmodules.com
 ||godoc.org
-||golang.org
 ||goo.gl
 ||gvt1.com
 ||gvt3.com
