@@ -3057,6 +3057,7 @@
 ||nvtongzhisheng.org
 ||nyaa.eu
 ||nybooks.com
+||umap.openstreetmap.fr
 ||overdrive.com
 ||openart.ai
 ||osmand.net
