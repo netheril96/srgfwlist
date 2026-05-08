@@ -1,4 +1,3 @@
-*.ghcr.io/
 *.0123456789nonexistent.com
 *.0d.kebhana.mx
 *.1337.abcvg.info
@@ -153,6 +152,7 @@
 *.gamerantimages.com +proxy
 *.gamespot.com +proxy
 *.gginsights.io +proxy
+*.ghcr.io/
 *.gitbook.com +proxy
 *.gitbook.io +proxy
 *.githack.com +proxy

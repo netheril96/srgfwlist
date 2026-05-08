@@ -155,6 +155,7 @@
 ||gamerantimages.com
 ||gamespot.com
 ||gginsights.io
+||ghcr.io/
 ||gitbook.com
 ||gitbook.io
 ||githack.com
