@@ -152,7 +152,7 @@
 *.gamerantimages.com +proxy
 *.gamespot.com +proxy
 *.gginsights.io +proxy
-*.ghcr.io/
+*.ghcr.io
 *.gitbook.com +proxy
 *.gitbook.io +proxy
 *.githack.com +proxy
