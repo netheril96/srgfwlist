@@ -199,6 +199,7 @@
 ||iole.tv
 ||iphonelife.com
 ||ipify.org
+||ish.app
 ||itefix.net
 ||iyf.tv
 ||jetbrains.com
@@ -449,6 +450,7 @@
 ||wapo.st
 ||washingtonexaminer.com
 ||wasi.dev
+||web.app
 ||website-files.com
 ||weizenrestaurant.com
 ||whichbrowser.net
