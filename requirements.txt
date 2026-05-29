@@ -1,5 +1,5 @@
 GitPython
 webdav4
 PyYaml
-requests
+httpx
 pytest

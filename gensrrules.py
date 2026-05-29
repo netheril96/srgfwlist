@@ -1,5 +1,5 @@
 from typing import Dict, Iterable, List, Optional, Sequence, TextIO
-import requests
+import httpx
 import base64
 import argparse
 import json
@@ -134,11 +134,11 @@ def main():
     parser = argparse.ArgumentParser()
     args = parser.parse_args()
     gfwlist = (
-        base64.b64decode(requests.get(GFWLIST_URL).text).decode("utf-8").splitlines()
+        base64.b64decode(httpx.get(GFWLIST_URL).text).decode("utf-8").splitlines()
     )
     d1 = gfwlist_to_domain_suffices(gfwlist=gfwlist)
     ip_ranges = get_blocked_ip_ranges()
-    clash_proxy_data = yaml.safe_load(requests.get(CLASH_PROXY_URL).text)
+    clash_proxy_data = yaml.safe_load(httpx.get(CLASH_PROXY_URL).text)
     d4 = clash_to_domain_suffices(clash_proxy_data["payload"])
     with open("custom.txt") as f:
         d2 = domainlist_to_domain_suffices(f)
@@ -164,7 +164,7 @@ def main():
 
 
 def get_blocked_ip_ranges() -> List[str]:
-    telegram_ranges = requests.get(TELEGRAM_CIDR_URL).text.splitlines()
+    telegram_ranges = httpx.get(TELEGRAM_CIDR_URL).text.splitlines()
     result = set()
     for line in telegram_ranges:
         line = line.strip()
