@@ -3,9 +3,13 @@ import requests
 import base64
 import argparse
 import json
+import yaml
 
 GFWLIST_URL = "https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt"
 TELEGRAM_CIDR_URL = "https://core.telegram.org/resources/cidr.txt"
+CLASH_PROXY_URL = (
+    "https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/proxy.txt"
+)
 
 
 class TrieNode:
@@ -97,6 +101,20 @@ def switchylist_to_domain_suffices(l: Iterable[str]) -> List[str]:
     return domain_suffices
 
 
+def clash_to_domain_suffices(l: Iterable[str]) -> List[str]:
+    domain_suffices = []
+    for line in l:
+        line = line.strip()
+        if not line:
+            continue
+        if line.startswith("*."):
+            line = line[2:]
+        elif line.startswith("+."):
+            line = line[2:]
+        domain_suffices.append(line)
+    return domain_suffices
+
+
 def combine_domain_suffices(*domain_suffices: Sequence[str]) -> List[str]:
     original_order: Dict[str, int] = {}
     counter = 0
@@ -119,11 +137,13 @@ def main():
     )
     d1 = gfwlist_to_domain_suffices(gfwlist=gfwlist)
     ip_ranges = get_blocked_ip_ranges()
+    clash_proxy_data = yaml.safe_load(requests.get(CLASH_PROXY_URL).text)
+    d4 = clash_to_domain_suffices(clash_proxy_data["payload"])
     with open("custom.txt") as f:
         d2 = domainlist_to_domain_suffices(f)
     with open("switchy.txt") as f:
         d3 = switchylist_to_domain_suffices(f)
-    combined = combine_domain_suffices(d3, d2, d1)
+    combined = combine_domain_suffices(d3, d2, d1, d4)
     with open("fullrules.conf", "w", newline="\n") as f:
         write_shadowrocket_rules(f, combined, ip_ranges)
     with open("domains.srs", mode="w", newline="\n") as f:

@@ -10,3 +10,20 @@ def test_combine():
         "cloud.net",
         "aaa.ccc",
     ]
+
+
+def test_clash_to_domain_suffices():
+    input_data = [
+        "example.com",
+        "*.google.com",
+        "+.facebook.com",
+        "  trimmed.org  ",
+        "",
+    ]
+    expected = [
+        "example.com",
+        "google.com",
+        "facebook.com",
+        "trimmed.org",
+    ]
+    assert gensrrules.clash_to_domain_suffices(input_data) == expected
