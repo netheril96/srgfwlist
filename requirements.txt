@@ -1,2 +1,3 @@
 GitPython
 webdav4
+PyYaml
