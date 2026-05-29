@@ -1,0 +1,25 @@
+name: Run Script and Commit
+
+on:
+  push:
+  schedule:
+    - cron:  '17 */4 * * *'
+jobs:
+  build:
+    runs-on: ubuntu-latest # Define runner OS
+    steps:
+      - uses: actions/checkout@v4
+        with:
+            fetch-depth: 0
+      - uses: actions/setup-python@v5
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+      - name: Run script
+        run:  python dedupe.py && python gensrrules.py && python upload_modified.py
+        env:
+          WEBDAV_PASS: ${{ secrets.WEBDAVPASS }}
+          WEBDAV_URI: ${{ secrets.WEBDAVURI }}
+      - name: Commit & Push changes
+        uses: devops-infra/action-commit-push@v1.2.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}

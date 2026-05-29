@@ -1,0 +1,488 @@
+*.0123456789nonexistent.com
+*.0d.kebhana.mx
+*.1337.abcvg.info
+*.19950817.xyz +proxy
+*.1point3acres.com +proxy
+*.6v123.net +proxy
+*.8v.com +proxy
+*.9gag.com +proxy
+*.academictorrents.com +proxy
+*.ad-delivery.net +proxy
+*.addons.mozilla.org +proxy
+*.addthis.com +proxy
+*.adsninja.ca +proxy
+*.agriculture.com +proxy
+*.ai.dev +proxy
+*.aicoin.com +proxy
+*.akamaihd.net +proxy
+*.akamaized.net +proxy
+*.aljazeera.com +proxy
+*.alpinelinux.org +proxy
+*.amazon-adsystem.com +proxy
+*.amazon.com +proxy
+*.amazonaws.com +proxy
+*.amd.com +proxy
+*.analyticsvidhya.com +proxy
+*.api.themoviedb.org
+*.apibay.org +proxy
+*.apnic.net +proxy
+*.arbitrum.io +proxy
+*.arbitrum.one +proxy
+*.archive.org +proxy
+*.archive.ubuntu.com
+*.arcpublishing.com +proxy
+*.arena.ai
+*.arstechnica.net +proxy
+*.asus.com +proxy
+*.autisticempire.com +proxy
+*.awswaf.com
+*.axosbank.com +proxy
+*.backpack.exchange +proxy
+*.bandainamcoent.eu +proxy
+*.bet365.com +proxy
+*.bigbrain.gg +proxy
+*.bitcoin.com +proxy
+*.bitkan.com +proxy
+*.bitmart.com
+*.bitpay.com +proxy
+*.bitsearch.to +proxy
+*.bittorrent-tracker.e-n-c-r-y-p-t.net
+*.blockchain.com +proxy
+*.blogspot.com +proxy
+*.bluestacks.com +proxy
+*.bollenhurkle.com +proxy
+*.boost.org +proxy
+*.bootstrapcdn.com +proxy
+*.breitbart.com +proxy
+*.bt-tt.cc +proxy
+*.bt-tt.com +proxy
+*.bt.poletracker.org
+*.bt1.xxxxbt.cc
+*.bt2160.com +proxy
+*.btc.com +proxy
+*.btjia.com +proxy
+*.btsearch.love +proxy
+*.bttt11.com +proxy
+*.btzj.net +proxy
+*.buny.uk
+*.bytedapm.com +proxy
+*.c.gle +proxy
+*.caddyserver.com +proxy
+*.canonical.com +proxy
+*.cex.io +proxy
+*.changelly.com +proxy
+*.chartbeat.com +proxy
+*.chinaq.tv +proxy
+*.cloudfareinsights.com +proxy
+*.cloudflare-eth.com +proxy
+*.cloudflare.com +proxy
+*.cloudflarestorage.com
+*.cmake.org +proxy
+*.cms-twdigitalassets.com +proxy
+*.cnbtkitty.com +proxy
+*.cnn.com +proxy
+*.coinbase.com +proxy
+*.coincarp.com +proxy
+*.coindesk.com +proxy
+*.coinglass.com +proxy
+*.coinglasscdn.com +proxy
+*.coinzillatag.com +proxy
+*.connatix.com +proxy
+*.cookielaw.org +proxy
+*.craiyon.com +proxy
+*.crates.io
+*.crates.io +proxy
+*.creativefabrica.com +proxy
+*.crypto.com +proxy
+*.cryptomus.com
+*.cryptopp.com +proxy
+*.cryptotradingcafe.com +proxy
+*.dailymotion.com +proxy
+*.dailywire.com +proxy
+*.databasearchitects.blogspot.com +proxy
+*.dealmoon.co.uk +proxy
+*.deb.debian.org
+*.deepai.org +proxy
+*.defidaonews.com +proxy
+*.denis.stalker.upeer.me
+*.digitalnomadlc.com +proxy
+*.dilcdn.com +proxy
+*.discord.com +proxy
+*.discord.gg +proxy
+*.discourse-cdn.com +proxy
+*.disney.io +proxy
+*.dmit.io +proxy
+*.docker.io +proxy
+*.domp4.icu +proxy
+*.domp4.net +proxy
+*.doubleclick.net +proxy
+*.downloadhelper.net +proxy
+*.dy2018.com +proxy
+*.dydx.exchange +proxy
+*.dyncdn.me +proxy
+*.eastday.com +proxy
+*.ebrary.net +proxy
+*.echotubaobao.com +proxy
+*.epicgames.com +proxy
+*.escapistmagazine.com +proxy
+*.exodus.com +proxy
+*.extrabux.com +proxy
+*.facebook.net +proxy
+*.feikebt.com +proxy
+*.fiat24.com +proxy
+*.finbytes.org
+*.firstrade.com +proxy
+*.firstrade.net +proxy
+*.fluence.network +proxy
+*.fontawesome.com +proxy
+*.forbes.com +proxy
+*.forhims.com +proxy
+*.fortune.com +proxy
+*.foxbusiness.com +proxy
+*.foxnews.com +proxy
+*.fragment.com +proxy
+*.freebsd.org
+*.freedesktop.org +proxy
+*.freerdp.com +proxy
+*.fsdn.com +proxy
+*.fx168news.com +proxy
+*.fxempire.com +proxy
+*.g.cn
+*.gamerant.com
+*.gamerantimages.com +proxy
+*.gamespot.com +proxy
+*.gginsights.io +proxy
+*.ghcr.io
+*.gitbook.com +proxy
+*.gitbook.io +proxy
+*.githack.com +proxy
+*.github.community +proxy
+*.githubassets.com +proxy
+*.gitter.im +proxy
+*.go.com +proxy
+*.go.dev
+*.golang.org
+*.google-analytics.com +proxy
+*.google.com +proxy
+*.googlesyndication.com +proxy
+*.googletagmanager.com +proxy
+*.googletagservices.com +proxy
+*.gresearch.com +proxy
+*.gstatic.com +proxy
+*.guruin.com +proxy
+*.h-cdn.com +proxy
+*.haitu.tv +proxy
+*.haiwaikan.com +proxy
+*.hcaptcha.com +proxy
+*.hdmoviesworld.xyz +proxy
+*.highteahop.top
+*.home.yxgz.club
+*.hotexamples.com +proxy
+*.htx.com +proxy
+*.huggingface.co +proxy
+*.hysteria.network +proxy
+*.ibb.co +proxy
+*.ibkr.com +proxy
+*.ibytedtos.com +proxy
+*.iconcardinal.com +proxy
+*.idev.dev +proxy
+*.idgesg.net +proxy
+*.idrlabs.com +proxy
+*.imdb.com +proxy
+*.immd.gov.hk +proxy
+*.immihelp.com
+*.infinitywallet.io +proxy
+*.infoworld.com +proxy
+*.infura.io +proxy
+*.insiderpaper.com +proxy
+*.interactivebrokers.com +proxy
+*.internet2.edu +proxy
+*.intodns.com +proxy
+*.iole.tv +proxy
+*.iphonelife.com +proxy
+*.ipify.org +proxy
+*.ish.app
+*.itefix.net +proxy
+*.iyf.tv +proxy
+*.jetbrains.com +proxy
+*.jinrongwang.net +proxy
+*.jupyterbook.org +proxy
+*.jwplayer.com +proxy
+*.kaltura.com +proxy
+*.klickl.com +proxy
+*.koinly.io +proxy
+*.kraken.com +proxy
+*.ksapisrv.com +proxy
+*.ktvb.com
+*.lantern.io +proxy
+*.launchdarkly.com +proxy
+*.leetcode.com +proxy
+*.lencr.org
+*.letsencrypt.org +proxy
+*.lifecell.ua +proxy
+*.liminstudio.blogspot.com +proxy
+*.linuxcapable.com +proxy
+*.llli.org +proxy
+*.lmarena.ai +proxy
+*.loanspq.com +proxy
+*.localcard.hk +proxy
+*.localizeapi.com +proxy
+*.loldytt.com +proxy
+*.long2ice.io +proxy
+*.mac.gov.tw +proxy
+*.macrumors.com +proxy
+*.magnetdl.com +proxy
+*.magnetdl.hair +proxy
+*.magnetdl.homes +proxy
+*.maketecheasier.com +proxy
+*.man7.org +proxy
+*.mapgenie.io +proxy
+*.marketo.com +proxy
+*.max.com +proxy
+*.mdpi.com +proxy
+*.media-amazon.com +proxy
+*.megpxs.com +proxy
+*.mexc.com +proxy
+*.michigan.gov +proxy
+*.mirror.pkgbuild.com
+*.mirror.xyz +proxy
+*.mitmproxy.org
+*.mobalytics.gg +proxy
+*.morningstar.com +proxy
+*.moviesfun.site +proxy
+*.mp4us.com +proxy
+*.myprotein.cn +proxy
+*.myworkday.com
+*.n26.com +proxy
+*.nabble.com +proxy
+*.naehrdine.blogspot.com +proxy
+*.ndmctsgh.edu.tw +proxy
+*.neoseeker.com +proxy
+*.newrepublic.com +proxy
+*.nextcloud.com
+*.nexus-cdn.com +proxy
+*.nexusmods.com +proxy
+*.nhri.org.tw +proxy
+*.nicehash.com +proxy
+*.nitrocdn.com +proxy
+*.nodejs.org
+*.noemamag.com
+*.nowpayments.io +proxy
+*.npmjs.org
+*.npttech.com +proxy
+*.nthlink.com +proxy
+*.numpy.org +proxy
+*.nyaa.si +proxy
+*.oaistatic.com
+*.olehdtv.com +proxy
+*.olevod.com +proxy
+*.onekey.so +proxy
+*.oneplus.com +proxy
+*.onerousethelpictures.com +proxy
+*.onesignal.com +proxy
+*.onlinedisassembler.com +proxy
+*.onlyguides.com +proxy
+*.ooni.org +proxy
+*.op.gg +proxy
+*.open.demonii.si
+*.open.trackerlist.xyz
+*.opencollective.com +proxy
+*.orlandoweekly.com +proxy
+*.outbrain.com +proxy
+*.p4p.arenabg.com
+*.packages.linuxmint.com
+*.pancakeswap.finance +proxy
+*.pcgamer.com +proxy
+*.pcgamesn.com +proxy
+*.photoup.net +proxy
+*.piratebayproxy.info +proxy
+*.pjmedia.com +proxy
+*.pkuanvil.com +proxy
+*.pnas.org +proxy
+*.poe.com +proxy
+*.poecdn.net +proxy
+*.police.uk
+*.politico.eu +proxy
+*.polygon.com +proxy
+*.polymarket.com +proxy
+*.postimg.cc +proxy
+*.postimgs.org +proxy
+*.prcdn.co +proxy
+*.pressreader.com +proxy
+*.public.tracker.vraphim.com
+*.puffin.com +proxy
+*.qbittorrent.org +proxy
+*.r10s.jp +proxy
+*.rakuten.co.jp +proxy
+*.ramnode.com +proxy
+*.rarbg.to
+*.rarbg.to +proxy
+*.rclone.org +proxy
+*.redd.it +proxy
+*.reddit.com +proxy
+*.redditmedia.com +proxy
+*.redditspace.com +proxy
+*.redian.news +proxy
+*.redventures.io +proxy
+*.remarkablycommunity.com +proxy
+*.retracker.spark-rostov.ru
+*.reuters.tv
+*.rsms.me +proxy
+*.rust-lang.org
+*.s3.us-east-2.amazonaws.com +proxy
+*.sagernet.org +proxy
+*.sardine.ai +proxy
+*.scdn.co +direct
+*.sciencedirect.com +proxy
+*.scorecardresearch.com +proxy
+*.seeders-paradise.org
+*.segment.com +proxy
+*.segmentnextimages.com +proxy
+*.servandroidkino.ru
+*.sewest.net +direct
+*.share.hkg-fansub.info
+*.sharethis.com +proxy
+*.shubt.net
+*.shuzijumin.com +proxy
+*.simgbb.com +proxy
+*.slashdot.org
+*.slashskill.com
+*.slate.com +proxy
+*.smileunionpay.com +proxy
+*.social
+*.soupian.app +proxy
+*.sqlitetutorial.net +proxy
+*.square-enix-games.com +direct
+*.sstatic.net +proxy
+*.stackexchange.com +proxy
+*.stackoverflow.com +proxy
+*.stackpathcdn.com +proxy
+*.starwars.com +proxy
+*.staticworld.net +proxy
+*.steamdb.info +proxy
+*.steampowered.com +proxy
+*.steamspy.com +proxy
+*.steamstatic.com +proxy
+*.steeplereconciliation.com +proxy
+*.storj.io +proxy
+*.stripe.com +proxy
+*.substack.com +proxy
+*.supergorand.cloud +proxy
+*.supremecourt.gov +proxy
+*.t.jaekr.sh
+*.t.overflow.biz
+*.tangibleabstraction.com +proxy
+*.techhive.com +proxy
+*.techtaalk.com +proxy
+*.telegram.org +TCP
+*.telegramgroup.org +proxy
+*.thefederalist.com +proxy
+*.thegamer.com +proxy
+*.thegamerimages.com +proxy
+*.thehill.com +proxy
+*.thepiratebay10.info +proxy
+*.tiktok.com +proxy
+*.tiktokcdn-us.com +proxy
+*.tiktokcdn.com +proxy
+*.tiktokv.com +proxy
+*.tiktokv.us +proxy
+*.tinhte.vn +proxy
+*.tokenize.exchange +proxy
+*.tommycoolman.com +proxy
+*.tomshardware.com +proxy
+*.torrends.to +proxy
+*.torrentgalaxy.to +proxy
+*.torrentseeker.com +proxy
+*.torrindex.net +proxy
+*.townhall.com +proxy
+*.tr.kxmp.cf
+*.tracker.23794.top
+*.tracker.bittor.pw
+*.tracker.bt-hash.com
+*.tracker.bt4g.com
+*.tracker.bz
+*.tracker.cl
+*.tracker.coppersurfer.tk
+*.tracker.corpscorp.online
+*.tracker.dler.com
+*.tracker.dler.org
+*.tracker.dmcomic.org
+*.tracker.ghostchu-services.top
+*.tracker.ipv6tracker.org
+*.tracker.leechers-paradise.org
+*.tracker.lintk.me
+*.tracker.moxing.party
+*.tracker.mywaifu.best
+*.tracker.open-internet.nl
+*.tracker.opentrackr.org
+*.tracker.pirateparty.gr
+*.tracker.qu.ax
+*.tracker.renfei.net
+*.tracker.sbsub.com
+*.tracker.vanitycore.co
+*.tracker.waaa.moe
+*.tracker.xiaoduola.xyz
+*.tracker.zhuqiy.top
+*.tracker1.bt.moack.co.kr
+*.tracker1.itzmx.com
+*.tracker2.dler.org
+*.tracker810.xyz
+*.transak.com +proxy
+*.transmissionbt.com +proxy
+*.travis-ci.com +proxy
+*.travis-ci.org +proxy
+*.trueachievements.com
+*.truthout.org +proxy
+*.ttwstatic.com +proxy
+*.tutorialspoint.com +proxy
+*.typekit.net +proxy
+*.u.gg +proxy
+*.uchicago.edu +proxy
+*.ufuk.edu.tr +proxy
+*.unecne.com +proxy
+*.unhappyweakness.com +proxy
+*.uniswap.org +proxy
+*.unpkg.com +proxy
+*.upi.com +proxy
+*.usatoday.com +proxy
+*.uscourts.gov +proxy
+*.usdailyrewards.com +proxy
+*.v2ex.com +proxy
+*.v2rayssr.com +proxy
+*.v82u1l.com +proxy
+*.valuerstarringarmistice.com +proxy
+*.venus7202.com +proxy
+*.videolan.org +proxy
+*.vox.com +proxy
+*.vulkk.com +proxy
+*.walletconnect.com +proxy
+*.walletconnect.org +proxy
+*.wapo.st +proxy
+*.washingtonexaminer.com +proxy
+*.wasi.dev
+*.web.app
+*.website-files.com +proxy
+*.weizenrestaurant.com +proxy
+*.whichbrowser.net +proxy
+*.wi-fi.org +proxy
+*.wikihow.com +proxy
+*.winfsp.dev +proxy
+*.wireshark.org
+*.wix.com
+*.wpadmngr.com +proxy
+*.www.genesis-sp.org
+*.www.torrentsnipe.info
+*.x.ai +proxy
+*.x.com +proxy
+*.xiaoxintv.net +proxy
+*.xlmp4.com +proxy
+*.xposed.info +proxy
+*.youku-tv.blogspot.com +proxy
+*.youtube.com +proxy
+*.yts.mx +proxy
+*.za.group +proxy
+*.zajourney.com +proxy
+*.zdassets.com +proxy
+*.zerotier.com
+*.zhongan.io +proxy
+*.zmk.pw +proxy
