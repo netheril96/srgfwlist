@@ -27,3 +27,9 @@ def test_clash_to_domain_suffices():
         "trimmed.org",
     ]
     assert gensrrules.clash_to_domain_suffices(input_data) == expected
+
+
+def test_trailing_dots():
+    d1 = ["google.com."]
+    d2 = ["google.com"]
+    assert gensrrules.combine_domain_suffices(d1, d2) == ["google.com"]

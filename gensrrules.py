@@ -121,6 +121,7 @@ def combine_domain_suffices(*domain_suffices: Sequence[str]) -> List[str]:
     trie = Trie()
     for d in domain_suffices:
         for key in d:
+            key = key.rstrip(".")
             trie.add_path(key.split(".")[::-1])
             original_order.setdefault(key, counter)
             counter += 1
