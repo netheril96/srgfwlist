@@ -6,6 +6,7 @@ def test_combine():
     d2 = ["1.com", "1.com", "cloud.net", "aaa.ccc"]
     assert gensrrules.combine_domain_suffices(d1, d2) == [
         "1.com",
+        "google.com",
         "cloud.net",
         "aaa.ccc",
     ]

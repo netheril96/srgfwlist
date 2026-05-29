@@ -103,10 +103,9 @@ def combine_domain_suffices(*domain_suffices: Sequence[str]) -> List[str]:
     trie = Trie()
     for d in domain_suffices:
         for key in d:
-            if "google" not in key:
-                trie.add_path(key.split(".")[::-1])
-                original_order.setdefault(key, counter)
-                counter += 1
+            trie.add_path(key.split(".")[::-1])
+            original_order.setdefault(key, counter)
+            counter += 1
     result = [".".join(p[::-1]) for p in trie.traverse_all_paths()]
     result.sort(key=lambda p: original_order[p])
     return result
@@ -114,9 +113,6 @@ def combine_domain_suffices(*domain_suffices: Sequence[str]) -> List[str]:
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--server", help="Address of the server")
-    parser.add_argument("--port", help="Port of the server", type=int, default=-1)
-    parser.add_argument("--password", help="Password")
     args = parser.parse_args()
     gfwlist = (
         base64.b64decode(requests.get(GFWLIST_URL).text).decode("utf-8").splitlines()
@@ -139,20 +135,11 @@ def main():
     with open("fullrules.txt", "w", newline="\n") as f:
         f.write(
             """[Autoproxy]
-/google/
-@@||cn
-@@||rsy.duckdns.org
-@@||rsyhome.duckdns.org
 
-"""
+            """
         )
         for key in combined:
             f.write(f"||{key}\n")
-    if args.server:
-        with open("leaf.conf", "w", newline="\n") as f:
-            write_leaf_rules(
-                f, combined, ip_ranges, args.server, args.port, args.password
-            )
 
 
 def get_blocked_ip_ranges() -> List[str]:
@@ -173,7 +160,7 @@ def write_shadowrocket_rules(
 ipv6 = true
 prefer-ipv6 = true
 bypass-system = true
-skip-proxy = 192.168.0.0/16, 10.0.0.0/8, 172.16.0.0/12, fe80::/10, localhost, *.local, e.crashlytics.com, captive.apple.com, *.rsy.duckdns.org, *.rsyhome.duckdns.org, *.cn, rsy.duckdns.org, rsyhome.duckdns.org
+skip-proxy = 192.168.0.0/16, 10.0.0.0/8, 172.16.0.0/12, fe80::/10, localhost, *.local, e.crashlytics.com, captive.apple.com 
 bypass-tun = fe80::/10, 10.0.0.0/8,100.64.0.0/10,127.0.0.0/8,169.254.0.0/16,172.16.0.0/12,192.0.0.0/24,192.0.2.0/24,192.88.99.0/24,192.168.0.0/16,198.18.0.0/15,198.51.100.0/24,203.0.113.0/24,224.0.0.0/4,255.255.255.255/32
 dns-server = system
 icmp-auto-reply=true
@@ -182,10 +169,6 @@ dns-direct-fallback-proxy=true
 udp-policy-not-supported-behavior=DIRECT
 
 [Rule]
-DOMAIN-KEYWORD,google,Proxy
-DOMAIN-SUFFIX,cn,Direct
-DOMAIN-SUFFIX,rsyhome.duckdns.org,Direct
-DOMAIN-SUFFIX,rsy.duckdns.org,Direct
 """
     )
     for d in domain_suffices:
@@ -210,7 +193,6 @@ def write_sing_box_rules(
     rules = []
     if domain_suffices:
         rules += [
-            {"domain_keyword": "google"},
             {"domain_suffix": domain_suffices},
         ]
     if ip_ranges:
@@ -222,45 +204,6 @@ def write_sing_box_rules(
         },
         f,
         ensure_ascii=False,
-    )
-
-
-def write_leaf_rules(
-    f: TextIO,
-    domain_suffices: Iterable[str],
-    ip_ranges: Iterable[str],
-    server: str,
-    port: int,
-    password: str,
-) -> None:
-    f.write(
-        f"""
-[General]
-always-real-ip = apple.com
-
-[Proxy]
-Direct = direct
-Reject = reject
-T = trojan, {server}, {port}, password={password}
-
-[Rule]
-EXTERNAL,site:category-ads-all,Reject
-DOMAIN-SUFFIX,cn,Direct
-DOMAIN-KEYWORD,google,T
-DOMAIN-SUFFIX,rsyhome.duckdns.org,Direct
-DOMAIN-SUFFIX,rsy.duckdns.org,Direct
-
-
-"""
-    )
-    for d in domain_suffices:
-        f.write(f"DOMAIN-SUFFIX,{d},T\n")
-    for r in ip_ranges:
-        f.write(f"IP-CIDR,{r},T\n")
-    f.write(
-        """
-FINAL,Direct
-    """
     )
 
 

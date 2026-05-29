@@ -1,3 +1,5 @@
 GitPython
 webdav4
 PyYaml
+requests
+pytest
