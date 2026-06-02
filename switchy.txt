@@ -1,4 +1,3 @@
-*.googleplex.com
 *.0123456789nonexistent.com
 *.0d.kebhana.mx
 *.1337.abcvg.info
@@ -165,6 +164,7 @@
 *.golang.org
 *.google-analytics.com +proxy
 *.google.com +proxy
+*.googleplex.com
 *.googlesyndication.com +proxy
 *.googletagmanager.com +proxy
 *.googletagservices.com +proxy

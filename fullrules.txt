@@ -159,6 +159,7 @@
 ||golang.org
 ||google-analytics.com
 ||google.com
+||googleplex.com
 ||googlesyndication.com
 ||googletagmanager.com
 ||googletagservices.com
