@@ -63,6 +63,7 @@
 ||bt2160.com
 ||btc.com
 ||btjia.com
+||btloader.com
 ||btsearch.love
 ||bttt11.com
 ||btzj.net
@@ -188,6 +189,7 @@
 ||idev.dev
 ||idgesg.net
 ||idrlabs.com
+||ignimgs.com
 ||imdb.com
 ||immd.gov.hk
 ||immihelp.com
