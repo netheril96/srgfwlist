@@ -827,6 +827,7 @@
 ||xn--p8j9a0d9c9a.xn--q9jyb4c
 ||xn--9pr62r24a.com
 ||xn--ngstr-lra8j.com
+||xn--vuqv2cf7wzyig79c.com
 ||cdn-images.mailchimp.com
 ||abebooks.com
 ||agro.hk
@@ -1599,6 +1600,7 @@
 ||9bis.com
 ||9bis.net
 ||9news.com.au
+||accountboy.com
 ||acg.mn
 ||asiasociety.org
 ||avistaz.to
@@ -3046,6 +3048,7 @@
 ||lzjscript.com
 ||lzmtnews.org
 ||leonardo.ai
+||moomoo.com
 ||mas.to
 ||mjj.today
 ||mediamatters.org
