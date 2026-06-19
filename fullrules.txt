@@ -164,6 +164,7 @@
 ||golang.org
 ||google-analytics.com
 ||google.com
+||googleapis.com
 ||googleplex.com
 ||googlesyndication.com
 ||googletagmanager.com
@@ -526,7 +527,6 @@
 ||9cache.com
 ||spiders-games.com
 ||github.blog
-||googleapis.com
 ||giphy.com
 ||axios.com
 ||codedexchange.com
