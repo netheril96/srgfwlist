@@ -297,6 +297,7 @@
 ||photoup.net
 ||piratebayproxy.info
 ||pjmedia.com
+||pkg.dev
 ||pkuanvil.com
 ||pnas.org
 ||poe.com
