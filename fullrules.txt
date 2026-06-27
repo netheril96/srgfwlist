@@ -1564,6 +1564,8 @@
 ||teco-hk.org
 ||teco-mo.org
 ||kinmen.org.tw
+||spaceforce.mil
+||airuniversity.af.edu
 ||americorps.gov
 ||dma.mil
 ||jpl.nasa.gov
@@ -2570,6 +2572,8 @@
 ||fw.cm
 ||fxcm-chinese.com
 ||f95zone.to
+||gate.com
+||guangming.com.my
 ||g.ai
 ||gmgn.ai
 ||grokipedia.com
@@ -2698,6 +2702,7 @@
 ||gumroad.com
 ||gunsamerica.com
 ||gvlib.com
+||hkong.hk
 ||hive.blog
 ||hembed.com
 ||www.hoyolab.com
@@ -2985,6 +2990,7 @@
 ||justhost.ru
 ||justmysocks1.net
 ||juziyue.com
+||kfor.com
 ||kathmandupost.com
 ||kingkong.com.tw
 ||kanald.com.tr
@@ -3455,6 +3461,7 @@
 ||www.oxid.it
 ||ow.ly
 ||ozvoice.org
+||perma.cc
 ||penguin.com.au
 ||prompthero.com
 ||pdst.fm
@@ -3654,6 +3661,7 @@
 ||qtrac.eu
 ||quitccp.org
 ||quran.com
+||restofworld.org
 ||rts.ch
 ||rawstory.com
 ||recordedfuture.com
@@ -3975,6 +3983,9 @@
 ||sylfoundation.org
 ||syncback.com
 ||sotwe.com
+||theintercept.com
+||trtworld.com
+||twstalker.com
 ||tvdy1.com
 ||tgstat.com
 ||the-sun.com
@@ -4406,6 +4417,7 @@
 ||vrchat.com
 ||vrporn.com
 ||vtunnel.com
+||washingtontimes.com
 ||worldjournal.com
 ||wispbyte.com
 ||wallzhihu.com
@@ -4522,6 +4534,7 @@
 ||wujieliulan.com
 ||wuw.red
 ||wwitv.com
+||xuan.com.my
 ||xdaforums.com
 ||xcancel.com
 ||www.xicons.org
