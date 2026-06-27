@@ -470,6 +470,7 @@
 ||www.torrentsnipe.info
 ||x.ai
 ||x.com
+||xda-developers.com
 ||xiaoxintv.net
 ||xlmp4.com
 ||xposed.info

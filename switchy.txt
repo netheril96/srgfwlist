@@ -1,4 +1,3 @@
-*.xda-developers.com
 *.0123456789nonexistent.com
 *.0d.kebhana.mx
 *.1337.abcvg.info
@@ -480,6 +479,7 @@
 *.www.torrentsnipe.info
 *.x.ai +proxy
 *.x.com +proxy
+*.xda-developers.com
 *.xiaoxintv.net +proxy
 *.xlmp4.com +proxy
 *.xposed.info +proxy
