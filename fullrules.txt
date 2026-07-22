@@ -4021,6 +4021,7 @@
 ||textnow.com
 ||token.im
 ||tokenlon.im
+||tokenplus.app
 ||tardigrade.io
 ||tomp3.cc
 ||tukaani.org
