@@ -1998,6 +1998,7 @@
 ||bvpn.com
 ||bwh1.net
 ||bypasscensorship.org
+||circle19.org
 ||clashyun.com
 ||chonglangtv.org
 ||ctinsider.com
@@ -2995,6 +2996,7 @@
 ||justhost.ru
 ||justmysocks1.net
 ||juziyue.com
+||kards.com
 ||kfor.com
 ||kathmandupost.com
 ||kingkong.com.tw
