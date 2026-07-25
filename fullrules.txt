@@ -28,6 +28,7 @@
 ||api.themoviedb.org
 ||apibay.org
 ||apnic.net
+||app.cloudcone.com
 ||arbitrum.io
 ||arbitrum.one
 ||archive.org
@@ -2159,7 +2160,6 @@
 ||ck101.com
 ||classicalguitarblog.net
 ||clinica-tibet.ru
-||app.cloudcone.com
 ||cloudflare-ipfs.com
 ||club1069.com
 ||clubhouseapi.com
