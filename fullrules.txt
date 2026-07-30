@@ -4352,6 +4352,7 @@
 ||uyghurstudies.org
 ||uyghurtribunal.com
 ||uymaarip.com
+||v.recipes
 ||vimeocdn.com
 ||vpsxb.net
 ||vilanet.me
