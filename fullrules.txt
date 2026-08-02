@@ -1999,6 +1999,7 @@
 ||bvpn.com
 ||bwh1.net
 ||bypasscensorship.org
+||cht.com.tw
 ||cerebras.ai
 ||circle19.org
 ||clashyun.com
@@ -2006,7 +2007,6 @@
 ||ctinsider.com
 ||cia.gov
 ||claude.com
-||www.clashverge.dev
 ||clementine-player.org
 ||backend-v2.crixet.com
 ||cchostvps.xyz
@@ -3273,7 +3273,6 @@
 ||motherless.com
 ||movements.org
 ||moviefap.com
-||mozilla.ai
 ||www.moztw.org
 ||mpettis.com
 ||mpfinance.com
@@ -3485,7 +3484,6 @@
 ||privacyguides.org
 ||img.picgo.net
 ||pornmate.com
-||puredns.org
 ||pandafan.pub
 ||proxz.com
 ||potatso.com
@@ -3676,7 +3674,6 @@
 ||rawstory.com
 ||recordedfuture.com
 ||roblox.com
-||radiojar.com
 ||radio.co
 ||rustdesk.com
 ||rentry.co
