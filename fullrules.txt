@@ -3406,6 +3406,7 @@
 ||nvtongzhisheng.org
 ||nyaa.eu
 ||nybooks.com
+||oldmapsonline.org
 ||umap.openstreetmap.fr
 ||overdrive.com
 ||openart.ai
