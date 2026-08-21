@@ -1843,6 +1843,7 @@
 ||axureformac.com
 ||azirevpn.com
 ||boxun*.azurewebsites.net
+||briarproject.org
 ||bilinovel.com
 ||boomplay.com
 ||bleepingcomputer.com
@@ -2002,6 +2003,7 @@
 ||bvpn.com
 ||bwh1.net
 ||bypasscensorship.org
+||chatgpt.site
 ||cht.com.tw
 ||cerebras.ai
 ||circle19.org
