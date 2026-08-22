@@ -3142,6 +3142,9 @@
 ||lzjscript.com
 ||lzmtnews.org
 ||leonardo.ai
+||historylines.net
+||kiwix.org
+||mceindex.com
 ||mhwindow.org
 ||mas.to
 ||mjj.today
@@ -3768,6 +3771,7 @@
 ||rxhj.net
 ||raphael.app
 ||rule34.us
+||sb.sb
 ||sysub.com
 ||sider.ai
 ||sinchew.com.my
