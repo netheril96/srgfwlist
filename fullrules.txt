@@ -2585,6 +2585,7 @@
 ||fw.cm
 ||fxcm-chinese.com
 ||f95zone.to
+||getmonero.org
 ||gate.com
 ||guangming.com.my
 ||g.ai
@@ -3377,6 +3378,7 @@
 ||co.ng.mil
 ||nga.mil
 ||nhentai.net
+||nicoseiga.jp
 ||nicovideo.jp
 ||ninjaproxy.ninja
 ||niusnews.com
