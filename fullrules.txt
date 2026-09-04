@@ -2003,6 +2003,7 @@
 ||bvpn.com
 ||bwh1.net
 ||bypasscensorship.org
+||ctee.com.tw
 ||chatgpt.site
 ||cht.com.tw
 ||cerebras.ai
@@ -2716,6 +2717,7 @@
 ||gumroad.com
 ||gunsamerica.com
 ||gvlib.com
+||hkej.com
 ||hkong.hk
 ||hive.blog
 ||hembed.com
@@ -3056,6 +3058,7 @@
 ||kxsw.life
 ||kzaobao.com
 ||kzeng.info
+||linux.sb
 ||level-plus.net
 ||libgen.is
 ||lemonde.fr
