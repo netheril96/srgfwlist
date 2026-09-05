@@ -1560,6 +1560,8 @@
 ||twitter.com
 ||twitter.jp
 ||vine.co
+||taiwanembassy.org
+||roc-taiwan.org
 ||twgov.tw
 ||gov.tw
 ||gov.taipei
@@ -1607,6 +1609,8 @@
 ||yahoo.com.tw
 ||yahoo.com.hk
 ||yahoo.com
+||123av.me
+||123av.com
 ||18comic.vip
 ||18mh.net
 ||24hbook.com
@@ -2717,6 +2721,7 @@
 ||gumroad.com
 ||gunsamerica.com
 ||gvlib.com
+||hentai.tv
 ||hkej.com
 ||hkong.hk
 ||hive.blog
@@ -3684,6 +3689,7 @@
 ||qtrac.eu
 ||quitccp.org
 ||quran.com
+||roushuwo.com
 ||esim.redteago.com
 ||restofworld.org
 ||rts.ch
@@ -3776,6 +3782,7 @@
 ||rxhj.net
 ||raphael.app
 ||rule34.us
+||supjav.com
 ||api.shuaiapi.com
 ||sb.sb
 ||sysub.com
@@ -4009,6 +4016,7 @@
 ||sylfoundation.org
 ||syncback.com
 ||sotwe.com
+||taiav.com
 ||tryai.dev
 ||theintercept.com
 ||trtworld.com
@@ -4446,6 +4454,7 @@
 ||vrchat.com
 ||vrporn.com
 ||vtunnel.com
+||wtfpass.com
 ||write.as
 ||windy.com
 ||washingtontimes.com
