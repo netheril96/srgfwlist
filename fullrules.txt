@@ -2591,6 +2591,7 @@
 ||fw.cm
 ||fxcm-chinese.com
 ||f95zone.to
+||c.go-mpulse.net
 ||getmonero.org
 ||gate.com
 ||guangming.com.my
@@ -3675,6 +3676,7 @@
 ||pursuestar.com
 ||pximg.net
 ||python.com.tw
+||qobuz.com
 ||quakemachinex.com
 ||qmp4.com
 ||qianmo.tw
