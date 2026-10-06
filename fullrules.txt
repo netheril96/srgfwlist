@@ -1560,6 +1560,22 @@
 ||twitter.com
 ||twitter.jp
 ||vine.co
+||khc.edu.tw
+||vscc.org.tw
+||poland.tw
+||tybio.com.tw
+||twfhcsec.com.tw
+||ttl.com.tw
+||tfd.org.tw
+||nstc.org.tw
+||mirdc.org.tw
+||landbank.com.tw
+||indsr.org.tw
+||icdf.org.tw
+||eximbank.com.tw
+||csc.com.tw
+||cpc.com.tw
+||aidc.com.tw
 ||taiwanembassy.org
 ||roc-taiwan.org
 ||twgov.tw
@@ -1569,6 +1585,7 @@
 ||teco-hk.org
 ||teco-mo.org
 ||kinmen.org.tw
+||ned.org
 ||spaceforce.mil
 ||airuniversity.af.edu
 ||americorps.gov
@@ -1847,6 +1864,8 @@
 ||axureformac.com
 ||azirevpn.com
 ||boxun*.azurewebsites.net
+||boylove.cc
+||blue-plus.net
 ||briarproject.org
 ||bilinovel.com
 ||boomplay.com
@@ -2007,6 +2026,7 @@
 ||bvpn.com
 ||bwh1.net
 ||bypasscensorship.org
+||cangku.moe
 ||chineseposters.net
 ||ctee.com.tw
 ||chatgpt.site
@@ -2245,6 +2265,7 @@
 ||ifan.cz.cc
 ||mike.cz.cc
 ||nic.cz.cc
+||dh.net
 ||divdyn.com
 ||data18.com
 ||dt18.com
@@ -2724,6 +2745,9 @@
 ||gumroad.com
 ||gunsamerica.com
 ||gvlib.com
+||hentaiclub.net
+||hanimeone.me
+||hanime1.com
 ||hentai.tv
 ||hkej.com
 ||hkong.hk
@@ -2852,6 +2876,7 @@
 ||hyperrate.com
 ||hypothes.is
 ||ebook.hyread.com.tw
+||ipac.global
 ||infosec.exchange
 ||idcflare.com
 ||interseclab.org
@@ -2968,6 +2993,9 @@
 ||ixquick.com
 ||iyouport.com
 ||iyouport.org
+||javchu.com
+||jkforum.net
+||javfree.me
 ||jhelab.org
 ||justmysockscn.com
 ||justmysocks.net
@@ -3154,6 +3182,8 @@
 ||lzjscript.com
 ||lzmtnews.org
 ||leonardo.ai
+||matichon.co.th
+||moeli-desu.com
 ||muse.ai
 ||historylines.net
 ||kiwix.org
@@ -3172,6 +3202,8 @@
 ||mjj.rip
 ||mcusercontent.com
 ||metamask.io
+||missav.live
+||missav.ai
 ||missav.ws
 ||news.mt.co.kr
 ||musixmatch.com
@@ -3319,6 +3351,7 @@
 ||myparagliding.com
 ||mypopescu.com
 ||myspacecdn.com
+||nationthailand.com
 ||note.com
 ||nfscofficial.com
 ||nfsc.press
@@ -3678,6 +3711,7 @@
 ||pursuestar.com
 ||pximg.net
 ||python.com.tw
+||qingse.one
 ||qobuz.com
 ||quakemachinex.com
 ||qmp4.com
@@ -3696,6 +3730,7 @@
 ||qtrac.eu
 ||quitccp.org
 ||quran.com
+||rocmgov.org
 ||roushuwo.com
 ||esim.redteago.com
 ||restofworld.org
@@ -4584,6 +4619,7 @@
 ||wujieliulan.com
 ||wuw.red
 ||wwitv.com
+||xx.net
 ||x86.fr
 ||xuan.com.my
 ||xdaforums.com
