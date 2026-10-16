@@ -1139,6 +1139,8 @@
 ||workers.dev
 ||one.one.one.one
 ||cloudflare-dns.com
+||meta.ai
+||metaaivm.com
 ||accountkit.com
 ||cdninstagram.com
 ||f8.com
@@ -1626,6 +1628,7 @@
 ||yahoo.com.tw
 ||yahoo.com.hk
 ||yahoo.com
+||7x24hrs.com
 ||123av.me
 ||123av.com
 ||18comic.vip
