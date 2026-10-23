@@ -2029,6 +2029,7 @@
 ||bvpn.com
 ||bwh1.net
 ||bypasscensorship.org
+||console.typesafe.ai
 ||cangku.moe
 ||chineseposters.net
 ||ctee.com.tw
@@ -2996,6 +2997,7 @@
 ||ixquick.com
 ||iyouport.com
 ||iyouport.org
+||ga.jspm.io
 ||javchu.com
 ||jkforum.net
 ||javfree.me
