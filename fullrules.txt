@@ -1628,6 +1628,7 @@
 ||yahoo.com.tw
 ||yahoo.com.hk
 ||yahoo.com
+||123av.org
 ||7x24hrs.com
 ||123av.me
 ||123av.com
@@ -2388,6 +2389,7 @@
 ||dwnews.net
 ||dynawebinc.com
 ||dysfz.cc
+||movie.eroterest.net
 ||edigest.hk
 ||app.element.io
 ||economist.com
@@ -3047,6 +3049,7 @@
 ||justhost.ru
 ||justmysocks1.net
 ||juziyue.com
+||kimootoko.net
 ||kards.com
 ||kfor.com
 ||kathmandupost.com
@@ -3187,6 +3190,7 @@
 ||lzjscript.com
 ||lzmtnews.org
 ||leonardo.ai
+||minkch.com
 ||matichon.co.th
 ||moeli-desu.com
 ||muse.ai
@@ -3356,6 +3360,9 @@
 ||myparagliding.com
 ||mypopescu.com
 ||myspacecdn.com
+||njavtv.com
+||njav.tv
+||njav.com
 ||nationthailand.com
 ||note.com
 ||nfscofficial.com
@@ -3533,6 +3540,7 @@
 ||www.oxid.it
 ||ow.ly
 ||ozvoice.org
+||po-kaki-to.com
 ||perma.cc
 ||penguin.com.au
 ||prompthero.com
@@ -4721,6 +4729,7 @@
 ||yyjlymb.xyz
 ||yysub.net
 ||yzzk.com
+||zozovideo.com
 ||zenmux.ai
 ||zhangzhehan.net
 ||zaochenbao.com
