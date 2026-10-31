@@ -4076,6 +4076,7 @@
 ||sylfoundation.org
 ||syncback.com
 ||sotwe.com
+||torrentleech.org
 ||taiav.com
 ||tryai.dev
 ||theintercept.com
@@ -4683,6 +4684,7 @@
 ||xxx.xxx
 ||xxxx.com.au
 ||xxxymovies.com
+||youversionapi.com
 ||yfsp.tv
 ||youmind.com
 ||yangzhi.org
